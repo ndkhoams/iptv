@@ -1,0 +1,937 @@
+{
+  "variants": [
+    {
+      "id": "debrid-only",
+      "name": "Debrid Only",
+      "script": "# Debrid Only Variant. Disables all usenet/p2p/http related services and addons from your base config.\n\nset addonName = \"AIOStreams (Debrid Only)\"\nset excludedStreamTypes = [\"usenet\",\"stremio-usenet\",\"p2p\",\"http\",\"live\"]\nremove presets[*].options.services\ndisable services[id=aiostreams]\ndisable services[id=nzbdav]\ndisable services[id=altmount]\ndisable services[id=easynews]\ndisable services[id=stremio_nntp]\ndisable services[id=stremthru_newz]\ndisable presets[type=newznab]\ndisable presets[type=easynews-search]\ndisable presets[type=easynews]\ndisable presets[type=easynewsPlus]\ndisable presets[type=easynewsPlusPlus]\ndisable presets[type=nzbhydra]\ndisable presets[type=usenet-streamer]\ndisable presets[type=streamnzb]\ndisable presets[type=davex]\nremove presets[*].options.httpProviders\ndisable presets[type=yastream]\ndisable presets[type=hdhub]\ndisable presets[type=webstreamr]"
+    },
+    {
+      "id": "usenet-only",
+      "name": "Usenet Only",
+      "script": "# Usenet Only Variant. Disables all debrid/p2p/http related services and addons from your base config.\n\nset addonName = \"AIOStreams (Usenet Only)\"\nset excludedStreamTypes = [\"debrid\", \"p2p\", \"live\", \"http\"]\ndisable services[id=realdebrid]\ndisable services[id=alldebrid]\ndisable services[id=premiumize]\ndisable services[id=debridlink]\ndisable services[id=offcloud]\ndisable services[id=putio]\ndisable services[id=easydebrid]\ndisable services[id=debrider]\ndisable services[id=pikpak]\ndisable services[id=seedr]\ndisable services[id=torrin]\ndisable presets[type=neko-bt]\ndisable presets[type=anime-tosho-new]\ndisable presets[type=animetosho]\ndisable presets[type=torznab]\ndisable presets[type=knaben]\ndisable presets[type=zilean]\ndisable presets[type=seadex]\ndisable presets[type=knaben]\ndisable presets[type=debridio]\ndisable presets[type=sootio]\ndisable presets[type=stremthruStore]\ndisable presets[type=torrentio]\ndisable presets[type=meteor]\ndisable presets[type=comet]\ndisable presets[type=stremthruTorz]\ndisable presets[type=mediafusion]\ndisable presets[type=torrents-db]\ndisable presets[type=peerflix]\ndisable presets[type=sootio]\nremove presets[*].options.httpProviders\ndisable presets[type=yastream]\ndisable presets[type=hdhub]\ndisable presets[type=webstreamr]"
+    },
+    {
+      "id": "http-only",
+      "name": "HTTP Only",
+      "script": "# HTTP Only Variant. Disables all debrid/usenet/p2p related services and addons from your base config. Ensure you have HTTP addons in your base config, either by adding them from the Marketplace yourself, or by toggling \"Includes HTTP Addons\" inside SEL template's Preset Modification window.\n\nset addonName = \"AIOStreams (HTTP Only)\"\nset excludedStreamTypes = [\"usenet\",\"stremio-usenet\",\"debrid\",\"p2p\"]\ndisable excludedStreamExpressions[expression*=\"HTTP Backup\"]\nremove presets[*].options.services\ndisable services[id=aiostreams]\ndisable services[id=nzbdav]\ndisable services[id=altmount]\ndisable services[id=easynews]\ndisable services[id=stremio_nntp]\ndisable services[id=stremthru_newz]\ndisable presets[type=library]\ndisable presets[type=stremthruStore]\ndisable presets[type=newznab]\ndisable presets[type=easynews-search]\ndisable presets[type=easynews]\ndisable presets[type=easynewsPlus]\ndisable presets[type=easynewsPlusPlus]\ndisable presets[type=nzbhydra]\ndisable presets[type=usenet-streamer]\ndisable presets[type=streamnzb]\ndisable presets[type=davex]\ndisable presets[type=neko-bt]\ndisable presets[type=anime-tosho-new]\ndisable presets[type=animetosho]\ndisable presets[type=torznab]\ndisable presets[type=knaben]\ndisable presets[type=zilean]\ndisable presets[type=seadex]\ndisable presets[type=knaben]\ndisable presets[type=debridio]\ndisable presets[type=stremthruStore]\ndisable presets[type=torrentio]\ndisable presets[type=meteor]\ndisable presets[type=comet]\ndisable presets[type=stremthruTorz]\ndisable presets[type=mediafusion]\ndisable presets[type=torrents-db]\ndisable presets[type=peerflix]\ndisable presets[type=newznab]\ndisable presets[type=easynews-search]\ndisable presets[type=easynews]\ndisable presets[type=easynewsPlus]\ndisable presets[type=easynewsPlusPlus]\ndisable presets[type=nzbhydra]\ndisable presets[type=usenet-streamer]\ndisable presets[type=streamnzb]\ndisable presets[type=davex]"
+    },
+    {
+      "id": "nuvio-instant",
+      "name": "Nuvio P2P Instant (legacy - not for v5)",
+      "script": "# Nuvio P2P Instant Variant. Inserts p2p-only scrapers, switches to \"Tamtaro (Nuvio P2P Instant)\" formatter, strips debrid/usenet/http services and addons, and disables seeder-specific filter & sorting.\n\nset addonName = \"AIOStreams (Instant)\"\nuse formatter \"Tamtaro (Nuvio P2P Instant)\"\nset excludedStreamTypes = [\"usenet\",\"stremio-usenet\",\"http\",\"live\"]\ndisable excludedStreamExpressions[expression*=\"P2P Backup\"]\ndisable services[*]\nremove sortCriteria.global[key=seeders]\nremove sortCriteria.cached[key=seeders]\nremove sortCriteria.uncached[key=seeders]\nadd selOverrides {\"expression\": \"[]\", \"exprNames\": [\"Low Seeders\"], \"disabled\": true}\ndisable presets[type=library]\ndisable presets[type=stremthruStore]\ndisable presets[type=neko-bt]\ndisable presets[type=anime-tosho-new]\ndisable presets[type=animetosho]\ndisable presets[type=torznab]\ndisable presets[type=newznab]\ndisable presets[type=knaben]\ndisable presets[type=zilean]\ndisable presets[type=seadex]\ndisable presets[type=knaben]\ndisable presets[type=debridio]\ndisable presets[type=easynews-search]\ndisable presets[type=easynews]\ndisable presets[type=easynewsPlus]\ndisable presets[type=easynewsPlusPlus]\ndisable presets[type=nzbhydra]\ndisable presets[type=usenet-streamer]\ndisable presets[type=streamnzb]\ndisable presets[type=davex]\ndisable presets[type=sootio]\ndisable presets[type=webstreamr]\ndisable presets[type=yastream]\ndisable presets[type=stremthruStore]\ndisable presets[type=torrentio]\ndisable presets[type=meteor]\ndisable presets[type=comet]\ndisable presets[type=stremthruTorz]\ndisable presets[type=mediafusion]\ndisable presets[type=torrents-db]\ndisable presets[type=peerflix]\ndisable presets[type=sootio]\nremove presets[*].options.httpProviders\ndisable presets[type=yastream]\ndisable presets[type=hdhub]\ndisable presets[type=webstreamr]\nprepend presets\n  { \"type\": \"meteor\", \"instanceId\": \"064p2p\", \"enabled\": true, \"options\": { \"name\": \"Meteor\", \"timeout\": 5000, \"resources\": [\"stream\"], \"removeTrash\": false, \"useMultipleInstances\": false, \"mediaTypes\": [] }, \"category\": \"P2P\" },\n  { \"type\": \"comet\", \"instanceId\": \"b0fp2p\", \"enabled\": true, \"options\": { \"name\": \"Comet\", \"timeout\": 5000, \"resources\": [\"stream\"], \"removeTrash\": false, \"mediaTypes\": [], \"url\": \"\" }, \"category\": \"P2P\" },\n  { \"type\": \"stremthruTorz\", \"instanceId\": \"bb9p2p\", \"enabled\": true, \"options\": { \"name\": \"STorz\", \"timeout\": 5000, \"resources\": [\"stream\"], \"mediaTypes\": [], \"includeP2P\": true, \"useMultipleInstances\": false, \"url\": \"\" }, \"category\": \"P2P\" },\n  { \"type\": \"torrentio\", \"instanceId\": \"4efp2p\", \"enabled\": true, \"options\": { \"name\": \"Torrentio\", \"timeout\": 5000, \"resources\": [\"stream\"], \"providers\": [], \"useMultipleInstances\": false }, \"category\": \"P2P\" },\n  { \"type\": \"mediafusion\", \"instanceId\": \"276p2p\", \"enabled\": true, \"options\": { \"name\": \"MediaFusion\", \"timeout\": 5000, \"resources\": [\"stream\"], \"useCachedResultsOnly\": true, \"enableWatchlistCatalogs\": false, \"downloadViaBrowser\": false, \"contributorStreams\": false, \"certificationLevelsFilter\": [], \"nudityFilter\": [], \"mediaTypes\": [], \"url\": \"\" }, \"category\": \"P2P\" },\n  { \"type\": \"torrents-db\", \"instanceId\": \"a15p2p\", \"enabled\": true, \"options\": { \"name\": \"TorrentsDB\", \"timeout\": 5000, \"resources\": [\"stream\"], \"mediaTypes\": [], \"providers\": [], \"includeP2P\": true, \"useMultipleInstances\": false }, \"category\": \"P2P\" },\n  { \"type\": \"peerflix\", \"instanceId\": \"8b6p2p\", \"enabled\": true, \"options\": { \"name\": \"Peerflix\", \"timeout\": 5000, \"resources\": [\"stream\"], \"mediaTypes\": [], \"useMultipleInstances\": false, \"showTorrentLinks\": true }, \"category\": \"P2P\" }"
+    }
+  ],
+  "healthChecks": [
+    {
+      "id": "torrentio-down",
+      "name": "Torrentio",
+      "url": "https://uptime.ibbylabs.dev/v1/health/torrentio",
+      "expect": {
+        "status": "503",
+        "jsonPath": "up",
+        "jsonValue": false
+      }
+    }
+  ],
+  "trusted": false,
+  "showChanges": true,
+  "manifestNotice": "never",
+  "addonName": "AIOStreams·TorBox·v1",
+  "addonLogo": "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/logo/aios.png",
+  "addonDescription": "TorBox-first aggregation. AIOStreams performs discovery, filtering, sorting, deduplication and formatting; TorBox handles debrid resolution/playback. P2P remains available as fallback. Credit:HiepHoang",
+  "appliedTemplates": [
+    {
+      "id": "tamtaro.complete",
+      "version": "3.2.5",
+      "url": "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/Tamtaro-All-Templates-for-AIOStreams.json",
+      "dismissedVersion": "3.2.6"
+    }
+  ],
+  "excludedResolutions": [
+    "720p",
+    "576p",
+    "480p",
+    "360p",
+    "240p",
+    "144p",
+    "Unknown"
+  ],
+  "includedResolutions": [],
+  "requiredResolutions": [],
+  "preferredResolutions": [
+    "2160p",
+    "1440p",
+    "1080p"
+  ],
+  "excludedQualities": [
+    "Unknown",
+    "SCR",
+    "TC",
+    "TS",
+    "CAM",
+    "HDTV",
+    "DVDRip",
+    "DVD REMUX",
+    "HC HD-Rip",
+    "HDRip"
+  ],
+  "includedQualities": [],
+  "requiredQualities": [],
+  "preferredQualities": [
+    "BluRay REMUX",
+    "BluRay",
+    "WEB-DL",
+    "WEBRip"
+  ],
+  "excludedLanguages": [],
+  "includedLanguages": [],
+  "requiredLanguages": [
+    "English",
+    "Original",
+    "Dual Audio",
+    "Multi",
+    "Dubbed",
+    "Unknown"
+  ],
+  "preferredLanguages": [
+    "English",
+    "Original",
+    "Multi"
+  ],
+  "excludedSubtitles": [],
+  "includedSubtitles": [],
+  "requiredSubtitles": [],
+  "preferredSubtitles": [
+    "Vietnamese",
+    "English"
+  ],
+  "excludedVisualTags": [
+    "3D",
+    "H-OU",
+    "H-SBS"
+  ],
+  "includedVisualTags": [],
+  "requiredVisualTags": [],
+  "preferredVisualTags": [
+    "SDR",
+    "HDR",
+    "HDR10",
+    "HDR10+",
+    "HLG",
+    "DV",
+    "HDR+DV",
+    "10bit",
+    "IMAX",
+    "Upscaled",
+    "AI"
+  ],
+  "excludedAudioTags": [],
+  "includedAudioTags": [],
+  "requiredAudioTags": [],
+  "preferredAudioTags": [
+    "Atmos",
+    "DTS:X",
+    "TrueHD",
+    "DTS-HD MA",
+    "FLAC",
+    "DTS-HD",
+    "DTS-ES",
+    "DTS",
+    "DD+",
+    "DD",
+    "OPUS",
+    "AAC"
+  ],
+  "excludedAudioChannels": [],
+  "includedAudioChannels": [],
+  "requiredAudioChannels": [],
+  "preferredAudioChannels": [],
+  "excludedStreamTypes": [],
+  "includedStreamTypes": [],
+  "requiredStreamTypes": [],
+  "preferredStreamTypes": [
+    "debrid",
+    "p2p",
+    "http"
+  ],
+  "excludedEncodes": [],
+  "includedEncodes": [],
+  "requiredEncodes": [],
+  "preferredEncodes": [
+    "AV1",
+    "HEVC",
+    "AVC",
+    "VC-1",
+    "Unknown",
+    "XviD",
+    "DivX"
+  ],
+  "excludedRegexPatterns": [],
+  "includedRegexPatterns": [],
+  "requiredRegexPatterns": [],
+  "preferredRegexPatterns": [],
+  "syncedPreferredRegexUrls": [],
+  "syncedExcludedRegexUrls": [],
+  "syncedRankedRegexUrls": [],
+  "syncedPreferredStreamExpressionUrls": [],
+  "syncedExcludedStreamExpressionUrls": [],
+  "syncedIncludedStreamExpressionUrls": [],
+  "syncedRankedStreamExpressionUrls": [],
+  "requiredKeywords": [],
+  "includedKeywords": [],
+  "excludedKeywords": [],
+  "preferredKeywords": [],
+  "excludeSeederRange": [
+    0,
+    1000
+  ],
+  "includeSeederRange": [
+    0,
+    1000
+  ],
+  "requiredSeederRange": [
+    0,
+    1000
+  ],
+  "seederRangeTypes": [],
+  "ageRangeTypes": [],
+  "digitalReleaseFilter": {
+    "enabled": false,
+    "tolerance": 1,
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "enableSeadex": true,
+  "excludeCachedFromAddons": [],
+  "excludeCachedFromServices": [],
+  "excludeCachedFromStreamTypes": [],
+  "excludeUncached": false,
+  "excludeUncachedFromAddons": [],
+  "excludeUncachedFromServices": [],
+  "excludeUncachedFromStreamTypes": [],
+  "excludeUncachedMode": "or",
+  "excludedStreamExpressions": [],
+  "requiredStreamExpressions": [],
+  "preferredStreamExpressions": [],
+  "includedStreamExpressions": [],
+  "rankedStreamExpressions": [
+    {
+      "expression": "/* REMUX */ quality(streams, 'BluRay REMUX')",
+      "score": 100,
+      "enabled": true
+    },
+    {
+      "expression": "/* BluRay */ quality(streams, 'BluRay')",
+      "score": 80,
+      "enabled": true
+    },
+    {
+      "expression": "/* WEB-DL */ quality(streams, 'WEB-DL')",
+      "score": 60,
+      "enabled": true
+    },
+    {
+      "expression": "/* WEBRip */ quality(streams, 'WEBRip')",
+      "score": 40,
+      "enabled": true
+    },
+    {
+      "expression": "/* HDR+DV */ visualTag(streams, 'HDR+DV')",
+      "score": 40,
+      "enabled": true
+    },
+    {
+      "expression": "/* Dolby Vision */ visualTag(streams, 'DV')",
+      "score": 30,
+      "enabled": true
+    },
+    {
+      "expression": "/* HDR10+ */ visualTag(streams, 'HDR10+')",
+      "score": 25,
+      "enabled": true
+    },
+    {
+      "expression": "/* HDR */ visualTag(streams, 'HDR')",
+      "score": 20,
+      "enabled": true
+    },
+    {
+      "expression": "/* 10bit */ visualTag(streams, '10bit')",
+      "score": 15,
+      "enabled": true
+    },
+    {
+      "expression": "/* IMAX */ visualTag(streams, 'IMAX')",
+      "score": 10,
+      "enabled": true
+    },
+    {
+      "expression": "/* Atmos */ audioTag(streams, 'Atmos')",
+      "score": 30,
+      "enabled": true
+    },
+    {
+      "expression": "/* DTS:X */ audioTag(streams, 'DTS:X')",
+      "score": 25,
+      "enabled": true
+    },
+    {
+      "expression": "/* TrueHD */ audioTag(streams, 'TrueHD')",
+      "score": 20,
+      "enabled": true
+    },
+    {
+      "expression": "/* DTS-HD MA */ audioTag(streams, 'DTS-HD MA')",
+      "score": 18,
+      "enabled": true
+    },
+    {
+      "expression": "/* FLAC */ audioTag(streams, 'FLAC')",
+      "score": 15,
+      "enabled": true
+    },
+    {
+      "expression": "/* DTS-HD */ audioTag(streams, 'DTS-HD')",
+      "score": 12,
+      "enabled": true
+    },
+    {
+      "expression": "/* DTS */ audioTag(streams, 'DTS')",
+      "score": 10,
+      "enabled": true
+    }
+  ],
+  "rankedRegexPatterns": [],
+  "regexOverrides": [],
+  "selOverrides": [],
+  "dynamicAddonFetching": {
+    "enabled": false,
+    "condition": ""
+  },
+  "groups": {
+    "enabled": true,
+    "groupings": [
+      {
+        "addons": [
+          "add"
+        ],
+        "condition": "true"
+      },
+      {
+        "addons": [
+          "064",
+          "b0f",
+          "a15"
+        ],
+        "condition": "count(previousStreams) < 5 or count(resolution(previousStreams, '2160p')) == 0"
+      },
+      {
+        "addons": [
+          "bb9",
+          "276",
+          "8b6"
+        ],
+        "condition": "count(totalStreams) < 8 or count(resolution(totalStreams, '2160p')) == 0"
+      },
+      {
+        "addons": [
+          "645",
+          "29a"
+        ],
+        "condition": "count(totalStreams) < 5"
+      }
+    ],
+    "behaviour": "sequential",
+    "onConditionFailure": "stop"
+  },
+  "sortCriteria": {
+    "global": [
+      {
+        "key": "cached",
+        "direction": "desc"
+      },
+      {
+        "key": "seadex",
+        "direction": "desc"
+      },
+      {
+        "key": "resolution",
+        "direction": "desc"
+      },
+      {
+        "key": "quality",
+        "direction": "desc"
+      },
+      {
+        "key": "visualTag",
+        "direction": "desc"
+      },
+      {
+        "key": "audioTag",
+        "direction": "desc"
+      },
+      {
+        "key": "language",
+        "direction": "desc"
+      },
+      {
+        "key": "subtitle",
+        "direction": "desc"
+      },
+      {
+        "key": "bitrate",
+        "direction": "desc"
+      },
+      {
+        "key": "seeders",
+        "direction": "desc"
+      }
+    ],
+    "movies": [],
+    "series": [],
+    "anime": [],
+    "cached": [],
+    "uncached": [],
+    "cachedMovies": [],
+    "uncachedMovies": []
+  },
+  "posterService": "rpdb",
+  "usePosterRedirectApi": true,
+  "formatter": {
+    "id": "custom",
+    "definitions": {
+      "custom": {
+        "name": "{stream.resolution}{stream.indexer::exists[\" • {stream.indexer}\"||\"\"]}{stream.nSeScore::>9[\" • {stream.nSeScore::pstar::replace('★','⭐')::replace('☆','')::replace('⯪','')}\"||\"\"]}",
+        "description": "{?{stream.filename}?}\n{stream.seeders::>0[\"👤{stream.seeders} \"||\"\"]}{stream.size::>0[\"💾{stream.size::bytes2} \"||\"\"]}{stream.duration::>0[\"⏱️ {stream.duration::time} \"||\"\"]}{stream.visualTags::exists[\" 📺 {stream.visualTags::join(' • ')}\"||\"\"]}\n{?🎥 {stream.quality} ?}{?🎞️ {stream.encode} ?}{?🎧 {stream.audioTags::join(' | ')} ?}{?🔊 {stream.audioChannels::join(' | ')} ?}\n{stream.subtitles::exists[\"💬 {stream.subtitleEmojis::join(' ')}\"||\"\"]}{?⚙️ {addon.name}?}"
+      }
+    }
+  },
+  "proxy": {
+    "enabled": false,
+    "id": "builtin",
+    "proxiedAddons": [],
+    "proxiedServices": []
+  },
+  "resultLimits": {
+    "resolution": 6,
+    "mode": "conjunctive"
+  },
+  "size": {
+    "global": {
+      "movies": [
+        0,
+        30000000000
+      ],
+      "series": [
+        0,
+        30000000000
+      ],
+      "anime": [
+        0,
+        30000000000
+      ]
+    },
+    "resolution": {
+      "2160p": {
+        "movies": [
+          0,
+          100000000000
+        ]
+      },
+      "480p": {
+        "movies": [
+          0,
+          100000000000
+        ]
+      }
+    }
+  },
+  "bitrate": {
+    "useMetadataRuntime": true,
+    "global": {
+      "movies": [
+        0,
+        250000000
+      ],
+      "series": [
+        0,
+        250000000
+      ]
+    }
+  },
+  "hideErrors": true,
+  "hideErrorsForResources": [
+    "addon_catalog",
+    "catalog",
+    "subtitles"
+  ],
+  "statistics": {
+    "enabled": false,
+    "position": "bottom",
+    "statsToShow": [
+      "addon",
+      "filter",
+      "timing"
+    ],
+    "showFilterStatsOnNoStreams": false
+  },
+  "yearMatching": {
+    "enabled": true,
+    "tolerance": 1,
+    "strict": false,
+    "strictTypes": [
+      "movie"
+    ],
+    "useInitialAirDate": true,
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "titleMatching": {
+    "mode": "exact",
+    "similarityThreshold": 1,
+    "enabled": false,
+    "ambiguousResults": "discard",
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "seasonEpisodeMatching": {
+    "enabled": true,
+    "strict": false,
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "episodeTitleMatching": {
+    "enabled": false,
+    "similarityThreshold": 0.85,
+    "requestTypes": [
+      "movie",
+      "series",
+      "anime"
+    ],
+    "addons": []
+  },
+  "languageInference": {
+    "sources": []
+  },
+  "deduplicator": {
+    "enabled": true,
+    "excludeAddons": [],
+    "multiGroupBehaviour": "aggressive",
+    "keys": [
+      "filename",
+      "infoHash",
+      "smartDetect"
+    ],
+    "cached": "single_result",
+    "uncached": "single_result",
+    "p2p": "single_result",
+    "http": "per_addon",
+    "smartDetectAttributes": [
+      "size",
+      "resolution",
+      "quality",
+      "visualTags",
+      "audioTags",
+      "audioChannels",
+      "languages",
+      "encode",
+      "edition",
+      "network",
+      "remastered",
+      "bitrate",
+      "releaseGroup"
+    ],
+    "smartDetectRounding": 10,
+    "libraryBehaviour": "prefer",
+    "merge": {
+      "enabled": true,
+      "failoverVariants": false,
+      "fields": [
+        "sizes",
+        "seadex",
+        "library",
+        "subtitles",
+        "languages"
+      ]
+    }
+  },
+  "autoPlay": {
+    "attributes": [
+      "resolution",
+      "quality",
+      "releaseGroup"
+    ]
+  },
+  "areYouStillThere": {
+    "enabled": false
+  },
+  "precacheNextEpisode": false,
+  "precacheSelector": "[]",
+  "precacheSingleStream": false,
+  "services": [
+    {
+      "id": "realdebrid",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "alldebrid",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "premiumize",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "debridlink",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "torbox",
+      "enabled": true,
+      "credentials": {}
+    },
+    {
+      "id": "stremio_nntp",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "nzbdav",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "aiostreams",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "altmount",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "offcloud",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "putio",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "easynews",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "easydebrid",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "debrider",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "pikpak",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "seedr",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "stremthru_newz",
+      "enabled": false,
+      "credentials": {}
+    },
+    {
+      "id": "torrin",
+      "enabled": false,
+      "credentials": {}
+    }
+  ],
+  "presets": [
+    {
+      "type": "meteor",
+      "instanceId": "064",
+      "enabled": true,
+      "options": {
+        "name": "Meteor",
+        "timeout": 8000,
+        "resources": [
+          "stream"
+        ],
+        "includeP2P": true,
+        "removeTrash": true,
+        "useMultipleInstances": false,
+        "mediaTypes": []
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "comet",
+      "instanceId": "b0f",
+      "enabled": true,
+      "options": {
+        "name": "Comet",
+        "timeout": 8000,
+        "resources": [
+          "stream"
+        ],
+        "includeP2P": true,
+        "removeTrash": true,
+        "mediaTypes": [],
+        "url": ""
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "stremthruTorz",
+      "instanceId": "bb9",
+      "enabled": true,
+      "options": {
+        "name": "StremThru Torz",
+        "timeout": 6000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "includeP2P": true,
+        "useMultipleInstances": false,
+        "url": ""
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "mediafusion",
+      "instanceId": "276",
+      "enabled": true,
+      "options": {
+        "name": "MediaFusion",
+        "timeout": 6000,
+        "resources": [
+          "stream"
+        ],
+        "useCachedResultsOnly": false,
+        "enableWatchlistCatalogs": false,
+        "downloadViaBrowser": false,
+        "contributorStreams": false,
+        "certificationLevelsFilter": [],
+        "nudityFilter": [],
+        "mediaTypes": [],
+        "url": "",
+        "includeP2P": true
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "torrents-db",
+      "instanceId": "a15",
+      "enabled": true,
+      "options": {
+        "name": "TorrentsDB",
+        "timeout": 8000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "providers": [
+          "yts",
+          "1337x",
+          "torrentcsv",
+          "1lou",
+          "nyaa",
+          "sktorrent",
+          "1tamilblasters",
+          "limetorrent",
+          "1tamilmv",
+          "rargb",
+          "knaben",
+          "thepiratebay",
+          "kickasstorrents",
+          "animetosho",
+          "extremlymtorrents",
+          "yggtorrent",
+          "tokyotosho",
+          "rutor",
+          "rutracker",
+          "torrent9",
+          "ilcorsaronero",
+          "manual"
+        ],
+        "includeP2P": true,
+        "useMultipleInstances": false
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "peerflix",
+      "instanceId": "8b6",
+      "enabled": true,
+      "options": {
+        "name": "Peerflix",
+        "timeout": 6000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "useMultipleInstances": false,
+        "showTorrentLinks": true
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "webstreamr",
+      "instanceId": "645",
+      "enabled": true,
+      "options": {
+        "name": "WebStreamr",
+        "timeout": 5000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "providers": [
+          "multi",
+          "en"
+        ],
+        "url": "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club",
+        "includeExternalUrls": false,
+        "showErrors": false
+      },
+      "category": "HTTP"
+    },
+    {
+      "type": "hdhub",
+      "instanceId": "29a",
+      "enabled": true,
+      "options": {
+        "name": "HdHub",
+        "timeout": 5000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "tb_only": false
+      },
+      "category": "HTTP"
+    },
+    {
+      "type": "opensubtitles-v3-plus",
+      "instanceId": "262",
+      "enabled": true,
+      "options": {
+        "name": "OpenSubtitles V3+",
+        "timeout": 10000,
+        "resources": [
+          "subtitles"
+        ],
+        "language": [
+          "vi",
+          "en"
+        ],
+        "sources": "all",
+        "includeAiTranslated": false,
+        "movieHashPlusAutoAdjustment": true
+      },
+      "category": "Subs"
+    },
+    {
+      "type": "torrentio",
+      "instanceId": "add",
+      "enabled": true,
+      "options": {
+        "name": "Torrentio",
+        "timeout": 8000,
+        "resources": [
+          "stream"
+        ],
+        "mediaTypes": [],
+        "useMultipleInstances": false
+      },
+      "category": "P2P"
+    },
+    {
+      "type": "subdl",
+      "instanceId": "subdl",
+      "enabled": true,
+      "options": {
+        "name": "SubDL",
+        "timeout": 5000,
+        "resources": [
+          "subtitles"
+        ],
+        "language": [
+          "vi",
+          "en",
+          "VI"
+        ],
+        "hearingImpairment": "hiInclude"
+      },
+      "category": "Subs"
+    }
+  ],
+  "addonCategoryColors": {
+    "Mix": "indigo",
+    "Debrid": "emerald",
+    "Usenet": "lime",
+    "HTTP": "cyan",
+    "P2P": "orange",
+    "Subs": "purple"
+  },
+  "catalogModifications": [],
+  "mergedCatalogs": [],
+  "externalDownloads": false,
+  "cacheAndPlay": {
+    "enabled": false,
+    "streamTypes": [
+      "usenet"
+    ]
+  },
+  "autoRemoveDownloads": false,
+  "checkOwned": false,
+  "failover": {
+    "enabled": true,
+    "contentTypes": [
+      "usenet",
+      "debrid"
+    ],
+    "allowCrossType": true,
+    "maxAttempts": 5,
+    "parallel": 2,
+    "position": "beforeLimiting",
+    "precacheFailover": false,
+    "includeExternalFailover": true,
+    "sameReleaseLimit": 2
+  },
+  "serviceWrap": {
+    "enabled": false,
+    "reconfigureService": false
+  }
+}
