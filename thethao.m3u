@@ -1,413 +1,567 @@
-#EXTM3U name="TRỰC TIẾP THỂ THAO HÔM NAY" url-tvg=""
-# Cập nhật tự động thời gian thực bởi Armbian Bot
-# Lần cập nhật cuối: 2026-10-31 22:10:37
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Manchester City vs Brighton Hove Albion (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Manchester City vs Brighton Hove Albion (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽ TRỰC TIẾP BÓNG ĐÁ",🔄 CẬP NHẬT: 22:19 31/10/2026 (141 TRẬN)
+http://127.0.0.1/refresh
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Bayer Leverkusen vs VfB Stuttgart (BLV Chuối Kem) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260909_045338_99bd4727.png" group-title="🍌 Chuối Chiên TV",⚽ [21:30] Bayer Leverkusen vs VfB Stuttgart (BLV Chuối Kem) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Bournemouth vs Leeds (BLV Chuối Nhỏ) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg" group-title="🍌 Chuối Chiên TV",⚽ [22:00] Bournemouth vs Leeds (BLV Chuối Nhỏ) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Brentford vs Nottingham Forest (BLV Trốc Tru) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [22:00] Brentford vs Nottingham Forest (BLV Trốc Tru) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Manchester City vs Brighton (BLV Chuối Chao) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp" group-title="🍌 Chuối Chiên TV",⚽ [22:00] Manchester City vs Brighton (BLV Chuối Chao) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00] Udinese vs AS Roma (BLV Trốc Tru) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [00:00] Udinese vs AS Roma (BLV Trốc Tru) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Tottenham vs Crystal Palace (BLV Chuối Lá) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp" group-title="🍌 Chuối Chiên TV",⚽ [00:30] Tottenham vs Crystal Palace (BLV Chuối Lá) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Real Betis vs Malaga (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [00:30] Real Betis vs Malaga (BLV Chuối Sấy) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Bayern München vs Borussia Dortmund (BLV Chuối Già) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [00:30] Bayern München vs Borussia Dortmund (BLV Chuối Già) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] AC Milan vs Inter (BLV Trốc Tru) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [02:45] AC Milan vs Inter (BLV Trốc Tru) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Aston Villa vs Fulham (BLV Chuối Nhỏ) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg" group-title="🍌 Chuối Chiên TV",⚽ [03:00] Aston Villa vs Fulham (BLV Chuối Nhỏ) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Barcelona vs Alaves (BLV Chuối Chao) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp" group-title="🍌 Chuối Chiên TV",⚽ [03:00] Barcelona vs Alaves (BLV Chuối Chao) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [06:00] Llaneros vs Junior (BLV Chuối Kem) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260909_045338_99bd4727.png" group-title="🍌 Chuối Chiên TV",⚽ [06:00] Llaneros vs Junior (BLV Chuối Kem) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [08:30] Colorado Rapids vs Chicago Fire (BLV Chuối Tây) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20250801_093803_c835782a.webp" group-title="🍌 Chuối Chiên TV",⚽ [08:30] Colorado Rapids vs Chicago Fire (BLV Chuối Tây) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [11:00] Melbourne Victory vs Central Coast Mariners (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [11:00] Melbourne Victory vs Central Coast Mariners (BLV Chuối Sấy) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [15:00] Perth Glory vs Adelaide United (BLV Chuối Già) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [15:00] Perth Glory vs Adelaide United (BLV Chuối Già) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:00] TP. Hồ Chí Minh vs Da Nang (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [18:00] TP. Hồ Chí Minh vs Da Nang (BLV Chuối Sấy) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:30] Como vs Venezia (BLV Chuối Lá) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp" group-title="🍌 Chuối Chiên TV",⚽ [18:30] Como vs Venezia (BLV Chuối Lá) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [19:00] Hà Nội vs Ninh Binh (BLV Chuối Già) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [19:00] Hà Nội vs Ninh Binh (BLV Chuối Già) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:00] Getafe vs Sevilla (BLV Chuối Tây) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20250801_093803_c835782a.webp" group-title="🍌 Chuối Chiên TV",⚽ [20:00] Getafe vs Sevilla (BLV Chuối Tây) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Lazio vs Cagliari (BLV Chuối Nhỏ) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg" group-title="🍌 Chuối Chiên TV",⚽ [21:00] Lazio vs Cagliari (BLV Chuối Nhỏ) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Union Berlin vs 1.FC Köln (BLV Chuối Kem) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260909_045338_99bd4727.png" group-title="🍌 Chuối Chiên TV",⚽ [21:30] Union Berlin vs 1.FC Köln (BLV Chuối Kem) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:15] Racing Santander vs Real Madrid (BLV Chuối Lá) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp" group-title="🍌 Chuối Chiên TV",⚽ [22:15] Racing Santander vs Real Madrid (BLV Chuối Lá) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:15] Racing Santander vs Real Madrid (BLV Chuối Già) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [22:15] Racing Santander vs Real Madrid (BLV Chuối Già) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:30] Liverpool vs Arsenal (BLV Chuối Nhỏ) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg" group-title="🍌 Chuối Chiên TV",⚽ [23:30] Liverpool vs Arsenal (BLV Chuối Nhỏ) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:30] Liverpool vs Arsenal (BLV Chuối Chao) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp" group-title="🍌 Chuối Chiên TV",⚽ [23:30] Liverpool vs Arsenal (BLV Chuối Chao) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00] Lecce vs Genoa (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [00:00] Lecce vs Genoa (BLV Chuối Sấy) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Elche vs Valencia (BLV Trốc Tru) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [00:30] Elche vs Valencia (BLV Trốc Tru) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] Juventus vs Napoli (BLV Chuối Kem) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260909_045338_99bd4727.png" group-title="🍌 Chuối Chiên TV",⚽ [02:45] Juventus vs Napoli (BLV Chuối Kem) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] Marseille vs Toulouse (BLV Chuối Tây) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20250801_093803_c835782a.webp" group-title="🍌 Chuối Chiên TV",⚽ [02:45] Marseille vs Toulouse (BLV Chuối Tây) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Athletic Club vs Real Sociedad (BLV Trốc Tru) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [03:00] Athletic Club vs Real Sociedad (BLV Trốc Tru) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [06:10] Independiente Medellín vs Alianza Petrolera (BLV Chuối Nhỏ) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg" group-title="🍌 Chuối Chiên TV",⚽ [06:10] Independiente Medellín vs Alianza Petrolera (BLV Chuối Nhỏ) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [07:00] New England Revolution vs Inter Miami (BLV Chuối Chao) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp" group-title="🍌 Chuối Chiên TV",⚽ [07:00] New England Revolution vs Inter Miami (BLV Chuối Chao) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [09:30] Portland Timbers vs Houston Dynamo (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [09:30] Portland Timbers vs Houston Dynamo (BLV Chuối Sấy) - Chuối Chiên
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Manchester City Vs Brighton Hove Albion (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Manchester City Vs Brighton Hove Albion (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Brentford vs Nottingham Forest (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Brentford vs Nottingham Forest (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Brentford Vs Nottingham Forest (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Brentford Vs Nottingham Forest (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Bournemouth Afc vs Leeds United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Bournemouth Afc vs Leeds United (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Bournemouth Afc Vs Leeds United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Bournemouth Afc Vs Leeds United (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Coventry City vs Sunderland (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Coventry City vs Sunderland (BLV Gà Siêu Son) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Coventry City Vs Sunderland (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Coventry City Vs Sunderland (BLV Gà Siêu Son) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Hull City vs Ipswich Town (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Hull City vs Ipswich Town (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Hull City Vs Ipswich Town (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Hull City Vs Ipswich Town (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] Bayer 04 Leverkusen vs Vfb Stuttgart (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Bayer 04 Leverkusen vs Vfb Stuttgart (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Bayer 04 Leverkusen Vs Vfb Stuttgart (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Bayer 04 Leverkusen Vs Vfb Stuttgart (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Bologna vs Monza (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Bologna vs Monza (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Bologna Vs Monza (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Bologna Vs Monza (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] Borussia Monchengladbach vs Sc Paderborn 07 (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Borussia Monchengladbach vs Sc Paderborn 07 (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Borussia Monchengladbach Vs Sc Paderborn 07 (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Borussia Monchengladbach Vs Sc Paderborn 07 (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] Schalke 04 vs Rb Leipzig (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Schalke 04 vs Rb Leipzig (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Schalke 04 Vs Rb Leipzig (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] Schalke 04 Vs Rb Leipzig (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:30] Moreirense vs Cf Estrela Amadora Sad (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:30] Moreirense vs Cf Estrela Amadora Sad (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:30] Moreirense Vs Cf Estrela Amadora Sad (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:30] Moreirense Vs Cf Estrela Amadora Sad (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Fenerbahce vs Goztepe (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Fenerbahce vs Goztepe (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Fenerbahce Vs Goztepe (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Fenerbahce Vs Goztepe (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:00] Udinese vs As Roma (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:00] Udinese vs As Roma (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00] Udinese Vs As Roma (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:00] Udinese Vs As Roma (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:30] Tottenham Hotspur vs Crystal Palace (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Tottenham Hotspur vs Crystal Palace (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Tottenham Hotspur Vs Crystal Palace (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Tottenham Hotspur Vs Crystal Palace (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:30] Real Betis vs Malaga (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Real Betis vs Malaga (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Real Betis Vs Malaga (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Real Betis Vs Malaga (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:30] Fc Bayern Munich vs Borussia Dortmund (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Fc Bayern Munich vs Borussia Dortmund (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Fc Bayern Munich Vs Borussia Dortmund (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Fc Bayern Munich Vs Borussia Dortmund (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [01:00] Al Hilal vs Al Fateh (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [01:00] Al Hilal vs Al Fateh (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [01:00] Al Hilal Vs Al Fateh (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [01:00] Al Hilal Vs Al Fateh (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [02:45] Ac Milan vs Inter Milan (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Ac Milan vs Inter Milan (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] Ac Milan Vs Inter Milan (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Ac Milan Vs Inter Milan (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [03:00] Aston Villa vs Fulham (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Aston Villa vs Fulham (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Aston Villa Vs Fulham (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Aston Villa Vs Fulham (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [03:00] Fc Barcelona vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Fc Barcelona vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Fc Barcelona Vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Fc Barcelona Vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [06:00] Pachuca vs Tigres Uanl (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [06:00] Pachuca vs Tigres Uanl (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [06:00] Pachuca Vs Tigres Uanl (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [06:00] Pachuca Vs Tigres Uanl (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [08:00] Rayados De Monterrey vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:00] Rayados De Monterrey vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [08:00] Rayados De Monterrey Vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:00] Rayados De Monterrey Vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [08:07] Club Deportivo Guadalajara vs Atlante Fc (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:07] Club Deportivo Guadalajara vs Atlante Fc (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [08:07] Club Deportivo Guadalajara Vs Atlante Fc (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:07] Club Deportivo Guadalajara Vs Atlante Fc (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [10:10] Club America vs Toluca (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [10:10] Club America vs Toluca (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [10:10] Club America Vs Toluca (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [10:10] Club America Vs Toluca (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [11:00] Melbourne Victory vs Central Coast Mariners (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [11:00] Melbourne Victory vs Central Coast Mariners (BLV Gà Siêu Son) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [11:00] Melbourne Victory Vs Central Coast Mariners (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [11:00] Melbourne Victory Vs Central Coast Mariners (BLV Gà Siêu Son) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [12:00] Ulsan Citizens vs Changwon City (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Ulsan Citizens vs Changwon City (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [12:00] Ulsan Citizens Vs Changwon City (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Ulsan Citizens Vs Changwon City (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [12:00] Jef United Ichihara Chiba vs Avispa Fukuoka (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Jef United Ichihara Chiba vs Avispa Fukuoka (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [12:00] Jef United Ichihara Chiba Vs Avispa Fukuoka (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Jef United Ichihara Chiba Vs Avispa Fukuoka (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [14:00] Machida Zelvia vs Gamba Osaka (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:00] Machida Zelvia vs Gamba Osaka (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [14:00] Machida Zelvia Vs Gamba Osaka (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:00] Machida Zelvia Vs Gamba Osaka (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [14:30] Fc Seoul vs Incheon United Club (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:30] Fc Seoul vs Incheon United Club (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [14:30] Fc Seoul Vs Incheon United Club (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:30] Fc Seoul Vs Incheon United Club (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [14:30] Fc Anyang vs Bucheon Fc 1995 (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:30] Fc Anyang vs Bucheon Fc 1995 (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [14:30] Fc Anyang Vs Bucheon Fc 1995 (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [14:30] Fc Anyang Vs Bucheon Fc 1995 (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [15:00] Perth Glory vs Adelaide United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [15:00] Perth Glory vs Adelaide United (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [15:00] Perth Glory Vs Adelaide United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [15:00] Perth Glory Vs Adelaide United (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [17:00] Fc Orenburg vs Cska Moscow (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [17:00] Fc Orenburg vs Cska Moscow (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [17:00] Fc Orenburg Vs Cska Moscow (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [17:00] Fc Orenburg Vs Cska Moscow (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [17:30] Amedspor vs Eyupspor (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [17:30] Amedspor vs Eyupspor (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [17:30] Amedspor Vs Eyupspor (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [17:30] Amedspor Vs Eyupspor (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [18:00] Cong An Ho Chi Minh City vs Shb Da Nang (BLV Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Cong An Ho Chi Minh City vs Shb Da Nang (BLV Gà Siêu Ngố) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:00] Cong An Ho Chi Minh City Vs Shb Da Nang (BLV Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Cong An Ho Chi Minh City Vs Shb Da Nang (BLV Gà Siêu Ngố) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [18:30] Como vs Venezia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:30] Como vs Venezia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
+https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:30] Como Vs Venezia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:30] Como Vs Venezia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [19:30] Fc St Pauli vs 1 Fc Nrnberg (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:30] Fc St Pauli vs 1 Fc Nrnberg (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [19:30] Fc St Pauli Vs 1 Fc Nrnberg (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:30] Fc St Pauli Vs 1 Fc Nrnberg (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [20:00] Getafe vs Sevilla Fc (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [20:00] Getafe vs Sevilla Fc (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:00] Getafe Vs Sevilla Fc (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [20:00] Getafe Vs Sevilla Fc (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Bukhara State University vs Qmu Jayxun (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Bukhara State University vs Qmu Jayxun (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Bukhara State University Vs Qmu Jayxun (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Bukhara State University Vs Qmu Jayxun (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Lazio vs Cagliari (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Lazio vs Cagliari (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Lazio Vs Cagliari (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Lazio Vs Cagliari (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Frosinone vs Torino (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Frosinone vs Torino (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Frosinone Vs Torino (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Frosinone Vs Torino (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Rc Strasbourg Alsace vs Aj Auxerre (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Rc Strasbourg Alsace vs Aj Auxerre (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Rc Strasbourg Alsace Vs Aj Auxerre (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:00] Rc Strasbourg Alsace Vs Aj Auxerre (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] 1 Fc Union Berlin vs Fc Kln (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] 1 Fc Union Berlin vs Fc Kln (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] 1 Fc Union Berlin Vs Fc Kln (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:30] 1 Fc Union Berlin Vs Fc Kln (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:15] Racing Santander vs Real Madrid (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:15] Racing Santander vs Real Madrid (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:15] Racing Santander Vs Real Madrid (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:15] Racing Santander Vs Real Madrid (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:15] Paris Fc vs As Monaco (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:15] Paris Fc vs As Monaco (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:15] Paris Fc Vs As Monaco (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:15] Paris Fc Vs As Monaco (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:30] Liverpool vs Arsenal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:30] Liverpool vs Arsenal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:30] Liverpool Vs Arsenal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:30] Liverpool Vs Arsenal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:30] Eintracht Frankfurt vs Hamburger Sv (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:30] Eintracht Frankfurt vs Hamburger Sv (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:30] Eintracht Frankfurt Vs Hamburger Sv (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:30] Eintracht Frankfurt Vs Hamburger Sv (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:00] Lecce vs Genoa (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:00] Lecce vs Genoa (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00] Lecce Vs Genoa (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:00] Lecce Vs Genoa (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [00:30] Elche Cf vs Valencia Cf (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Elche Cf vs Valencia Cf (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [00:30] Elche Cf Vs Valencia Cf (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:30] Elche Cf Vs Valencia Cf (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [01:00] Viseu vs Rio Ave (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [01:00] Viseu vs Rio Ave (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [01:00] Viseu Vs Rio Ave (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [01:00] Viseu Vs Rio Ave (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [02:45] Juventus vs Napoli (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Juventus vs Napoli (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] Juventus Vs Napoli (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Juventus Vs Napoli (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [02:45] Marseille vs Toulouse Fc (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Marseille vs Toulouse Fc (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:45] Marseille Vs Toulouse Fc (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [02:45] Marseille Vs Toulouse Fc (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [03:00] Athletic Club vs Real Sociedad (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Athletic Club vs Real Sociedad (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [03:00] Athletic Club Vs Real Sociedad (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [03:00] Athletic Club Vs Real Sociedad (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [06:00] Santos Laguna vs Necaxa (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [06:00] Santos Laguna vs Necaxa (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [06:00] Santos Laguna Vs Necaxa (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [06:00] Santos Laguna Vs Necaxa (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [07:00] New England Revolution vs Inter Miami Cf (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [07:00] New England Revolution vs Inter Miami Cf (BLV Gà Siêu Tồ) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [07:00] New England Revolution Vs Inter Miami Cf (BLV Gà Siêu Tồ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [07:00] New England Revolution Vs Inter Miami Cf (BLV Gà Siêu Tồ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [08:00] Cruz Azul vs Club Leon (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:00] Cruz Azul vs Club Leon (BLV Gà Siêu Son) - Gà Vàng
+https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [08:00] Cruz Azul Vs Club Leon (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [08:00] Cruz Azul Vs Club Leon (BLV Gà Siêu Son) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [09:45] Portland Timbers vs Houston Dynamo (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [09:45] Portland Timbers vs Houston Dynamo (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [09:45] Portland Timbers Vs Houston Dynamo (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [09:45] Portland Timbers Vs Houston Dynamo (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [12:00] Hunters Fc vs Fc Ulaanbaatar (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Hunters Fc vs Fc Ulaanbaatar (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [12:00] Hunters Fc Vs Fc Ulaanbaatar (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [12:00] Hunters Fc Vs Fc Ulaanbaatar (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [15:00] Central Stallions vs Deren Fc (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [15:00] Central Stallions vs Deren Fc (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [15:00] Central Stallions Vs Deren Fc (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [15:00] Central Stallions Vs Deren Fc (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [18:00] Zorya vs Fk Epitsentr Dunayivtsi (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Zorya vs Fk Epitsentr Dunayivtsi (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:00] Zorya Vs Fk Epitsentr Dunayivtsi (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Zorya Vs Fk Epitsentr Dunayivtsi (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [18:00] Kryvbas vs Dynamo Kyiv (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Kryvbas vs Dynamo Kyiv (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [18:00] Kryvbas Vs Dynamo Kyiv (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [18:00] Kryvbas Vs Dynamo Kyiv (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [19:00] Chonburi Fc vs Bg Pathum United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:00] Chonburi Fc vs Bg Pathum United (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [19:00] Chonburi Fc Vs Bg Pathum United (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:00] Chonburi Fc Vs Bg Pathum United (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [19:30] Al Jabalain vs Al Bukayriyah (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:30] Al Jabalain vs Al Bukayriyah (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [19:30] Al Jabalain Vs Al Bukayriyah (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [19:30] Al Jabalain Vs Al Bukayriyah (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [20:45] Pakhtakor vs Al Nassr (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [20:45] Pakhtakor vs Al Nassr (BLV Gà Siêu Son) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:45] Pakhtakor Vs Al Nassr (BLV Gà Siêu Son) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [20:45] Pakhtakor Vs Al Nassr (BLV Gà Siêu Son) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:40] Al Jeel vs Al Najmaksa (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:40] Al Jeel vs Al Najmaksa (BLV Gà Siêu Tốc) - Gà Vàng
+https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:40] Al Jeel Vs Al Najmaksa (BLV Gà Siêu Tốc) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:40] Al Jeel Vs Al Najmaksa (BLV Gà Siêu Tốc) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:55] Al Zulfi vs Al Jandal (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:55] Al Zulfi vs Al Jandal (BLV Gà Siêu Mõm) - Gà Vàng
+https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:55] Al Zulfi Vs Al Jandal (BLV Gà Siêu Mõm) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [21:55] Al Zulfi Vs Al Jandal (BLV Gà Siêu Mõm) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Cherno More Varna vs Botev Vratsa (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Cherno More Varna vs Botev Vratsa (BLV Gà Siêu Kiêu) - Gà Vàng
+https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Cherno More Varna Vs Botev Vratsa (BLV Gà Siêu Kiêu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Cherno More Varna Vs Botev Vratsa (BLV Gà Siêu Kiêu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Krylya Sovetov vs Zenit St Petersburg (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Krylya Sovetov vs Zenit St Petersburg (BLV Gà Siêu Péo) - Gà Vàng
+https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Krylya Sovetov Vs Zenit St Petersburg (BLV Gà Siêu Péo) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [22:00] Krylya Sovetov Vs Zenit St Petersburg (BLV Gà Siêu Péo) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Al Sadd Sports Club vs Al Ahli Sc (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Al Sadd Sports Club vs Al Ahli Sc (BLV Gà Ô Long) - Gà Vàng
+https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Al Sadd Sports Club Vs Al Ahli Sc (BLV Gà Ô Long) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Al Sadd Sports Club Vs Al Ahli Sc (BLV Gà Ô Long) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Tractor Sc vs Neftchi Fergana (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Tractor Sc vs Neftchi Fergana (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
+https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Tractor Sc Vs Neftchi Fergana (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Tractor Sc Vs Neftchi Fergana (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Al Wasl Sc vs Al Quwa Al Jawiya (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Al Wasl Sc vs Al Quwa Al Jawiya (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
+https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Al Wasl Sc Vs Al Quwa Al Jawiya (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Al Wasl Sc Vs Al Quwa Al Jawiya (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Inter Turku vs Gnistan Helsinki (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Inter Turku vs Gnistan Helsinki (BLV Gà Siêu Bệu) - Gà Vàng
+https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Inter Turku Vs Gnistan Helsinki (BLV Gà Siêu Bệu) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Inter Turku Vs Gnistan Helsinki (BLV Gà Siêu Bệu) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [23:00] Vaasa Vps vs Hjk Helsinki (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Vaasa Vps vs Hjk Helsinki (BLV Gà Siêu Nhí) - Gà Vàng
+https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00] Vaasa Vps Vs Hjk Helsinki (BLV Gà Siêu Nhí) - Gà Vàng" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [23:00] Vaasa Vps Vs Hjk Helsinki (BLV Gà Siêu Nhí) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Manchester City Vs Brighton - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [22:00] Manchester City Vs Brighton - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793459912-0-0-69308803e85f8d835a26983ab6c21772|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Coventry City Vs Sunderland - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [22:00] Coventry City Vs Sunderland - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel11.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Brentford Vs Nottingham Forest - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [22:00] Brentford Vs Nottingham Forest - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=b528c49e766ea46d03f033962e86f27c&wsABSTime=1793503112|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Afc Bournemouth Vs Leeds United - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [22:00] Afc Bournemouth Vs Leeds United - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=5438e9515438bacc5cf88102ea4a032c&wsABSTime=1793503112|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:30] Al Taawoun Vs Al Ettifaq - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [20:30] Al Taawoun Vs Al Ettifaq - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel28.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:30] Fk Gilan Gabala Vs Qarabag - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [20:30] Fk Gilan Gabala Vs Qarabag - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=3779245bf37f085814ffe32f15d72938&wsABSTime=1793503113|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [20:45] Ks Wieczysta Krakow Vs Jagiellonia - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [20:45] Ks Wieczysta Krakow Vs Jagiellonia - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=5b8728ece9bffa1dea3b748654ad9c36&wsABSTime=1793503113|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Bologna Vs Monza - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Bologna Vs Monza - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel17.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Atk Mohun Bagan Vs Minerva Punjab - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Atk Mohun Bagan Vs Minerva Punjab - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=142da012350094c8336ecae1013a546c&wsABSTime=1793503114|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Corvinul Hunedoara Vs Arges - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Corvinul Hunedoara Vs Arges - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=9fed67fd2a4fe8251e7d3ccc1a2adf34&wsABSTime=1793503114|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Fk Jablonec Vs Sk Slavia Praha - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Fk Jablonec Vs Sk Slavia Praha - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=34dd39cadd14b8714cff06e17234a566&wsABSTime=1793503114|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Fk Pardubice Vs Fc Slovan Liberec - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Fk Pardubice Vs Fc Slovan Liberec - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=af668e5841fd2630597ad9ffb1145ffb&wsABSTime=1793503114|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Sk Artis Brno Vs Fc Zlin - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Sk Artis Brno Vs Fc Zlin - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel37.flv?wsSecret=7901eed804ebdaa4c401e07ecda0377d&wsABSTime=1793503115|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Cremonese Vs Benevento - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:00] Cremonese Vs Benevento - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=681cfcc78b16fb24f11136b5300deb68&wsABSTime=1793503115|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:15] Al Sailiya Sports Club Vs Lusail Sports Club - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:15] Al Sailiya Sports Club Vs Lusail Sports Club - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=91a7dbbe66ec5723041ba09b9162e683&wsABSTime=1793503115|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Schalke 04 Vs Rb Leipzig - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:30] Schalke 04 Vs Rb Leipzig - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel21.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Augsburg Vs Sc Freiburg - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:30] Augsburg Vs Sc Freiburg - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel9.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Bayer Leverkusen Vs Vfb Stuttgart - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:30] Bayer Leverkusen Vs Vfb Stuttgart - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel12.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] B Monchengladbach Vs Paderborn 07 - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:30] B Monchengladbach Vs Paderborn 07 - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel8.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] Werder Bremen Vs Tsg Hoffenheim - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [21:30] Werder Bremen Vs Tsg Hoffenheim - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel10.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:00] Utah Jazz Vs Portland Trail Blazers - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [02:00] Utah Jazz Vs Portland Trail Blazers - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel27.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [05:00] Charlotte Hornets Vs Philadelphia 76ers - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [05:00] Charlotte Hornets Vs Philadelphia 76ers - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel29.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [06:00] New Orleans Pelicans Vs Atlanta Hawks - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [06:00] New Orleans Pelicans Vs Atlanta Hawks - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live2.jorvakstreamcache.com/live/channel27.flv|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [07:00] San Antonio Spurs Vs Minnesota Timberwolves - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [07:00] San Antonio Spurs Vs Minnesota Timberwolves - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=65e2f2aed4dd2c4ad70d31bb62580f42&wsABSTime=1793503117|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [07:00] Memphis Grizzlies Vs Sacramento Kings - Cà Khịa" tvg-logo="https://cakhiazbb.tv/favicon.ico" group-title="🌶️ Cà Khịa TV",⚽ [07:00] Memphis Grizzlies Vs Sacramento Kings - Cà Khịa
+#EXTVLCOPT:http-referrer=https://ck.domainkqt.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=9928c823a1b6ed06db73522164790749&wsABSTime=1793503117|Referer=https://ck.domainkqt.cc/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] VfB Stuttgart vs Bayer Leverkusen (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_vfb-stuttgart-vs-bayer-leverkusen_VfB_Stuttgart_vs_Bayer_Leverku" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] VfB Stuttgart vs Bayer Leverkusen (Bundesliga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] VfB Stuttgart vs Bayer Leverkusen (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_vfb-stuttgart-vs-bayer-leverkusen_VfB_Stuttgart_vs_Bayer_Leverku" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] VfB Stuttgart vs Bayer Leverkusen (Bundesliga) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/vfb-stuttgart-vs-bayer-leverkusen1080p/index.m3u8?_t=sRJqC-6dSo5LDbpwVWhq9g&_e=1793488727&_n=19eac6c7a9ca2800|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] SC Paderborn 07 vs Borussia Mönchengladbach (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_sc-paderborn-07-vs-borussia-mönchengladbach_SC_Paderborn_07_vs_Borussia_Mö" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] SC Paderborn 07 vs Borussia Mönchengladbach (Bundesliga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/vfb-stuttgart-vs-bayer-leverkusen1080p/index.m3u8?_t=Ft9mZyZTXnVQkLmUvdU8nQ&_e=1793488190&_n=a69b3d5a3f3343d4|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] SC Paderborn 07 vs Borussia Mönchengladbach (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_sc-paderborn-07-vs-borussia-mönchengladbach_SC_Paderborn_07_vs_Borussia_Mö" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] SC Paderborn 07 vs Borussia Mönchengladbach (Bundesliga) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/sc-paderborn-07-vs-borussia-m%C3%B6nchengladbach1080p/index.m3u8?_t=5d1h7ETufYBIZIv7PzgklA&_e=1793488726&_n=ffc43c71c1e246d7|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] SC Freiburg vs FC Augsburg (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_sc-freiburg-vs-fc-augsburg_SC_Freiburg_vs_FC_Augsburg" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] SC Freiburg vs FC Augsburg (Bundesliga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/sc-paderborn-07-vs-borussia-mönchengladbach1080p/index.m3u8?_t=Y78OK7Ad-y3W6UZU5y4MbQ&_e=1793488192&_n=af61c488f17a9c08|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] SC Freiburg vs FC Augsburg (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_sc-freiburg-vs-fc-augsburg_SC_Freiburg_vs_FC_Augsburg" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] SC Freiburg vs FC Augsburg (Bundesliga) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/sc-freiburg-vs-fc-augsburg1080p/index.m3u8?_t=v5JU353c-y2s-H8bI3PW4g&_e=1793488726&_n=17beccf3cc369ec2|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] RB Leipzig vs Schalke 04 (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_rb-leipzig-vs-schalke-04_RB_Leipzig_vs_Schalke_04" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] RB Leipzig vs Schalke 04 (Bundesliga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streamfree.top/live/sc-freiburg-vs-fc-augsburg1080p/index.m3u8?_t=lpHu1hc8KdNv3-Yh79KwHg&_e=1793488194&_n=20e058cbe5dc15ab|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:30] RB Leipzig vs Schalke 04 (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_rb-leipzig-vs-schalke-04_RB_Leipzig_vs_Schalke_04" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] RB Leipzig vs Schalke 04 (Bundesliga) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/rb-leipzig-vs-schalke-041080p/index.m3u8?_t=FkpbrjlJjCa86YovWeyXvw&_e=1793488726&_n=a45a4bbed8bede04|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:30] TSG Hoffenheim vs Werder Bremen (Bundesliga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_tsg-hoffenheim-vs-werder-bremen_TSG_Hoffenheim_vs_Werder_Breme" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:30] TSG Hoffenheim vs Werder Bremen (Bundesliga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/rb-leipzig-vs-schalke-041080p/index.m3u8?_t=swnlkd2AblDZOV4OmpSPfQ&_e=1793488197&_n=216dae8704ea21bf|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Leeds United vs AFC Bournemouth (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_leeds-united-vs-afc-bournemouth_Leeds_United_vs_AFC_Bournemout" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Leeds United vs AFC Bournemouth (Premier League) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/tsg-hoffenheim-vs-werder-bremen1080p/index.m3u8?_t=tkzu2U-xORcH2dIbs_g6bw&_e=1793488725&_n=53beb7a5304c0e33|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Leeds United vs AFC Bournemouth (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_leeds-united-vs-afc-bournemouth_Leeds_United_vs_AFC_Bournemout" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Leeds United vs AFC Bournemouth (Premier League) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/leeds-united-vs-afc-bournemouth1080p/index.m3u8?_t=B-wqYOopRgry0tSEHsNw1w&_e=1793488212&_n=3e0f8a8774ffb59e|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Nottingham Forest vs Brentford (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_nottingham-forest-vs-brentford_Nottingham_Forest_vs_Brentford" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Nottingham Forest vs Brentford (Premier League) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/leeds-united-vs-afc-bournemouth1080p/index.m3u8?_t=kI9bz5J8rqiRQtWHIeMMqw&_e=1793488729&_n=323e3568da84c910|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Nottingham Forest vs Brentford (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_nottingham-forest-vs-brentford_Nottingham_Forest_vs_Brentford" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Nottingham Forest vs Brentford (Premier League) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streamfree.top/live/nottingham-forest-vs-brentford1080p/index.m3u8?_t=rpn5s8WnvanSOyf2LX1Gpg&_e=1793488216&_n=bc6045c649445a45|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Ipswich Town vs Hull City (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_ipswich-town-vs-hull-city_Ipswich_Town_vs_Hull_City" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Ipswich Town vs Hull City (Premier League) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/nottingham-forest-vs-brentford1080p/index.m3u8?_t=P6KNq3QT6_x_zd1mLC25yA&_e=1793488733&_n=9921f5dbe3c2d0c6|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Ipswich Town vs Hull City (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_ipswich-town-vs-hull-city_Ipswich_Town_vs_Hull_City" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Ipswich Town vs Hull City (Premier League) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/ipswich-town-vs-hull-city1080p/index.m3u8?_t=fmxC0xfUdLqSaX2hMPMAkQ&_e=1793488222&_n=84bd0bf6b672ee8d|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [22:00] Brighton & Hove Albion vs Manchester City (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_brighton-hove-albion-vs-manchester-city_Brighton__Hove_Albion_vs_Manch" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Brighton & Hove Albion vs Manchester City (Premier League) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/ipswich-town-vs-hull-city1080p/index.m3u8?_t=BoEXyGYTBbkGdkpIVElXIA&_e=1793488732&_n=4f4b6468f1a5a1ad|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00] Brighton & Hove Albion vs Manchester City (Premier League) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_brighton-hove-albion-vs-manchester-city_Brighton__Hove_Albion_vs_Manch" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:00] Brighton & Hove Albion vs Manchester City (Premier League) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streamfree.top/live/brighton-hove-albion-vs-manchester-city1080p/index.m3u8?_t=c414V6UC9cnQkLYgpL2WYA&_e=1793488224&_n=202f5c8dff77b592|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="⚽ [21:00] Monza vs Bologna (Serie A) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_monza-vs-bologna_Monza_vs_Bologna" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:00] Monza vs Bologna (Serie A) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://streamfree.top/live-externalcdn/brighton-hove-albion-vs-manchester-city1080p/index.m3u8?_t=y9uolVZUOlvEWP9y1aFjdQ&_e=1793488734&_n=c9ff3516e7c66710|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:15] Celta Vigo vs Rayo Vallecano (La Liga) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_celta-vigo-vs-rayo-vallecano_Celta_Vigo_vs_Rayo_Vallecano" group-title="🌐 StreamFree (Quốc Tế)",⚽ [22:15] Celta Vigo vs Rayo Vallecano (La Liga) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streamfree.top/live/monza-vs-bologna1080p/index.m3u8?_t=n7YRfW-hxtPPveP9zYkgdA&_e=1793488230&_n=8a8699a0821000bb|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="🏎️ [23:00] Sky Sports F1 (F1) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="🌐 StreamFree (Quốc Tế)",🏎️ [23:00] Sky Sports F1 (F1) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/celta-vigo-vs-rayo-vallecano1080p/index.m3u8?_t=y7S7Z7BDDK89JW-gmSpp8A&_e=1793488737&_n=21b2ffcba753e052|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [21:00] Monza vs Bologna (Serie A) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/soccer_monza-vs-bologna_Monza_vs_Bologna" group-title="🌐 StreamFree (Quốc Tế)",⚽ [21:00] Monza vs Bologna (Serie A) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://streamfree.top/live-externalcdn/skyf11080p/index.m3u8?_t=AtnR6TzowTD8ik37GHi42Q&_e=1793488232&_n=a74a7004222e56f9|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-name="🎾 [17:00] Sky Sports Tennis (SKY) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/tennis_4a2030e3-f635-4c34-883b-9039d0d7a9d1_Sky_Sports_Tennis" group-title="🌐 StreamFree (Quốc Tế)",🎾 [17:00] Sky Sports Tennis (SKY) - StreamFree
-#EXTVLCOPT:http-referrer=https://streamfree.top/
+https://strmfree.st/live-cdn/monza-vs-bologna1080p/index.m3u8?_t=vdFirj9TljClYZ8YtwSGDA&_e=1793488738&_n=3b1d6e0d81337797|Referer=https://strmfree.st/
+#EXTINF:-1 tvg-id="" tvg-name="🎾 [17:00] Sky Sports Tennis (SKY) - StreamFree" tvg-logo="https://streamfree.top/thumbnails/tennis_4a2030e3-f635-4c34-883b-9039d0d7a9d1_Sky_Sports_Tennis" group-title="🌐 StreamFree (Quốc Tế)",🎾 [17:00] Sky Sports Tennis (SKY) - StreamFree
+#EXTVLCOPT:http-referrer=https://strmfree.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cdn1.strmfree.st/live-cdn/skysportstennis1080p/index.m3u8?_t=JBeWpuME0MXXMb547vM1dA&_e=1793488234&_n=79e791f7e6cb85d0|Referer=https://streamfree.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://strmfree.st/live-cdn/skysportstennis1080p/index.m3u8?_t=UOG7hiVwbifEYgKeXXcp0g&_e=1793488741&_n=af1d454ea9fad17e|Referer=https://strmfree.st/
