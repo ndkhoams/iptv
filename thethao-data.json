@@ -1,0 +1,1926 @@
+{
+  "updated_at": "2026-11-02 03:40:02",
+  "fixtures": [
+    {
+      "home_team": "Liverpool",
+      "away_team": "Arsenal",
+      "home_score": "0",
+      "away_score": "1",
+      "league": "EPL",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T16:30Z"
+    },
+    {
+      "home_team": "Getafe",
+      "away_team": "Sevilla",
+      "home_score": "3",
+      "away_score": "1",
+      "league": "LALIGA",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T13:00Z"
+    },
+    {
+      "home_team": "Racing Santander",
+      "away_team": "Real Madrid",
+      "home_score": "0",
+      "away_score": "3",
+      "league": "LALIGA",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T15:15Z"
+    },
+    {
+      "home_team": "Elche",
+      "away_team": "Valencia",
+      "home_score": "0",
+      "away_score": "1",
+      "league": "LALIGA",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T17:30Z"
+    },
+    {
+      "home_team": "Athletic Club",
+      "away_team": "Real Sociedad",
+      "home_score": "1",
+      "away_score": "1",
+      "league": "LALIGA",
+      "state": "in",
+      "is_completed": false,
+      "detail": "35'",
+      "date": "2026-11-01T20:00Z"
+    },
+    {
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "home_score": "1",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T11:30Z"
+    },
+    {
+      "home_team": "Frosinone",
+      "away_team": "Torino",
+      "home_score": "2",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T14:00Z"
+    },
+    {
+      "home_team": "Lazio",
+      "away_team": "Cagliari",
+      "home_score": "2",
+      "away_score": "1",
+      "league": "SERIE_A",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T14:00Z"
+    },
+    {
+      "home_team": "Lecce",
+      "away_team": "Genoa",
+      "home_score": "1",
+      "away_score": "2",
+      "league": "SERIE_A",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T17:00Z"
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "Napoli",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "in",
+      "is_completed": false,
+      "detail": "HT",
+      "date": "2026-11-01T19:45Z"
+    },
+    {
+      "home_team": "1. FC Union Berlin",
+      "away_team": "FC Cologne",
+      "home_score": "1",
+      "away_score": "1",
+      "league": "BUNDESLIGA",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T14:30Z"
+    },
+    {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Hamburg SV",
+      "home_score": "3",
+      "away_score": "1",
+      "league": "BUNDESLIGA",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T16:30Z"
+    },
+    {
+      "home_team": "Strasbourg",
+      "away_team": "AJ Auxerre",
+      "home_score": "5",
+      "away_score": "1",
+      "league": "LIGUE1",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T14:00Z"
+    },
+    {
+      "home_team": "Lyon",
+      "away_team": "Angers",
+      "home_score": "2",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T16:15Z"
+    },
+    {
+      "home_team": "Paris FC",
+      "away_team": "AS Monaco",
+      "home_score": "3",
+      "away_score": "1",
+      "league": "LIGUE1",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
+      "date": "2026-11-01T16:15Z"
+    },
+    {
+      "home_team": "Marseille",
+      "away_team": "Toulouse",
+      "home_score": "2",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "in",
+      "is_completed": false,
+      "detail": "HT",
+      "date": "2026-11-01T19:45Z"
+    },
+    {
+      "home_team": "Galatasaray",
+      "away_team": "VfB Stuttgart",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T17:45Z"
+    },
+    {
+      "home_team": "Shakhtar Donetsk",
+      "away_team": "Sporting CP",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T17:45Z"
+    },
+    {
+      "home_team": "Atlético Madrid",
+      "away_team": "Bayern Munich",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Aston Villa",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Bodo/Glimt",
+      "away_team": "Lille",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Feyenoord Rotterdam",
+      "away_team": "Internazionale",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "LASK Linz",
+      "away_team": "Slovan Bratislava",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Manchester United",
+      "away_team": "AS Roma",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Villarreal",
+      "away_team": "Paris Saint-Germain",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "UCL",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-03T20:00Z"
+    },
+    {
+      "home_team": "Orlando Magic",
+      "away_team": "Boston Celtics",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/1 - 3:30 PM EST",
+      "date": "2026-11-01T20:30Z"
+    },
+    {
+      "home_team": "Indiana Pacers",
+      "away_team": "Brooklyn Nets",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/1 - 5:00 PM EST",
+      "date": "2026-11-01T22:00Z"
+    },
+    {
+      "home_team": "Golden State Warriors",
+      "away_team": "LA Clippers",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/1 - 8:30 PM EST",
+      "date": "2026-11-02T01:30Z"
+    },
+    {
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Toronto Raptors",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/1 - 9:00 PM EST",
+      "date": "2026-11-02T02:00Z"
+    }
+  ],
+  "standings": {
+    "EPL": [
+      {
+        "rank": 1,
+        "teamName": "Arsenal",
+        "shortName": "Arsenal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 9,
+        "gd": "+9",
+        "points": 24
+      },
+      {
+        "rank": 2,
+        "teamName": "Manchester City",
+        "shortName": "Man City",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 9,
+        "gd": "+10",
+        "points": 21
+      },
+      {
+        "rank": 3,
+        "teamName": "Brighton & Hove Albion",
+        "shortName": "Brighton",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "played": 9,
+        "gd": "+17",
+        "points": 19
+      },
+      {
+        "rank": 4,
+        "teamName": "Chelsea",
+        "shortName": "Chelsea",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "played": 9,
+        "gd": "+4",
+        "points": 16
+      },
+      {
+        "rank": 5,
+        "teamName": "Liverpool",
+        "shortName": "Liverpool",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 9,
+        "gd": "+2",
+        "points": 15
+      },
+      {
+        "rank": 6,
+        "teamName": "Brentford",
+        "shortName": "Brentford",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+        "played": 9,
+        "gd": "+7",
+        "points": 14
+      },
+      {
+        "rank": 7,
+        "teamName": "AFC Bournemouth",
+        "shortName": "Bournemouth",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 12
+      },
+      {
+        "rank": 8,
+        "teamName": "Tottenham Hotspur",
+        "shortName": "Spurs",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "played": 9,
+        "gd": "0",
+        "points": 12
+      },
+      {
+        "rank": 9,
+        "teamName": "Aston Villa",
+        "shortName": "Aston Villa",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 9,
+        "gd": "-3",
+        "points": 12
+      },
+      {
+        "rank": 10,
+        "teamName": "Hull City",
+        "shortName": "Hull",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 11
+      },
+      {
+        "rank": 11,
+        "teamName": "Leeds United",
+        "shortName": "Leeds",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 11
+      },
+      {
+        "rank": 12,
+        "teamName": "Newcastle United",
+        "shortName": "Newcastle",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "played": 8,
+        "gd": "-2",
+        "points": 11
+      },
+      {
+        "rank": 13,
+        "teamName": "Ipswich Town",
+        "shortName": "Ipswich",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+        "played": 9,
+        "gd": "-4",
+        "points": 11
+      },
+      {
+        "rank": 14,
+        "teamName": "Everton",
+        "shortName": "Everton",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "played": 8,
+        "gd": "-1",
+        "points": 10
+      },
+      {
+        "rank": 15,
+        "teamName": "Fulham",
+        "shortName": "Fulham",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "played": 9,
+        "gd": "-2",
+        "points": 9
+      },
+      {
+        "rank": 16,
+        "teamName": "Coventry City",
+        "shortName": "Coventry",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+        "played": 9,
+        "gd": "-7",
+        "points": 9
+      },
+      {
+        "rank": 17,
+        "teamName": "Manchester United",
+        "shortName": "Man Utd",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 9,
+        "gd": "-5",
+        "points": 7
+      },
+      {
+        "rank": 18,
+        "teamName": "Crystal Palace",
+        "shortName": "C Palace",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "played": 9,
+        "gd": "-12",
+        "points": 7
+      },
+      {
+        "rank": 19,
+        "teamName": "Nottingham Forest",
+        "shortName": "Nottm Forest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+        "played": 9,
+        "gd": "-6",
+        "points": 6
+      },
+      {
+        "rank": 20,
+        "teamName": "Sunderland",
+        "shortName": "Sunderland",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+        "played": 9,
+        "gd": "-10",
+        "points": 5
+      }
+    ],
+    "LALIGA": [
+      {
+        "rank": 1,
+        "teamName": "Barcelona",
+        "shortName": "Barcelona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 11,
+        "gd": "+34",
+        "points": 30
+      },
+      {
+        "rank": 2,
+        "teamName": "Atlético Madrid",
+        "shortName": "Atlético",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 11,
+        "gd": "+14",
+        "points": 28
+      },
+      {
+        "rank": 3,
+        "teamName": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 11,
+        "gd": "+18",
+        "points": 27
+      },
+      {
+        "rank": 4,
+        "teamName": "Real Betis",
+        "shortName": "Betis",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 11,
+        "gd": "+3",
+        "points": 23
+      },
+      {
+        "rank": 5,
+        "teamName": "Real Sociedad",
+        "shortName": "Real Sociedad",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+        "played": 10,
+        "gd": "+1",
+        "points": 19
+      },
+      {
+        "rank": 6,
+        "teamName": "Sevilla",
+        "shortName": "Sevilla",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+        "played": 11,
+        "gd": "-2",
+        "points": 17
+      },
+      {
+        "rank": 7,
+        "teamName": "Athletic Club",
+        "shortName": "Athletic",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+        "played": 9,
+        "gd": "+3",
+        "points": 12
+      },
+      {
+        "rank": 8,
+        "teamName": "Villarreal",
+        "shortName": "Villarreal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 11,
+        "gd": "0",
+        "points": 12
+      },
+      {
+        "rank": 9,
+        "teamName": "Celta Vigo",
+        "shortName": "Celta Vigo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+        "played": 11,
+        "gd": "0",
+        "points": 12
+      },
+      {
+        "rank": 10,
+        "teamName": "Alavés",
+        "shortName": "Alavés",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "played": 11,
+        "gd": "-2",
+        "points": 12
+      },
+      {
+        "rank": 11,
+        "teamName": "Rayo Vallecano",
+        "shortName": "Rayo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+        "played": 10,
+        "gd": "-5",
+        "points": 12
+      },
+      {
+        "rank": 12,
+        "teamName": "Getafe",
+        "shortName": "Getafe",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+        "played": 11,
+        "gd": "-8",
+        "points": 12
+      },
+      {
+        "rank": 13,
+        "teamName": "Deportivo",
+        "shortName": "Deportivo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+        "played": 10,
+        "gd": "0",
+        "points": 11
+      },
+      {
+        "rank": 14,
+        "teamName": "Espanyol",
+        "shortName": "Espanyol",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+        "played": 11,
+        "gd": "-1",
+        "points": 11
+      },
+      {
+        "rank": 15,
+        "teamName": "Osasuna",
+        "shortName": "Osasuna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+        "played": 10,
+        "gd": "-10",
+        "points": 11
+      },
+      {
+        "rank": 16,
+        "teamName": "Racing Santander",
+        "shortName": "Racing",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+        "played": 11,
+        "gd": "-14",
+        "points": 11
+      },
+      {
+        "rank": 17,
+        "teamName": "Elche",
+        "shortName": "Elche",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+        "played": 11,
+        "gd": "-4",
+        "points": 10
+      },
+      {
+        "rank": 18,
+        "teamName": "Levante",
+        "shortName": "Levante",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+        "played": 11,
+        "gd": "-5",
+        "points": 10
+      },
+      {
+        "rank": 19,
+        "teamName": "Valencia",
+        "shortName": "Valencia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+        "played": 11,
+        "gd": "-9",
+        "points": 9
+      },
+      {
+        "rank": 20,
+        "teamName": "Málaga",
+        "shortName": "Málaga",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+        "played": 11,
+        "gd": "-13",
+        "points": 5
+      }
+    ],
+    "SERIE_A": [
+      {
+        "rank": 1,
+        "teamName": "Lazio",
+        "shortName": "Lazio",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+        "played": 10,
+        "gd": "+16",
+        "points": 28
+      },
+      {
+        "rank": 2,
+        "teamName": "Internazionale",
+        "shortName": "Inter Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "played": 10,
+        "gd": "+13",
+        "points": 25
+      },
+      {
+        "rank": 3,
+        "teamName": "AS Roma",
+        "shortName": "AS Roma",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "played": 10,
+        "gd": "+18",
+        "points": 24
+      },
+      {
+        "rank": 4,
+        "teamName": "Como",
+        "shortName": "Como",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+        "played": 10,
+        "gd": "+10",
+        "points": 23
+      },
+      {
+        "rank": 5,
+        "teamName": "AC Milan",
+        "shortName": "Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "played": 10,
+        "gd": "+9",
+        "points": 21
+      },
+      {
+        "rank": 6,
+        "teamName": "Frosinone",
+        "shortName": "Frosinone",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+        "played": 10,
+        "gd": "+10",
+        "points": 20
+      },
+      {
+        "rank": 7,
+        "teamName": "Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 9,
+        "gd": "+6",
+        "points": 14
+      },
+      {
+        "rank": 8,
+        "teamName": "Juventus",
+        "shortName": "Juventus",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 14
+      },
+      {
+        "rank": 9,
+        "teamName": "Bologna",
+        "shortName": "Bologna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 10,
+        "gd": "+1",
+        "points": 14
+      },
+      {
+        "rank": 10,
+        "teamName": "Torino",
+        "shortName": "Torino",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+        "played": 10,
+        "gd": "-2",
+        "points": 13
+      },
+      {
+        "rank": 11,
+        "teamName": "Genoa",
+        "shortName": "Genoa",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+        "played": 10,
+        "gd": "-4",
+        "points": 13
+      },
+      {
+        "rank": 12,
+        "teamName": "Cagliari",
+        "shortName": "Cagliari",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+        "played": 10,
+        "gd": "-6",
+        "points": 13
+      },
+      {
+        "rank": 13,
+        "teamName": "Atalanta",
+        "shortName": "Atalanta",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+        "played": 9,
+        "gd": "-1",
+        "points": 11
+      },
+      {
+        "rank": 14,
+        "teamName": "Lecce",
+        "shortName": "Lecce",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+        "played": 10,
+        "gd": "-10",
+        "points": 9
+      },
+      {
+        "rank": 15,
+        "teamName": "Sassuolo",
+        "shortName": "Sassuolo",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+        "played": 9,
+        "gd": "-8",
+        "points": 8
+      },
+      {
+        "rank": 16,
+        "teamName": "Monza",
+        "shortName": "Monza",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+        "played": 10,
+        "gd": "-7",
+        "points": 7
+      },
+      {
+        "rank": 17,
+        "teamName": "Fiorentina",
+        "shortName": "Fiorentina",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+        "played": 9,
+        "gd": "-10",
+        "points": 5
+      },
+      {
+        "rank": 18,
+        "teamName": "Parma",
+        "shortName": "Parma",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 9,
+        "gd": "-10",
+        "points": 5
+      },
+      {
+        "rank": 19,
+        "teamName": "Udinese",
+        "shortName": "Udinese",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+        "played": 10,
+        "gd": "-12",
+        "points": 5
+      },
+      {
+        "rank": 20,
+        "teamName": "Venezia",
+        "shortName": "Venezia",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+        "played": 10,
+        "gd": "-14",
+        "points": 3
+      }
+    ],
+    "BUNDESLIGA": [
+      {
+        "rank": 1,
+        "teamName": "Bayern Munich",
+        "shortName": "Bayern",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "played": 8,
+        "gd": "+19",
+        "points": 18
+      },
+      {
+        "rank": 2,
+        "teamName": "Borussia Dortmund",
+        "shortName": "Dortmund",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "played": 8,
+        "gd": "+8",
+        "points": 18
+      },
+      {
+        "rank": 3,
+        "teamName": "SC Freiburg",
+        "shortName": "Freiburg",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+        "played": 8,
+        "gd": "+8",
+        "points": 16
+      },
+      {
+        "rank": 4,
+        "teamName": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "played": 8,
+        "gd": "+11",
+        "points": 15
+      },
+      {
+        "rank": 5,
+        "teamName": "Werder Bremen",
+        "shortName": "Bremen",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+        "played": 8,
+        "gd": "+3",
+        "points": 15
+      },
+      {
+        "rank": 6,
+        "teamName": "Bayer Leverkusen",
+        "shortName": "Leverkusen",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+        "played": 8,
+        "gd": "+2",
+        "points": 13
+      },
+      {
+        "rank": 7,
+        "teamName": "SV Elversberg",
+        "shortName": "Elversberg",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+        "played": 8,
+        "gd": "0",
+        "points": 13
+      },
+      {
+        "rank": 8,
+        "teamName": "Eintracht Frankfurt",
+        "shortName": "Frankfurt",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+        "played": 8,
+        "gd": "-5",
+        "points": 11
+      },
+      {
+        "rank": 9,
+        "teamName": "Mainz",
+        "shortName": "Mainz",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+        "played": 8,
+        "gd": "0",
+        "points": 10
+      },
+      {
+        "rank": 10,
+        "teamName": "FC Augsburg",
+        "shortName": "Augsburg",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+        "played": 8,
+        "gd": "+3",
+        "points": 9
+      },
+      {
+        "rank": 11,
+        "teamName": "VfB Stuttgart",
+        "shortName": "Stuttgart",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "played": 8,
+        "gd": "-1",
+        "points": 9
+      },
+      {
+        "rank": 12,
+        "teamName": "TSG Hoffenheim",
+        "shortName": "Hoffenheim",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+        "played": 8,
+        "gd": "-2",
+        "points": 9
+      },
+      {
+        "rank": 13,
+        "teamName": "FC Cologne",
+        "shortName": "Cologne",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+        "played": 8,
+        "gd": "-3",
+        "points": 9
+      },
+      {
+        "rank": 14,
+        "teamName": "SC Paderborn 07",
+        "shortName": "Paderborn",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+        "played": 8,
+        "gd": "-3",
+        "points": 9
+      },
+      {
+        "rank": 15,
+        "teamName": "Hamburg SV",
+        "shortName": "Hamburg",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+        "played": 8,
+        "gd": "-12",
+        "points": 9
+      },
+      {
+        "rank": 16,
+        "teamName": "1. FC Union Berlin",
+        "shortName": "Union Berlin",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+        "played": 8,
+        "gd": "-12",
+        "points": 7
+      },
+      {
+        "rank": 17,
+        "teamName": "Schalke 04",
+        "shortName": "Schalke",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+        "played": 8,
+        "gd": "-5",
+        "points": 6
+      },
+      {
+        "rank": 18,
+        "teamName": "Borussia Mönchengladbach",
+        "shortName": "Gladbach",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+        "played": 8,
+        "gd": "-11",
+        "points": 4
+      }
+    ],
+    "LIGUE1": [
+      {
+        "rank": 1,
+        "teamName": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 9,
+        "gd": "+11",
+        "points": 20
+      },
+      {
+        "rank": 2,
+        "teamName": "Lille",
+        "shortName": "Lille",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 9,
+        "gd": "+6",
+        "points": 18
+      },
+      {
+        "rank": 3,
+        "teamName": "Lyon",
+        "shortName": "Lyon",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+        "played": 9,
+        "gd": "+8",
+        "points": 17
+      },
+      {
+        "rank": 4,
+        "teamName": "Paris FC",
+        "shortName": "Paris FC",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+        "played": 9,
+        "gd": "+6",
+        "points": 17
+      },
+      {
+        "rank": 5,
+        "teamName": "Stade Rennais",
+        "shortName": "Rennes",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 16
+      },
+      {
+        "rank": 6,
+        "teamName": "AS Monaco",
+        "shortName": "Monaco",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+        "played": 9,
+        "gd": "+2",
+        "points": 15
+      },
+      {
+        "rank": 7,
+        "teamName": "Nice",
+        "shortName": "Nice",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+        "played": 9,
+        "gd": "+1",
+        "points": 14
+      },
+      {
+        "rank": 8,
+        "teamName": "Lens",
+        "shortName": "Lens",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 9,
+        "gd": "+3",
+        "points": 13
+      },
+      {
+        "rank": 9,
+        "teamName": "Marseille",
+        "shortName": "Marseille",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+        "played": 8,
+        "gd": "+5",
+        "points": 12
+      },
+      {
+        "rank": 10,
+        "teamName": "Lorient",
+        "shortName": "Lorient",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+        "played": 8,
+        "gd": "+1",
+        "points": 12
+      },
+      {
+        "rank": 11,
+        "teamName": "Toulouse",
+        "shortName": "Toulouse",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+        "played": 8,
+        "gd": "+1",
+        "points": 10
+      },
+      {
+        "rank": 12,
+        "teamName": "Strasbourg",
+        "shortName": "Strasbourg",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+        "played": 9,
+        "gd": "-2",
+        "points": 10
+      },
+      {
+        "rank": 13,
+        "teamName": "AJ Auxerre",
+        "shortName": "Auxerre",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+        "played": 9,
+        "gd": "-10",
+        "points": 10
+      },
+      {
+        "rank": 14,
+        "teamName": "Brest",
+        "shortName": "Brest",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+        "played": 8,
+        "gd": "+2",
+        "points": 9
+      },
+      {
+        "rank": 15,
+        "teamName": "Angers",
+        "shortName": "Angers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+        "played": 9,
+        "gd": "-8",
+        "points": 8
+      },
+      {
+        "rank": 16,
+        "teamName": "Troyes",
+        "shortName": "Troyes",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+        "played": 9,
+        "gd": "-9",
+        "points": 8
+      },
+      {
+        "rank": 17,
+        "teamName": "Le Mans",
+        "shortName": "Le Mans",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+        "played": 9,
+        "gd": "-7",
+        "points": 7
+      },
+      {
+        "rank": 18,
+        "teamName": "Le Havre AC",
+        "shortName": "Le Havre AC",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+        "played": 9,
+        "gd": "-11",
+        "points": 2
+      }
+    ],
+    "UCL": [
+      {
+        "rank": 1,
+        "teamName": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "played": 3,
+        "gd": "+9",
+        "points": 9
+      },
+      {
+        "rank": 2,
+        "teamName": "Aston Villa",
+        "shortName": "Aston Villa",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 3,
+        "gd": "+9",
+        "points": 9
+      },
+      {
+        "rank": 3,
+        "teamName": "Liverpool",
+        "shortName": "Liverpool",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 9
+      },
+      {
+        "rank": 4,
+        "teamName": "Real Madrid",
+        "shortName": "Real Madrid",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 9
+      },
+      {
+        "rank": 5,
+        "teamName": "Real Betis",
+        "shortName": "Betis",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+        "played": 3,
+        "gd": "+3",
+        "points": 9
+      },
+      {
+        "rank": 6,
+        "teamName": "VfB Stuttgart",
+        "shortName": "Stuttgart",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 7
+      },
+      {
+        "rank": 7,
+        "teamName": "Arsenal",
+        "shortName": "Arsenal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "played": 3,
+        "gd": "+4",
+        "points": 7
+      },
+      {
+        "rank": 8,
+        "teamName": "Barcelona",
+        "shortName": "Barcelona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 6
+      },
+      {
+        "rank": 9,
+        "teamName": "Como",
+        "shortName": "Como",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 6
+      },
+      {
+        "rank": 10,
+        "teamName": "Manchester City",
+        "shortName": "Man City",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "played": 3,
+        "gd": "+4",
+        "points": 6
+      },
+      {
+        "rank": 11,
+        "teamName": "Club Brugge",
+        "shortName": "Club Brugge",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+        "played": 3,
+        "gd": "+3",
+        "points": 6
+      },
+      {
+        "rank": 12,
+        "teamName": "Sporting CP",
+        "shortName": "Sporting",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+        "played": 3,
+        "gd": "+3",
+        "points": 6
+      },
+      {
+        "rank": 13,
+        "teamName": "Borussia Dortmund",
+        "shortName": "Dortmund",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+        "played": 3,
+        "gd": "+1",
+        "points": 6
+      },
+      {
+        "rank": 14,
+        "teamName": "Bayern Munich",
+        "shortName": "Bayern",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "played": 3,
+        "gd": "+5",
+        "points": 5
+      },
+      {
+        "rank": 15,
+        "teamName": "AS Roma",
+        "shortName": "AS Roma",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+        "played": 3,
+        "gd": "+3",
+        "points": 4
+      },
+      {
+        "rank": 16,
+        "teamName": "Atlético Madrid",
+        "shortName": "Atlético",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 3,
+        "gd": "+1",
+        "points": 4
+      },
+      {
+        "rank": 17,
+        "teamName": "Shakhtar Donetsk",
+        "shortName": "Shakhtar",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+        "played": 3,
+        "gd": "+1",
+        "points": 4
+      },
+      {
+        "rank": 18,
+        "teamName": "PSV Eindhoven",
+        "shortName": "PSV",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+        "played": 3,
+        "gd": "0",
+        "points": 4
+      },
+      {
+        "rank": 19,
+        "teamName": "Villarreal",
+        "shortName": "Villarreal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 3,
+        "gd": "0",
+        "points": 3
+      },
+      {
+        "rank": 20,
+        "teamName": "Internazionale",
+        "shortName": "Inter Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "played": 3,
+        "gd": "-1",
+        "points": 3
+      },
+      {
+        "rank": 21,
+        "teamName": "Manchester United",
+        "shortName": "Man Utd",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 3,
+        "gd": "-1",
+        "points": 3
+      },
+      {
+        "rank": 22,
+        "teamName": "Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 3,
+        "gd": "-2",
+        "points": 3
+      },
+      {
+        "rank": 23,
+        "teamName": "Galatasaray",
+        "shortName": "Galatasaray",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+        "played": 3,
+        "gd": "-3",
+        "points": 3
+      },
+      {
+        "rank": 24,
+        "teamName": "LASK Linz",
+        "shortName": "LASK Linz",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+        "played": 3,
+        "gd": "-3",
+        "points": 3
+      },
+      {
+        "rank": 25,
+        "teamName": "Sabah FK",
+        "shortName": "Sabah",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+        "played": 3,
+        "gd": "-3",
+        "points": 3
+      },
+      {
+        "rank": 26,
+        "teamName": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+        "played": 3,
+        "gd": "-4",
+        "points": 3
+      },
+      {
+        "rank": 27,
+        "teamName": "Lens",
+        "shortName": "Lens",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+        "played": 3,
+        "gd": "-4",
+        "points": 3
+      },
+      {
+        "rank": 28,
+        "teamName": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+        "played": 3,
+        "gd": "-5",
+        "points": 3
+      },
+      {
+        "rank": 29,
+        "teamName": "AEK Athens",
+        "shortName": "AEK Athens",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
+        "played": 3,
+        "gd": "-5",
+        "points": 3
+      },
+      {
+        "rank": 30,
+        "teamName": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+        "played": 3,
+        "gd": "-5",
+        "points": 3
+      },
+      {
+        "rank": 31,
+        "teamName": "Fenerbahce",
+        "shortName": "Fenerbahce",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+        "played": 3,
+        "gd": "-6",
+        "points": 2
+      },
+      {
+        "rank": 32,
+        "teamName": "Slavia Prague",
+        "shortName": "Slavia Prague",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+        "played": 3,
+        "gd": "-3",
+        "points": 1
+      },
+      {
+        "rank": 33,
+        "teamName": "Viking FK",
+        "shortName": "Viking FK",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
+        "played": 3,
+        "gd": "-4",
+        "points": 1
+      },
+      {
+        "rank": 34,
+        "teamName": "FC Porto",
+        "shortName": "FC Porto",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+        "played": 3,
+        "gd": "-4",
+        "points": 0
+      },
+      {
+        "rank": 35,
+        "teamName": "Lille",
+        "shortName": "Lille",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 3,
+        "gd": "-6",
+        "points": 0
+      },
+      {
+        "rank": 36,
+        "teamName": "Slovan Bratislava",
+        "shortName": "S Bratislava",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+        "played": 3,
+        "gd": "-12",
+        "points": 0
+      }
+    ],
+    "NBA": [
+      {
+        "rank": 1,
+        "teamName": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+        "played": 7,
+        "gd": "6T-1B (GB -)",
+        "points": 6
+      },
+      {
+        "rank": 2,
+        "teamName": "Houston Rockets",
+        "shortName": "Rockets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+        "played": 7,
+        "gd": "6T-1B (GB 0.5)",
+        "points": 6
+      },
+      {
+        "rank": 3,
+        "teamName": "Memphis Grizzlies",
+        "shortName": "Grizzlies",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+        "played": 6,
+        "gd": "6T-0B (GB -)",
+        "points": 6
+      },
+      {
+        "rank": 4,
+        "teamName": "Detroit Pistons",
+        "shortName": "Pistons",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+        "played": 6,
+        "gd": "5T-1B (GB 0.5)",
+        "points": 5
+      },
+      {
+        "rank": 5,
+        "teamName": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+        "played": 6,
+        "gd": "4T-2B (GB 1.5)",
+        "points": 4
+      },
+      {
+        "rank": 6,
+        "teamName": "Boston Celtics",
+        "shortName": "Celtics",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+        "played": 5,
+        "gd": "4T-1B (GB 1)",
+        "points": 4
+      },
+      {
+        "rank": 7,
+        "teamName": "Minnesota Timberwolves",
+        "shortName": "Timberwolves",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+        "played": 7,
+        "gd": "4T-3B (GB 2.5)",
+        "points": 4
+      },
+      {
+        "rank": 8,
+        "teamName": "Los Angeles Lakers",
+        "shortName": "Lakers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+        "played": 6,
+        "gd": "4T-2B (GB 2)",
+        "points": 4
+      },
+      {
+        "rank": 9,
+        "teamName": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+        "played": 6,
+        "gd": "4T-2B (GB 2)",
+        "points": 4
+      },
+      {
+        "rank": 10,
+        "teamName": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+        "played": 6,
+        "gd": "4T-2B (GB 2)",
+        "points": 4
+      },
+      {
+        "rank": 11,
+        "teamName": "Dallas Mavericks",
+        "shortName": "Mavericks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+        "played": 6,
+        "gd": "4T-2B (GB 2)",
+        "points": 4
+      },
+      {
+        "rank": 12,
+        "teamName": "Portland Trail Blazers",
+        "shortName": "Trail Blazers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+        "played": 5,
+        "gd": "4T-1B (GB 1.5)",
+        "points": 4
+      },
+      {
+        "rank": 13,
+        "teamName": "Atlanta Hawks",
+        "shortName": "Hawks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+        "played": 7,
+        "gd": "3T-4B (GB 3)",
+        "points": 3
+      },
+      {
+        "rank": 14,
+        "teamName": "Charlotte Hornets",
+        "shortName": "Hornets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+        "played": 7,
+        "gd": "3T-4B (GB 3)",
+        "points": 3
+      },
+      {
+        "rank": 15,
+        "teamName": "Washington Wizards",
+        "shortName": "Wizards",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+        "played": 6,
+        "gd": "3T-3B (GB 2.5)",
+        "points": 3
+      },
+      {
+        "rank": 16,
+        "teamName": "Toronto Raptors",
+        "shortName": "Raptors",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+        "played": 5,
+        "gd": "3T-2B (GB 2)",
+        "points": 3
+      },
+      {
+        "rank": 17,
+        "teamName": "Golden State Warriors",
+        "shortName": "Warriors",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+        "played": 6,
+        "gd": "3T-3B (GB 3)",
+        "points": 3
+      },
+      {
+        "rank": 18,
+        "teamName": "Denver Nuggets",
+        "shortName": "Nuggets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+        "played": 5,
+        "gd": "3T-2B (GB 2.5)",
+        "points": 3
+      },
+      {
+        "rank": 19,
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+        "played": 6,
+        "gd": "2T-4B (GB 3.5)",
+        "points": 2
+      },
+      {
+        "rank": 20,
+        "teamName": "New York Knicks",
+        "shortName": "Knicks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+        "played": 6,
+        "gd": "2T-4B (GB 3.5)",
+        "points": 2
+      },
+      {
+        "rank": 21,
+        "teamName": "Indiana Pacers",
+        "shortName": "Pacers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "played": 6,
+        "gd": "2T-4B (GB 3.5)",
+        "points": 2
+      },
+      {
+        "rank": 22,
+        "teamName": "Orlando Magic",
+        "shortName": "Magic",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+        "played": 5,
+        "gd": "2T-3B (GB 3)",
+        "points": 2
+      },
+      {
+        "rank": 23,
+        "teamName": "New Orleans Pelicans",
+        "shortName": "Pelicans",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+        "played": 6,
+        "gd": "2T-4B (GB 4)",
+        "points": 2
+      },
+      {
+        "rank": 24,
+        "teamName": "Chicago Bulls",
+        "shortName": "Bulls",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+        "played": 6,
+        "gd": "1T-5B (GB 4.5)",
+        "points": 1
+      },
+      {
+        "rank": 25,
+        "teamName": "Milwaukee Bucks",
+        "shortName": "Bucks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+        "played": 6,
+        "gd": "1T-5B (GB 4.5)",
+        "points": 1
+      },
+      {
+        "rank": 26,
+        "teamName": "Utah Jazz",
+        "shortName": "Jazz",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+        "played": 6,
+        "gd": "1T-5B (GB 5)",
+        "points": 1
+      },
+      {
+        "rank": 27,
+        "teamName": "LA Clippers",
+        "shortName": "Clippers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+        "played": 5,
+        "gd": "1T-4B (GB 4.5)",
+        "points": 1
+      },
+      {
+        "rank": 28,
+        "teamName": "Phoenix Suns",
+        "shortName": "Suns",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+        "played": 4,
+        "gd": "1T-3B (GB 4)",
+        "points": 1
+      },
+      {
+        "rank": 29,
+        "teamName": "Brooklyn Nets",
+        "shortName": "Nets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+        "played": 5,
+        "gd": "0T-5B (GB 5)",
+        "points": 0
+      },
+      {
+        "rank": 30,
+        "teamName": "Sacramento Kings",
+        "shortName": "Kings",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+        "played": 6,
+        "gd": "0T-6B (GB 6)",
+        "points": 0
+      }
+    ],
+    "VLEAGUE": [
+      {
+        "rank": 1,
+        "teamName": "Nam Định",
+        "shortName": "Nam Định",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/109375.png",
+        "played": 6,
+        "gd": "+9",
+        "points": 13
+      },
+      {
+        "rank": 2,
+        "teamName": "Song Lam Nghe An",
+        "shortName": "Song Lam Nghe An",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179221.png",
+        "played": 6,
+        "gd": "+6",
+        "points": 12
+      },
+      {
+        "rank": 3,
+        "teamName": "Công An Hà Nội",
+        "shortName": "Công An Hà Nội",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/614354.png",
+        "played": 6,
+        "gd": "+5",
+        "points": 11
+      },
+      {
+        "rank": 4,
+        "teamName": "Hong Linh Ha Tinh",
+        "shortName": "Hong Linh Ha Tinh",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1123220.png",
+        "played": 6,
+        "gd": "+2",
+        "points": 11
+      },
+      {
+        "rank": 5,
+        "teamName": "Ninh Bình Club",
+        "shortName": "Ninh Bình Club",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1235223.png",
+        "played": 6,
+        "gd": "+3",
+        "points": 10
+      },
+      {
+        "rank": 6,
+        "teamName": "Cong An Ho Chí Minh City",
+        "shortName": "Cong An Ho Chí Minh City",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179228.png",
+        "played": 6,
+        "gd": "+2",
+        "points": 10
+      },
+      {
+        "rank": 7,
+        "teamName": "Hải Phòng",
+        "shortName": "Hải Phòng",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179222.png",
+        "played": 6,
+        "gd": "+2",
+        "points": 9
+      },
+      {
+        "rank": 8,
+        "teamName": "Da Nẵng",
+        "shortName": "Da Nẵng",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179220.png",
+        "played": 6,
+        "gd": "-3",
+        "points": 9
+      },
+      {
+        "rank": 9,
+        "teamName": "Ha Nội FC",
+        "shortName": "Ha Nội FC",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179219.png",
+        "played": 6,
+        "gd": "-3",
+        "points": 9
+      },
+      {
+        "rank": 10,
+        "teamName": "Thanh Hòa FC",
+        "shortName": "Thanh Hòa FC",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179226.png",
+        "played": 6,
+        "gd": "-1",
+        "points": 8
+      },
+      {
+        "rank": 11,
+        "teamName": "Bac Ninh",
+        "shortName": "Bac Ninh",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1801359.png",
+        "played": 6,
+        "gd": "0",
+        "points": 8
+      },
+      {
+        "rank": 12,
+        "teamName": "Viettel",
+        "shortName": "Viettel",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/743070.png",
+        "played": 6,
+        "gd": "-4",
+        "points": 4
+      },
+      {
+        "rank": 13,
+        "teamName": "Hoàng Anh Gia Lai",
+        "shortName": "Hoàng Anh Gia Lai",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179227.png",
+        "played": 6,
+        "gd": "-7",
+        "points": 3
+      },
+      {
+        "rank": 14,
+        "teamName": "Trường Tươi Đồng Nai",
+        "shortName": "Trường Tươi Đồng Nai",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/614353.png",
+        "played": 6,
+        "gd": "-11",
+        "points": 1
+      }
+    ]
+  }
+}
