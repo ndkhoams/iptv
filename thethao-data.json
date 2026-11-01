@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 04:25:55",
+  "updated_at": "2026-11-02 04:41:03",
   "live_events": [
     {
       "key": "02/11_03:00_bilbao_realsociedad",
@@ -61,58 +61,6 @@
       "number": 1
     },
     {
-      "key": "02/11_02:45_juventus_napoli",
-      "homeTeam": "Juventus",
-      "awayTeam": "Napoli",
-      "time": "02:45",
-      "date": "02/11",
-      "timestamp": 1793562300000,
-      "league": "SERIE_A",
-      "leagueName": "🇮🇹 Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 02/11] Juventus vs Napoli (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 02/11] Juventus Vs Napoli (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "02:45 02/11 ⚽ Juventus vs Napoli (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 02/11 ⚽ Juventus vs Napoli (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/08a2a214a25e4fcc8005f69bc34f3b18/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 02/11 ⚽ Juventus vs Napoli (LÝ LONG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/08a2a214a25e4fcc8005f69bc34f3b18/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4hn4dq86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [02:45 02/11] Juventus vs Napoli",
-      "number": 2
-    },
-    {
       "key": "02/11_02:45_marseille_toulouse",
       "homeTeam": "Marseille",
       "awayTeam": "Toulouse",
@@ -155,7 +103,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 02/11] Marseille vs Toulouse",
-      "number": 3
+      "number": 2
     },
     {
       "key": "03/11_02:45_atalanta_parma",
@@ -186,7 +134,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 03/11] Atalanta vs Parma",
-      "number": 4
+      "number": 3
     },
     {
       "key": "03/11_03:00_everton_newcastle",
@@ -217,7 +165,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 03/11] Newcastle vs Everton",
-      "number": 5
+      "number": 4
     },
     {
       "key": "02/11_05:00_brooklynnets_indianapacers",
@@ -248,7 +196,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 02/11] Indiana Pacers vs Brooklyn Nets",
-      "number": 6
+      "number": 5
     },
     {
       "key": "02/11_12:00_hunters_ulaanbaatar",
@@ -272,7 +220,7 @@
         }
       ],
       "displayTitle": "🏀 [12:00 02/11] Hunters vs Ulaanbaatar",
-      "number": 7
+      "number": 6
     }
   ],
   "source_groups": [
@@ -808,13 +756,6 @@
       "name": "👑 Vua Sân Cỏ",
       "channels": [
         {
-          "name": "01:00 02/11 ⚽ Boca Juniors vs River Plate (Nguyễn Ánh)",
-          "url": "https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
           "name": "03:00 02/11 ⚽ Athletic Club vs Real Sociedad (Triệu Hằng)",
           "url": "https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8",
           "logo": "https://global-cdn.cdnx.tech/football/team/abbb31d42c55612737713aac6567a226.png",
@@ -1051,7 +992,7 @@
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "61'",
+      "detail": "75'",
       "date": "2026-11-01T20:00Z"
     },
     {
@@ -1101,12 +1042,12 @@
     {
       "home_team": "Juventus",
       "away_team": "Napoli",
-      "home_score": "1",
+      "home_score": "2",
       "away_score": "0",
       "league": "SERIE_A",
-      "state": "in",
-      "is_completed": false,
-      "detail": "82'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-01T19:45Z"
     },
     {
@@ -1172,7 +1113,7 @@
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "81'",
+      "detail": "90'+6'",
       "date": "2026-11-01T19:45Z"
     },
     {
@@ -1277,12 +1218,12 @@
     {
       "home_team": "Orlando Magic",
       "away_team": "Boston Celtics",
-      "home_score": "38",
-      "away_score": "44",
+      "home_score": "50",
+      "away_score": "55",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:18 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-01T20:30Z"
     },
     {
@@ -1741,20 +1682,20 @@
       },
       {
         "rank": 7,
-        "teamName": "Napoli",
-        "shortName": "Napoli",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-        "played": 9,
-        "gd": "+6",
-        "points": 14
-      },
-      {
-        "rank": 8,
         "teamName": "Juventus",
         "shortName": "Juventus",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-        "played": 9,
-        "gd": "+1",
+        "played": 10,
+        "gd": "+3",
+        "points": 17
+      },
+      {
+        "rank": 8,
+        "teamName": "Napoli",
+        "shortName": "Napoli",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+        "played": 10,
+        "gd": "+4",
         "points": 14
       },
       {
