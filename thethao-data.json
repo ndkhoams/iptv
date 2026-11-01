@@ -1,65 +1,6 @@
 {
-  "updated_at": "2026-11-02 04:56:14",
+  "updated_at": "2026-11-02 05:11:34",
   "live_events": [
-    {
-      "key": "02/11_03:00_bilbao_realsociedad",
-      "homeTeam": "Athletic Club",
-      "awayTeam": "Real Sociedad",
-      "time": "03:00",
-      "date": "02/11",
-      "timestamp": 1793563200000,
-      "league": "LALIGA",
-      "leagueName": "🇪🇸 La Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 02/11] Athletic Club vs Real Sociedad (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 02/11] Athletic Club Vs Real Sociedad (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 02/11 ⚽ Athletic Club vs Real Sociedad (Triệu Hằng)",
-          "url": "https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/abbb31d42c55612737713aac6567a226.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (TRÚC BẠCH) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/c240057af7ba4aeca164f57d40ba2b83/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (LÝ LÀNG LÁ) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/c240057af7ba4aeca164f57d40ba2b83/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 02/11] Athletic Club vs Real Sociedad",
-      "number": 1
-    },
     {
       "key": "03/11_02:45_atalanta_parma",
       "homeTeam": "Atalanta",
@@ -89,7 +30,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 03/11] Atalanta vs Parma",
-      "number": 2
+      "number": 1
     },
     {
       "key": "03/11_03:00_everton_newcastle",
@@ -120,7 +61,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 03/11] Newcastle vs Everton",
-      "number": 3
+      "number": 2
     },
     {
       "key": "02/11_05:00_brooklynnets_indianapacers",
@@ -151,7 +92,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 02/11] Indiana Pacers vs Brooklyn Nets",
-      "number": 4
+      "number": 3
     },
     {
       "key": "02/11_12:00_hunters_ulaanbaatar",
@@ -175,20 +116,13 @@
         }
       ],
       "displayTitle": "🏀 [12:00 02/11] Hunters vs Ulaanbaatar",
-      "number": 5
+      "number": 4
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [03:00 02/11] Athletic Club vs Real Sociedad (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [06:10 02/11] Independiente Medellín vs Alianza Petrolera (BLV Chuối Nhỏ) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -313,13 +247,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [03:00 02/11] Athletic Club Vs Real Sociedad (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [06:00 02/11] Santos Laguna Vs Necaxa (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -917,9 +844,9 @@
       "home_score": "2",
       "away_score": "1",
       "league": "LALIGA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "90'+1'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-01T20:00Z"
     },
     {
@@ -1145,23 +1072,23 @@
     {
       "home_team": "Orlando Magic",
       "away_team": "Boston Celtics",
-      "home_score": "50",
-      "away_score": "55",
+      "home_score": "59",
+      "away_score": "69",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:33 - 3rd",
+      "detail": "5:19 - 3rd",
       "date": "2026-11-01T20:30Z"
     },
     {
       "home_team": "Indiana Pacers",
       "away_team": "Brooklyn Nets",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "2",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/1 - 5:00 PM EST",
+      "detail": "11:43 - 1st",
       "date": "2026-11-01T22:00Z"
     },
     {
@@ -1412,8 +1339,8 @@
         "teamName": "Real Sociedad",
         "shortName": "Real Sociedad",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-        "played": 10,
-        "gd": "+1",
+        "played": 11,
+        "gd": "0",
         "points": 19
       },
       {
@@ -1430,9 +1357,9 @@
         "teamName": "Athletic Club",
         "shortName": "Athletic",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-        "played": 9,
-        "gd": "+3",
-        "points": 12
+        "played": 10,
+        "gd": "+4",
+        "points": 15
       },
       {
         "rank": 8,
