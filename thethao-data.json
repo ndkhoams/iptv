@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 05:57:15",
+  "updated_at": "2026-11-02 06:12:25",
   "live_events": [
     {
       "key": "03/11_02:45_atalanta_parma",
@@ -1072,23 +1072,23 @@
     {
       "home_team": "Orlando Magic",
       "away_team": "Boston Celtics",
-      "home_score": "95",
-      "away_score": "106",
+      "home_score": "97",
+      "away_score": "108",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:31 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-01T20:30Z"
     },
     {
       "home_team": "Indiana Pacers",
       "away_team": "Brooklyn Nets",
-      "home_score": "21",
-      "away_score": "26",
+      "home_score": "32",
+      "away_score": "37",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "8:20 - 2nd",
+      "detail": "3:23 - 2nd",
       "date": "2026-11-01T22:00Z"
     },
     {
@@ -2354,20 +2354,20 @@
       },
       {
         "rank": 5,
+        "teamName": "Boston Celtics",
+        "shortName": "Celtics",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+        "played": 6,
+        "gd": "5T-1B (GB 0.5)",
+        "points": 5
+      },
+      {
+        "rank": 6,
         "teamName": "Cleveland Cavaliers",
         "shortName": "Cavaliers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
         "played": 6,
         "gd": "4T-2B (GB 1.5)",
-        "points": 4
-      },
-      {
-        "rank": 6,
-        "teamName": "Boston Celtics",
-        "shortName": "Celtics",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-        "played": 5,
-        "gd": "4T-1B (GB 1)",
         "points": 4
       },
       {
@@ -2489,6 +2489,15 @@
       },
       {
         "rank": 20,
+        "teamName": "Orlando Magic",
+        "shortName": "Magic",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+        "played": 6,
+        "gd": "2T-4B (GB 3.5)",
+        "points": 2
+      },
+      {
+        "rank": 21,
         "teamName": "New York Knicks",
         "shortName": "Knicks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
@@ -2497,21 +2506,12 @@
         "points": 2
       },
       {
-        "rank": 21,
+        "rank": 22,
         "teamName": "Indiana Pacers",
         "shortName": "Pacers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
         "played": 6,
         "gd": "2T-4B (GB 3.5)",
-        "points": 2
-      },
-      {
-        "rank": 22,
-        "teamName": "Orlando Magic",
-        "shortName": "Magic",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-        "played": 5,
-        "gd": "2T-3B (GB 3)",
         "points": 2
       },
       {
