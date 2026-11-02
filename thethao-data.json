@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-11-03 02:31:59",
+  "updated_at": "2026-11-03 02:47:31",
   "live_events": [
+    {
+      "key": "03/11_03:00_everton_newcastle",
+      "c_home": "newcastle",
+      "c_away": "everton",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Everton",
+      "time": "03:00",
+      "date": "03/11",
+      "timestamp": 1793649600000,
+      "league": "EPL",
+      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 03/11] Newcastle vs Everton (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [03:00 03/11] Newcastle United Vs Everton (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle United vs Everton (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNqdHMyb2M5a2h0d2l1cXhuejRhb2J4Zg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle United vs Everton (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle vs Everton (Giàng A Dân) [hls]",
+          "url": "https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle vs Everton (Súp Lơ ) [hls]",
+          "url": "https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle vs Everton (LÝ LONG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/44c4e8e5ed3a44a5823453de94636e11/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 03/11 ⚽ Newcastle vs Everton (LÝ LONG) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/44c4e8e5ed3a44a5823453de94636e11/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:00 03/11] Newcastle vs Everton",
+      "number": 1
+    },
     {
       "key": "03/11_00:30_cdleganes_valladolid",
       "c_home": "valladolid",
@@ -39,7 +114,40 @@
         }
       ],
       "displayTitle": "🔴 [00:30 03/11] Real Valladolid vs CD Leganes",
-      "number": 1
+      "number": 2
+    },
+    {
+      "key": "03/11_03:00_deportivo_osasuna",
+      "c_home": "deportivo",
+      "c_away": "osasuna",
+      "homeTeam": "Deportivo",
+      "awayTeam": "Osasuna",
+      "time": "03:00",
+      "date": "03/11",
+      "timestamp": 1793649600000,
+      "league": "LALIGA",
+      "leagueName": "🇪🇸 La Liga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 03/11] Rc Deportivo Vs Ca Osasuna (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "03:00 03/11 ⚽ Deportivo La Coruña vs Osasuna (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2NDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1xOWl4MGl3ZDJjcXhkZmthcTU3cWQ2OA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-la-coruna-429",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:00 03/11] Deportivo vs Osasuna",
+      "number": 3
     },
     {
       "key": "03/11_02:45_atalanta_parma",
@@ -114,7 +222,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 03/11] Atalanta vs Parma",
-      "number": 2
+      "number": 4
     },
     {
       "key": "03/11_02:45_brest_lorient",
@@ -154,7 +262,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 03/11] Lorient vs Brestois 29",
-      "number": 3
+      "number": 5
     },
     {
       "key": "03/11_01:00_aik_gais",
@@ -194,7 +302,7 @@
         }
       ],
       "displayTitle": "🔴 [01:00 03/11] Gais vs Aik",
-      "number": 4
+      "number": 6
     },
     {
       "key": "03/11_01:15_algharafa_alqadisiyah",
@@ -220,7 +328,7 @@
         }
       ],
       "displayTitle": "🔴 [01:15 03/11] Al-Gharafa vs Al-Qadisiyah",
-      "number": 5
+      "number": 7
     },
     {
       "key": "03/11_01:15_alain_alittihad",
@@ -281,7 +389,7 @@
         }
       ],
       "displayTitle": "🔴 [01:15 03/11] Al-Ittihad vs Al Ain",
-      "number": 6
+      "number": 8
     },
     {
       "key": "03/11_01:15_algharafasportsclub_alqadsiah",
@@ -321,114 +429,6 @@
         }
       ],
       "displayTitle": "🔴 [01:15 03/11] Al Gharafa Sports Club vs Al Qadsiah",
-      "number": 7
-    },
-    {
-      "key": "03/11_03:00_everton_newcastle",
-      "c_home": "newcastle",
-      "c_away": "everton",
-      "homeTeam": "Newcastle",
-      "awayTeam": "Everton",
-      "time": "03:00",
-      "date": "03/11",
-      "timestamp": 1793649600000,
-      "league": "EPL",
-      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 03/11] Newcastle vs Everton (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 03/11] Newcastle United Vs Everton (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle United vs Everton (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNqdHMyb2M5a2h0d2l1cXhuejRhb2J4Zg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle United vs Everton (NEM NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle vs Everton (Giàng A Dân) [hls]",
-          "url": "https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle vs Everton (Súp Lơ ) [hls]",
-          "url": "https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle vs Everton (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/44c4e8e5ed3a44a5823453de94636e11/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 03/11 ⚽ Newcastle vs Everton (LÝ LONG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/44c4e8e5ed3a44a5823453de94636e11/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [03:00 03/11] Newcastle vs Everton",
-      "number": 8
-    },
-    {
-      "key": "03/11_03:00_deportivo_osasuna",
-      "c_home": "deportivo",
-      "c_away": "osasuna",
-      "homeTeam": "Deportivo",
-      "awayTeam": "Osasuna",
-      "time": "03:00",
-      "date": "03/11",
-      "timestamp": 1793649600000,
-      "league": "LALIGA",
-      "leagueName": "🇪🇸 La Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 03/11] Rc Deportivo Vs Ca Osasuna (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 03/11 ⚽ Deportivo La Coruña vs Osasuna (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2NDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1xOWl4MGl3ZDJjcXhkZmthcTU3cWQ2OA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-la-coruna-429",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [03:00 03/11] Deportivo vs Osasuna",
       "number": 9
     },
     {
@@ -1943,13 +1943,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [00:30 03/11] Sassuolo Vs Fiorentina (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [01:15 03/11] Al Gharafa Sports Club Vs Al Qadsiah (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2865,9 +2858,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "SERIE_A",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "2'",
       "date": "2026-11-02T19:45Z"
     },
     {
@@ -2898,9 +2891,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "LIGUE1",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "2'",
       "date": "2026-11-02T19:45Z"
     },
     {
