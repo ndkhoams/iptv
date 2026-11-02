@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-02 22:50:40",
+  "updated_at": "2026-11-02 23:06:22",
   "live_events": [
     {
       "key": "02/11_20:45_alnassr_pakhtakor",
       "c_home": "pakhtakor",
       "c_away": "alnassr",
       "homeTeam": "Pakhtakor",
-      "awayTeam": "Al-Nassr",
+      "awayTeam": "Al Nassr",
       "time": "20:45",
       "date": "02/11",
       "timestamp": 1793627100000,
@@ -16,13 +16,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [20:45 02/11] Pakhtakor vs Al-Nassr (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "🟢 20:45 02/11 ⚽ Pakhtakor vs Al Nassr (Lưu Bang)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-7.m3u8",
@@ -150,7 +143,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [20:45 02/11] Pakhtakor vs Al-Nassr",
+      "displayTitle": "🔴 [20:45 02/11] Pakhtakor vs Al Nassr",
       "number": 1
     },
     {
@@ -472,32 +465,6 @@
       "number": 10
     },
     {
-      "key": "02/00_20:00_spanishsegundadivisiontenerifeandorra",
-      "c_home": "spanishsegundadivisiontenerifeandorra",
-      "c_away": "",
-      "homeTeam": "Spanish Segunda Division Tenerife Andorra",
-      "awayTeam": "Đội khách",
-      "time": "20:00",
-      "date": "02/00",
-      "timestamp": 1793634633448,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "20:00 Spanish Segunda Division Tenerife 2-0 Andorra",
-          "url": "https://livesport.io.vn/ott/event.php?id=sd-6MweaARk4Eta9Aika3",
-          "logo": "https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "group": "⚽ LIVE FOOTBALL",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [20:00 02/00] Spanish Segunda Division Tenerife Andorra vs Đội khách",
-      "number": 11
-    },
-    {
       "key": "02/11_23:00_alahli_alsadd",
       "c_home": "alsadd",
       "c_away": "alahli",
@@ -570,7 +537,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Al Sadd vs Al-Ahli Jeddah",
-      "number": 12
+      "number": 11
     },
     {
       "key": "02/11_23:00_alquwaaljawiya_alwaslsc",
@@ -624,7 +591,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Al Wasl Sc vs Al Quwa Al Jawiya",
-      "number": 13
+      "number": 12
     },
     {
       "key": "02/11_23:00_neftchifergana_tractorsc",
@@ -664,7 +631,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Tractor Sc vs Neftchi Fergana",
-      "number": 14
+      "number": 13
     },
     {
       "key": "02/11_23:00_gnistanhelsinki_intermilan",
@@ -711,7 +678,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Inter Turku vs Gnistan Helsinki",
-      "number": 15
+      "number": 14
     },
     {
       "key": "02/11_23:00_hjkhelsinki_vaasavps",
@@ -765,7 +732,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Vaasa Vps vs Hjk Helsinki",
-      "number": 16
+      "number": 15
     },
     {
       "key": "02/11_23:00_neftchi_tractorsazi",
@@ -812,6 +779,32 @@
         }
       ],
       "displayTitle": "🔴 [23:00 02/11] Tractor Sazi vs Neftchi",
+      "number": 16
+    },
+    {
+      "key": "02/00_20:00_spanishsegundadivisiontenerifeandorra",
+      "c_home": "spanishsegundadivisiontenerifeandorra",
+      "c_away": "",
+      "homeTeam": "Spanish Segunda Division Tenerife Andorra",
+      "awayTeam": "Đội khách",
+      "time": "20:00",
+      "date": "02/00",
+      "timestamp": 1793635575040,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "20:00 Spanish Segunda Division Tenerife 2-0 Andorra",
+          "url": "https://livesport.io.vn/ott/event.php?id=sd-6MweaARk4Eta9Aika3",
+          "logo": "https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
+          "group": "⚽ LIVE FOOTBALL",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [20:00 02/00] Spanish Segunda Division Tenerife Andorra vs Đội khách",
       "number": 17
     },
     {
@@ -2725,13 +2718,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [20:45 02/11] Pakhtakor vs Al-Nassr (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [22:00 02/11] Krylia Sovetov vs Zenit (BLV Chuối Tây) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
@@ -2814,13 +2800,6 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [23:00 02/11] Tractor Sc Vs Neftchi Fergana (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [23:00 02/11] Al Sadd Sports Club Vs Al Ahli Sc (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2844,6 +2823,13 @@
         {
           "name": "⚽ [22:00 02/11] Krylya Sovetov Vs Zenit St Petersburg (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 02/11] Tractor Sc Vs Neftchi Fergana (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
