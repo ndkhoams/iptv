@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 03:17:35",
+  "updated_at": "2026-11-03 03:32:47",
   "live_events": [
     {
       "key": "03/11_03:00_everton_newcastle",
@@ -225,44 +225,11 @@
       "number": 4
     },
     {
-      "key": "03/11_01:00_aik_gais",
-      "c_home": "gais",
-      "c_away": "aik",
-      "homeTeam": "GAIS",
-      "awayTeam": "AIK",
-      "time": "01:00",
-      "date": "03/11",
-      "timestamp": 1793642400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "01:00 03/11 ⚽ GAIS vs AIK (BLV SODA) [hls]",
-          "url": "https://live05.miekgo.app/live/02456966.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/abe34d42a932576163d32843f1e38e01.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "01:00 03/11 ⚽ GAIS vs AIK (BLV SODA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/abe34d42a932576163d32843f1e38e01.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [01:00 03/11] GAIS vs AIK",
-      "number": 5
-    },
-    {
-      "key": "03/11_01:15_alain_alittihad",
-      "c_home": "alittihad",
-      "c_away": "alain",
-      "homeTeam": "Al-Ittihad",
-      "awayTeam": "Al Ain",
+      "key": "03/11_01:15_algharafa_alqadsiah",
+      "c_home": "algharafa",
+      "c_away": "alqadsiah",
+      "homeTeam": "Al-Gharafa",
+      "awayTeam": "Al Qadsiah",
       "time": "01:15",
       "date": "03/11",
       "timestamp": 1793643300000,
@@ -273,19 +240,38 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [01:15 03/11] Al-Ittihad FC vs Al Ain (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
+          "name": "01:15 03/11 ⚽ Al-Gharafa vs Al Qadsiah (Dương Kiên)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-3.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/fcac1eae493c493061e66608158b40ef.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
         },
         {
-          "name": "⚽ [01:15 03/11] Al Ittihad Vs Al Ain Fc (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
+          "name": "01:15 03/11 ⚽ Al-Gharafa vs Al Qadsiah (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101897.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [01:15 03/11] Al-Gharafa vs Al Qadsiah",
+      "number": 5
+    },
+    {
+      "key": "03/11_01:15_alain_alittihad",
+      "c_home": "alittihad",
+      "c_away": "alain",
+      "homeTeam": "Al Ittihad Club",
+      "awayTeam": "Al-Ain",
+      "time": "01:15",
+      "date": "03/11",
+      "timestamp": 1793643300000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
         {
           "name": "01:15 03/11 ⚽ Al Ittihad Club vs Al-Ain (Trần Cảnh)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
@@ -315,48 +301,8 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [01:15 03/11] Al-Ittihad vs Al Ain",
+      "displayTitle": "🔴 [01:15 03/11] Al Ittihad Club vs Al-Ain",
       "number": 6
-    },
-    {
-      "key": "03/11_01:15_algharafasportsclub_alqadsiah",
-      "c_home": "algharafasportsclub",
-      "c_away": "alqadsiah",
-      "homeTeam": "Al Gharafa Sports Club",
-      "awayTeam": "Al Qadsiah",
-      "time": "01:15",
-      "date": "03/11",
-      "timestamp": 1793643300000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:15 03/11] Al Gharafa Sports Club Vs Al Qadsiah (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "01:15 03/11 ⚽ Al-Gharafa vs Al Qadsiah (Dương Kiên)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-3.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/fcac1eae493c493061e66608158b40ef.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "01:15 03/11 ⚽ Al-Gharafa vs Al Qadsiah (Tít) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101897.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [01:15 03/11] Al Gharafa Sports Club vs Al Qadsiah",
-      "number": 7
     },
     {
       "key": "03/11_03:15_alverca_benfica",
@@ -382,7 +328,7 @@
         }
       ],
       "displayTitle": "🔴 [03:15 03/11] Benfica vs Alverca",
-      "number": 8
+      "number": 7
     },
     {
       "key": "03/11_00:30_cdleganes_valladolid",
@@ -422,7 +368,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 03/11] Real Valladolid vs CD Leganes",
-      "number": 9
+      "number": 8
     },
     {
       "key": "04/11_00:45_galatasaray_stuttgart",
@@ -448,7 +394,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs Vfb Stuttgart",
-      "number": 10
+      "number": 9
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -474,7 +420,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting Cp",
-      "number": 11
+      "number": 10
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -500,7 +446,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern Munich",
-      "number": 12
+      "number": 11
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -526,7 +472,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 13
+      "number": 12
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -552,7 +498,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 14
+      "number": 13
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -578,7 +524,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 15
+      "number": 14
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -604,17 +550,17 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 16
+      "number": 15
     },
     {
-      "key": "03/11_00:00_alanyaspor_genclerbirligi",
-      "c_home": "genclerbirligi",
-      "c_away": "alanyaspor",
-      "homeTeam": "Genclerbirligi",
-      "awayTeam": "Alanyaspor",
-      "time": "00:00",
+      "key": "03/11_01:00_aik_gais",
+      "c_home": "gais",
+      "c_away": "aik",
+      "homeTeam": "GAIS",
+      "awayTeam": "AIK",
+      "time": "01:00",
       "date": "03/11",
-      "timestamp": 1793638800000,
+      "timestamp": 1793642400000,
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
@@ -622,74 +568,22 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "00:00 03/11 ⚽ Genclerbirligi vs Alanyaspor (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ec111e88997dce5a5f76c26b8e85d7f3.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [00:00 03/11] Genclerbirligi vs Alanyaspor",
-      "number": 17
-    },
-    {
-      "key": "03/11_00:00_gnistan_intermilan",
-      "c_home": "intermilan",
-      "c_away": "gnistan",
-      "homeTeam": "Inter Turku",
-      "awayTeam": "Gnistan",
-      "time": "00:00",
-      "date": "03/11",
-      "timestamp": 1793638800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "00:00 03/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw",
-          "logo": "https://apiv3.apifootball.com/badges/3542_inter-turku.jpg",
-          "group": "🍗 Khô Gà TV",
+          "name": "01:00 03/11 ⚽ GAIS vs AIK (BLV SODA) [hls]",
+          "url": "https://live05.miekgo.app/live/02456966.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/abe34d42a932576163d32843f1e38e01.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "00:00 03/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [flv]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/3542_inter-turku.jpg",
-          "group": "🍗 Khô Gà TV",
+          "name": "01:00 03/11 ⚽ GAIS vs AIK (BLV SODA) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/abe34d42a932576163d32843f1e38e01.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [00:00 03/11] Inter Turku vs Gnistan",
-      "number": 18
-    },
-    {
-      "key": "03/11_00:00_hjk_vps",
-      "c_home": "vps",
-      "c_away": "hjk",
-      "homeTeam": "VPS",
-      "awayTeam": "HJK",
-      "time": "00:00",
-      "date": "03/11",
-      "timestamp": 1793638800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "00:00 03/11 ⚽ VPS vs HJK (BLV Xôi Xoài) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/3544_vps.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [00:00 03/11] VPS vs HJK",
-      "number": 19
+      "displayTitle": "⚽ [01:00 03/11] GAIS vs AIK",
+      "number": 16
     },
     {
       "key": "03/11_05:00_centralcordobasde_platense",
@@ -715,7 +609,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 03/11] Platense vs Central Cordoba Sde",
-      "number": 20
+      "number": 17
     },
     {
       "key": "03/11_05:00_defensayjusticia_independiente",
@@ -748,7 +642,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 03/11] Defensa y Justicia vs Independiente",
-      "number": 21
+      "number": 18
     },
     {
       "key": "03/11_06:00_rbbragantino_santos",
@@ -781,7 +675,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 03/11] RB Bragantino vs Santos",
-      "number": 22
+      "number": 19
     },
     {
       "key": "03/11_06:00_redbullbragantino_santossp",
@@ -807,7 +701,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 03/11] Red Bull Bragantino vs Santos _ SP",
-      "number": 23
+      "number": 20
     },
     {
       "key": "03/11_07:15_argentinosjuniors_atleticotucuman",
@@ -833,7 +727,7 @@
         }
       ],
       "displayTitle": "⚽ [07:15 03/11] Atletico Tucuman vs Argentinos Juniors",
-      "number": 24
+      "number": 21
     },
     {
       "key": "03/11_07:15_banfield_independienterivadavia",
@@ -859,7 +753,7 @@
         }
       ],
       "displayTitle": "⚽ [07:15 03/11] Independiente Rivadavia vs Banfield",
-      "number": 25
+      "number": 22
     },
     {
       "key": "03/11_08:15_atleticonacional_bucaramanga",
@@ -892,7 +786,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 03/11] Bucaramanga vs Atletico Nacional",
-      "number": 26
+      "number": 23
     },
     {
       "key": "03/11_11:55_katallertoyama_vegaltasendai",
@@ -918,7 +812,7 @@
         }
       ],
       "displayTitle": "⚽ [11:55 03/11] Kataller Toyama vs Vegalta Sendai",
-      "number": 27
+      "number": 24
     },
     {
       "key": "03/11_12:00_albirexniigata_ventforetkofu",
@@ -944,7 +838,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 03/11] Ventforet Kofu vs Albirex Niigata",
-      "number": 28
+      "number": 25
     },
     {
       "key": "03/11_12:50_hokkaidoconsadolesapporo_imabari",
@@ -970,7 +864,7 @@
         }
       ],
       "displayTitle": "⚽ [12:50 03/11] Imabari vs Hokkaido Consadole Sapporo",
-      "number": 29
+      "number": 26
     },
     {
       "key": "03/11_14:45_newcastle_shanghaiport",
@@ -1010,7 +904,7 @@
         }
       ],
       "displayTitle": "⚽ [14:45 03/11] Newcastle Jets vs Shanghai Port",
-      "number": 30
+      "number": 27
     },
     {
       "key": "03/11_17:00_jeonbukhyundaimotors_johordarultazim",
@@ -1036,7 +930,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Jeonbuk Hyundai Motors vs Johor Darul Tazim",
-      "number": 31
+      "number": 28
     },
     {
       "key": "03/11_17:00_daejeonhanacitizen_kashiwareysol",
@@ -1062,7 +956,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Kashiwa Reysol vs Daejeon Hana Citizen",
-      "number": 32
+      "number": 29
     },
     {
       "key": "03/11_17:00_ratchaburi_visselkobe",
@@ -1102,7 +996,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Vissel Kobe vs Ratchaburi",
-      "number": 33
+      "number": 30
     },
     {
       "key": "03/11_19:15_beijingguoan_port",
@@ -1128,7 +1022,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Port vs Beijing Guoan",
-      "number": 34
+      "number": 31
     },
     {
       "key": "03/11_19:15_hanoi_kyotosanga",
@@ -1154,7 +1048,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Cong An Ha Noi vs Kyoto Sanga",
-      "number": 35
+      "number": 32
     },
     {
       "key": "03/11_19:15_cahn_kyotosanga",
@@ -1187,7 +1081,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Công An Hà Nội vs Kyoto Sanga",
-      "number": 36
+      "number": 33
     },
     {
       "key": "03/11_20:45_alseebsc_eastbengal",
@@ -1227,7 +1121,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 03/11] East Bengal vs Al Seeb Sc",
-      "number": 37
+      "number": 34
     },
     {
       "key": "03/11_22:00_alraed_alwehda",
@@ -1260,7 +1154,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 03/11] Al Raed vs Al-Wehda",
-      "number": 38
+      "number": 35
     },
     {
       "key": "03/11_23:00_alhusseinscirbid_alshorta",
@@ -1286,7 +1180,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 03/11] Al Hussein Sc Irbid vs Al Shorta",
-      "number": 39
+      "number": 36
     },
     {
       "key": "03/11_23:00_alshamalsportsclub_esteghlaltehran",
@@ -1333,7 +1227,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 03/11] Esteghlal Tehran vs Al Shamal Sports Club",
-      "number": 40
+      "number": 37
     },
     {
       "key": "04/11_01:15_alahli_alhilal",
@@ -1359,7 +1253,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 04/11] Al Hilal vs Shabab Al Ahli",
-      "number": 41
+      "number": 38
     },
     {
       "key": "04/11_03:00_parissaintgermain_villarreal",
@@ -1385,7 +1279,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint Germain",
-      "number": 42
+      "number": 39
     },
     {
       "key": "04/11_05:30_chapecoensesc_mirassolsp",
@@ -1411,7 +1305,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 04/11] Chapecoense Sc vs Mirassol Sp",
-      "number": 43
+      "number": 40
     },
     {
       "key": "04/11_07:30_coritibasafpr_internacionalrs",
@@ -1437,7 +1331,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 04/11] Internacional Rs vs Coritiba Saf Pr",
-      "number": 44
+      "number": 41
     },
     {
       "key": "04/11_08:10_americadecali_millonarios",
@@ -1463,7 +1357,7 @@
         }
       ],
       "displayTitle": "⚽ [08:10 04/11] Millonarios vs America De Cali",
-      "number": 45
+      "number": 42
     },
     {
       "key": "04/11_14:45_melbournevictory_persibbandung",
@@ -1489,7 +1383,7 @@
         }
       ],
       "displayTitle": "⚽ [14:45 04/11] Melbourne Victory vs Persib Bandung",
-      "number": 46
+      "number": 43
     },
     {
       "key": "04/11_17:00_seoul_viettel",
@@ -1515,7 +1409,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Seoul vs The Cong Viettel",
-      "number": 47
+      "number": 44
     },
     {
       "key": "04/11_17:00_gambaosaka_pohangsteelers",
@@ -1541,7 +1435,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Pohang Steelers vs Gamba Osaka",
-      "number": 48
+      "number": 45
     },
     {
       "key": "04/11_19:15_buriramunited_kashimaantlers",
@@ -1567,7 +1461,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 04/11] Buriram United vs Kashima Antlers",
-      "number": 49
+      "number": 46
     },
     {
       "key": "04/11_20:45_arkadag_golgohar",
@@ -1593,7 +1487,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 04/11] Arkadag vs Gol Gohar",
-      "number": 50
+      "number": 47
     },
     {
       "key": "04/11_22:30_olympiacospiraeus_rennais",
@@ -1619,7 +1513,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Olympiacos Piraeus",
-      "number": 51
+      "number": 48
     },
     {
       "key": "04/11_23:00_alkhaldiya_alwahdauae",
@@ -1645,7 +1539,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Wahdauae vs Al Khaldiya",
-      "number": 52
+      "number": 49
     },
     {
       "key": "04/11_23:00_alkuwaitsc_nasafqarshi",
@@ -1671,7 +1565,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Kuwait Sc vs Nasaf Qarshi",
-      "number": 53
+      "number": 50
     },
     {
       "key": "04/11_23:00_alnahdasc_alrayyansportsclub",
@@ -1697,7 +1591,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Rayyan Sports Club vs Al Nahda Sc",
-      "number": 54
+      "number": 51
     },
     {
       "key": "03/11_07:00_clevelandcavaliers_oklahomacitythunder",
@@ -1730,7 +1624,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 03/11] Cleveland Cavaliers vs Oklahoma City Thunder",
-      "number": 55
+      "number": 52
     },
     {
       "key": "03/11_07:30_atlantahawks_indianapacers",
@@ -1763,7 +1657,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 03/11] Indiana Pacers vs Atlanta Hawks",
-      "number": 56
+      "number": 53
     },
     {
       "key": "03/11_07:30_brooklynnets_newyorkknicks",
@@ -1789,7 +1683,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 03/11] New York Knicks vs Brooklyn Nets",
-      "number": 57
+      "number": 54
     },
     {
       "key": "03/11_08:30_houstonrockets_ibngrbostonceltics",
@@ -1822,7 +1716,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 03/11] Houston Rockets vs Đội bóng rổ Boston Celtics",
-      "number": 58
+      "number": 55
     },
     {
       "key": "03/11_09:00_denvernuggets_portlandtrailblazers",
@@ -1855,20 +1749,13 @@
         }
       ],
       "displayTitle": "🏀 [09:00 03/11] Denver Nuggets vs Portland Trail Blazers",
-      "number": 59
+      "number": 56
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [01:15 03/11] Al-Ittihad FC vs Al Ain (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [02:45 03/11] Atalanta vs Parma (BLV Chuối Kem) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -1905,20 +1792,6 @@
         {
           "name": "⚽ [03:00 03/11] Newcastle United Vs Everton (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [01:15 03/11] Al Gharafa Sports Club Vs Al Qadsiah (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [01:15 03/11] Al Ittihad Vs Al Ain Fc (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2265,13 +2138,6 @@
       "name": "👑 Vua Sân Cỏ",
       "channels": [
         {
-          "name": "00:00 03/11 ⚽ Genclerbirligi vs Alanyaspor (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ec111e88997dce5a5f76c26b8e85d7f3.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
           "name": "00:30 03/11 ⚽ Real Valladolid vs CD Leganes (Triệu Hằng)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-20.m3u8",
           "logo": "https://global-cdn.cdnx.tech/football/team/fdf63461c00668597319a4f0db14dcee.png",
@@ -2311,32 +2177,6 @@
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
           "logo": "https://global-cdn.cdnx.tech/football/team/9e9d18ccd36d42462fc896e22de890c2.png",
           "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍗 Khô Gà TV",
-      "channels": [
-        {
-          "name": "00:00 03/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw",
-          "logo": "https://apiv3.apifootball.com/badges/3542_inter-turku.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 03/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [flv]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/3542_inter-turku.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 03/11 ⚽ VPS vs HJK (BLV Xôi Xoài) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/3544_vps.jpg",
-          "group": "🍗 Khô Gà TV",
           "ref": ""
         }
       ]
@@ -2780,7 +2620,7 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "17'",
+      "detail": "32'",
       "date": "2026-11-02T20:00Z"
     },
     {
@@ -2791,7 +2631,7 @@
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "14'",
+      "detail": "30'",
       "date": "2026-11-02T20:00Z"
     },
     {
@@ -2809,11 +2649,11 @@
       "home_team": "Atalanta",
       "away_team": "Parma",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "32'",
+      "detail": "45'+2'",
       "date": "2026-11-02T19:45Z"
     },
     {
@@ -2846,7 +2686,7 @@
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "32'",
+      "detail": "HT",
       "date": "2026-11-02T19:45Z"
     },
     {
