@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 07:43:22",
+  "updated_at": "2026-11-02 07:58:34",
   "live_events": [
     {
       "key": "03/11_02:45_atalanta_parma",
@@ -99,44 +99,6 @@
       "number": 2
     },
     {
-      "key": "02/11_05:00_brooklynnets_indianapacers",
-      "homeTeam": "Indiana Pacers",
-      "awayTeam": "Brooklyn Nets",
-      "time": "05:00",
-      "date": "02/11",
-      "timestamp": 1793570400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 05:00 02/11 🏀 Indiana Pacers vs Brooklyn Nets (Chồn) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1793377014_hd/1793377014_hd@720p.m3u8",
-          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 05:00 02/11 🏀 Indiana Pacers vs Brooklyn Nets (BLV TARZAAN) [hls]",
-          "url": "https://live05.miekgo.app/live/56998120.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 05:00 02/11 🏀 Indiana Pacers vs Brooklyn Nets (BLV TARZAAN) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [05:00 02/11] Indiana Pacers vs Brooklyn Nets",
-      "number": 3
-    },
-    {
       "key": "02/11_09:00_losangeleslakers_torontoraptors",
       "homeTeam": "Los Angeles Lakers",
       "awayTeam": "Toronto Raptors",
@@ -172,7 +134,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 02/11] Los Angeles Lakers vs Toronto Raptors",
-      "number": 4
+      "number": 3
     },
     {
       "key": "02/11_12:00_hunters_ulaanbaatar",
@@ -217,7 +179,7 @@
         }
       ],
       "displayTitle": "🏀 [12:00 02/11] Hunters vs Ulaanbaatar",
-      "number": 5
+      "number": 4
     }
   ],
   "source_groups": [
@@ -363,7 +325,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [08:00 02/11] Cruz Azul Vs Club Leon (BLV Gà Siêu Son) - Gà Vàng",
+          "name": "⚽ [08:10 02/11] Cruz Azul Vs Club Leon (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -804,13 +766,6 @@
     {
       "name": "⏰ Giờ Vàng TV",
       "channels": [
-        {
-          "name": "🟢 04:25 02/11 🏉 Kansas City Chiefs vs Denver Broncos (Riko) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509773_hd/1793509773_hd@720p.m3u8",
-          "logo": "https://static.flashscore.com/res/image/data/0ly3wzFG-8KiTm088.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        },
         {
           "name": "🟢 05:00 02/11 🏀 Indiana Pacers vs Brooklyn Nets (Chồn) [hls]",
           "url": "https://pzhgifbkllliv.vcdn.cloud/1793377014_hd/1793377014_hd@720p.m3u8",
@@ -1630,11 +1585,11 @@
       "home_team": "Indiana Pacers",
       "away_team": "Brooklyn Nets",
       "home_score": "90",
-      "away_score": "97",
+      "away_score": "98",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "52.4 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-01T22:00Z"
     },
     {
@@ -3026,11 +2981,11 @@
       },
       {
         "rank": 19,
-        "teamName": "Miami Heat",
-        "shortName": "Heat",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-        "played": 6,
-        "gd": "2T-4B (GB 3.5)",
+        "teamName": "Indiana Pacers",
+        "shortName": "Pacers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "played": 7,
+        "gd": "2T-5B (GB 4)",
         "points": 2
       },
       {
@@ -3044,18 +2999,18 @@
       },
       {
         "rank": 21,
-        "teamName": "New York Knicks",
-        "shortName": "Knicks",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
         "played": 6,
         "gd": "2T-4B (GB 3.5)",
         "points": 2
       },
       {
         "rank": 22,
-        "teamName": "Indiana Pacers",
-        "shortName": "Pacers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "teamName": "New York Knicks",
+        "shortName": "Knicks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
         "played": 6,
         "gd": "2T-4B (GB 3.5)",
         "points": 2
@@ -3089,6 +3044,15 @@
       },
       {
         "rank": 26,
+        "teamName": "Brooklyn Nets",
+        "shortName": "Nets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+        "played": 6,
+        "gd": "1T-5B (GB 4.5)",
+        "points": 1
+      },
+      {
+        "rank": 27,
         "teamName": "Utah Jazz",
         "shortName": "Jazz",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
@@ -3097,7 +3061,7 @@
         "points": 1
       },
       {
-        "rank": 27,
+        "rank": 28,
         "teamName": "LA Clippers",
         "shortName": "Clippers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
@@ -3106,22 +3070,13 @@
         "points": 1
       },
       {
-        "rank": 28,
+        "rank": 29,
         "teamName": "Phoenix Suns",
         "shortName": "Suns",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
         "played": 4,
         "gd": "1T-3B (GB 4)",
         "points": 1
-      },
-      {
-        "rank": 29,
-        "teamName": "Brooklyn Nets",
-        "shortName": "Nets",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-        "played": 5,
-        "gd": "0T-5B (GB 5)",
-        "points": 0
       },
       {
         "rank": 30,
