@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 05:35:16",
+  "updated_at": "2026-11-03 05:50:15",
   "live_events": [
     {
       "key": "03/11_05:00_centralcordobasde_platense",
@@ -61,6 +61,65 @@
       "number": 2
     },
     {
+      "key": "03/11_06:00_rbbragantino_santos",
+      "c_home": "rbbragantino",
+      "c_away": "santos",
+      "homeTeam": "RB Bragantino",
+      "awayTeam": "Santos",
+      "time": "06:00",
+      "date": "03/11",
+      "timestamp": 1793660400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [06:00 03/11] RB Bragantino vs Santos (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "06:00 03/11 ⚽ Bragantino vs Santos (Kayti) [hls]",
+          "url": "https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/9e9d18ccd36d42462fc896e22de890c2.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [06:00 03/11] RB Bragantino vs Santos",
+      "number": 3
+    },
+    {
+      "key": "03/11_06:00_redbullbragantino_santossp",
+      "c_home": "redbullbragantino",
+      "c_away": "santossp",
+      "homeTeam": "Red Bull Bragantino",
+      "awayTeam": "Santos _ SP",
+      "time": "06:00",
+      "date": "03/11",
+      "timestamp": 1793660400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "06:00 03/11 ⚽ Red Bull Bragantino vs Santos _ SP (Doanh Chính)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/9e9d18ccd36d42462fc896e22de890c2.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [06:00 03/11] Red Bull Bragantino vs Santos _ SP",
+      "number": 4
+    },
+    {
       "key": "04/11_00:45_galatasaray_stuttgart",
       "c_home": "galatasaray",
       "c_away": "stuttgart",
@@ -84,7 +143,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs Vfb Stuttgart",
-      "number": 3
+      "number": 5
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -110,7 +169,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting Cp",
-      "number": 4
+      "number": 6
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -136,7 +195,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern Munich",
-      "number": 5
+      "number": 7
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -162,7 +221,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 6
+      "number": 8
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -188,7 +247,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 7
+      "number": 9
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -214,7 +273,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 8
+      "number": 10
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -240,65 +299,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 9
-    },
-    {
-      "key": "03/11_06:00_rbbragantino_santos",
-      "c_home": "rbbragantino",
-      "c_away": "santos",
-      "homeTeam": "RB Bragantino",
-      "awayTeam": "Santos",
-      "time": "06:00",
-      "date": "03/11",
-      "timestamp": 1793660400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [06:00 03/11] RB Bragantino vs Santos (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "06:00 03/11 ⚽ Bragantino vs Santos (Kayti) [hls]",
-          "url": "https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/9e9d18ccd36d42462fc896e22de890c2.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [06:00 03/11] RB Bragantino vs Santos",
-      "number": 10
-    },
-    {
-      "key": "03/11_06:00_redbullbragantino_santossp",
-      "c_home": "redbullbragantino",
-      "c_away": "santossp",
-      "homeTeam": "Red Bull Bragantino",
-      "awayTeam": "Santos _ SP",
-      "time": "06:00",
-      "date": "03/11",
-      "timestamp": 1793660400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "06:00 03/11 ⚽ Red Bull Bragantino vs Santos _ SP (Doanh Chính)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/9e9d18ccd36d42462fc896e22de890c2.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [06:00 03/11] Red Bull Bragantino vs Santos _ SP",
       "number": 11
     },
     {
