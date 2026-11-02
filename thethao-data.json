@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 16:53:13",
+  "updated_at": "2026-11-02 17:08:33",
   "live_events": [
     {
       "key": "03/11_00:30_leganes_valladolid",
@@ -455,19 +455,36 @@
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
       "number": 14
+    },
+    {
+      "key": "04/11_03:00_manutd_roma",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Roma",
+      "time": "03:00",
+      "date": "04/11",
+      "timestamp": 1793736000000,
+      "league": "UCL",
+      "leagueName": "🏆 UEFA Champions League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 04/11] Manchester United Vs As Roma (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
+      "number": 15
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [15:00 02/11] Tuv Azarganuud vs Deren (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [17:45 02/11] Talant vs Asia Talas (BLV Chuối Nhỏ) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -943,6 +960,20 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [03:00 04/11] Manchester United Vs As Roma (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [03:00 04/11] Villarreal Cf Vs Paris Saint Germain (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [05:30 04/11] Chapecoense Sc Vs Mirassol Sp (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -950,8 +981,29 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [07:30 04/11] Internacional Rs Vs Coritiba Saf Pr (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [08:10 04/11] Millonarios Vs America De Cali (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [14:45 04/11] Melbourne Victory Vs Persib Bandung (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [17:00 04/11] Fc Seoul Vs The Cong Viettel (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -966,6 +1018,34 @@
         {
           "name": "⚽ [18:00 04/11] Fenerbahce U19 Vs Liverpool U19 (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [19:15 04/11] Buriram United Vs Kashima Antlers (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:45 04/11] Arkadag Fk Vs Gol Gohar Fc (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 04/11] Rb Leipzig U19 Vs Manchester City U19 (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [22:00 04/11] Uniao Leiria U23 Vs Estoril U23 (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
