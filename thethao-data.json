@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 23:06:22",
+  "updated_at": "2026-11-02 23:21:34",
   "live_events": [
     {
       "key": "02/11_20:45_alnassr_pakhtakor",
@@ -789,7 +789,7 @@
       "awayTeam": "Đội khách",
       "time": "20:00",
       "date": "02/00",
-      "timestamp": 1793635575040,
+      "timestamp": 1793636486090,
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
@@ -1665,39 +1665,6 @@
       "number": 40
     },
     {
-      "key": "03/11_07:00_clevelandcavaliers_oklahomacitythunder",
-      "c_home": "clevelandcavaliers",
-      "c_away": "oklahomacitythunder",
-      "homeTeam": "Cleveland Cavaliers",
-      "awayTeam": "Oklahoma City Thunder",
-      "time": "07:00",
-      "date": "03/11",
-      "timestamp": 1793664000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:00 03/11 🏀 Cleveland Cavaliers vs Oklahoma City Thunder (BLV ROCKSTAR) [hls]",
-          "url": "https://live05.miekgo.app/live/82054853.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 03/11 🏀 Cleveland Cavaliers vs Oklahoma City Thunder (BLV ROCKSTAR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:00 03/11] Cleveland Cavaliers vs Oklahoma City Thunder",
-      "number": 41
-    },
-    {
       "key": "03/11_07:15_argentinosjuniors_atleticotucuman",
       "c_home": "atleticotucuman",
       "c_away": "argentinosjuniors",
@@ -1721,7 +1688,7 @@
         }
       ],
       "displayTitle": "⚽ [07:15 03/11] Atletico Tucuman vs Argentinos Juniors",
-      "number": 42
+      "number": 41
     },
     {
       "key": "03/11_07:15_cabanfield_independienterivadavia",
@@ -1747,66 +1714,7 @@
         }
       ],
       "displayTitle": "⚽ [07:15 03/11] Independiente Rivadavia vs Ca Banfield",
-      "number": 43
-    },
-    {
-      "key": "03/11_07:30_atlantahawks_indianapacers",
-      "c_home": "indianapacers",
-      "c_away": "atlantahawks",
-      "homeTeam": "Indiana Pacers",
-      "awayTeam": "Atlanta Hawks",
-      "time": "07:30",
-      "date": "03/11",
-      "timestamp": 1793665800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:30 03/11 🏀 Indiana Pacers vs Atlanta Hawks (BLV TARZAAN) [hls]",
-          "url": "https://live05.miekgo.app/live/56998120.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 03/11 🏀 Indiana Pacers vs Atlanta Hawks (BLV TARZAAN) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:30 03/11] Indiana Pacers vs Atlanta Hawks",
-      "number": 44
-    },
-    {
-      "key": "03/11_07:30_brooklynnets_newyorkknicks",
-      "c_home": "newyorkknicks",
-      "c_away": "brooklynnets",
-      "homeTeam": "New York Knicks",
-      "awayTeam": "Brooklyn Nets",
-      "time": "07:30",
-      "date": "03/11",
-      "timestamp": 1793665800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:30 03/11 🏀 New York Knicks vs Brooklyn Nets (Titan) [hls]",
-          "url": "https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8",
-          "logo": "https://static.sportsfeed.pro/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:30 03/11] New York Knicks vs Brooklyn Nets",
-      "number": 45
+      "number": 42
     },
     {
       "key": "03/11_08:15_atleticonacional_bucaramanga",
@@ -1839,73 +1747,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 03/11] Bucaramanga vs Atletico Nacional",
-      "number": 46
-    },
-    {
-      "key": "03/11_08:30_houstonrockets_ibngrbostonceltics",
-      "c_home": "houstonrockets",
-      "c_away": "ibngrbostonceltics",
-      "homeTeam": "Houston Rockets",
-      "awayTeam": "Đội bóng rổ Boston Celtics",
-      "time": "08:30",
-      "date": "03/11",
-      "timestamp": 1793669400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:30 03/11 🏀 Houston Rockets vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls]",
-          "url": "https://live05.miekgo.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:30 03/11 🏀 Houston Rockets vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [08:30 03/11] Houston Rockets vs Đội bóng rổ Boston Celtics",
-      "number": 47
-    },
-    {
-      "key": "03/11_09:00_denvernuggets_portlandtrailblazers",
-      "c_home": "denvernuggets",
-      "c_away": "portlandtrailblazers",
-      "homeTeam": "Denver Nuggets",
-      "awayTeam": "Portland Trail Blazers",
-      "time": "09:00",
-      "date": "03/11",
-      "timestamp": 1793671200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "09:00 03/11 🏀 Denver Nuggets vs Portland Trail Blazers (BLV LIPTON) [hls]",
-          "url": "https://live05.miekgo.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "09:00 03/11 🏀 Denver Nuggets vs Portland Trail Blazers (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [09:00 03/11] Denver Nuggets vs Portland Trail Blazers",
-      "number": 48
+      "number": 43
     },
     {
       "key": "03/11_11:55_katallertoyama_vegaltasendai",
@@ -1931,7 +1773,7 @@
         }
       ],
       "displayTitle": "⚽ [11:55 03/11] Kataller Toyama vs Vegalta Sendai",
-      "number": 49
+      "number": 44
     },
     {
       "key": "03/11_12:00_albirexniigata_ventforetkofu",
@@ -1957,7 +1799,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 03/11] Ventforet Kofu vs Albirex Niigata",
-      "number": 50
+      "number": 45
     },
     {
       "key": "03/11_12:50_hokkaidoconsadolesapporo_imabari",
@@ -1983,7 +1825,7 @@
         }
       ],
       "displayTitle": "⚽ [12:50 03/11] Imabari vs Hokkaido Consadole Sapporo",
-      "number": 51
+      "number": 46
     },
     {
       "key": "03/11_14:45_newcastle_shanghaiport",
@@ -2023,7 +1865,7 @@
         }
       ],
       "displayTitle": "⚽ [14:45 03/11] Newcastle Jets vs Shanghai Port",
-      "number": 52
+      "number": 47
     },
     {
       "key": "03/11_17:00_jeonbukhyundaimotors_johordarultazim",
@@ -2049,7 +1891,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Jeonbuk Hyundai Motors vs Johor Darul Tazim",
-      "number": 53
+      "number": 48
     },
     {
       "key": "03/11_17:00_daejeonhanacitizen_kashiwareysol",
@@ -2075,7 +1917,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Kashiwa Reysol vs Daejeon Hana Citizen",
-      "number": 54
+      "number": 49
     },
     {
       "key": "03/11_17:00_ratchaburi_visselkobe",
@@ -2115,7 +1957,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 03/11] Vissel Kobe vs Ratchaburi",
-      "number": 55
+      "number": 50
     },
     {
       "key": "03/11_19:15_beijingguoan_port",
@@ -2141,7 +1983,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Port vs Beijing Guoan",
-      "number": 56
+      "number": 51
     },
     {
       "key": "03/11_19:15_hanoi_kyotosanga",
@@ -2167,7 +2009,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Cong An Ha Noi vs Kyoto Sanga",
-      "number": 57
+      "number": 52
     },
     {
       "key": "03/11_19:15_cahn_kyotosanga",
@@ -2200,7 +2042,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 03/11] Công An Hà Nội vs Kyoto Sanga",
-      "number": 58
+      "number": 53
     },
     {
       "key": "03/11_20:45_alseebsc_eastbengal",
@@ -2240,7 +2082,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 03/11] East Bengal vs Al Seeb Sc",
-      "number": 59
+      "number": 54
     },
     {
       "key": "03/11_22:00_alraed_alwehda",
@@ -2273,7 +2115,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 03/11] Al Raed vs Al-Wehda",
-      "number": 60
+      "number": 55
     },
     {
       "key": "03/11_23:00_alhusseinscirbid_alshorta",
@@ -2299,7 +2141,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 03/11] Al Hussein Sc Irbid vs Al Shorta",
-      "number": 61
+      "number": 56
     },
     {
       "key": "03/11_23:00_alshamalsportsclub_esteghlaltehran",
@@ -2346,7 +2188,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 03/11] Esteghlal Tehran vs Al Shamal Sports Club",
-      "number": 62
+      "number": 57
     },
     {
       "key": "04/11_01:15_alahli_alhilal",
@@ -2372,7 +2214,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 04/11] Al Hilal vs Shabab Al Ahli",
-      "number": 63
+      "number": 58
     },
     {
       "key": "04/11_03:00_parissaintgermain_villarreal",
@@ -2398,7 +2240,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint Germain",
-      "number": 64
+      "number": 59
     },
     {
       "key": "04/11_05:30_chapecoensesc_mirassolsp",
@@ -2424,7 +2266,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 04/11] Chapecoense Sc vs Mirassol Sp",
-      "number": 65
+      "number": 60
     },
     {
       "key": "04/11_07:30_coritibasafpr_internacionalrs",
@@ -2450,7 +2292,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 04/11] Internacional Rs vs Coritiba Saf Pr",
-      "number": 66
+      "number": 61
     },
     {
       "key": "04/11_08:10_americadecali_millonarios",
@@ -2476,7 +2318,7 @@
         }
       ],
       "displayTitle": "⚽ [08:10 04/11] Millonarios vs America De Cali",
-      "number": 67
+      "number": 62
     },
     {
       "key": "04/11_14:45_melbournevictory_persibbandung",
@@ -2502,7 +2344,7 @@
         }
       ],
       "displayTitle": "⚽ [14:45 04/11] Melbourne Victory vs Persib Bandung",
-      "number": 68
+      "number": 63
     },
     {
       "key": "04/11_17:00_seoul_viettel",
@@ -2528,7 +2370,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Seoul vs The Cong Viettel",
-      "number": 69
+      "number": 64
     },
     {
       "key": "04/11_17:00_gambaosaka_pohangsteelers",
@@ -2554,7 +2396,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Pohang Steelers vs Gamba Osaka",
-      "number": 70
+      "number": 65
     },
     {
       "key": "04/11_19:15_buriramunited_kashimaantlers",
@@ -2580,7 +2422,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 04/11] Buriram United vs Kashima Antlers",
-      "number": 71
+      "number": 66
     },
     {
       "key": "04/11_20:45_arkadag_golgohar",
@@ -2606,7 +2448,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 04/11] Arkadag vs Gol Gohar",
-      "number": 72
+      "number": 67
     },
     {
       "key": "04/11_22:30_olympiacospiraeus_staderennais",
@@ -2632,7 +2474,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Stade Rennais vs Olympiacos Piraeus",
-      "number": 73
+      "number": 68
     },
     {
       "key": "04/11_23:00_alkhaldiya_alwahdauae",
@@ -2658,7 +2500,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Wahdauae vs Al Khaldiya",
-      "number": 74
+      "number": 69
     },
     {
       "key": "04/11_23:00_alkuwaitsc_nasafqarshi",
@@ -2684,7 +2526,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Kuwait Sc vs Nasaf Qarshi",
-      "number": 75
+      "number": 70
     },
     {
       "key": "04/11_23:00_alnahdasc_alrayyansportsclub",
@@ -2710,6 +2552,164 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Rayyan Sports Club vs Al Nahda Sc",
+      "number": 71
+    },
+    {
+      "key": "03/11_07:00_clevelandcavaliers_oklahomacitythunder",
+      "c_home": "clevelandcavaliers",
+      "c_away": "oklahomacitythunder",
+      "homeTeam": "Cleveland Cavaliers",
+      "awayTeam": "Oklahoma City Thunder",
+      "time": "07:00",
+      "date": "03/11",
+      "timestamp": 1793664000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:00 03/11 🏀 Cleveland Cavaliers vs Oklahoma City Thunder (BLV ROCKSTAR) [hls]",
+          "url": "https://live05.miekgo.app/live/82054853.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 03/11 🏀 Cleveland Cavaliers vs Oklahoma City Thunder (BLV ROCKSTAR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:00 03/11] Cleveland Cavaliers vs Oklahoma City Thunder",
+      "number": 72
+    },
+    {
+      "key": "03/11_07:30_atlantahawks_indianapacers",
+      "c_home": "indianapacers",
+      "c_away": "atlantahawks",
+      "homeTeam": "Indiana Pacers",
+      "awayTeam": "Atlanta Hawks",
+      "time": "07:30",
+      "date": "03/11",
+      "timestamp": 1793665800000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:30 03/11 🏀 Indiana Pacers vs Atlanta Hawks (BLV TARZAAN) [hls]",
+          "url": "https://live05.miekgo.app/live/56998120.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:30 03/11 🏀 Indiana Pacers vs Atlanta Hawks (BLV TARZAAN) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:30 03/11] Indiana Pacers vs Atlanta Hawks",
+      "number": 73
+    },
+    {
+      "key": "03/11_07:30_brooklynnets_newyorkknicks",
+      "c_home": "newyorkknicks",
+      "c_away": "brooklynnets",
+      "homeTeam": "New York Knicks",
+      "awayTeam": "Brooklyn Nets",
+      "time": "07:30",
+      "date": "03/11",
+      "timestamp": 1793665800000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:30 03/11 🏀 New York Knicks vs Brooklyn Nets (Titan) [hls]",
+          "url": "https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:30 03/11] New York Knicks vs Brooklyn Nets",
+      "number": 74
+    },
+    {
+      "key": "03/11_08:30_houstonrockets_ibngrbostonceltics",
+      "c_home": "houstonrockets",
+      "c_away": "ibngrbostonceltics",
+      "homeTeam": "Houston Rockets",
+      "awayTeam": "Đội bóng rổ Boston Celtics",
+      "time": "08:30",
+      "date": "03/11",
+      "timestamp": 1793669400000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:30 03/11 🏀 Houston Rockets vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls]",
+          "url": "https://live05.miekgo.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "08:30 03/11 🏀 Houston Rockets vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [08:30 03/11] Houston Rockets vs Đội bóng rổ Boston Celtics",
+      "number": 75
+    },
+    {
+      "key": "03/11_09:00_denvernuggets_portlandtrailblazers",
+      "c_home": "denvernuggets",
+      "c_away": "portlandtrailblazers",
+      "homeTeam": "Denver Nuggets",
+      "awayTeam": "Portland Trail Blazers",
+      "time": "09:00",
+      "date": "03/11",
+      "timestamp": 1793671200000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "09:00 03/11 🏀 Denver Nuggets vs Portland Trail Blazers (BLV LIPTON) [hls]",
+          "url": "https://live05.miekgo.app/live/89756030.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "09:00 03/11 🏀 Denver Nuggets vs Portland Trail Blazers (BLV LIPTON) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [09:00 03/11] Denver Nuggets vs Portland Trail Blazers",
       "number": 76
     }
   ],
@@ -4316,48 +4316,169 @@
       "date": "2026-11-03T20:00Z"
     },
     {
-      "home_team": "Orlando Magic",
-      "away_team": "Boston Celtics",
-      "home_score": "97",
-      "away_score": "108",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Oklahoma City Thunder",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-01T20:30Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:00 PM EST",
+      "date": "2026-11-03T00:00Z"
+    },
+    {
+      "home_team": "Charlotte Hornets",
+      "away_team": "Detroit Pistons",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:30 PM EST",
+      "date": "2026-11-03T00:30Z"
     },
     {
       "home_team": "Indiana Pacers",
-      "away_team": "Brooklyn Nets",
-      "home_score": "90",
-      "away_score": "98",
+      "away_team": "Atlanta Hawks",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-01T22:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:30 PM EST",
+      "date": "2026-11-03T00:30Z"
+    },
+    {
+      "home_team": "New York Knicks",
+      "away_team": "Brooklyn Nets",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:30 PM EST",
+      "date": "2026-11-03T00:30Z"
+    },
+    {
+      "home_team": "Orlando Magic",
+      "away_team": "Washington Wizards",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:30 PM EST",
+      "date": "2026-11-03T00:30Z"
+    },
+    {
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Chicago Bulls",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 7:30 PM EST",
+      "date": "2026-11-03T00:30Z"
+    },
+    {
+      "home_team": "Dallas Mavericks",
+      "away_team": "Sacramento Kings",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 8:00 PM EST",
+      "date": "2026-11-03T01:00Z"
+    },
+    {
+      "home_team": "Memphis Grizzlies",
+      "away_team": "New Orleans Pelicans",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 8:00 PM EST",
+      "date": "2026-11-03T01:00Z"
+    },
+    {
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Milwaukee Bucks",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 8:00 PM EST",
+      "date": "2026-11-03T01:00Z"
+    },
+    {
+      "home_team": "Houston Rockets",
+      "away_team": "Boston Celtics",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 8:30 PM EST",
+      "date": "2026-11-03T01:30Z"
+    },
+    {
+      "home_team": "San Antonio Spurs",
+      "away_team": "Utah Jazz",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 8:30 PM EST",
+      "date": "2026-11-03T01:30Z"
+    },
+    {
+      "home_team": "Denver Nuggets",
+      "away_team": "Portland Trail Blazers",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 9:00 PM EST",
+      "date": "2026-11-03T02:00Z"
     },
     {
       "home_team": "Golden State Warriors",
-      "away_team": "LA Clippers",
-      "home_score": "124",
-      "away_score": "112",
+      "away_team": "Phoenix Suns",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-02T01:30Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 10:00 PM EST",
+      "date": "2026-11-03T03:00Z"
+    },
+    {
+      "home_team": "LA Clippers",
+      "away_team": "Toronto Raptors",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 10:00 PM EST",
+      "date": "2026-11-03T03:00Z"
     },
     {
       "home_team": "Los Angeles Lakers",
-      "away_team": "Toronto Raptors",
-      "home_score": "131",
-      "away_score": "125",
+      "away_team": "Miami Heat",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-02T02:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/2 - 10:00 PM EST",
+      "date": "2026-11-03T03:00Z"
     }
   ],
   "standings": {
