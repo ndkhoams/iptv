@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-03 12:12:37",
+  "updated_at": "2026-11-03 12:27:47",
   "live_events": [
-    {
-      "key": "03/11_10:00_losangelesclippers_torontoraptors",
-      "c_home": "losangelesclippers",
-      "c_away": "torontoraptors",
-      "homeTeam": "Los Angeles Clippers",
-      "awayTeam": "Toronto Raptors",
-      "time": "10:00",
-      "date": "03/11",
-      "timestamp": 1793674800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 10:00 03/11 🏀 Los Angeles Clippers vs Toronto Raptors (Ben) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1793636939_hd/1793636939_hd@720p.m3u8",
-          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [10:00 03/11] Los Angeles Clippers vs Toronto Raptors",
-      "number": 1
-    },
     {
       "key": "03/11_11:55_katallertoyama_vegaltasendai",
       "c_home": "katallertoyama",
@@ -79,7 +53,7 @@
         }
       ],
       "displayTitle": "🔴 [11:55 03/11] Kataller Toyama vs Vegalta Sendai",
-      "number": 2
+      "number": 1
     },
     {
       "key": "03/11_12:00_albirexniigata_ventforetkofu",
@@ -126,7 +100,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 03/11] Ventforet Kofu vs Albirex Niigata",
-      "number": 3
+      "number": 2
     },
     {
       "key": "03/11_12:00_banditesiiwaki_omiyaardija",
@@ -166,7 +140,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 03/11] Omiya Ardija vs Ban Di Tesi Iwaki",
-      "number": 4
+      "number": 3
     },
     {
       "key": "03/11_12:00_sagantosu_shonanbellmare",
@@ -206,7 +180,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 03/11] Shonan Bellmare vs Sagan Tosu",
-      "number": 5
+      "number": 4
     },
     {
       "key": "03/11_12:00_blaublitzakita_yokohama",
@@ -239,7 +213,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 03/11] Yokohama vs Blaublitz Akita",
-      "number": 6
+      "number": 5
     },
     {
       "key": "03/11_12:00_fujiedamyfc_jubiloiwata",
@@ -265,7 +239,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 03/11] Fujieda MYFC vs Jubilo Iwata",
-      "number": 7
+      "number": 6
     },
     {
       "key": "03/11_10:00_intermiami_losangeleslakers",
@@ -312,7 +286,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 03/11] Los Angeles Lakers vs Miami Heat",
-      "number": 8
+      "number": 7
     },
     {
       "key": "03/11_10:00_goldenstatewarriors_phoenixsuns",
@@ -352,7 +326,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 03/11] Golden State Warriors vs Phoenix Suns",
-      "number": 9
+      "number": 8
     },
     {
       "key": "04/11_00:45_galatasaray_stuttgart",
@@ -406,7 +380,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs VfB Stuttgart",
-      "number": 10
+      "number": 9
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -446,7 +420,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting CP",
-      "number": 11
+      "number": 10
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -486,7 +460,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern München",
-      "number": 12
+      "number": 11
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -540,7 +514,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 13
+      "number": 12
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -608,7 +582,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 14
+      "number": 13
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -634,7 +608,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 15
+      "number": 14
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -681,7 +655,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 16
+      "number": 15
     },
     {
       "key": "04/11_03:00_psg_villarreal",
@@ -721,6 +695,32 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint-Germain",
+      "number": 16
+    },
+    {
+      "key": "03/11_10:00_losangelesclippers_torontoraptors",
+      "c_home": "losangelesclippers",
+      "c_away": "torontoraptors",
+      "homeTeam": "Los Angeles Clippers",
+      "awayTeam": "Toronto Raptors",
+      "time": "10:00",
+      "date": "03/11",
+      "timestamp": 1793674800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 10:00 03/11 🏀 Los Angeles Clippers vs Toronto Raptors (Ben) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1793636939_hd/1793636939_hd@720p.m3u8",
+          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [10:00 03/11] Los Angeles Clippers vs Toronto Raptors",
       "number": 17
     },
     {
@@ -3818,34 +3818,34 @@
     {
       "home_team": "Golden State Warriors",
       "away_team": "Phoenix Suns",
-      "home_score": "93",
-      "away_score": "93",
+      "home_score": "104",
+      "away_score": "102",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "End of 3rd",
+      "detail": "6:48 - 4th",
       "date": "2026-11-03T03:00Z"
     },
     {
       "home_team": "LA Clippers",
       "away_team": "Toronto Raptors",
-      "home_score": "97",
-      "away_score": "89",
+      "home_score": "105",
+      "away_score": "101",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:13 - 4th",
+      "detail": "5:13 - 4th",
       "date": "2026-11-03T03:00Z"
     },
     {
       "home_team": "Los Angeles Lakers",
       "away_team": "Miami Heat",
-      "home_score": "122",
-      "away_score": "104",
+      "home_score": "134",
+      "away_score": "114",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:09 - 4th",
+      "detail": "1:22 - 4th",
       "date": "2026-11-03T03:00Z"
     }
   ],
