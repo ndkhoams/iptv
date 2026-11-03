@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 11:57:15",
+  "updated_at": "2026-11-03 12:12:37",
   "live_events": [
     {
       "key": "03/11_10:00_losangelesclippers_torontoraptors",
@@ -3530,81 +3530,59 @@
   ],
   "fixtures": [
     {
-      "home_team": "Newcastle United",
-      "away_team": "Everton",
+      "home_team": "Everton",
+      "away_team": "Coventry City",
       "home_score": "0",
-      "away_score": "1",
+      "away_score": "0",
       "league": "EPL",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-02T20:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-06T20:00Z"
     },
     {
-      "home_team": "Deportivo",
-      "away_team": "Osasuna",
-      "home_score": "2",
-      "away_score": "1",
+      "home_team": "Sevilla",
+      "away_team": "Alavés",
+      "home_score": "0",
+      "away_score": "0",
       "league": "LALIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-02T20:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-06T20:00Z"
     },
     {
-      "home_team": "Sassuolo",
-      "away_team": "Fiorentina",
-      "home_score": "2",
-      "away_score": "4",
-      "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-02T17:30Z"
-    },
-    {
-      "home_team": "Atalanta",
-      "away_team": "Parma",
+      "home_team": "Venezia",
+      "away_team": "Udinese",
       "home_score": "0",
-      "away_score": "3",
+      "away_score": "0",
       "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-02T19:45Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-06T19:45Z"
     },
     {
-      "home_team": "1. FC Union Berlin",
-      "away_team": "FC Cologne",
-      "home_score": "1",
-      "away_score": "1",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-01T14:30Z"
-    },
-    {
-      "home_team": "Eintracht Frankfurt",
-      "away_team": "Hamburg SV",
-      "home_score": "3",
-      "away_score": "1",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-01T16:30Z"
-    },
-    {
-      "home_team": "Lorient",
-      "away_team": "Brest",
+      "home_team": "Hamburg SV",
+      "away_team": "Borussia Mönchengladbach",
       "home_score": "0",
-      "away_score": "2",
+      "away_score": "0",
+      "league": "BUNDESLIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-06T19:30Z"
+    },
+    {
+      "home_team": "Toulouse",
+      "away_team": "Strasbourg",
+      "home_score": "0",
+      "away_score": "0",
       "league": "LIGUE1",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-02T19:45Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-06T19:45Z"
     },
     {
       "home_team": "Galatasaray",
@@ -3840,34 +3818,34 @@
     {
       "home_team": "Golden State Warriors",
       "away_team": "Phoenix Suns",
-      "home_score": "79",
-      "away_score": "83",
+      "home_score": "93",
+      "away_score": "93",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:52 - 3rd",
+      "detail": "End of 3rd",
       "date": "2026-11-03T03:00Z"
     },
     {
       "home_team": "LA Clippers",
       "away_team": "Toronto Raptors",
-      "home_score": "85",
-      "away_score": "73",
+      "home_score": "97",
+      "away_score": "89",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:36 - 3rd",
+      "detail": "9:13 - 4th",
       "date": "2026-11-03T03:00Z"
     },
     {
       "home_team": "Los Angeles Lakers",
       "away_team": "Miami Heat",
-      "home_score": "111",
-      "away_score": "93",
+      "home_score": "122",
+      "away_score": "104",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7.8 - 3rd",
+      "detail": "7:09 - 4th",
       "date": "2026-11-03T03:00Z"
     }
   ],
