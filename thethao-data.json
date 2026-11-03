@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 20:18:41",
+  "updated_at": "2026-11-03 20:33:46",
   "live_events": [
     {
       "key": "03/11_19:15_cahn_kyotosanga",
@@ -190,6 +190,67 @@
       "number": 4
     },
     {
+      "key": "03/11_20:45_alseeb_eastbengalii",
+      "c_home": "eastbengalii",
+      "c_away": "alseeb",
+      "homeTeam": "East Bengal II",
+      "awayTeam": "Al Seeb",
+      "time": "20:45",
+      "date": "03/11",
+      "timestamp": 1793713500000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:45 03/11] East Bengal II vs Al Seeb (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [20:45 03/11] East Bengal Fc Vs Al Seeb Sc (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb SC (Huyền Diệp)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (BLV Khô Mật) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/31289_east-bengal-ii.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (LÝ LINH LỰC) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/079d0004f99b44c1b5d583f336591e2c/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/82544c163c843d7650c1c38dae09f68e/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [20:45 03/11] East Bengal II vs Al Seeb",
+      "number": 5
+    },
+    {
       "key": "04/11_00:45_galatasaray_stuttgart",
       "c_home": "galatasaray",
       "c_away": "stuttgart",
@@ -241,7 +302,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs VfB Stuttgart",
-      "number": 5
+      "number": 6
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -281,7 +342,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting CP",
-      "number": 6
+      "number": 7
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -321,7 +382,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern München",
-      "number": 7
+      "number": 8
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -375,7 +436,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 8
+      "number": 9
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -443,7 +504,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 9
+      "number": 10
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -469,7 +530,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 10
+      "number": 11
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -516,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 11
+      "number": 12
     },
     {
       "key": "04/11_03:00_psg_villarreal",
@@ -556,67 +617,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint-Germain",
-      "number": 12
-    },
-    {
-      "key": "03/11_20:45_alseeb_eastbengalii",
-      "c_home": "eastbengalii",
-      "c_away": "alseeb",
-      "homeTeam": "East Bengal II",
-      "awayTeam": "Al Seeb",
-      "time": "20:45",
-      "date": "03/11",
-      "timestamp": 1793713500000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:45 03/11] East Bengal II vs Al Seeb (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [20:45 03/11] East Bengal Fc Vs Al Seeb Sc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb SC (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (BLV Khô Mật) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/31289_east-bengal-ii.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (LÝ LINH LỰC) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/079d0004f99b44c1b5d583f336591e2c/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/82544c163c843d7650c1c38dae09f68e/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/4jwq2gh4g9om0ve/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [20:45 03/11] East Bengal II vs Al Seeb",
       "number": 13
     },
     {
@@ -2613,308 +2613,8 @@
       ]
     },
     {
-      "name": "👑 Vua Sân Cỏ",
-      "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Ta'zim (Tào Duệ)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-15.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ee2117f952745163fecfa4b74a6a2bea.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (Lê Hoàn)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-5.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon Hana Citizen (Trần Hoàng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Cong An Ha Noi vs Kyoto Sanga (Triệu Hằng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-20.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (Nguyễn Ánh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb SC (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍗 Khô Gà TV",
-      "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon (BLV Xôi Bắp) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw",
-          "logo": "https://apiv3.apifootball.com/badges/5055_kashiwa-reysol.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon (BLV Xôi Bắp) [flv]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/5055_kashiwa-reysol.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (BLV Khô Chè) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/383_vissel-kobe.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (BLV Khô Mật) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/31289_east-bengal-ii.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍺 Bia Ôm TV",
-      "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi Mitrphol (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNjY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmRnYzczOHo5b2lhbXc4MmFhZXJhbWVvcw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi Mitrphol (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNjY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnA1MXg2dzJqcnhxbWhxbXZxMWdiN3M1eg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Ta'zim (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmh4eXRob3c1ZGtqOGZjZmtjZWNvODVsYg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/jeonbuk-motors-3339",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon Citizen (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNTc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om1haWZzdTBuejNuc3RtZWhyeXh3YWZsMA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Ta'zim (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNzM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmR0d2prb2Y4Y21rZWRwd3VrYnc0bmJpYg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/jeonbuk-motors-3339",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Ta'zim (TIGER) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNzM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmZhZGV4aHVwOHpqMnpiY3Z6Y2tmOXFoMQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/jeonbuk-motors-3339",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhiZmc4d2s2eWN3N3Jna3oyZHA3dmNlNA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/port-fc-5461",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Công an Hà Nội vs Kyoto Sanga (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmV1YXJ0ZGNrbnc0NzhoaW9oY2E2MWpqcg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:45 04/11 ⚽ Shakhtar Donetsk vs Sporting CP (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzM2OTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnA0dTh4eHZidXhpZWs3bDJ0NDV3ZTJ3OQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/shakhtar-donetsk-621",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:45 04/11 ⚽ Galatasaray vs VfB Stuttgart (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyNTI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNzOXFqeDBxZGEybjlvdDVhYWxzcGI5bg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyMjk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnpoeDMxdWVrNXBuamhlNTg4dHoyODhpaA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Villarreal vs Paris Saint-Germain (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1manFibnMzcXMzMmExMnBnNjc5amY4YQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE0MzM1M3VrZWcydjQxaG5scm01eGZyYw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI1OTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnB6bzF1M3hucGxqb2xpZnZrejdqNTJieA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Atlético Madrid vs Bayern Munich (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo2Z25mNWdzeDgzODY3eWk5emdlenViaQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🐔 Gà Vàng 33",
-      "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon Hana Citizen (Gà Ô Long) [hls]",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (Gà Siêu Ngố) [hls]",
-          "url": "https://live2.zktsva.app/live/301238.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (Gà Siêu Quỷ) [hls]",
-          "url": "https://live2.zktsva.app/live/304565.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Cong An Ha Noi vs Kyoto Sanga (Gà Siêu Gáy) [hls]",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "20:00 03/11 ⚽ Manchester United U19 vs AS Roma U19 (Gà Siêu Péo) [hls]",
-          "url": "https://live2.zktsva.app/live/303098.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/44eb7130030b0be19a244dbf1927561f.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "22:00 03/11 ⚽ Atletico de Madrid U19 vs Bayern Munchen U19 (Gà Siêu Tồ) [hls]",
-          "url": "https://live2.zktsva.app/live/796315.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/dd126282a3ed968b622055c808ad82c4.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "23:00 03/11 ⚽ Al-Hussein SC (Irbid) vs Al Shorta (Gà Siêu Mõm) [hls]",
-          "url": "https://live2.zktsva.app/live/300523.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/c57a2fc40564fdcb7c1428215105372a.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "23:00 03/11 ⚽ Esteghlal Tehran vs Al-Shamal Sports Club (Gà Siêu Bệu) [hls]",
-          "url": "https://live2.zktsva.app/live/289650.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "🥤 Cola TV",
       "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Takzim (BLV REVIVE) [hls]",
-          "url": "https://live05.miekgo.app/live/33982309.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs Johor Darul Takzim (BLV REVIVE) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (BLV HỔ VẰN) [hls]",
-          "url": "https://live05.miekgo.app/live/07428422.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (BLV HỔ VẰN) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon (BLV WARRIOR) [hls]",
-          "url": "https://live05.miekgo.app/live/97885009.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon (BLV WARRIOR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
         {
           "name": "18:00 03/11 ⚽ Estrela U23 vs Santa Clara U23 (BLV ROCKSTAR) [hls]",
           "url": "https://live05.miekgo.app/live/82054853.m3u8",
@@ -3030,48 +2730,8 @@
       ]
     },
     {
-      "name": "🐔 Gà Vàng 24h",
-      "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Jeonbuk Hyundai Motors vs JDT (Khang Hi) [hls]",
-          "url": "https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/ee2117f952745163fecfa4b74a6a2bea.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Kashiwa Reysol vs Daejeon Citizen (Lucie23) [hls]",
-          "url": "https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/d272859d78eb8ca7a14753f4293fbf45.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (Lá Chanh) [hls]",
-          "url": "https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/d85cce27ab583e5b3cead155f02b098a.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "23:00 03/11 ⚽ Esteghlal Tehran vs Al Shamal (Unicorn) [hls]",
-          "url": "https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "💥 Phá Làng TV",
       "channels": [
-        {
-          "name": "17:00 03/11 ⚽ Vissel Kobe vs Ratchaburi (LÝ LIỀU LĨNH) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/3bc2af8b32214605a338f27dbaa14479/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhd7kmd7o/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
         {
           "name": "18:00 03/11 ⚽ Estrela U23 vs Santa Clara U23 (Unknown) [geo]",
           "url": "https://pull1.digitalcdn.net/live/4a099eb4d1174ff2ab15294191366c28/index.m3u8",
@@ -3252,6 +2912,178 @@
           "url": "https://pull1.digitalcdn.net/live/9d7bedcddaf1476b99e08625fa2429f6/index.m3u8",
           "logo": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phd18m2wd/image/small",
           "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "👑 Vua Sân Cỏ",
+      "channels": [
+        {
+          "name": "19:15 03/11 ⚽ Cong An Ha Noi vs Kyoto Sanga (Triệu Hằng)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-20.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (Nguyễn Ánh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb SC (Huyền Diệp)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍺 Bia Ôm TV",
+      "channels": [
+        {
+          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhiZmc4d2s2eWN3N3Jna3oyZHA3dmNlNA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/port-fc-5461",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "19:15 03/11 ⚽ Công an Hà Nội vs Kyoto Sanga (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmV1YXJ0ZGNrbnc0NzhoaW9oY2E2MWpqcg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:45 04/11 ⚽ Shakhtar Donetsk vs Sporting CP (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzM2OTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnA0dTh4eHZidXhpZWs3bDJ0NDV3ZTJ3OQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/shakhtar-donetsk-621",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:45 04/11 ⚽ Galatasaray vs VfB Stuttgart (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyNTI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNzOXFqeDBxZGEybjlvdDVhYWxzcGI5bg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyMjk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnpoeDMxdWVrNXBuamhlNTg4dHoyODhpaA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Villarreal vs Paris Saint-Germain (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1manFibnMzcXMzMmExMnBnNjc5amY4YQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE0MzM1M3VrZWcydjQxaG5scm01eGZyYw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI1OTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnB6bzF1M3hucGxqb2xpZnZrejdqNTJieA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Atlético Madrid vs Bayern Munich (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo2Z25mNWdzeDgzODY3eWk5emdlenViaQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🐔 Gà Vàng 33",
+      "channels": [
+        {
+          "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (Gà Siêu Quỷ) [hls]",
+          "url": "https://live2.zktsva.app/live/304565.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "19:15 03/11 ⚽ Cong An Ha Noi vs Kyoto Sanga (Gà Siêu Gáy) [hls]",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "20:00 03/11 ⚽ Manchester United U19 vs AS Roma U19 (Gà Siêu Péo) [hls]",
+          "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/44eb7130030b0be19a244dbf1927561f.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "22:00 03/11 ⚽ Atletico de Madrid U19 vs Bayern Munchen U19 (Gà Siêu Tồ) [hls]",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/dd126282a3ed968b622055c808ad82c4.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "23:00 03/11 ⚽ Al-Hussein SC (Irbid) vs Al Shorta (Gà Siêu Mõm) [hls]",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/c57a2fc40564fdcb7c1428215105372a.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "23:00 03/11 ⚽ Esteghlal Tehran vs Al-Shamal Sports Club (Gà Siêu Bệu) [hls]",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍗 Khô Gà TV",
+      "channels": [
+        {
+          "name": "20:45 03/11 ⚽ East Bengal vs Al Seeb (BLV Khô Mật) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/31289_east-bengal-ii.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🐔 Gà Vàng 24h",
+      "channels": [
+        {
+          "name": "23:00 03/11 ⚽ Esteghlal Tehran vs Al Shamal (Unicorn) [hls]",
+          "url": "https://playback.livetl002.com/live/6ae349718d80cc041d063e08.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/48f908d6c42e0bf4e9f83c4841d76bea.png",
+          "group": "🐔 Gà Vàng 24h",
           "ref": ""
         }
       ]
