@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 07:52:35",
+  "updated_at": "2026-11-03 08:07:37",
   "live_events": [
     {
       "key": "03/11_06:00_rbbragantino_santos",
@@ -188,6 +188,72 @@
       "number": 5
     },
     {
+      "key": "03/11_08:15_atleticonacional_bucaramanga",
+      "c_home": "bucaramanga",
+      "c_away": "atleticonacional",
+      "homeTeam": "Bucaramanga",
+      "awayTeam": "Atletico Nacional",
+      "time": "08:15",
+      "date": "03/11",
+      "timestamp": 1793668500000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:15 03/11] Bucaramanga vs Atletico Nacional (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [08:15 03/11] Atletico Bucaramanga Vs Atletico Nacional Medellin (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "08:15 03/11 ⚽ Atletico Bucaramanga vs Atletico Nacional Medellin (Gà Siêu Kiêu) [hls]",
+          "url": "https://live2.zktsva.app/live/741294.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:15 03/11] Bucaramanga vs Atletico Nacional",
+      "number": 6
+    },
+    {
+      "key": "03/11_08:15_atlticonacional_bucaramanga",
+      "c_home": "bucaramanga",
+      "c_away": "atlticonacional",
+      "homeTeam": "Bucaramanga",
+      "awayTeam": "Atlético Nacional",
+      "time": "08:15",
+      "date": "03/11",
+      "timestamp": 1793668500000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:15 03/11 ⚽ Bucaramanga vs Atlético Nacional (Nếp Cẩm) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:15 03/11] Bucaramanga vs Atlético Nacional",
+      "number": 7
+    },
+    {
       "key": "03/11_07:00_clevelandcavaliers_oklahomacitythunder",
       "c_home": "clevelandcavaliers",
       "c_away": "oklahomacitythunder",
@@ -218,7 +284,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 03/11] Cleveland Cavaliers vs Oklahoma City Thunder",
-      "number": 6
+      "number": 8
     },
     {
       "key": "03/11_07:30_atlantahawks_indianapacers",
@@ -251,7 +317,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 03/11] Indiana Pacers vs Atlanta Hawks",
-      "number": 7
+      "number": 9
     },
     {
       "key": "03/11_07:30_charlottehornets_detroitpistons",
@@ -284,7 +350,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 03/11] Charlotte Hornets vs Detroit Pistons",
-      "number": 8
+      "number": 10
     },
     {
       "key": "03/11_07:30_brooklynnets_newyorkknicks",
@@ -310,7 +376,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 03/11] New York Knicks vs Brooklyn Nets",
-      "number": 9
+      "number": 11
     },
     {
       "key": "03/11_08:00_milwaukeebucks_minnesotatimberwolves",
@@ -343,7 +409,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 03/11] Minnesota Timberwolves vs Milwaukee Bucks",
-      "number": 10
+      "number": 12
     },
     {
       "key": "04/11_00:45_galatasaray_stuttgart",
@@ -390,7 +456,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs Vfb Stuttgart",
-      "number": 11
+      "number": 13
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -423,7 +489,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting Cp",
-      "number": 12
+      "number": 14
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -456,7 +522,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern Munich",
-      "number": 13
+      "number": 15
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -503,7 +569,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 14
+      "number": 16
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -529,7 +595,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 15
+      "number": 17
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -576,7 +642,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 16
+      "number": 18
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -630,7 +696,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 17
+      "number": 19
     },
     {
       "key": "04/11_03:00_psg_villarreal",
@@ -670,72 +736,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint-Germain",
-      "number": 18
-    },
-    {
-      "key": "03/11_08:15_atleticonacional_bucaramanga",
-      "c_home": "bucaramanga",
-      "c_away": "atleticonacional",
-      "homeTeam": "Bucaramanga",
-      "awayTeam": "Atletico Nacional",
-      "time": "08:15",
-      "date": "03/11",
-      "timestamp": 1793668500000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:15 03/11] Bucaramanga vs Atletico Nacional (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [08:15 03/11] Atletico Bucaramanga Vs Atletico Nacional Medellin (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "08:15 03/11 ⚽ Atletico Bucaramanga vs Atletico Nacional Medellin (Gà Siêu Kiêu) [hls]",
-          "url": "https://live2.zktsva.app/live/741294.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [08:15 03/11] Bucaramanga vs Atletico Nacional",
-      "number": 19
-    },
-    {
-      "key": "03/11_08:15_atlticonacional_bucaramanga",
-      "c_home": "bucaramanga",
-      "c_away": "atlticonacional",
-      "homeTeam": "Bucaramanga",
-      "awayTeam": "Atlético Nacional",
-      "time": "08:15",
-      "date": "03/11",
-      "timestamp": 1793668500000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:15 03/11 ⚽ Bucaramanga vs Atlético Nacional (Nếp Cẩm) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [08:15 03/11] Bucaramanga vs Atlético Nacional",
       "number": 20
     },
     {
@@ -3228,67 +3228,67 @@
     {
       "home_team": "Cleveland Cavaliers",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "37",
-      "away_score": "41",
+      "home_score": "48",
+      "away_score": "59",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:05 - 2nd",
+      "detail": "3.2 - 2nd",
       "date": "2026-11-03T00:00Z"
     },
     {
       "home_team": "Charlotte Hornets",
       "away_team": "Detroit Pistons",
-      "home_score": "9",
-      "away_score": "13",
+      "home_score": "17",
+      "away_score": "21",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:30 - 1st",
+      "detail": "1:40 - 1st",
       "date": "2026-11-03T00:30Z"
     },
     {
       "home_team": "Indiana Pacers",
       "away_team": "Atlanta Hawks",
-      "home_score": "20",
-      "away_score": "20",
+      "home_score": "29",
+      "away_score": "40",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:32 - 1st",
+      "detail": "11:36 - 2nd",
       "date": "2026-11-03T00:30Z"
     },
     {
       "home_team": "New York Knicks",
       "away_team": "Brooklyn Nets",
-      "home_score": "13",
-      "away_score": "13",
+      "home_score": "27",
+      "away_score": "21",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:49 - 1st",
+      "detail": "End of 1st",
       "date": "2026-11-03T00:30Z"
     },
     {
       "home_team": "Orlando Magic",
       "away_team": "Washington Wizards",
-      "home_score": "18",
-      "away_score": "19",
+      "home_score": "33",
+      "away_score": "28",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:22 - 1st",
+      "detail": "End of 1st",
       "date": "2026-11-03T00:30Z"
     },
     {
       "home_team": "Philadelphia 76ers",
       "away_team": "Chicago Bulls",
-      "home_score": "12",
-      "away_score": "11",
+      "home_score": "30",
+      "away_score": "23",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:01 - 1st",
+      "detail": "End of 1st",
       "date": "2026-11-03T00:30Z"
     },
     {
