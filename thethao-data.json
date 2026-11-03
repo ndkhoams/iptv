@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-11-03 21:04:11",
+  "updated_at": "2026-11-03 21:19:15",
   "live_events": [
-    {
-      "key": "03/11_19:15_cahn_kyotosanga",
-      "c_home": "cahn",
-      "c_away": "kyotosanga",
-      "homeTeam": "Công An Hà Nội",
-      "awayTeam": "Kyoto Sanga",
-      "time": "19:15",
-      "date": "03/11",
-      "timestamp": 1793708100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:15 03/11] Công An Hà Nội vs Kyoto Sanga (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "19:15 03/11 ⚽ Công an Hà Nội vs Kyoto Sanga (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmV1YXJ0ZGNrbnc0NzhoaW9oY2E2MWpqcg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Công An Hà Nội vs Kyoto Sanga (LÝ LA LÀNG) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/4a24fcde99544b92b6de0fc397b8e80d/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 03/11 ⚽ Công An Hà Nội vs Kyoto Sanga (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/289009f756e035ebaab178a51e5e9d71/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [19:15 03/11] Công An Hà Nội vs Kyoto Sanga",
-      "number": 1
-    },
     {
       "key": "03/11_19:15_hanoi_kyotosanga",
       "c_home": "hanoi",
@@ -63,13 +16,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [19:15 03/11] Cong An Ha Noi Fc Vs Kyoto Sanga (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "19:15 03/11 ⚽ Cong An Ha Noi vs Kyoto Sanga (Triệu Hằng)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-20.m3u8",
@@ -100,7 +46,7 @@
         }
       ],
       "displayTitle": "🔴 [19:15 03/11] Cong An Ha Noi vs Kyoto Sanga",
-      "number": 2
+      "number": 1
     },
     {
       "key": "03/11_19:15_beijingguoan_port",
@@ -117,13 +63,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [19:15 03/11] Port Fc Vs Beijing Guoan (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "19:15 03/11 ⚽ Port vs Beijing Guoan (Nguyễn Ánh)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
@@ -161,6 +100,46 @@
         }
       ],
       "displayTitle": "🔴 [19:15 03/11] Port vs Beijing Guoan",
+      "number": 2
+    },
+    {
+      "key": "03/11_19:15_cahn_kyotosanga",
+      "c_home": "cahn",
+      "c_away": "kyotosanga",
+      "homeTeam": "Công an Hà Nội",
+      "awayTeam": "Kyoto Sanga",
+      "time": "19:15",
+      "date": "03/11",
+      "timestamp": 1793708100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:15 03/11 ⚽ Công an Hà Nội vs Kyoto Sanga (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NjcwNDA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmV1YXJ0ZGNrbnc0NzhoaW9oY2E2MWpqcg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "19:15 03/11 ⚽ Công An Hà Nội vs Kyoto Sanga (LÝ LA LÀNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/4a24fcde99544b92b6de0fc397b8e80d/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:15 03/11 ⚽ Công An Hà Nội vs Kyoto Sanga (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/289009f756e035ebaab178a51e5e9d71/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/23xmvkho9w9qg8n/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:15 03/11] Công an Hà Nội vs Kyoto Sanga",
       "number": 3
     },
     {
@@ -251,6 +230,46 @@
       "number": 5
     },
     {
+      "key": "03/11_21:30_alriffa_alzawraa",
+      "c_home": "alzawraa",
+      "c_away": "alriffa",
+      "homeTeam": "Al Zawra'a",
+      "awayTeam": "Al Riffa",
+      "time": "21:30",
+      "date": "03/11",
+      "timestamp": 1793716200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:30 03/11] Al Zawra'a vs Al Riffa (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "21:30 03/11 ⚽ Al Zawraa vs Al Riffa (BLV SAMURAI) [hls]",
+          "url": "https://live05.miekgo.app/live/07808742.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "21:30 03/11 ⚽ Al Zawraa vs Al Riffa (BLV SAMURAI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [21:30 03/11] Al Zawra'a vs Al Riffa",
+      "number": 6
+    },
+    {
       "key": "04/11_00:45_galatasaray_stuttgart",
       "c_home": "galatasaray",
       "c_away": "stuttgart",
@@ -302,7 +321,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Galatasaray vs VfB Stuttgart",
-      "number": 6
+      "number": 7
     },
     {
       "key": "04/11_00:45_shakhtardonetsk_sportingcp",
@@ -342,7 +361,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 04/11] Shakhtar Donetsk vs Sporting CP",
-      "number": 7
+      "number": 8
     },
     {
       "key": "04/11_03:00_atleticomadrid_bayern",
@@ -382,7 +401,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Atletico Madrid vs Bayern München",
-      "number": 8
+      "number": 9
     },
     {
       "key": "04/11_03:00_astonvilla_barcelona",
@@ -436,7 +455,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 9
+      "number": 10
     },
     {
       "key": "04/11_03:00_manutd_roma",
@@ -504,7 +523,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Manchester United vs Roma",
-      "number": 10
+      "number": 11
     },
     {
       "key": "04/11_03:00_bodoglimt_losclille",
@@ -530,7 +549,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 11
+      "number": 12
     },
     {
       "key": "04/11_03:00_feyenoord_intermilan",
@@ -577,7 +596,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 12
+      "number": 13
     },
     {
       "key": "04/11_03:00_psg_villarreal",
@@ -617,46 +636,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 04/11] Villarreal vs Paris Saint-Germain",
-      "number": 13
-    },
-    {
-      "key": "03/11_21:30_alriffa_alzawraa",
-      "c_home": "alzawraa",
-      "c_away": "alriffa",
-      "homeTeam": "Al Zawra'a",
-      "awayTeam": "Al Riffa",
-      "time": "21:30",
-      "date": "03/11",
-      "timestamp": 1793716200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:30 03/11] Al Zawra'a vs Al Riffa (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "21:30 03/11 ⚽ Al Zawraa vs Al Riffa (BLV SAMURAI) [hls]",
-          "url": "https://live05.miekgo.app/live/07808742.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "21:30 03/11 ⚽ Al Zawraa vs Al Riffa (BLV SAMURAI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/17e3cb55af2ada9d234099c573f8a81e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [21:30 03/11] Al Zawra'a vs Al Riffa",
       "number": 14
     },
     {
@@ -2060,13 +2039,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [19:15 03/11] Công An Hà Nội vs Kyoto Sanga (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [19:35 03/11] Damac vs Al Akhdoud (BLV Chuối Tây) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
@@ -2190,20 +2162,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [19:15 03/11] Cong An Ha Noi Fc Vs Kyoto Sanga (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [19:15 03/11] Port Fc Vs Beijing Guoan (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [20:00 03/11] Manchester United U19 Vs As Roma U19 (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
