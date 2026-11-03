@@ -1,405 +1,6 @@
 {
-  "updated_at": "2026-11-04 04:43:14",
+  "updated_at": "2026-11-04 04:58:23",
   "live_events": [
-    {
-      "key": "04/11_03:00_atleticomadrid_bayern",
-      "c_home": "atleticomadrid",
-      "c_away": "bayern",
-      "homeTeam": "Atletico Madrid",
-      "awayTeam": "Bayern München",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 04/11] Atletico Madrid vs Bayern München (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 04/11] Atletico Madrid Vs Fc Bayern Munich (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 04/11 ⚽ Atletico Madrid vs Bayern Munich (Trần Cảnh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/390977b0421bce136c562057ea171ecf.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Atlético Madrid vs Bayern Munich (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo2Z25mNWdzeDgzODY3eWk5emdlenViaQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Atletico Madrid vs Bayern Munich (Gà Siêu Quỷ) [hls]",
-          "url": "https://live2.zktsva.app/live/304565.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Atletico Madrid vs Bayern München",
-      "number": 1
-    },
-    {
-      "key": "04/11_03:00_astonvilla_barcelona",
-      "c_home": "barcelona",
-      "c_away": "astonvilla",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Aston Villa",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 04/11] Barcelona vs Aston Villa (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 04/11] Fc Barcelona Vs Aston Villa (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Lê Lợi)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-6.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI1OTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnB6bzF1M3hucGxqb2xpZnZrejdqNTJieA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Gà Siêu Péo) [hls]",
-          "url": "https://live2.zktsva.app/live/303098.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Lữ Bố.Vip) [hls]",
-          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (LÃM LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/137298568b9b436181345481fd430cf0/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (LÃM LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/137298568b9b436181345481fd430cf0/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/41345b57442f1974cec0ee4360e2e67d/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/e4wyrn4h127q86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Barcelona vs Aston Villa",
-      "number": 2
-    },
-    {
-      "key": "04/11_03:00_manutd_roma",
-      "c_home": "manutd",
-      "c_away": "roma",
-      "homeTeam": "Manchester United",
-      "awayTeam": "Roma",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 04/11] Manchester United vs AS Roma (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 04/11] Manchester United vs AS Roma (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 04/11] Manchester United Vs As Roma (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (Lưu Bang)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-7.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1manFibnMzcXMzMmExMnBnNjc5amY4YQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE0MzM1M3VrZWcydjQxaG5scm01eGZyYw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (Gà Siêu Gáy) [hls]",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (Cris) [hls]",
-          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (LÝ LA LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/c249e6fca7824008ac411b24c6336c48/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (LÝ LA LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/c249e6fca7824008ac411b24c6336c48/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/26d5e1d15e3a4895a5ac44976a21eb5a/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/l965mkyh98gr1ge/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Manchester United vs Roma",
-      "number": 3
-    },
-    {
-      "key": "04/11_03:00_feyenoord_intermilan",
-      "c_home": "feyenoord",
-      "c_away": "intermilan",
-      "homeTeam": "Feyenoord",
-      "awayTeam": "Inter Milan",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 04/11] Feyenoord Vs Inter Milan (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Nguyễn Đảm)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-12.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/44073f2d2c979a9388f98505ac3b754d.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyMjk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnpoeDMxdWVrNXBuamhlNTg4dHoyODhpaA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/21d4868f88e84cd0b06fdcad6257d920/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdeom0ve/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter (LÝ LINH LỰC) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/21d4868f88e84cd0b06fdcad6257d920/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdeom0ve/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/9f145282bb1954ae3e1332e3460e5930/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdeom0ve/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Feyenoord vs Inter Milan",
-      "number": 4
-    },
-    {
-      "key": "04/11_03:00_bodoglimt_losclille",
-      "c_home": "bodoglimt",
-      "c_away": "losclille",
-      "homeTeam": "Bodoglimt",
-      "awayTeam": "Losc Lille",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 04/11] Fk Bodoglimt Vs Losc Lille (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 04/11 ⚽ FK Bodo/Glimt vs LOSC Lille (Triệu Hằng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-20.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/98854ab97eadf3d2c7c6d657ad99df96.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Bodoglimt vs Losc Lille",
-      "number": 5
-    },
-    {
-      "key": "04/11_03:00_lasklinz_slovanbratislava",
-      "c_home": "lasklinz",
-      "c_away": "slovanbratislava",
-      "homeTeam": "LASK Linz",
-      "awayTeam": "Slovan Bratislava",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "03:00 04/11 ⚽ LASK Linz vs Slovan Bratislava (Tôn Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/5d33f831f779428858138d28c9dd4480.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] LASK Linz vs Slovan Bratislava",
-      "number": 6
-    },
-    {
-      "key": "04/11_03:00_psg_villarreal",
-      "c_home": "villarreal",
-      "c_away": "psg",
-      "homeTeam": "Villarreal",
-      "awayTeam": "Paris Saint-Germain",
-      "time": "03:00",
-      "date": "04/11",
-      "timestamp": 1793736000000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "03:00 04/11 ⚽ Villarreal vs Paris Saint-Germain (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Villarreal vs PSG (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/5f5f809eeab5446f8c33e063479d4393/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Villarreal vs PSG (LÝ LÀNG LÁ) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/5f5f809eeab5446f8c33e063479d4393/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 04/11 ⚽ Villarreal vs PSG (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/5747aa4b23efe7396c710d968a890aa7/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kjw2r09hvwwrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 04/11] Villarreal vs Paris Saint-Germain",
-      "number": 7
-    },
     {
       "key": "04/11_03:00_parissaintgermain_villarreal",
       "c_home": "villarreal",
@@ -438,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [03:00 04/11] Villarreal vs Paris Saint Germain",
-      "number": 8
+      "number": 1
     },
     {
       "key": "04/11_03:00_atlmadrid_bayern",
@@ -478,7 +79,7 @@
         }
       ],
       "displayTitle": "🔴 [03:00 04/11] Atl. Madrid vs Bayern Munich",
-      "number": 9
+      "number": 2
     },
     {
       "key": "04/11_05:30_chapecoensesc_mirassol",
@@ -525,7 +126,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 04/11] Chapecoense-sc vs Mirassol",
-      "number": 10
+      "number": 3
     },
     {
       "key": "04/11_06:20_deportivo_jaguares",
@@ -551,7 +152,7 @@
         }
       ],
       "displayTitle": "⚽ [06:20 04/11] Deportivo Pasto vs Jaguares",
-      "number": 11
+      "number": 4
     },
     {
       "key": "04/11_07:30_coritiba_internacional",
@@ -612,7 +213,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 04/11] Internacional vs Coritiba",
-      "number": 12
+      "number": 5
     },
     {
       "key": "04/11_07:30_alabama_samhoustonst",
@@ -645,7 +246,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 04/11] Alabama vs Sam Houston St",
-      "number": 13
+      "number": 6
     },
     {
       "key": "04/11_07:30_drexel_virginia",
@@ -678,7 +279,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 04/11] Virginia vs Drexel",
-      "number": 14
+      "number": 7
     },
     {
       "key": "04/11_08:00_municipalperezzeledon_sportingcp",
@@ -704,7 +305,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 04/11] Sporting vs Municipal Perez Zeledon",
-      "number": 15
+      "number": 8
     },
     {
       "key": "04/11_08:00_arkansas_arkansaspinebluff",
@@ -737,7 +338,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 04/11] Arkansas vs Arkansas-Pine Bluff",
-      "number": 16
+      "number": 9
     },
     {
       "key": "04/11_10:00_csfullerton_sandiegostate",
@@ -770,7 +371,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 04/11] San Diego State vs CS Fullerton",
-      "number": 17
+      "number": 10
     },
     {
       "key": "04/11_14:45_melbournevictory_persibbandung",
@@ -803,7 +404,7 @@
         }
       ],
       "displayTitle": "⚽ [14:45 04/11] Melbourne Victory vs Persib Bandung",
-      "number": 18
+      "number": 11
     },
     {
       "key": "04/11_17:00_seoul_viettel",
@@ -843,7 +444,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Seoul vs The Cong Viettel",
-      "number": 19
+      "number": 12
     },
     {
       "key": "04/11_17:00_gambaosaka_pohangsteelers",
@@ -869,7 +470,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 04/11] Pohang Steelers vs Gamba Osaka",
-      "number": 20
+      "number": 13
     },
     {
       "key": "04/11_19:15_buriramunited_kashimaantlers",
@@ -895,7 +496,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 04/11] Buriram United vs Kashima Antlers",
-      "number": 21
+      "number": 14
     },
     {
       "key": "04/11_20:45_arkadag_golgohar",
@@ -921,7 +522,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 04/11] Arkadag vs Gol Gohar",
-      "number": 22
+      "number": 15
     },
     {
       "key": "04/11_22:30_olympiacospiraeus_rennais",
@@ -947,7 +548,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Olympiacos Piraeus",
-      "number": 23
+      "number": 16
     },
     {
       "key": "04/11_23:00_alkhaldiya_alwahdauae",
@@ -973,7 +574,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Wahdauae vs Al Khaldiya",
-      "number": 24
+      "number": 17
     },
     {
       "key": "04/11_23:00_alkuwaitsc_nasafqarshi",
@@ -999,7 +600,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Kuwait Sc vs Nasaf Qarshi",
-      "number": 25
+      "number": 18
     },
     {
       "key": "04/11_23:00_alnahdasc_alrayyansportsclub",
@@ -1032,7 +633,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Rayyan Sports Club vs Al Nahda Sc",
-      "number": 26
+      "number": 19
     },
     {
       "key": "05/11_00:45_aekathens_realmadrid",
@@ -1058,7 +659,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] Aek Athens vs Real Madrid",
-      "number": 27
+      "number": 20
     },
     {
       "key": "05/11_00:45_fenerbahce_liverpool",
@@ -1084,7 +685,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] Fenerbahce vs Liverpool",
-      "number": 28
+      "number": 21
     },
     {
       "key": "05/11_01:15_aljazirauae_almuharraq",
@@ -1110,7 +711,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 05/11] Al Muharraq vs Al Jazirauae",
-      "number": 29
+      "number": 22
     },
     {
       "key": "05/11_01:15_alfaisalyamman_altaawoun",
@@ -1136,7 +737,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 05/11] Al Taawoun vs Al Faisaly Amman",
-      "number": 30
+      "number": 23
     },
     {
       "key": "05/11_03:00_betis_dortmund",
@@ -1162,7 +763,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Borussia Dortmund vs Real Betis",
-      "number": 31
+      "number": 24
     },
     {
       "key": "05/11_03:00_napoli_porto",
@@ -1188,7 +789,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Porto vs Napoli",
-      "number": 32
+      "number": 25
     },
     {
       "key": "05/11_03:00_como_lens",
@@ -1214,7 +815,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Lens vs Como",
-      "number": 33
+      "number": 26
     },
     {
       "key": "05/11_03:00_clubbrugge_psv",
@@ -1240,7 +841,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Psv Eindhoven vs Club Brugge",
-      "number": 34
+      "number": 27
     },
     {
       "key": "05/11_03:00_leipzig_mancity",
@@ -1266,7 +867,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Rb Leipzig vs Manchester City",
-      "number": 35
+      "number": 28
     },
     {
       "key": "05/11_03:00_arsenal_skslaviapraha",
@@ -1292,7 +893,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Sk Slavia Praha vs Arsenal",
-      "number": 36
+      "number": 29
     },
     {
       "key": "05/11_05:30_flamengorj_gremiors",
@@ -1318,7 +919,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 05/11] Flamengo Rj vs Gremio Rs",
-      "number": 37
+      "number": 30
     },
     {
       "key": "05/11_06:30_deportivo_independientesantafe",
@@ -1344,7 +945,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 05/11] Cucuta Deportivo vs Independiente Santa Fe",
-      "number": 38
+      "number": 31
     },
     {
       "key": "05/11_07:30_corinthianssp_saopaulosp",
@@ -1370,7 +971,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 05/11] Sao Paulo Sp vs Corinthians Sp",
-      "number": 39
+      "number": 32
     },
     {
       "key": "05/11_08:30_americadecali_millonarios",
@@ -1396,7 +997,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 05/11] Millonarios vs America De Cali",
-      "number": 40
+      "number": 33
     },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -1422,7 +1023,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 41
+      "number": 34
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -1448,7 +1049,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 42
+      "number": 35
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -1474,7 +1075,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 43
+      "number": 36
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -1500,7 +1101,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 44
+      "number": 37
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -1526,7 +1127,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 45
+      "number": 38
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -1552,7 +1153,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 46
+      "number": 39
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -1578,7 +1179,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 47
+      "number": 40
     },
     {
       "key": "05/11_19:15_bgpathumunited_taipo",
@@ -1604,7 +1205,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Bg Pathum United vs Tai Po",
-      "number": 48
+      "number": 41
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -1630,7 +1231,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 49
+      "number": 42
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -1656,7 +1257,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 50
+      "number": 43
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -1682,7 +1283,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 51
+      "number": 44
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -1708,7 +1309,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 52
+      "number": 45
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -1734,7 +1335,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 53
+      "number": 46
     }
   ],
   "source_groups": [
@@ -2137,13 +1738,6 @@
       "name": "👑 Vua Sân Cỏ",
       "channels": [
         {
-          "name": "01:15 04/11 ⚽ Al Hilal vs Shabab Al Ahli (Trần Hoàng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/07a555616afab7be32e00150eacf4197.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
           "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Nguyễn Đảm)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-12.m3u8",
           "logo": "https://global-cdn.cdnx.tech/football/team/44073f2d2c979a9388f98505ac3b754d.png",
@@ -2216,123 +1810,100 @@
       ]
     },
     {
-      "name": "🍗 Khô Gà TV",
+      "name": "🍺 Bia Ôm TV",
       "channels": [
         {
-          "name": "01:15 04/11 ⚽ Al Hilal vs Shabab Al-Ahli Dubai (BLV Xôi Bắp) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw",
-          "logo": "https://apiv3.apifootball.com/badges/366_al-hilal-fc.jpg",
-          "group": "🍗 Khô Gà TV",
+          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyMjk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnpoeDMxdWVrNXBuamhlNTg4dHoyODhpaA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
         },
         {
-          "name": "01:15 04/11 ⚽ Al Hilal vs Shabab Al-Ahli Dubai (BLV Xôi Bắp) [flv]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/366_al-hilal-fc.jpg",
-          "group": "🍗 Khô Gà TV",
+          "name": "03:00 04/11 ⚽ Villarreal vs Paris Saint-Germain (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1manFibnMzcXMzMmExMnBnNjc5amY4YQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE0MzM1M3VrZWcydjQxaG5scm01eGZyYw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI1OTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnB6bzF1M3hucGxqb2xpZnZrejdqNTJieA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 04/11 ⚽ Atlético Madrid vs Bayern Munich (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo2Z25mNWdzeDgzODY3eWk5emdlenViaQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
         }
       ]
     },
     {
-      "name": "🥤 Cola TV",
+      "name": "🐔 Gà Vàng 33",
       "channels": [
         {
-          "name": "01:15 04/11 ⚽ Al Hilal vs CLB Al Ahli (BLV GIÀ LÀNG) [hls]",
-          "url": "https://live05.miekgo.app/live/14830711.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/07a555616afab7be32e00150eacf4197.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "03:00 04/11 ⚽ Atletico Madrid vs Bayern Munich (Gà Siêu Quỷ) [hls]",
+          "url": "https://live2.zktsva.app/live/304565.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "01:15 04/11 ⚽ Al Hilal vs CLB Al Ahli (BLV GIÀ LÀNG) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/07a555616afab7be32e00150eacf4197.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Gà Siêu Péo) [hls]",
+          "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "05:30 04/11 ⚽ CLB Chapecoense SC vs CLB Mirassol (BLV REDBULL) [hls]",
-          "url": "https://live05.miekgo.app/live/49572724.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (Gà Siêu Gáy) [hls]",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "05:30 04/11 ⚽ CLB Chapecoense SC vs CLB Mirassol (BLV REDBULL) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "07:30 04/11 ⚽ Internacional _ RS vs Coritiba SAF _ PR (Gà Siêu Tốc) [hls]",
+          "url": "https://live2.zktsva.app/live/307240.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🐔 Gà Vàng 24h",
+      "channels": [
+        {
+          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Lữ Bố.Vip) [hls]",
+          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/f378eb1ea04e53999b89051aa3244de6.png",
+          "group": "🐔 Gà Vàng 24h",
           "ref": ""
         },
         {
-          "name": "07:30 04/11 ⚽ CLB Sport Club Internacional vs Coritiba (BLV PEPSI) [hls]",
-          "url": "https://live05.miekgo.app/live/59444581.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 04/11 ⚽ CLB Sport Club Internacional vs Coritiba (BLV PEPSI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 04/11 🏀 Alabama vs Sam Houston St. (BLV Cozy) [hls]",
-          "url": "https://live05.miekgo.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/ea491903f8ba5dbe96950e70e69ba0e1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 04/11 🏀 Alabama vs Sam Houston St. (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/ea491903f8ba5dbe96950e70e69ba0e1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 04/11 🏀 Virginia vs Drexel (BLV POCARI) [hls]",
-          "url": "https://live05.miekgo.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 04/11 🏀 Virginia vs Drexel (BLV POCARI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:00 04/11 🏀 Arkansas vs Arkansas-Pine Bluff (BLV 247) [hls]",
-          "url": "https://live05.miekgo.app/live/90865415.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/a449760fbe9ee130aa84076f3e15a24b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:00 04/11 🏀 Arkansas vs Arkansas-Pine Bluff (BLV 247) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/a449760fbe9ee130aa84076f3e15a24b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "10:00 04/11 🏀 San Diego State vs CS Fullerton (BLV ROCKSTAR) [hls]",
-          "url": "https://live05.miekgo.app/live/82054853.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/28f717b8895b478baa358f954d198c22.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "10:00 04/11 🏀 San Diego State vs CS Fullerton (BLV ROCKSTAR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/28f717b8895b478baa358f954d198c22.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (Cris) [hls]",
+          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png",
+          "group": "🐔 Gà Vàng 24h",
           "ref": ""
         }
       ]
@@ -2340,20 +1911,6 @@
     {
       "name": "💥 Phá Làng TV",
       "channels": [
-        {
-          "name": "01:15 04/11 ⚽ Al Hilal vs Shabab Al Ahli (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/f51ab045c0cc43d9b014dfce046b8eae/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "01:15 04/11 ⚽ Al Hilal vs Shabab Al Ahli (LÝ LẠNH LÙNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/f51ab045c0cc43d9b014dfce046b8eae/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kdj2ryohw6wq1zp/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
         {
           "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (LÝ LA LÀNG) [geo]",
           "url": "https://pull.digitalcdn.net/live/c249e6fca7824008ac411b24c6336c48/index.m3u8",
@@ -2490,100 +2047,90 @@
       ]
     },
     {
-      "name": "🍺 Bia Ôm TV",
+      "name": "🥤 Cola TV",
       "channels": [
         {
-          "name": "03:00 04/11 ⚽ Feyenoord vs Inter Milan (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzMyMjk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnpoeDMxdWVrNXBuamhlNTg4dHoyODhpaA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73",
-          "group": "🍺 Bia Ôm TV",
+          "name": "05:30 04/11 ⚽ CLB Chapecoense SC vs CLB Mirassol (BLV REDBULL) [hls]",
+          "url": "https://live05.miekgo.app/live/49572724.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Villarreal vs Paris Saint-Germain (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRpbnR1amg2c3c0aDh5djB3emQ2YjZobw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477",
-          "group": "🍺 Bia Ôm TV",
+          "name": "05:30 04/11 ⚽ CLB Chapecoense SC vs CLB Mirassol (BLV REDBULL) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1manFibnMzcXMzMmExMnBnNjc5amY4YQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
+          "name": "07:30 04/11 ⚽ CLB Sport Club Internacional vs Coritiba (BLV PEPSI) [hls]",
+          "url": "https://live05.miekgo.app/live/59444581.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnE0MzM1M3VrZWcydjQxaG5scm01eGZyYw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14",
-          "group": "🍺 Bia Ôm TV",
+          "name": "07:30 04/11 ⚽ CLB Sport Club Internacional vs Coritiba (BLV PEPSI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI1OTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnB6bzF1M3hucGxqb2xpZnZrejdqNTJieA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83",
-          "group": "🍺 Bia Ôm TV",
+          "name": "07:30 04/11 🏀 Alabama vs Sam Houston St. (BLV Cozy) [hls]",
+          "url": "https://live05.miekgo.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/ea491903f8ba5dbe96950e70e69ba0e1.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Atlético Madrid vs Bayern Munich (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI2MTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmo2Z25mNWdzeDgzODY3eWk5emdlenViaQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🐔 Gà Vàng 33",
-      "channels": [
-        {
-          "name": "03:00 04/11 ⚽ Atletico Madrid vs Bayern Munich (Gà Siêu Quỷ) [hls]",
-          "url": "https://live2.zktsva.app/live/304565.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png",
-          "group": "🐔 Gà Vàng 33",
+          "name": "07:30 04/11 🏀 Alabama vs Sam Houston St. (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/ea491903f8ba5dbe96950e70e69ba0e1.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Gà Siêu Péo) [hls]",
-          "url": "https://live2.zktsva.app/live/303098.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-          "group": "🐔 Gà Vàng 33",
+          "name": "07:30 04/11 🏀 Virginia vs Drexel (BLV POCARI) [hls]",
+          "url": "https://live05.miekgo.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Manchester United vs AS Roma (Gà Siêu Gáy) [hls]",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-          "group": "🐔 Gà Vàng 33",
+          "name": "07:30 04/11 🏀 Virginia vs Drexel (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "07:30 04/11 ⚽ Internacional _ RS vs Coritiba SAF _ PR (Gà Siêu Tốc) [hls]",
-          "url": "https://live2.zktsva.app/live/307240.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7fc8831956b0f4fab51d0390a3957780.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🐔 Gà Vàng 24h",
-      "channels": [
-        {
-          "name": "03:00 04/11 ⚽ Barcelona vs Aston Villa (Lữ Bố.Vip) [hls]",
-          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/f378eb1ea04e53999b89051aa3244de6.png",
-          "group": "🐔 Gà Vàng 24h",
+          "name": "08:00 04/11 🏀 Arkansas vs Arkansas-Pine Bluff (BLV 247) [hls]",
+          "url": "https://live05.miekgo.app/live/90865415.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/a449760fbe9ee130aa84076f3e15a24b.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "03:00 04/11 ⚽ Man Utd vs AS Roma (Cris) [hls]",
-          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/d39ce586fd7278342dde33b3090b3f75.png",
-          "group": "🐔 Gà Vàng 24h",
+          "name": "08:00 04/11 🏀 Arkansas vs Arkansas-Pine Bluff (BLV 247) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/a449760fbe9ee130aa84076f3e15a24b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "10:00 04/11 🏀 San Diego State vs CS Fullerton (BLV ROCKSTAR) [hls]",
+          "url": "https://live05.miekgo.app/live/82054853.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/28f717b8895b478baa358f954d198c22.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "10:00 04/11 🏀 San Diego State vs CS Fullerton (BLV ROCKSTAR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/28f717b8895b478baa358f954d198c22.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         }
       ]
@@ -2673,9 +2220,9 @@
       "home_score": "0",
       "away_score": "2",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "84'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -2684,9 +2231,9 @@
       "home_score": "3",
       "away_score": "0",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "82'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -2695,9 +2242,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "87'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -2706,9 +2253,9 @@
       "home_score": "0",
       "away_score": "3",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "82'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -2717,20 +2264,20 @@
       "home_score": "4",
       "away_score": "0",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "83'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
       "home_team": "Manchester United",
       "away_team": "AS Roma",
-      "home_score": "1",
+      "home_score": "3",
       "away_score": "2",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "83'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -2739,9 +2286,9 @@
       "home_score": "0",
       "away_score": "6",
       "league": "UCL",
-      "state": "in",
-      "is_completed": false,
-      "detail": "83'",
+      "state": "post",
+      "is_completed": true,
+      "detail": "FT",
       "date": "2026-11-03T20:00Z"
     },
     {
@@ -3780,21 +3327,30 @@
         "teamName": "Paris Saint-Germain",
         "shortName": "PSG",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-        "played": 3,
-        "gd": "+9",
-        "points": 9
+        "played": 4,
+        "gd": "+15",
+        "points": 12
       },
       {
         "rank": 2,
-        "teamName": "Aston Villa",
-        "shortName": "Aston Villa",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-        "played": 3,
-        "gd": "+9",
+        "teamName": "Barcelona",
+        "shortName": "Barcelona",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+        "played": 4,
+        "gd": "+8",
         "points": 9
       },
       {
         "rank": 3,
+        "teamName": "Aston Villa",
+        "shortName": "Aston Villa",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "played": 4,
+        "gd": "+6",
+        "points": 9
+      },
+      {
+        "rank": 4,
         "teamName": "Liverpool",
         "shortName": "Liverpool",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
@@ -3803,7 +3359,7 @@
         "points": 9
       },
       {
-        "rank": 4,
+        "rank": 5,
         "teamName": "Real Madrid",
         "shortName": "Real Madrid",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
@@ -3812,7 +3368,7 @@
         "points": 9
       },
       {
-        "rank": 5,
+        "rank": 6,
         "teamName": "Sporting CP",
         "shortName": "Sporting",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
@@ -3821,7 +3377,7 @@
         "points": 9
       },
       {
-        "rank": 6,
+        "rank": 7,
         "teamName": "Real Betis",
         "shortName": "Betis",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
@@ -3830,7 +3386,16 @@
         "points": 9
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "teamName": "Bayern Munich",
+        "shortName": "Bayern",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+        "played": 4,
+        "gd": "+7",
+        "points": 8
+      },
+      {
+        "rank": 9,
         "teamName": "Arsenal",
         "shortName": "Arsenal",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
@@ -3839,7 +3404,7 @@
         "points": 7
       },
       {
-        "rank": 8,
+        "rank": 10,
         "teamName": "VfB Stuttgart",
         "shortName": "Stuttgart",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
@@ -3848,16 +3413,7 @@
         "points": 7
       },
       {
-        "rank": 9,
-        "teamName": "Barcelona",
-        "shortName": "Barcelona",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-        "played": 3,
-        "gd": "+5",
-        "points": 6
-      },
-      {
-        "rank": 10,
+        "rank": 11,
         "teamName": "Como",
         "shortName": "Como",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
@@ -3866,7 +3422,7 @@
         "points": 6
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamName": "Manchester City",
         "shortName": "Man City",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
@@ -3875,7 +3431,7 @@
         "points": 6
       },
       {
-        "rank": 12,
+        "rank": 13,
         "teamName": "Club Brugge",
         "shortName": "Club Brugge",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
@@ -3884,7 +3440,25 @@
         "points": 6
       },
       {
-        "rank": 13,
+        "rank": 14,
+        "teamName": "Internazionale",
+        "shortName": "Inter Milan",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+        "played": 4,
+        "gd": "+2",
+        "points": 6
+      },
+      {
+        "rank": 15,
+        "teamName": "LASK Linz",
+        "shortName": "LASK Linz",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+        "played": 4,
+        "gd": "+1",
+        "points": 6
+      },
+      {
+        "rank": 16,
         "teamName": "Borussia Dortmund",
         "shortName": "Dortmund",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
@@ -3893,7 +3467,16 @@
         "points": 6
       },
       {
-        "rank": 14,
+        "rank": 17,
+        "teamName": "Manchester United",
+        "shortName": "Man Utd",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "played": 4,
+        "gd": "0",
+        "points": 6
+      },
+      {
+        "rank": 18,
         "teamName": "Galatasaray",
         "shortName": "Galatasaray",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
@@ -3902,34 +3485,16 @@
         "points": 6
       },
       {
-        "rank": 15,
-        "teamName": "Bayern Munich",
-        "shortName": "Bayern",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-        "played": 3,
-        "gd": "+5",
-        "points": 5
-      },
-      {
-        "rank": 16,
+        "rank": 19,
         "teamName": "AS Roma",
         "shortName": "AS Roma",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-        "played": 3,
-        "gd": "+3",
+        "played": 4,
+        "gd": "+2",
         "points": 4
       },
       {
-        "rank": 17,
-        "teamName": "Atlético Madrid",
-        "shortName": "Atlético",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-        "played": 3,
-        "gd": "+1",
-        "points": 4
-      },
-      {
-        "rank": 18,
+        "rank": 20,
         "teamName": "Shakhtar Donetsk",
         "shortName": "Shakhtar",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
@@ -3938,7 +3503,7 @@
         "points": 4
       },
       {
-        "rank": 19,
+        "rank": 21,
         "teamName": "PSV Eindhoven",
         "shortName": "PSV",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
@@ -3947,48 +3512,30 @@
         "points": 4
       },
       {
-        "rank": 20,
-        "teamName": "Villarreal",
-        "shortName": "Villarreal",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-        "played": 3,
-        "gd": "0",
-        "points": 3
-      },
-      {
-        "rank": 21,
-        "teamName": "Internazionale",
-        "shortName": "Inter Milan",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-        "played": 3,
-        "gd": "-1",
-        "points": 3
-      },
-      {
         "rank": 22,
-        "teamName": "Manchester United",
-        "shortName": "Man Utd",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "played": 3,
+        "teamName": "Atlético Madrid",
+        "shortName": "Atlético",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "played": 4,
         "gd": "-1",
-        "points": 3
+        "points": 4
       },
       {
         "rank": 23,
+        "teamName": "Bodo/Glimt",
+        "shortName": "Bodo/Glimt",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+        "played": 4,
+        "gd": "-5",
+        "points": 4
+      },
+      {
+        "rank": 24,
         "teamName": "Napoli",
         "shortName": "Napoli",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 3,
         "gd": "-2",
-        "points": 3
-      },
-      {
-        "rank": 24,
-        "teamName": "LASK Linz",
-        "shortName": "LASK Linz",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-        "played": 3,
-        "gd": "-3",
         "points": 3
       },
       {
@@ -4002,15 +3549,6 @@
       },
       {
         "rank": 26,
-        "teamName": "Feyenoord Rotterdam",
-        "shortName": "Feyenoord",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-        "played": 3,
-        "gd": "-4",
-        "points": 3
-      },
-      {
-        "rank": 27,
         "teamName": "Lens",
         "shortName": "Lens",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
@@ -4019,16 +3557,7 @@
         "points": 3
       },
       {
-        "rank": 28,
-        "teamName": "Bodo/Glimt",
-        "shortName": "Bodo/Glimt",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-        "played": 3,
-        "gd": "-5",
-        "points": 3
-      },
-      {
-        "rank": 29,
+        "rank": 27,
         "teamName": "AEK Athens",
         "shortName": "AEK Athens",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
@@ -4037,12 +3566,30 @@
         "points": 3
       },
       {
-        "rank": 30,
+        "rank": 28,
         "teamName": "RB Leipzig",
         "shortName": "RB Leipzig",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
         "played": 3,
         "gd": "-5",
+        "points": 3
+      },
+      {
+        "rank": 29,
+        "teamName": "Villarreal",
+        "shortName": "Villarreal",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+        "played": 4,
+        "gd": "-6",
+        "points": 3
+      },
+      {
+        "rank": 30,
+        "teamName": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+        "played": 4,
+        "gd": "-7",
         "points": 3
       },
       {
@@ -4074,6 +3621,15 @@
       },
       {
         "rank": 34,
+        "teamName": "Lille",
+        "shortName": "Lille",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+        "played": 4,
+        "gd": "-6",
+        "points": 1
+      },
+      {
+        "rank": 35,
         "teamName": "FC Porto",
         "shortName": "FC Porto",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
@@ -4082,21 +3638,12 @@
         "points": 0
       },
       {
-        "rank": 35,
-        "teamName": "Lille",
-        "shortName": "Lille",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-        "played": 3,
-        "gd": "-6",
-        "points": 0
-      },
-      {
         "rank": 36,
         "teamName": "Slovan Bratislava",
         "shortName": "S Bratislava",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
-        "played": 3,
-        "gd": "-12",
+        "played": 4,
+        "gd": "-16",
         "points": 0
       }
     ],
