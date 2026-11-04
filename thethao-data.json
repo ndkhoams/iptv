@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 21:44:42",
+  "updated_at": "2026-11-04 21:59:43",
   "live_events": [
     {
       "key": "04/11_20:45_arkadag_golgohar",
@@ -89,6 +89,32 @@
       "number": 2
     },
     {
+      "key": "04/11_22:00_alnasr_qatarsc",
+      "c_home": "alnasr",
+      "c_away": "qatarsc",
+      "homeTeam": "Al Nasr",
+      "awayTeam": "Qatar SC",
+      "time": "22:00",
+      "date": "04/11",
+      "timestamp": 1793804400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 04/11] Al Nasr vs Qatar SC (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [22:00 04/11] Al Nasr vs Qatar SC",
+      "number": 3
+    },
+    {
       "key": "05/11_00:45_aekathens_realmadrid",
       "c_home": "aekathens",
       "c_away": "realmadrid",
@@ -133,7 +159,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] AEK Athens vs Real Madrid",
-      "number": 3
+      "number": 4
     },
     {
       "key": "05/11_00:45_fenerbahce_liverpool",
@@ -173,7 +199,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] Fenerbahce vs Liverpool",
-      "number": 4
+      "number": 5
     },
     {
       "key": "05/11_03:00_betis_dortmund",
@@ -220,7 +246,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Borussia Dortmund vs Real Betis",
-      "number": 5
+      "number": 6
     },
     {
       "key": "05/11_03:00_napoli_porto",
@@ -260,7 +286,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Porto vs Napoli",
-      "number": 6
+      "number": 7
     },
     {
       "key": "05/11_03:00_leipzig_mancity",
@@ -314,7 +340,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] RB Leipzig vs Manchester City",
-      "number": 7
+      "number": 8
     },
     {
       "key": "05/11_03:00_arsenal_slaviapraha",
@@ -361,7 +387,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Slavia Praha vs Arsenal",
-      "number": 8
+      "number": 9
     },
     {
       "key": "05/11_03:00_como_lens",
@@ -394,7 +420,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Lens vs Como",
-      "number": 9
+      "number": 10
     },
     {
       "key": "05/11_03:00_clubbrugge_psv",
@@ -420,17 +446,17 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Psv Eindhoven vs Club Brugge",
-      "number": 10
+      "number": 11
     },
     {
-      "key": "04/11_22:00_alnasr_qatarsc",
-      "c_home": "alnasr",
-      "c_away": "qatarsc",
-      "homeTeam": "Al Nasr",
-      "awayTeam": "Qatar SC",
-      "time": "22:00",
+      "key": "04/11_22:30_olympiakospiraeus_rennes",
+      "c_home": "rennes",
+      "c_away": "olympiakospiraeus",
+      "homeTeam": "Rennes",
+      "awayTeam": "Olympiakos Piraeus",
+      "time": "22:30",
       "date": "04/11",
-      "timestamp": 1793804400000,
+      "timestamp": 1793806200000,
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
@@ -438,15 +464,29 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [22:00 04/11] Al Nasr vs Qatar SC (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "name": "⚽ [22:30 04/11] Rennes vs Olympiakos Piraeus (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "22:30 04/11 ⚽ Rennes vs Olympiakos Piraeus (Cris) [hls]",
+          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/eab8f0e847742fd328bb581299bd99ca.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        },
+        {
+          "name": "22:30 04/11 ⚽ Rennes vs Olympiakos (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/e77a4b84295b4189888e34d486d3db26/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhyzvql07/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
         }
       ],
-      "displayTitle": "⚽ [22:00 04/11] Al Nasr vs Qatar SC",
-      "number": 11
+      "displayTitle": "⚽ [22:30 04/11] Rennes vs Olympiakos Piraeus",
+      "number": 12
     },
     {
       "key": "04/11_22:30_olympiacospiraeus_rennais",
@@ -493,7 +533,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Olympiacos Piraeus",
-      "number": 12
+      "number": 13
     },
     {
       "key": "04/11_22:30_culcbbngolympiakos_rennais",
@@ -526,39 +566,6 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Câu lạc bộ bóng đá Olympiakos",
-      "number": 13
-    },
-    {
-      "key": "04/11_22:30_olympiakospiraeus_rennes",
-      "c_home": "rennes",
-      "c_away": "olympiakospiraeus",
-      "homeTeam": "Rennes",
-      "awayTeam": "Olympiakos Piraeus",
-      "time": "22:30",
-      "date": "04/11",
-      "timestamp": 1793806200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "22:30 04/11 ⚽ Rennes vs Olympiakos Piraeus (Cris) [hls]",
-          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/eab8f0e847742fd328bb581299bd99ca.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "22:30 04/11 ⚽ Rennes vs Olympiakos (LÝ LÊN LỬA) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/e77a4b84295b4189888e34d486d3db26/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhyzvql07/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [22:30 04/11] Rennes vs Olympiakos Piraeus",
       "number": 14
     },
     {
@@ -1325,6 +1332,13 @@
           "name": "⚽ [22:00 04/11] Al Nasr vs Qatar SC (BLV Chuối Nhỏ) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:30 04/11] Rennes vs Olympiakos Piraeus (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
