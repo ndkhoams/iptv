@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 06:34:12",
+  "updated_at": "2026-11-05 06:49:23",
   "live_events": [
     {
       "key": "05/11_05:30_flamengo_gremio",
@@ -134,6 +134,39 @@
       "number": 4
     },
     {
+      "key": "05/11_07:00_detroitpistons_philadelphia76ers",
+      "c_home": "detroitpistons",
+      "c_away": "philadelphia76ers",
+      "homeTeam": "Detroit Pistons",
+      "awayTeam": "Philadelphia 76ers",
+      "time": "07:00",
+      "date": "05/11",
+      "timestamp": 1793836800000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls]",
+          "url": "https://live05.miekgo.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:00 05/11] Detroit Pistons vs Philadelphia 76ers",
+      "number": 5
+    },
+    {
       "key": "05/11_07:30_corinthians_saopaulo",
       "c_home": "saopaulo",
       "c_away": "corinthians",
@@ -164,7 +197,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 05/11] Sao Paulo vs Corinthians",
-      "number": 5
+      "number": 6
     },
     {
       "key": "05/11_07:30_atlticomineiromg_botafogorj",
@@ -190,7 +223,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 05/11] Botafogo _ RJ vs Atlético Mineiro _ MG",
-      "number": 6
+      "number": 7
     },
     {
       "key": "05/11_07:30_corinthianssp_sopaulosp",
@@ -216,7 +249,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 05/11] São Paulo _ SP vs Corinthians _ SP",
-      "number": 7
+      "number": 8
     },
     {
       "key": "05/11_08:30_americadecali_millonarios",
@@ -249,7 +282,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 05/11] Millonarios vs America de Cali",
-      "number": 8
+      "number": 9
     },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -275,7 +308,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 9
+      "number": 10
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -301,7 +334,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 10
+      "number": 11
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -327,7 +360,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 11
+      "number": 12
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -360,7 +393,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 12
+      "number": 13
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -400,7 +433,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 13
+      "number": 14
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -426,7 +459,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 14
+      "number": 15
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -452,7 +485,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 15
+      "number": 16
     },
     {
       "key": "05/11_19:15_bgpathumunited_taipo",
@@ -478,7 +511,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Bg Pathum United vs Tai Po",
-      "number": 16
+      "number": 17
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -504,7 +537,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 17
+      "number": 18
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -544,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 18
+      "number": 19
     },
     {
       "key": "05/11_20:25_alkhaleej_alkholood",
@@ -577,7 +610,7 @@
         }
       ],
       "displayTitle": "⚽ [20:25 05/11] Al Kholood vs Al Khaleej",
-      "number": 19
+      "number": 20
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -603,7 +636,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 20
+      "number": 21
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -629,7 +662,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 21
+      "number": 22
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -655,39 +688,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 22
-    },
-    {
-      "key": "05/11_07:00_detroitpistons_philadelphia76ers",
-      "c_home": "detroitpistons",
-      "c_away": "philadelphia76ers",
-      "homeTeam": "Detroit Pistons",
-      "awayTeam": "Philadelphia 76ers",
-      "time": "07:00",
-      "date": "05/11",
-      "timestamp": 1793836800000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls]",
-          "url": "https://live05.miekgo.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [07:00 05/11] Detroit Pistons vs Philadelphia 76ers",
       "number": 23
     },
     {
