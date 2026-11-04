@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 00:58:24",
+  "updated_at": "2026-11-05 01:13:33",
   "live_events": [
     {
       "key": "05/11_00:45_aekathens_realmadrid",
@@ -194,11 +194,11 @@
       "number": 2
     },
     {
-      "key": "04/11_23:00_alkuwait_nasaf",
-      "c_home": "alkuwait",
-      "c_away": "nasaf",
-      "homeTeam": "Al Kuwait",
-      "awayTeam": "Nasaf",
+      "key": "04/11_23:00_alkhaldiya_alwahdauae",
+      "c_home": "alwahdauae",
+      "c_away": "alkhaldiya",
+      "homeTeam": "Al Wahdauae",
+      "awayTeam": "Al Khaldiya",
       "time": "23:00",
       "date": "04/11",
       "timestamp": 1793808000000,
@@ -209,12 +209,59 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [23:00 04/11] Al Kuwait vs Nasaf (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
+          "name": "⚽ [23:00 04/11] Al Wahdauae Vs Al Khaldiya (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
         },
+        {
+          "name": "🟡 23:00 04/11 ⚽ Al Wahda(UAE) vs Al Khaldiya (Trần Hoàng)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/da5a07224920e4856d3b14e7e1a86741.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "🟡 23:00 04/11 ⚽ Al Wahda(UAE) vs Al Khaldiya (Gà Siêu Péo) [hls]",
+          "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/21da55d164e80f29bdfd9f8cef55a76b.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "🟡 23:00 04/11 ⚽ Al Wahda vs Al Khaldiya (BLV SODA) [hls]",
+          "url": "https://live05.miekgo.app/live/02456966.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 23:00 04/11 ⚽ Al Wahda vs Al Khaldiya (BLV SODA) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [23:00 04/11] Al Wahdauae vs Al Khaldiya",
+      "number": 3
+    },
+    {
+      "key": "04/11_23:00_alkuwait_nasafqarshi",
+      "c_home": "alkuwait",
+      "c_away": "nasafqarshi",
+      "homeTeam": "Al Kuwait Sc",
+      "awayTeam": "Nasaf Qarshi",
+      "time": "23:00",
+      "date": "04/11",
+      "timestamp": 1793808000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
         {
           "name": "⚽ [23:00 04/11] Al Kuwait Sc Vs Nasaf Qarshi (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -279,15 +326,15 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [23:00 04/11] Al Kuwait vs Nasaf",
-      "number": 3
+      "displayTitle": "🔴 [23:00 04/11] Al Kuwait Sc vs Nasaf Qarshi",
+      "number": 4
     },
     {
-      "key": "04/11_23:00_alnahda_alrayyan",
-      "c_home": "alrayyan",
+      "key": "04/11_23:00_alnahda_alrayyansportsclub",
+      "c_home": "alrayyansportsclub",
       "c_away": "alnahda",
-      "homeTeam": "Al-Rayyan SC",
-      "awayTeam": "Al-Nahda",
+      "homeTeam": "Al Rayyan Sports Club",
+      "awayTeam": "Al Nahda Sc",
       "time": "23:00",
       "date": "04/11",
       "timestamp": 1793808000000,
@@ -297,13 +344,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [23:00 04/11] Al-Rayyan SC vs Al-Nahda (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [23:00 04/11] Al Rayyan Sports Club Vs Al Nahda Sc (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -347,61 +387,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [23:00 04/11] Al-Rayyan SC vs Al-Nahda",
-      "number": 4
-    },
-    {
-      "key": "04/11_23:00_alkhaldiya_alwahdauae",
-      "c_home": "alwahdauae",
-      "c_away": "alkhaldiya",
-      "homeTeam": "Al Wahdauae",
-      "awayTeam": "Al Khaldiya",
-      "time": "23:00",
-      "date": "04/11",
-      "timestamp": 1793808000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 04/11] Al Wahdauae Vs Al Khaldiya (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟡 23:00 04/11 ⚽ Al Wahda(UAE) vs Al Khaldiya (Trần Hoàng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/da5a07224920e4856d3b14e7e1a86741.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "🟡 23:00 04/11 ⚽ Al Wahda(UAE) vs Al Khaldiya (Gà Siêu Péo) [hls]",
-          "url": "https://live2.zktsva.app/live/303098.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/21da55d164e80f29bdfd9f8cef55a76b.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "🟡 23:00 04/11 ⚽ Al Wahda vs Al Khaldiya (BLV SODA) [hls]",
-          "url": "https://live05.miekgo.app/live/02456966.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 23:00 04/11 ⚽ Al Wahda vs Al Khaldiya (BLV SODA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [23:00 04/11] Al Wahdauae vs Al Khaldiya",
+      "displayTitle": "🔴 [23:00 04/11] Al Rayyan Sports Club vs Al Nahda Sc",
       "number": 5
     },
     {
@@ -450,6 +436,72 @@
       ],
       "displayTitle": "🔴 [00:45 05/11] Fenerbahçe vs Liverpool",
       "number": 6
+    },
+    {
+      "key": "05/11_01:15_aljazirauae_almuharraq",
+      "c_home": "almuharraq",
+      "c_away": "aljazirauae",
+      "homeTeam": "Al Muharraq",
+      "awayTeam": "Al Jazirauae",
+      "time": "01:15",
+      "date": "05/11",
+      "timestamp": 1793816100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:15 05/11] Al Muharraq Vs Al Jazirauae (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "01:15 05/11 ⚽ Al-Muharraq vs Al-Jazira(UAE) (Tôn Quyền)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/4e9422ab24a8dff2521be20e1c129f20.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [01:15 05/11] Al Muharraq vs Al Jazirauae",
+      "number": 7
+    },
+    {
+      "key": "05/11_01:15_alfaisalyamman_altaawoun",
+      "c_home": "altaawoun",
+      "c_away": "alfaisalyamman",
+      "homeTeam": "Al Taawoun",
+      "awayTeam": "Al Faisaly Amman",
+      "time": "01:15",
+      "date": "05/11",
+      "timestamp": 1793816100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:15 05/11] Al Taawoun Vs Al Faisaly Amman (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "01:15 05/11 ⚽ Al Taawoun vs Al-Faisaly Amman (Huyền Diệp)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [01:15 05/11] Al Taawoun vs Al Faisaly Amman",
+      "number": 8
     },
     {
       "key": "05/11_03:00_betis_dortmund",
@@ -524,7 +576,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Borussia Dortmund vs Real Betis",
-      "number": 7
+      "number": 9
     },
     {
       "key": "05/11_03:00_napoli_porto",
@@ -578,7 +630,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Porto vs Napoli",
-      "number": 8
+      "number": 10
     },
     {
       "key": "05/11_03:00_leipzig_mancity",
@@ -646,7 +698,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] RB Leipzig vs Manchester City",
-      "number": 9
+      "number": 11
     },
     {
       "key": "05/11_03:00_arsenal_slavia",
@@ -728,47 +780,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Slavia Praha vs Arsenal",
-      "number": 10
-    },
-    {
-      "key": "05/11_03:00_como_lens",
-      "c_home": "lens",
-      "c_away": "como",
-      "homeTeam": "Lens",
-      "awayTeam": "Como",
-      "time": "03:00",
-      "date": "05/11",
-      "timestamp": 1793822400000,
-      "league": "UCL",
-      "leagueName": "🏆 UEFA Champions League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 05/11] Rc Lens Vs Como (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 05/11 ⚽ Lens vs Como (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzM3MTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViZDA2NXpoOTI2MjZtcXFhYmp2bTYxMg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 05/11 ⚽ RC Lens vs Como (Gà Ô Long) [hls]",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [03:00 05/11] Lens vs Como",
-      "number": 11
+      "number": 12
     },
     {
       "key": "05/11_03:00_brugge_psv",
@@ -808,7 +820,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Psv Eindhoven vs Club Brugge",
-      "number": 12
+      "number": 13
     },
     {
       "key": "05/11_03:00_sabah_viking",
@@ -834,72 +846,39 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Viking vs Sabah Baku",
-      "number": 13
-    },
-    {
-      "key": "05/11_01:15_aljazirauae_almuharraq",
-      "c_home": "almuharraq",
-      "c_away": "aljazirauae",
-      "homeTeam": "Al Muharraq",
-      "awayTeam": "Al Jazirauae",
-      "time": "01:15",
-      "date": "05/11",
-      "timestamp": 1793816100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:15 05/11] Al Muharraq Vs Al Jazirauae (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "01:15 05/11 ⚽ Al-Muharraq vs Al-Jazira(UAE) (Tôn Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/4e9422ab24a8dff2521be20e1c129f20.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [01:15 05/11] Al Muharraq vs Al Jazirauae",
       "number": 14
     },
     {
-      "key": "05/11_01:15_alfaisalyamman_altaawoun",
-      "c_home": "altaawoun",
-      "c_away": "alfaisalyamman",
-      "homeTeam": "Al Taawoun",
-      "awayTeam": "Al Faisaly Amman",
-      "time": "01:15",
+      "key": "05/11_03:00_como_lens",
+      "c_home": "lens",
+      "c_away": "como",
+      "homeTeam": "Lens",
+      "awayTeam": "Como",
+      "time": "03:00",
       "date": "05/11",
-      "timestamp": 1793816100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "timestamp": 1793822400000,
+      "league": "UCL",
+      "leagueName": "🏆 UEFA Champions League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ucl",
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [01:15 05/11] Al Taawoun Vs Al Faisaly Amman (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
+          "name": "03:00 05/11 ⚽ Lens vs Como (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzM3MTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViZDA2NXpoOTI2MjZtcXFhYmp2bTYxMg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
         },
         {
-          "name": "01:15 05/11 ⚽ Al Taawoun vs Al-Faisaly Amman (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
-          "group": "👑 Vua Sân Cỏ",
+          "name": "03:00 05/11 ⚽ RC Lens vs Como (Gà Ô Long) [hls]",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [01:15 05/11] Al Taawoun vs Al Faisaly Amman",
+      "displayTitle": "⚽ [03:00 05/11] Lens vs Como",
       "number": 15
     },
     {
@@ -1790,20 +1769,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [23:00 04/11] Al Kuwait vs Nasaf (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [23:00 04/11] Al-Rayyan SC vs Al-Nahda (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [00:45 05/11] AEK Athens FC vs Real Madrid (BLV Chuối Già) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
@@ -1930,13 +1895,6 @@
         {
           "name": "⚽ [03:00 05/11] Fc Porto Vs Napoli (BLV Gà Siêu Bệu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [03:00 05/11] Rc Lens Vs Como (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3042,12 +3000,12 @@
     {
       "home_team": "AEK Athens",
       "away_team": "Real Madrid",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "league": "UCL",
       "state": "in",
       "is_completed": false,
-      "detail": "10'",
+      "detail": "26'",
       "date": "2026-11-04T17:45Z"
     },
     {
@@ -3058,7 +3016,7 @@
       "league": "UCL",
       "state": "in",
       "is_completed": false,
-      "detail": "10'",
+      "detail": "26'",
       "date": "2026-11-04T17:45Z"
     },
     {
