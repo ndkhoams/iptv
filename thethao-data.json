@@ -1,45 +1,12 @@
 {
-  "updated_at": "2026-11-04 17:09:36",
+  "updated_at": "2026-11-04 17:40:09",
   "live_events": [
-    {
-      "key": "04/11_15:00_nizhnynovgorod_yeniseykrasnoyarsk",
-      "c_home": "yeniseykrasnoyarsk",
-      "c_away": "nizhnynovgorod",
-      "homeTeam": "Yenisey Krasnoyarsk",
-      "awayTeam": "Nizhny Novgorod",
-      "time": "15:00",
-      "date": "04/11",
-      "timestamp": 1793779200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "15:00 04/11 ⚽ Yenisey Krasnoyarsk vs FK Nizhny Novgorod (BLV 247) [hls]",
-          "url": "https://live05.miekgo.app/live/90865415.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "15:00 04/11 ⚽ Yenisey Krasnoyarsk vs FK Nizhny Novgorod (BLV 247) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:00 04/11] Yenisey Krasnoyarsk vs Nizhny Novgorod",
-      "number": 1
-    },
     {
       "key": "04/11_15:30_aprilw_tphcm",
       "c_home": "aprilw",
       "c_away": "tphcm",
       "homeTeam": "April W",
-      "awayTeam": "Hồ Chí Minh City W",
+      "awayTeam": "Ho Chi Minh W",
       "time": "15:30",
       "date": "04/11",
       "timestamp": 1793781000000,
@@ -50,13 +17,6 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [15:30 04/11] April W vs Hồ Chí Minh City W (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "15:30 04/11 ⚽ April W (Prk) vs Ho Chi Minh W (Vie) (Ricky) [hls]",
           "url": "https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8",
           "logo": "https://static.flashscore.com/res/image/data/pbpH4OPq-byyLDa5t.png",
@@ -64,8 +24,8 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [15:30 04/11] April W vs Hồ Chí Minh City W",
-      "number": 2
+      "displayTitle": "🔴 [15:30 04/11] April W vs Ho Chi Minh W",
+      "number": 1
     },
     {
       "key": "04/11_15:30_psgcciamis_psssleman",
@@ -98,7 +58,7 @@
         }
       ],
       "displayTitle": "🔴 [15:30 04/11] PSS Sleman vs PSGC Ciamis",
-      "number": 3
+      "number": 2
     },
     {
       "key": "04/11_16:00_brisbanebullets_perthwildcats",
@@ -131,7 +91,7 @@
         }
       ],
       "displayTitle": "🔴 [16:00 04/11] Brisbane Bullets vs Perth Wildcats",
-      "number": 4
+      "number": 3
     },
     {
       "key": "04/11_17:00_gambaosaka_pohangsteelers",
@@ -220,7 +180,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 04/11] Pohang Steelers vs Gamba Osaka",
-      "number": 5
+      "number": 4
     },
     {
       "key": "04/11_17:00_seoul_viettel",
@@ -323,7 +283,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 04/11] Seoul vs Viettel",
-      "number": 6
+      "number": 5
     },
     {
       "key": "04/11_17:00_incheon_seoulknights",
@@ -356,6 +316,39 @@
         }
       ],
       "displayTitle": "🔴 [17:00 04/11] Seoul Knights vs Incheon",
+      "number": 6
+    },
+    {
+      "key": "04/11_17:30_kayaw_melbournecityw",
+      "c_home": "kayaw",
+      "c_away": "melbournecityw",
+      "homeTeam": "Kaya W",
+      "awayTeam": "Melbourne City W",
+      "time": "17:30",
+      "date": "04/11",
+      "timestamp": 1793788200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "17:30 04/11 ⚽ Kaya W vs Melbourne City W (BLV REDBULL) [hls]",
+          "url": "https://live05.miekgo.app/live/49572724.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "17:30 04/11 ⚽ Kaya W vs Melbourne City W (BLV REDBULL) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:30 04/11] Kaya W vs Melbourne City W",
       "number": 7
     },
     {
@@ -693,39 +686,6 @@
       "number": 15
     },
     {
-      "key": "04/11_17:30_kayaw_melbournecityw",
-      "c_home": "kayaw",
-      "c_away": "melbournecityw",
-      "homeTeam": "Kaya W",
-      "awayTeam": "Melbourne City W",
-      "time": "17:30",
-      "date": "04/11",
-      "timestamp": 1793788200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "17:30 04/11 ⚽ Kaya W vs Melbourne City W (BLV REDBULL) [hls]",
-          "url": "https://live05.miekgo.app/live/49572724.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:30 04/11 ⚽ Kaya W vs Melbourne City W (BLV REDBULL) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:30 04/11] Kaya W vs Melbourne City W",
-      "number": 16
-    },
-    {
       "key": "04/11_18:00_leningradets_skakhabarovsk",
       "c_home": "leningradets",
       "c_away": "skakhabarovsk",
@@ -763,7 +723,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 04/11] Leningradets vs SKA Khabarovsk",
-      "number": 17
+      "number": 16
     },
     {
       "key": "04/11_19:00_persikkediri_persissolo",
@@ -796,7 +756,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 04/11] Persik Kediri vs Persis Solo",
-      "number": 18
+      "number": 17
     },
     {
       "key": "04/11_19:00_balikpapan_baliunited",
@@ -829,7 +789,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 04/11] Balikpapan vs Bali United",
-      "number": 19
+      "number": 18
     },
     {
       "key": "04/11_19:15_buriramunited_kashima",
@@ -918,7 +878,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 04/11] Buriram United vs Kashima",
-      "number": 20
+      "number": 19
     },
     {
       "key": "04/11_20:45_arkadag_golgohar",
@@ -972,7 +932,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 04/11] Arkadag vs Gol Gohar",
-      "number": 21
+      "number": 20
     },
     {
       "key": "04/11_20:45_bnb_golgohar",
@@ -1005,7 +965,7 @@
         }
       ],
       "displayTitle": "⚽ [20:45 04/11] bạn bè vs Gol Gohar",
-      "number": 22
+      "number": 21
     },
     {
       "key": "04/11_21:30_beijingbeikongw_nasafw",
@@ -1031,7 +991,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 04/11] Nasaf W vs Beijing Beikong W",
-      "number": 23
+      "number": 22
     },
     {
       "key": "04/11_22:30_olympiacospiraeus_rennais",
@@ -1078,7 +1038,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Olympiacos Piraeus",
-      "number": 24
+      "number": 23
     },
     {
       "key": "04/11_22:30_culcbbngolympiakos_rennais",
@@ -1111,7 +1071,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennais vs Câu lạc bộ bóng đá Olympiakos",
-      "number": 25
+      "number": 24
     },
     {
       "key": "04/11_22:30_olympiakospiraeus_rennes",
@@ -1144,7 +1104,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 04/11] Rennes vs Olympiakos Piraeus",
-      "number": 26
+      "number": 25
     },
     {
       "key": "04/11_23:00_alkuwait_nasaf",
@@ -1191,7 +1151,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Kuwait vs Nasaf",
-      "number": 27
+      "number": 26
     },
     {
       "key": "04/11_23:00_alnahda_alrayyansc",
@@ -1224,7 +1184,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al-Rayyan SC vs Al-Nahda",
-      "number": 28
+      "number": 27
     },
     {
       "key": "04/11_23:00_alkhaldiya_alwahdauae",
@@ -1271,7 +1231,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Wahdauae vs Al Khaldiya",
-      "number": 29
+      "number": 28
     },
     {
       "key": "04/11_23:00_alnahdasc_alrayyansportsclub",
@@ -1304,7 +1264,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 04/11] Al Rayyan Sports Club vs Al Nahda Sc",
-      "number": 30
+      "number": 29
     },
     {
       "key": "05/11_00:45_fenerbahe_liverpool",
@@ -1351,7 +1311,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] Fenerbahçe vs Liverpool",
-      "number": 31
+      "number": 30
     },
     {
       "key": "05/11_01:15_aljazirauae_almuharraq",
@@ -1377,7 +1337,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 05/11] Al Muharraq vs Al Jazirauae",
-      "number": 32
+      "number": 31
     },
     {
       "key": "05/11_01:15_alfaisalyamman_altaawoun",
@@ -1403,7 +1363,7 @@
         }
       ],
       "displayTitle": "⚽ [01:15 05/11] Al Taawoun vs Al Faisaly Amman",
-      "number": 33
+      "number": 32
     },
     {
       "key": "05/11_02:45_cardiffcity_westham",
@@ -1429,7 +1389,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 05/11] Cardiff City vs West Ham",
-      "number": 34
+      "number": 33
     },
     {
       "key": "05/11_05:30_flamengo_gremio",
@@ -1462,7 +1422,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 05/11] Flamengo vs Gremio",
-      "number": 35
+      "number": 34
     },
     {
       "key": "05/11_06:30_deportivo_independientesantafe",
@@ -1488,7 +1448,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 05/11] Cucuta Deportivo vs Independiente Santa Fe",
-      "number": 36
+      "number": 35
     },
     {
       "key": "05/11_07:30_corinthians_saopaulo",
@@ -1521,7 +1481,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 05/11] Sao Paulo vs Corinthians",
-      "number": 37
+      "number": 36
     },
     {
       "key": "05/11_08:30_americadecali_millonarios",
@@ -1554,7 +1514,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 05/11] Millonarios vs America de Cali",
-      "number": 38
+      "number": 37
     },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -1580,7 +1540,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 39
+      "number": 38
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -1606,7 +1566,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 40
+      "number": 39
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -1632,7 +1592,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 41
+      "number": 40
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -1658,7 +1618,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 42
+      "number": 41
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -1684,7 +1644,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 43
+      "number": 42
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -1710,7 +1670,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 44
+      "number": 43
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -1736,7 +1696,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 45
+      "number": 44
     },
     {
       "key": "05/11_19:15_bgpathumunited_taipo",
@@ -1762,7 +1722,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Bg Pathum United vs Tai Po",
-      "number": 46
+      "number": 45
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -1788,7 +1748,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 47
+      "number": 46
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -1814,7 +1774,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 48
+      "number": 47
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -1840,7 +1800,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 49
+      "number": 48
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -1866,7 +1826,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 50
+      "number": 49
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -1892,20 +1852,13 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 51
+      "number": 50
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [15:30 04/11] April W vs Hồ Chí Minh City W (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [17:00 04/11] Pohang Steelers vs Gamba Osaka (BLV Chuối Chao) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
