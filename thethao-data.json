@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 15:38:45",
+  "updated_at": "2026-11-04 15:53:49",
   "live_events": [
     {
       "key": "04/11_14:45_melbournevictory_persibbandung",
@@ -190,6 +190,39 @@
       "number": 4
     },
     {
+      "key": "04/11_16:00_brisbanebullets_perthwildcats",
+      "c_home": "brisbanebullets",
+      "c_away": "perthwildcats",
+      "homeTeam": "Brisbane Bullets",
+      "awayTeam": "Perth Wildcats",
+      "time": "16:00",
+      "date": "04/11",
+      "timestamp": 1793782800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "16:00 04/11 🏀 Brisbane Bullets vs Perth Wildcats (BLV TARZAAN) [hls]",
+          "url": "https://live05.miekgo.app/live/56998120.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "16:00 04/11 🏀 Brisbane Bullets vs Perth Wildcats (BLV TARZAAN) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [16:00 04/11] Brisbane Bullets vs Perth Wildcats",
+      "number": 5
+    },
+    {
       "key": "05/11_00:45_aekathens_realmadrid",
       "c_home": "aekathens",
       "c_away": "realmadrid",
@@ -234,7 +267,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] AEK Athens vs Real Madrid",
-      "number": 5
+      "number": 6
     },
     {
       "key": "05/11_00:45_fenerbahce_liverpool",
@@ -274,7 +307,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 05/11] Fenerbahce vs Liverpool",
-      "number": 6
+      "number": 7
     },
     {
       "key": "05/11_03:00_betis_dortmund",
@@ -321,7 +354,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Borussia Dortmund vs Real Betis",
-      "number": 7
+      "number": 8
     },
     {
       "key": "05/11_03:00_napoli_porto",
@@ -361,7 +394,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Porto vs Napoli",
-      "number": 8
+      "number": 9
     },
     {
       "key": "05/11_03:00_leipzig_mancity",
@@ -415,7 +448,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] RB Leipzig vs Manchester City",
-      "number": 9
+      "number": 10
     },
     {
       "key": "05/11_03:00_arsenal_slaviapraha",
@@ -462,7 +495,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Slavia Praha vs Arsenal",
-      "number": 10
+      "number": 11
     },
     {
       "key": "05/11_03:00_como_lens",
@@ -495,7 +528,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Lens vs Como",
-      "number": 11
+      "number": 12
     },
     {
       "key": "05/11_03:00_clubbrugge_psv",
@@ -521,39 +554,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 05/11] Psv Eindhoven vs Club Brugge",
-      "number": 12
-    },
-    {
-      "key": "04/11_16:00_brisbanebullets_perthwildcats",
-      "c_home": "brisbanebullets",
-      "c_away": "perthwildcats",
-      "homeTeam": "Brisbane Bullets",
-      "awayTeam": "Perth Wildcats",
-      "time": "16:00",
-      "date": "04/11",
-      "timestamp": 1793782800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "16:00 04/11 🏀 Brisbane Bullets vs Perth Wildcats (BLV TARZAAN) [hls]",
-          "url": "https://live05.miekgo.app/live/56998120.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "16:00 04/11 🏀 Brisbane Bullets vs Perth Wildcats (BLV TARZAAN) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [16:00 04/11] Brisbane Bullets vs Perth Wildcats",
       "number": 13
     },
     {
@@ -2157,6 +2157,13 @@
         {
           "name": "⚽ [20:45 04/11] Arkadag Fk Vs Gol Gohar Fc (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 04/11] Rb Leipzig U19 Vs Manchester City U19 (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
