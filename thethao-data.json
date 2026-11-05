@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 13:10:44",
+  "updated_at": "2026-11-05 13:26:16",
   "live_events": [
     {
       "key": "05/11_12:00_khovdwestern_ulaangomcity",
@@ -4193,12 +4193,12 @@
     {
       "home_team": "LA Clippers",
       "away_team": "Miami Heat",
-      "home_score": "109",
-      "away_score": "107",
+      "home_score": "116",
+      "away_score": "117",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "50.0 - OT",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final/OT",
       "date": "2026-11-05T03:30Z"
     }
   ],
@@ -5595,20 +5595,20 @@
       },
       {
         "rank": 22,
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+        "played": 8,
+        "gd": "3T-5B (GB 4.5)",
+        "points": 3
+      },
+      {
+        "rank": 23,
         "teamName": "Brooklyn Nets",
         "shortName": "Nets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
         "played": 8,
         "gd": "2T-6B (GB 5.5)",
-        "points": 2
-      },
-      {
-        "rank": 23,
-        "teamName": "Miami Heat",
-        "shortName": "Heat",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-        "played": 7,
-        "gd": "2T-5B (GB 5)",
         "points": 2
       },
       {
@@ -5640,6 +5640,15 @@
       },
       {
         "rank": 27,
+        "teamName": "LA Clippers",
+        "shortName": "Clippers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+        "played": 8,
+        "gd": "1T-7B (GB 5.5)",
+        "points": 1
+      },
+      {
+        "rank": 28,
         "teamName": "Utah Jazz",
         "shortName": "Jazz",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
@@ -5648,21 +5657,12 @@
         "points": 1
       },
       {
-        "rank": 28,
+        "rank": 29,
         "teamName": "Sacramento Kings",
         "shortName": "Kings",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
         "played": 8,
         "gd": "1T-7B (GB 5.5)",
-        "points": 1
-      },
-      {
-        "rank": 29,
-        "teamName": "LA Clippers",
-        "shortName": "Clippers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-        "played": 7,
-        "gd": "1T-6B (GB 5)",
         "points": 1
       },
       {
