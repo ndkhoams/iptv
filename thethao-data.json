@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-05 07:34:37",
+  "updated_at": "2026-11-05 07:49:44",
   "live_events": [
-    {
-      "key": "05/11_05:30_flamengo_gremio",
-      "c_home": "flamengo",
-      "c_away": "gremio",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Gremio",
-      "time": "05:30",
-      "date": "05/11",
-      "timestamp": 1793831400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [05:30 05/11] Flamengo vs Gremio (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [05:30 05/11] Flamengo Rj Vs Gremio Rs (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [05:30 05/11] Flamengo vs Gremio",
-      "number": 1
-    },
-    {
-      "key": "05/11_07:00_deportivo_independientesantafe",
-      "c_home": "deportivo",
-      "c_away": "independientesantafe",
-      "homeTeam": "Cucuta Deportivo",
-      "awayTeam": "Independiente Santa Fe",
-      "time": "07:00",
-      "date": "05/11",
-      "timestamp": 1793836800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:00 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟢 07:00 05/11 ⚽ Cucuta Deportivo vs Independiente Santa Fe (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [07:00 05/11] Cucuta Deportivo vs Independiente Santa Fe",
-      "number": 2
-    },
     {
       "key": "05/11_07:00_cucuta_santafe",
       "c_home": "cucuta",
@@ -98,7 +32,7 @@
         }
       ],
       "displayTitle": "🔴 [07:00 05/11] Cucuta vs Santa Fe",
-      "number": 3
+      "number": 1
     },
     {
       "key": "05/11_07:30_corinthians_saopaulo",
@@ -145,7 +79,7 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] Sao Paulo vs Corinthians",
-      "number": 4
+      "number": 2
     },
     {
       "key": "05/11_07:30_atlticomineiromg_botafogorj",
@@ -178,7 +112,7 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] Botafogo _ RJ vs Atlético Mineiro _ MG",
-      "number": 5
+      "number": 3
     },
     {
       "key": "05/11_07:30_corinthianssp_sopaulosp",
@@ -218,7 +152,40 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] São Paulo _ SP vs Corinthians _ SP",
-      "number": 6
+      "number": 4
+    },
+    {
+      "key": "05/11_07:35_deportivo_independientesantafe",
+      "c_home": "deportivo",
+      "c_away": "independientesantafe",
+      "homeTeam": "Cucuta Deportivo",
+      "awayTeam": "Independiente Santa Fe",
+      "time": "07:35",
+      "date": "05/11",
+      "timestamp": 1793838900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:35 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "🟢 07:00 05/11 ⚽ Cucuta Deportivo vs Independiente Santa Fe (Gà Siêu Son) [hls]",
+          "url": "https://live2.zktsva.app/live/306290.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:35 05/11] Cucuta Deportivo vs Independiente Santa Fe",
+      "number": 5
     },
     {
       "key": "05/11_07:00_detroitpistons_philadelphia76ers",
@@ -258,7 +225,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 05/11] Detroit Pistons vs Philadelphia 76ers",
-      "number": 7
+      "number": 6
     },
     {
       "key": "05/11_07:00_atlantahawks_washingtonwizards",
@@ -284,7 +251,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 05/11] Washington Wizards vs Atlanta Hawks",
-      "number": 8
+      "number": 7
     },
     {
       "key": "05/11_07:30_ibngrbostonceltics_milwaukeebucks",
@@ -317,6 +284,39 @@
         }
       ],
       "displayTitle": "🏀 [07:30 05/11] Đội bóng rổ Boston Celtics vs Milwaukee Bucks",
+      "number": 8
+    },
+    {
+      "key": "05/11_08:00_clevelandcavaliers_oklahomacitythunder",
+      "c_home": "oklahomacitythunder",
+      "c_away": "clevelandcavaliers",
+      "homeTeam": "Oklahoma City Thunder",
+      "awayTeam": "Cleveland Cavaliers",
+      "time": "08:00",
+      "date": "05/11",
+      "timestamp": 1793840400000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls]",
+          "url": "https://live05.miekgo.app/live/89756030.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [08:00 05/11] Oklahoma City Thunder vs Cleveland Cavaliers",
       "number": 9
     },
     {
@@ -501,6 +501,13 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [16:30 05/11] Pakistan vs India (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [16:30 05/11] Pakistan Vs India (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -1058,6 +1065,46 @@
       "number": 25
     },
     {
+      "key": "05/11_21:00_bangladesh_bhutan",
+      "c_home": "bhutan",
+      "c_away": "bangladesh",
+      "homeTeam": "Bhutan",
+      "awayTeam": "Bangladesh",
+      "time": "21:00",
+      "date": "05/11",
+      "timestamp": 1793887200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 05/11] Bhutan vs Bangladesh (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (Ngô Quyền)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-10.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/59bf3958a6ff253e596c3a9bb9ecd1f2.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/9bd650cfc33b48e3a9de658148f15d1c/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/l5ergphokggr8k0/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [21:00 05/11] Bhutan vs Bangladesh",
+      "number": 26
+    },
+    {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
       "c_home": "mohunbagansupergiant",
       "c_away": "odisha",
@@ -1081,39 +1128,6 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 26
-    },
-    {
-      "key": "05/11_21:00_bangladesh_bhutan",
-      "c_home": "bhutan",
-      "c_away": "bangladesh",
-      "homeTeam": "Bhutan",
-      "awayTeam": "Bangladesh",
-      "time": "21:00",
-      "date": "05/11",
-      "timestamp": 1793887200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (Ngô Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-10.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/59bf3958a6ff253e596c3a9bb9ecd1f2.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/9bd650cfc33b48e3a9de658148f15d1c/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/l5ergphokggr8k0/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [21:00 05/11] Bhutan vs Bangladesh",
       "number": 27
     },
     {
@@ -1792,39 +1806,6 @@
       "number": 50
     },
     {
-      "key": "05/11_08:00_clevelandcavaliers_oklahomacitythunder",
-      "c_home": "oklahomacitythunder",
-      "c_away": "clevelandcavaliers",
-      "homeTeam": "Oklahoma City Thunder",
-      "awayTeam": "Cleveland Cavaliers",
-      "time": "08:00",
-      "date": "05/11",
-      "timestamp": 1793840400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls]",
-          "url": "https://live05.miekgo.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [08:00 05/11] Oklahoma City Thunder vs Cleveland Cavaliers",
-      "number": 51
-    },
-    {
       "key": "05/11_08:30_houstonrockets_minnesotatimberwolves",
       "c_home": "houstonrockets",
       "c_away": "minnesotatimberwolves",
@@ -1855,7 +1836,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 05/11] Houston Rockets vs Minnesota Timberwolves",
-      "number": 52
+      "number": 51
     },
     {
       "key": "05/11_09:00_denvernuggets_torontoraptors",
@@ -1888,20 +1869,13 @@
         }
       ],
       "displayTitle": "🏀 [09:00 05/11] Denver Nuggets vs Toronto Raptors",
-      "number": 53
+      "number": 52
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [05:30 05/11] Flamengo vs Gremio (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [07:30 05/11] Sao Paulo vs Corinthians (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -1920,6 +1894,13 @@
           "name": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons (BLV Chuối Tây) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [16:30 05/11] Pakistan vs India (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
@@ -1947,6 +1928,13 @@
         {
           "name": "⚽ [19:15 05/11] Pathum United vs Wofoo Tai Po (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:00 05/11] Bhutan vs Bangladesh (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
@@ -2034,22 +2022,15 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [05:30 05/11] Flamengo Rj Vs Gremio Rs (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [07:00 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [07:30 05/11] Sao Paulo Sp Vs Corinthians Sp (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [07:35 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3005,56 +2986,56 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Philadelphia 76ers",
-      "home_score": "17",
-      "away_score": "21",
+      "home_score": "25",
+      "away_score": "33",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:15 - 1st",
+      "detail": "9:38 - 2nd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Atlanta Hawks",
-      "home_score": "28",
-      "away_score": "32",
+      "home_score": "38",
+      "away_score": "51",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:34 - 1st",
+      "detail": "7:37 - 2nd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Boston Celtics",
       "away_team": "Milwaukee Bucks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "8",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 7:30 PM EST",
+      "detail": "6:49 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "Brooklyn Nets",
       "away_team": "Charlotte Hornets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "9",
+      "away_score": "6",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 7:30 PM EST",
+      "detail": "7:17 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "New York Knicks",
       "away_team": "Chicago Bulls",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "15",
+      "away_score": "8",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 7:30 PM EST",
+      "detail": "7:50 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
