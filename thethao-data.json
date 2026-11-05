@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-05 10:22:33",
+  "updated_at": "2026-11-05 10:37:43",
   "live_events": [
+    {
+      "key": "05/11_08:30_amricadecali_millonarios",
+      "c_home": "millonarios",
+      "c_away": "amricadecali",
+      "homeTeam": "Millonarios",
+      "awayTeam": "América de Cali",
+      "time": "08:30",
+      "date": "05/11",
+      "timestamp": 1793842200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:30 05/11 ⚽ Millonarios vs América de Cali (Long Ruồi) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:30 05/11] Millonarios vs América de Cali",
+      "number": 1
+    },
     {
       "key": "05/11_08:30_americadecali_millonarios",
       "c_home": "millonarios",
@@ -16,20 +42,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [08:30 05/11] Millonarios vs America de Cali (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [08:30 05/11] Millonarios Vs America De Cali (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "08:30 05/11 ⚽ CLB Millonarios vs CLB America de Cali (BLV REDBULL) [hls]",
           "url": "https://live05.miekgo.app/live/49572724.m3u8",
@@ -67,66 +79,7 @@
         }
       ],
       "displayTitle": "🔴 [08:30 05/11] Millonarios vs America de Cali",
-      "number": 1
-    },
-    {
-      "key": "05/11_08:30_amricadecali_millonarios",
-      "c_home": "millonarios",
-      "c_away": "amricadecali",
-      "homeTeam": "Millonarios",
-      "awayTeam": "América de Cali",
-      "time": "08:30",
-      "date": "05/11",
-      "timestamp": 1793842200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:30 05/11 ⚽ Millonarios vs América de Cali (Long Ruồi) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [08:30 05/11] Millonarios vs América de Cali",
       "number": 2
-    },
-    {
-      "key": "05/11_08:00_clevelandcavaliers_oklahomacitythunder",
-      "c_home": "oklahomacitythunder",
-      "c_away": "clevelandcavaliers",
-      "homeTeam": "Oklahoma City Thunder",
-      "awayTeam": "Cleveland Cavaliers",
-      "time": "08:00",
-      "date": "05/11",
-      "timestamp": 1793840400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls]",
-          "url": "https://live05.miekgo.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 08:00 05/11 🏀 Oklahoma City Thunder vs Cleveland Cavaliers (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [08:00 05/11] Oklahoma City Thunder vs Cleveland Cavaliers",
-      "number": 3
     },
     {
       "key": "05/11_08:30_houstonrockets_minnesotatimberwolves",
@@ -159,7 +112,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 05/11] Houston Rockets vs Minnesota Timberwolves",
-      "number": 4
+      "number": 3
     },
     {
       "key": "05/11_09:00_denvernuggets_torontoraptors",
@@ -192,7 +145,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 05/11] Denver Nuggets vs Toronto Raptors",
-      "number": 5
+      "number": 4
     },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -218,7 +171,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 6
+      "number": 5
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -265,7 +218,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 7
+      "number": 6
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -298,7 +251,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 8
+      "number": 7
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -366,7 +319,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 9
+      "number": 8
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -448,7 +401,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 10
+      "number": 9
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -509,7 +462,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 11
+      "number": 10
     },
     {
       "key": "05/11_17:00_mobisphoebus_seoulsamsungthunders",
@@ -542,7 +495,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Mobis Phoebus vs Seoul Samsung Thunders",
-      "number": 12
+      "number": 11
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -568,7 +521,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 13
+      "number": 12
     },
     {
       "key": "05/11_19:15_gangwon_kuchingfa",
@@ -601,7 +554,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching FA vs Gangwon",
-      "number": 14
+      "number": 13
     },
     {
       "key": "05/11_19:15_pathumunited_wofootaipo",
@@ -676,7 +629,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Pathum United vs Wofoo Tai Po",
-      "number": 15
+      "number": 14
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -723,7 +676,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 16
+      "number": 15
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -784,7 +737,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 17
+      "number": 16
     },
     {
       "key": "05/11_20:25_alkhaleej_alkholood",
@@ -817,7 +770,7 @@
         }
       ],
       "displayTitle": "⚽ [20:25 05/11] Al Kholood vs Al Khaleej",
-      "number": 18
+      "number": 17
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -843,7 +796,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 19
+      "number": 18
     },
     {
       "key": "05/11_21:00_bangladesh_bhutan",
@@ -883,7 +836,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Bhutan vs Bangladesh",
-      "number": 20
+      "number": 19
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -909,7 +862,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 21
+      "number": 20
     },
     {
       "key": "05/11_21:00_atkmohunbagan_odisha",
@@ -935,7 +888,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] ATK Mohun Bagan vs Odisha",
-      "number": 22
+      "number": 21
     },
     {
       "key": "05/11_22:00_chindiatargoviste_gloriapopestileordeni",
@@ -961,7 +914,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 05/11] Chindia Targoviste vs Gloria Popesti Leordeni",
-      "number": 23
+      "number": 22
     },
     {
       "key": "05/11_22:10_abha_alshabab",
@@ -987,7 +940,7 @@
         }
       ],
       "displayTitle": "⚽ [22:10 05/11] Abha vs Al Shabab",
-      "number": 24
+      "number": 23
     },
     {
       "key": "05/11_22:30_duhok_mosul",
@@ -1013,7 +966,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 05/11] Mosul vs Duhok",
-      "number": 25
+      "number": 24
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -1046,7 +999,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 26
+      "number": 25
     },
     {
       "key": "06/11_00:45_acmilan_ferencvarositc",
@@ -1079,7 +1032,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Milan vs Ferencvarosi TC",
-      "number": 27
+      "number": 26
     },
     {
       "key": "06/11_00:45_anderlecht_redbullsalzburg",
@@ -1112,7 +1065,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Anderlecht vs Red Bull Salzburg",
-      "number": 28
+      "number": 27
     },
     {
       "key": "06/11_00:45_1899hoffenheim_crystalpalace",
@@ -1145,7 +1098,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Crystal Palace vs 1899 Hoffenheim",
-      "number": 29
+      "number": 28
     },
     {
       "key": "06/11_00:45_lyon_realsociedad",
@@ -1178,7 +1131,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Real Sociedad vs Lyon",
-      "number": 30
+      "number": 29
     },
     {
       "key": "06/11_00:45_bournemouth_sparta",
@@ -1218,7 +1171,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Sparta Praha vs Bournemouth",
-      "number": 31
+      "number": 30
     },
     {
       "key": "06/11_00:45_acmilan_ferencvrosi",
@@ -1244,7 +1197,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Milan vs Ferencvárosi",
-      "number": 32
+      "number": 31
     },
     {
       "key": "06/11_03:00_azalkmaar_juventus",
@@ -1277,7 +1230,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] AZ Alkmaar vs Juventus",
-      "number": 33
+      "number": 32
     },
     {
       "key": "06/11_03:00_leverkusen_marseille",
@@ -1317,7 +1270,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Bayer Leverkusen vs Marseille",
-      "number": 34
+      "number": 33
     },
     {
       "key": "06/11_03:00_benfica_lechpoznan",
@@ -1343,7 +1296,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Benfica vs Lech Poznan",
-      "number": 35
+      "number": 34
     },
     {
       "key": "06/11_03:00_brighton_getafe",
@@ -1369,7 +1322,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Getafe vs Brighton",
-      "number": 36
+      "number": 35
     },
     {
       "key": "06/11_03:00_celtavigo_unionsaintgilloise",
@@ -1395,7 +1348,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Celta Vigo vs Union Saint-Gilloise",
-      "number": 37
+      "number": 36
     },
     {
       "key": "06/11_03:00_dinamozagreb_sunderland",
@@ -1421,7 +1374,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Sunderland vs Dinamo Zagreb",
-      "number": 38
+      "number": 37
     },
     {
       "key": "06/11_03:00_beikta_celtic",
@@ -1447,7 +1400,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Celtic vs Beşiktaş",
-      "number": 39
+      "number": 38
     },
     {
       "key": "06/11_03:00_az_juventus",
@@ -1480,7 +1433,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] AZ vs Juventus",
-      "number": 40
+      "number": 39
     },
     {
       "key": "06/11_05:30_palmeiras_remo",
@@ -1506,7 +1459,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 06/11] Palmeiras vs remo",
-      "number": 41
+      "number": 40
     },
     {
       "key": "06/11_07:30_bahia_cruzeiro",
@@ -1532,7 +1485,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 06/11] Cruzeiro vs Bahia",
-      "number": 42
+      "number": 41
     },
     {
       "key": "06/11_15:40_centralcoastmariners_sydney",
@@ -1558,7 +1511,7 @@
         }
       ],
       "displayTitle": "⚽ [15:40 06/11] Sydney vs Central Coast Mariners",
-      "number": 43
+      "number": 42
     },
     {
       "key": "06/11_17:00_hudahu_vnhin",
@@ -1584,20 +1537,13 @@
         }
       ],
       "displayTitle": "⚽ [17:00 06/11] Văn Hiến vs Huda Huế",
-      "number": 44
+      "number": 43
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [08:30 05/11] Millonarios vs America de Cali (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons (BLV Chuối Tây) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -1730,13 +1676,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [08:30 05/11] Millonarios Vs America De Cali (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [15:00 05/11] Amtat Fc Vs Khaan Khuns Erchim Fc (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1830,13 +1769,121 @@
       ]
     },
     {
-      "name": "⏰ Giờ Vàng TV",
+      "name": "👑 Vua Sân Cỏ",
       "channels": [
         {
-          "name": "🟢 07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (Chồn) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637199_hd/1793637199_hd@720p.m3u8",
-          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
-          "group": "⏰ Giờ Vàng TV",
+          "name": "🟡 07:30 05/11 ⚽ Botafogo _ RJ vs Atlético Mineiro _ MG (Doanh Chính)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/5d83c47462e5afb6f1add0ad508c300b.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "🟡 07:30 05/11 ⚽ São Paulo _ SP vs Corinthians _ SP (Nguyễn Ánh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "17:00 05/11 ⚽ Lion City Sailors vs Adelaide United (Nguyễn Đảm)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-12.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/a17724405028a3e21a2a2372736aa757.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "17:00 05/11 ⚽ Kitchee vs Phnom Penh Crown (Tôn Quyền)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/8d9561a580262bbe28642af67c42cf83.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua (Lê Lợi)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-6.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "19:15 05/11 ⚽ Kuching City vs Gangwon Football Club (Huyền Diệp)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/81f5727743f8759ae7a99b8d7f2557e3.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "19:15 05/11 ⚽ Preah Khan Reach Svay Rieng vs Tampines Rovers (Lê Hoàn)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-5.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "19:15 05/11 ⚽ BG Pathum United vs Tai Po (Trần Hoàng)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/12fe4d3ee5c01134d48584015c4646f3.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (Ngô Quyền)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-10.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/59bf3958a6ff253e596c3a9bb9ecd1f2.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍗 Khô Gà TV",
+      "channels": [
+        {
+          "name": "🟡 07:30 05/11 ⚽ Sao Paulo vs Corinthians (BLV Khô Bò) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/556_sao-paulo.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "19:15 05/11 ⚽ Kuching City vs Gangwon (BLV Xôi Gấc) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/5306_kuching-city.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "19:15 05/11 ⚽ Pathum United vs Tai Po (BLV Khô Chè) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/418_bg-pathum-united.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "20:25 05/11 ⚽ Al Kholood vs Al Khaleej (BLV Khô Mật) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/18893_al-kholood.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "📜 Sao Kê TV",
+      "channels": [
+        {
+          "name": "🟡 07:30 05/11 ⚽ São Paulo vs Corinthians (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "08:30 05/11 ⚽ Millonarios vs América de Cali (Long Ruồi) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
+          "group": "📜 Sao Kê TV",
           "ref": ""
         }
       ]
@@ -1844,13 +1891,6 @@
     {
       "name": "🐔 Gà Vàng 33",
       "channels": [
-        {
-          "name": "🟢 07:00 05/11 ⚽ Cucuta Deportivo vs Independiente Santa Fe (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
         {
           "name": "🟢 07:30 05/11 ⚽ São Paulo _ SP vs Corinthians _ SP (Gà Siêu Tốc) [hls]",
           "url": "https://live2.zktsva.app/live/307240.m3u8",
@@ -1905,34 +1945,6 @@
     {
       "name": "🥤 Cola TV",
       "channels": [
-        {
-          "name": "🟢 07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls]",
-          "url": "https://live05.miekgo.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 07:00 05/11 🏀 Detroit Pistons vs Philadelphia 76ers (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 07:00 05/11 ⚽ Cucuta vs CLB Santa Fe (BLV BÍ ĐAO) [hls]",
-          "url": "https://live05.miekgo.app/live/99121525.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 07:00 05/11 ⚽ Cucuta vs CLB Santa Fe (BLV BÍ ĐAO) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
         {
           "name": "🟡 07:30 05/11 🏀 Đội bóng rổ Boston Celtics vs Milwaukee Bucks (BLV ROCKSTAR) [hls]",
           "url": "https://live05.miekgo.app/live/82054853.m3u8",
@@ -2099,138 +2111,6 @@
           "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80",
           "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍧 Xôi Gấc TV",
-      "channels": [
-        {
-          "name": "🟢 07:00 05/11 🏀 Washington Wizards vs Atlanta Hawks (The Flash)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.WSXwasL44X2q.m3u8?expires=1793851526&signature=b6nok8Wd2FHDI0lq1lB1CxHu0ajbs2rO5Ib6f19YpEM",
-          "logo": "https://xoigac.top/images/basketball/teams/161.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "👑 Vua Sân Cỏ",
-      "channels": [
-        {
-          "name": "🟡 07:30 05/11 ⚽ Botafogo _ RJ vs Atlético Mineiro _ MG (Doanh Chính)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/5d83c47462e5afb6f1add0ad508c300b.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "🟡 07:30 05/11 ⚽ São Paulo _ SP vs Corinthians _ SP (Nguyễn Ánh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 05/11 ⚽ Lion City Sailors vs Adelaide United (Nguyễn Đảm)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-12.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/a17724405028a3e21a2a2372736aa757.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 05/11 ⚽ Kitchee vs Phnom Penh Crown (Tôn Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/8d9561a580262bbe28642af67c42cf83.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua (Lê Lợi)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-6.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "19:15 05/11 ⚽ Kuching City vs Gangwon Football Club (Huyền Diệp)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/81f5727743f8759ae7a99b8d7f2557e3.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "19:15 05/11 ⚽ Preah Khan Reach Svay Rieng vs Tampines Rovers (Lê Hoàn)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-5.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "19:15 05/11 ⚽ BG Pathum United vs Tai Po (Trần Hoàng)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/12fe4d3ee5c01134d48584015c4646f3.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "21:00 05/11 ⚽ Bhutan vs Bangladesh (Ngô Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-10.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/59bf3958a6ff253e596c3a9bb9ecd1f2.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍗 Khô Gà TV",
-      "channels": [
-        {
-          "name": "🟡 07:30 05/11 ⚽ Sao Paulo vs Corinthians (BLV Khô Bò) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/556_sao-paulo.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 05/11 ⚽ Kuching City vs Gangwon (BLV Xôi Gấc) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/5306_kuching-city.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "19:15 05/11 ⚽ Pathum United vs Tai Po (BLV Khô Chè) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/418_bg-pathum-united.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "20:25 05/11 ⚽ Al Kholood vs Al Khaleej (BLV Khô Mật) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/18893_al-kholood.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "📜 Sao Kê TV",
-      "channels": [
-        {
-          "name": "🟡 07:30 05/11 ⚽ São Paulo vs Corinthians (Tít) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
-        {
-          "name": "08:30 05/11 ⚽ Millonarios vs América de Cali (Long Ruồi) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
-          "group": "📜 Sao Kê TV",
           "ref": ""
         }
       ]
@@ -2738,86 +2618,86 @@
       "home_score": "103",
       "away_score": "107",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "13.8 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Utah Jazz",
-      "home_score": "90",
-      "away_score": "89",
+      "home_score": "100",
+      "away_score": "101",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:48 - 4th",
+      "detail": "57.2 - 4th",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Oklahoma City Thunder",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "119",
-      "away_score": "111",
+      "home_score": "124",
+      "away_score": "116",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "40.3 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "78",
-      "away_score": "75",
+      "home_score": "92",
+      "away_score": "91",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:54 - 3rd",
+      "detail": "8:14 - 4th",
       "date": "2026-11-05T01:30Z"
     },
     {
       "home_team": "Denver Nuggets",
       "away_team": "Toronto Raptors",
-      "home_score": "70",
-      "away_score": "69",
+      "home_score": "84",
+      "away_score": "77",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:29 - 3rd",
+      "detail": "5:18 - 3rd",
       "date": "2026-11-05T02:00Z"
     },
     {
       "home_team": "Phoenix Suns",
       "away_team": "Portland Trail Blazers",
-      "home_score": "59",
-      "away_score": "72",
+      "home_score": "67",
+      "away_score": "78",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "8:49 - 3rd",
       "date": "2026-11-05T02:00Z"
     },
     {
       "home_team": "San Antonio Spurs",
       "away_team": "Dallas Mavericks",
-      "home_score": "32",
-      "away_score": "26",
+      "home_score": "48",
+      "away_score": "39",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "End of 1st",
+      "detail": "6:45 - 2nd",
       "date": "2026-11-05T02:30Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Los Angeles Lakers",
-      "home_score": "16",
-      "away_score": "11",
+      "home_score": "28",
+      "away_score": "28",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:10 - 1st",
+      "detail": "End of 1st",
       "date": "2026-11-05T03:00Z"
     },
     {
@@ -4084,12 +3964,21 @@
         "teamName": "Memphis Grizzlies",
         "shortName": "Grizzlies",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-        "played": 7,
-        "gd": "6T-1B (GB 0.5)",
+        "played": 8,
+        "gd": "6T-2B (GB 1)",
         "points": 6
       },
       {
         "rank": 7,
+        "teamName": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+        "played": 8,
+        "gd": "6T-2B (GB 1)",
+        "points": 6
+      },
+      {
+        "rank": 8,
         "teamName": "Atlanta Hawks",
         "shortName": "Hawks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
@@ -4098,7 +3987,7 @@
         "points": 5
       },
       {
-        "rank": 8,
+        "rank": 9,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -4107,21 +3996,12 @@
         "points": 5
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "Minnesota Timberwolves",
         "shortName": "Timberwolves",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
         "played": 8,
         "gd": "5T-3B (GB 2)",
-        "points": 5
-      },
-      {
-        "rank": 10,
-        "teamName": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-        "played": 7,
-        "gd": "5T-2B (GB 1.5)",
         "points": 5
       },
       {
@@ -4144,6 +4024,15 @@
       },
       {
         "rank": 13,
+        "teamName": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+        "played": 8,
+        "gd": "4T-4B (GB 3.5)",
+        "points": 4
+      },
+      {
+        "rank": 14,
         "teamName": "New York Knicks",
         "shortName": "Knicks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
@@ -4152,7 +4041,7 @@
         "points": 4
       },
       {
-        "rank": 14,
+        "rank": 15,
         "teamName": "Washington Wizards",
         "shortName": "Wizards",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
@@ -4161,19 +4050,10 @@
         "points": 4
       },
       {
-        "rank": 15,
+        "rank": 16,
         "teamName": "Toronto Raptors",
         "shortName": "Raptors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
-        "played": 7,
-        "gd": "4T-3B (GB 3)",
-        "points": 4
-      },
-      {
-        "rank": 16,
-        "teamName": "Cleveland Cavaliers",
-        "shortName": "Cavaliers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
         "played": 7,
         "gd": "4T-3B (GB 3)",
         "points": 4
@@ -4198,6 +4078,15 @@
       },
       {
         "rank": 19,
+        "teamName": "Indiana Pacers",
+        "shortName": "Pacers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "played": 9,
+        "gd": "3T-6B (GB 5)",
+        "points": 3
+      },
+      {
+        "rank": 20,
         "teamName": "New Orleans Pelicans",
         "shortName": "Pelicans",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
@@ -4206,7 +4095,7 @@
         "points": 3
       },
       {
-        "rank": 20,
+        "rank": 21,
         "teamName": "Denver Nuggets",
         "shortName": "Nuggets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
@@ -4215,19 +4104,10 @@
         "points": 3
       },
       {
-        "rank": 21,
+        "rank": 22,
         "teamName": "Brooklyn Nets",
         "shortName": "Nets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-        "played": 8,
-        "gd": "2T-6B (GB 5.5)",
-        "points": 2
-      },
-      {
-        "rank": 22,
-        "teamName": "Indiana Pacers",
-        "shortName": "Pacers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
         "played": 8,
         "gd": "2T-6B (GB 5.5)",
         "points": 2
