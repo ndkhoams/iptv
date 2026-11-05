@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-05 07:49:44",
+  "updated_at": "2026-11-05 08:04:55",
   "live_events": [
+    {
+      "key": "05/11_07:00_deportivo_independientesantafe",
+      "c_home": "deportivo",
+      "c_away": "independientesantafe",
+      "homeTeam": "Cucuta Deportivo",
+      "awayTeam": "Independiente Santa Fe",
+      "time": "07:00",
+      "date": "05/11",
+      "timestamp": 1793836800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 07:00 05/11 ⚽ Cucuta Deportivo vs Independiente Santa Fe (Gà Siêu Son) [hls]",
+          "url": "https://live2.zktsva.app/live/306290.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:00 05/11] Cucuta Deportivo vs Independiente Santa Fe",
+      "number": 1
+    },
     {
       "key": "05/11_07:00_cucuta_santafe",
       "c_home": "cucuta",
@@ -32,7 +58,7 @@
         }
       ],
       "displayTitle": "🔴 [07:00 05/11] Cucuta vs Santa Fe",
-      "number": 1
+      "number": 2
     },
     {
       "key": "05/11_07:30_corinthians_saopaulo",
@@ -79,7 +105,7 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] Sao Paulo vs Corinthians",
-      "number": 2
+      "number": 3
     },
     {
       "key": "05/11_07:30_atlticomineiromg_botafogorj",
@@ -112,7 +138,7 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] Botafogo _ RJ vs Atlético Mineiro _ MG",
-      "number": 3
+      "number": 4
     },
     {
       "key": "05/11_07:30_corinthianssp_sopaulosp",
@@ -152,39 +178,6 @@
         }
       ],
       "displayTitle": "🔴 [07:30 05/11] São Paulo _ SP vs Corinthians _ SP",
-      "number": 4
-    },
-    {
-      "key": "05/11_07:35_deportivo_independientesantafe",
-      "c_home": "deportivo",
-      "c_away": "independientesantafe",
-      "homeTeam": "Cucuta Deportivo",
-      "awayTeam": "Independiente Santa Fe",
-      "time": "07:35",
-      "date": "05/11",
-      "timestamp": 1793838900000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:35 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟢 07:00 05/11 ⚽ Cucuta Deportivo vs Independiente Santa Fe (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [07:35 05/11] Cucuta Deportivo vs Independiente Santa Fe",
       "number": 5
     },
     {
@@ -2029,13 +2022,6 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [07:35 05/11] Cucuta Deportivo Vs Independiente Santa Fe (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [08:30 05/11] Millonarios Vs America De Cali (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2986,56 +2972,56 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Philadelphia 76ers",
-      "home_score": "25",
-      "away_score": "33",
+      "home_score": "31",
+      "away_score": "48",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:38 - 2nd",
+      "detail": "5:17 - 2nd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Atlanta Hawks",
-      "home_score": "38",
-      "away_score": "51",
+      "home_score": "57",
+      "away_score": "68",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:37 - 2nd",
+      "detail": "33.4 - 2nd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Boston Celtics",
       "away_team": "Milwaukee Bucks",
-      "home_score": "14",
-      "away_score": "8",
+      "home_score": "28",
+      "away_score": "11",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:49 - 1st",
+      "detail": "29.3 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "Brooklyn Nets",
       "away_team": "Charlotte Hornets",
-      "home_score": "9",
-      "away_score": "6",
+      "home_score": "13",
+      "away_score": "17",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:17 - 1st",
+      "detail": "3:47 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "New York Knicks",
       "away_team": "Chicago Bulls",
-      "home_score": "15",
-      "away_score": "8",
+      "home_score": "32",
+      "away_score": "14",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:50 - 1st",
+      "detail": "2:11 - 1st",
       "date": "2026-11-05T00:30Z"
     },
     {
