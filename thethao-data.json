@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 08:35:15",
+  "updated_at": "2026-11-05 08:50:35",
   "live_events": [
     {
       "key": "05/11_07:00_deportivo_independientesantafe",
@@ -440,6 +440,39 @@
       "number": 12
     },
     {
+      "key": "05/11_09:00_denvernuggets_torontoraptors",
+      "c_home": "denvernuggets",
+      "c_away": "torontoraptors",
+      "homeTeam": "Denver Nuggets",
+      "awayTeam": "Toronto Raptors",
+      "time": "09:00",
+      "date": "05/11",
+      "timestamp": 1793844000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "09:00 05/11 🏀 Denver Nuggets vs Toronto Raptors (BLV POCARI) [hls]",
+          "url": "https://live05.miekgo.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "09:00 05/11 🏀 Denver Nuggets vs Toronto Raptors (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [09:00 05/11] Denver Nuggets vs Toronto Raptors",
+      "number": 13
+    },
+    {
       "key": "05/11_15:00_amtat_khaankhunserchim",
       "c_home": "amtat",
       "c_away": "khaankhunserchim",
@@ -463,7 +496,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 13
+      "number": 14
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -510,7 +543,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 14
+      "number": 15
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -543,7 +576,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 15
+      "number": 16
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -611,7 +644,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 16
+      "number": 17
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -693,7 +726,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 17
+      "number": 18
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -754,7 +787,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 18
+      "number": 19
     },
     {
       "key": "05/11_17:00_mobisphoebus_seoulsamsungthunders",
@@ -787,7 +820,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Mobis Phoebus vs Seoul Samsung Thunders",
-      "number": 19
+      "number": 20
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -813,7 +846,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 20
+      "number": 21
     },
     {
       "key": "05/11_19:15_gangwon_kuchingfa",
@@ -846,7 +879,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching FA vs Gangwon",
-      "number": 21
+      "number": 22
     },
     {
       "key": "05/11_19:15_pathumunited_wofootaipo",
@@ -921,7 +954,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Pathum United vs Wofoo Tai Po",
-      "number": 22
+      "number": 23
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -968,7 +1001,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 23
+      "number": 24
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -1029,7 +1062,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 24
+      "number": 25
     },
     {
       "key": "05/11_20:25_alkhaleej_alkholood",
@@ -1062,7 +1095,7 @@
         }
       ],
       "displayTitle": "⚽ [20:25 05/11] Al Kholood vs Al Khaleej",
-      "number": 25
+      "number": 26
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -1088,7 +1121,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 26
+      "number": 27
     },
     {
       "key": "05/11_21:00_bangladesh_bhutan",
@@ -1128,7 +1161,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Bhutan vs Bangladesh",
-      "number": 27
+      "number": 28
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -1154,7 +1187,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 28
+      "number": 29
     },
     {
       "key": "05/11_21:00_atkmohunbagan_odisha",
@@ -1180,7 +1213,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] ATK Mohun Bagan vs Odisha",
-      "number": 29
+      "number": 30
     },
     {
       "key": "05/11_22:00_chindiatargoviste_gloriapopestileordeni",
@@ -1206,7 +1239,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 05/11] Chindia Targoviste vs Gloria Popesti Leordeni",
-      "number": 30
+      "number": 31
     },
     {
       "key": "05/11_22:10_abha_alshabab",
@@ -1232,7 +1265,7 @@
         }
       ],
       "displayTitle": "⚽ [22:10 05/11] Abha vs Al Shabab",
-      "number": 31
+      "number": 32
     },
     {
       "key": "05/11_22:30_duhok_mosul",
@@ -1258,7 +1291,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 05/11] Mosul vs Duhok",
-      "number": 32
+      "number": 33
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -1291,7 +1324,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 33
+      "number": 34
     },
     {
       "key": "06/11_00:45_acmilan_ferencvarositc",
@@ -1324,7 +1357,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Milan vs Ferencvarosi TC",
-      "number": 34
+      "number": 35
     },
     {
       "key": "06/11_00:45_anderlecht_redbullsalzburg",
@@ -1357,7 +1390,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Anderlecht vs Red Bull Salzburg",
-      "number": 35
+      "number": 36
     },
     {
       "key": "06/11_00:45_1899hoffenheim_crystalpalace",
@@ -1390,7 +1423,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Crystal Palace vs 1899 Hoffenheim",
-      "number": 36
+      "number": 37
     },
     {
       "key": "06/11_00:45_lyon_realsociedad",
@@ -1423,7 +1456,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Real Sociedad vs Lyon",
-      "number": 37
+      "number": 38
     },
     {
       "key": "06/11_00:45_bournemouth_sparta",
@@ -1463,7 +1496,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Sparta Praha vs Bournemouth",
-      "number": 38
+      "number": 39
     },
     {
       "key": "06/11_00:45_acmilan_ferencvrosi",
@@ -1489,7 +1522,7 @@
         }
       ],
       "displayTitle": "⚽ [00:45 06/11] Milan vs Ferencvárosi",
-      "number": 39
+      "number": 40
     },
     {
       "key": "06/11_03:00_azalkmaar_juventus",
@@ -1522,7 +1555,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] AZ Alkmaar vs Juventus",
-      "number": 40
+      "number": 41
     },
     {
       "key": "06/11_03:00_leverkusen_marseille",
@@ -1562,7 +1595,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Bayer Leverkusen vs Marseille",
-      "number": 41
+      "number": 42
     },
     {
       "key": "06/11_03:00_benfica_lechpoznan",
@@ -1588,7 +1621,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Benfica vs Lech Poznan",
-      "number": 42
+      "number": 43
     },
     {
       "key": "06/11_03:00_brighton_getafe",
@@ -1614,7 +1647,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Getafe vs Brighton",
-      "number": 43
+      "number": 44
     },
     {
       "key": "06/11_03:00_celtavigo_unionsaintgilloise",
@@ -1640,7 +1673,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Celta Vigo vs Union Saint-Gilloise",
-      "number": 44
+      "number": 45
     },
     {
       "key": "06/11_03:00_dinamozagreb_sunderland",
@@ -1666,7 +1699,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Sunderland vs Dinamo Zagreb",
-      "number": 45
+      "number": 46
     },
     {
       "key": "06/11_03:00_beikta_celtic",
@@ -1692,7 +1725,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] Celtic vs Beşiktaş",
-      "number": 46
+      "number": 47
     },
     {
       "key": "06/11_03:00_az_juventus",
@@ -1725,7 +1758,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 06/11] AZ vs Juventus",
-      "number": 47
+      "number": 48
     },
     {
       "key": "06/11_05:30_palmeiras_remo",
@@ -1751,7 +1784,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 06/11] Palmeiras vs remo",
-      "number": 48
+      "number": 49
     },
     {
       "key": "06/11_07:30_bahia_cruzeiro",
@@ -1777,7 +1810,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 06/11] Cruzeiro vs Bahia",
-      "number": 49
+      "number": 50
     },
     {
       "key": "06/11_15:40_centralcoastmariners_sydney",
@@ -1803,7 +1836,7 @@
         }
       ],
       "displayTitle": "⚽ [15:40 06/11] Sydney vs Central Coast Mariners",
-      "number": 50
+      "number": 51
     },
     {
       "key": "06/11_17:00_hudahu_vnhin",
@@ -1829,39 +1862,6 @@
         }
       ],
       "displayTitle": "⚽ [17:00 06/11] Văn Hiến vs Huda Huế",
-      "number": 51
-    },
-    {
-      "key": "05/11_09:00_denvernuggets_torontoraptors",
-      "c_home": "denvernuggets",
-      "c_away": "torontoraptors",
-      "homeTeam": "Denver Nuggets",
-      "awayTeam": "Toronto Raptors",
-      "time": "09:00",
-      "date": "05/11",
-      "timestamp": 1793844000000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "09:00 05/11 🏀 Denver Nuggets vs Toronto Raptors (BLV POCARI) [hls]",
-          "url": "https://live05.miekgo.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "09:00 05/11 🏀 Denver Nuggets vs Toronto Raptors (BLV POCARI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [09:00 05/11] Denver Nuggets vs Toronto Raptors",
       "number": 52
     }
   ],
@@ -2972,30 +2972,52 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Philadelphia 76ers",
-      "home_score": "42",
-      "away_score": "56",
+      "home_score": "54",
+      "away_score": "64",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "8:19 - 3rd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Atlanta Hawks",
-      "home_score": "67",
-      "away_score": "75",
+      "home_score": "83",
+      "away_score": "91",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:56 - 3rd",
+      "detail": "1:07 - 3rd",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Boston Celtics",
       "away_team": "Milwaukee Bucks",
       "home_score": "62",
-      "away_score": "41",
+      "away_score": "42",
+      "league": "NBA",
+      "state": "in",
+      "is_completed": false,
+      "detail": "10:59 - 3rd",
+      "date": "2026-11-05T00:30Z"
+    },
+    {
+      "home_team": "Brooklyn Nets",
+      "away_team": "Charlotte Hornets",
+      "home_score": "50",
+      "away_score": "57",
+      "league": "NBA",
+      "state": "in",
+      "is_completed": false,
+      "detail": "5.7 - 2nd",
+      "date": "2026-11-05T00:30Z"
+    },
+    {
+      "home_team": "New York Knicks",
+      "away_team": "Chicago Bulls",
+      "home_score": "84",
+      "away_score": "52",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
@@ -3003,69 +3025,47 @@
       "date": "2026-11-05T00:30Z"
     },
     {
-      "home_team": "Brooklyn Nets",
-      "away_team": "Charlotte Hornets",
-      "home_score": "40",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Indiana Pacers",
+      "home_score": "37",
       "away_score": "37",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:34 - 2nd",
-      "date": "2026-11-05T00:30Z"
-    },
-    {
-      "home_team": "New York Knicks",
-      "away_team": "Chicago Bulls",
-      "home_score": "70",
-      "away_score": "41",
-      "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "2:52 - 2nd",
-      "date": "2026-11-05T00:30Z"
-    },
-    {
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Indiana Pacers",
-      "home_score": "24",
-      "away_score": "32",
-      "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "End of 1st",
+      "detail": "6:59 - 2nd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Utah Jazz",
-      "home_score": "20",
-      "away_score": "23",
+      "home_score": "34",
+      "away_score": "27",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:16 - 1st",
+      "detail": "7:54 - 2nd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Oklahoma City Thunder",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "36",
-      "away_score": "18",
+      "home_score": "46",
+      "away_score": "25",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:11 - 1st",
+      "detail": "7:27 - 2nd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "15",
+      "away_score": "13",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 8:30 PM EST",
+      "detail": "6:08 - 1st",
       "date": "2026-11-05T01:30Z"
     },
     {
