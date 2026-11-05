@@ -1,84 +1,6 @@
 {
-  "updated_at": "2026-11-05 14:42:43",
+  "updated_at": "2026-11-05 14:58:30",
   "live_events": [
-    {
-      "key": "06/11_18:00_hatinh_namdinh",
-      "c_home": "hatinh",
-      "c_away": "namdinh",
-      "homeTeam": "Hong Linh Ha Tinh",
-      "awayTeam": "Thep Xanh Nam Dinh",
-      "time": "18:00",
-      "date": "06/11",
-      "timestamp": 1793962800000,
-      "league": "VLEAGUE",
-      "leagueName": "🇻🇳 V-League 1",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_vleague",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 06/11] Hong Linh Ha Tinh Vs Thep Xanh Nam Dinh Fc (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [18:00 06/11] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh",
-      "number": 1
-    },
-    {
-      "key": "07/11_02:45_strasbourg_toulouse",
-      "c_home": "toulouse",
-      "c_away": "strasbourg",
-      "homeTeam": "Toulouse",
-      "awayTeam": "Strasbourg Alsace",
-      "time": "02:45",
-      "date": "07/11",
-      "timestamp": 1793994300000,
-      "league": "LIGUE1",
-      "leagueName": "🇫🇷 Ligue 1",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ligue1",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 07/11] Toulouse Fc Vs Rc Strasbourg Alsace (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 2
-    },
-    {
-      "key": "07/11_22:00_fulham_newcastle",
-      "c_home": "fulham",
-      "c_away": "newcastle",
-      "homeTeam": "Fulham",
-      "awayTeam": "Newcastle United",
-      "time": "22:00",
-      "date": "07/11",
-      "timestamp": 1794063600000,
-      "league": "EPL",
-      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:00 07/11] Fulham Vs Newcastle United (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 3
-    },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
       "c_home": "amtat",
@@ -91,7 +13,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -123,7 +45,85 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
+      "displayTitle": "🔴 [15:00 05/11] Amtat vs Khaan Khuns Erchim",
+      "number": 1
+    },
+    {
+      "key": "06/11_18:00_hatinh_namdinh",
+      "c_home": "hatinh",
+      "c_away": "namdinh",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "Thep Xanh Nam Dinh",
+      "time": "18:00",
+      "date": "06/11",
+      "timestamp": 1793962800000,
+      "league": "VLEAGUE",
+      "leagueName": "🇻🇳 V-League 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_vleague",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:00 06/11] Hong Linh Ha Tinh Vs Thep Xanh Nam Dinh Fc (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [18:00 06/11] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh",
+      "number": 2
+    },
+    {
+      "key": "07/11_02:45_strasbourg_toulouse",
+      "c_home": "toulouse",
+      "c_away": "strasbourg",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Strasbourg Alsace",
+      "time": "02:45",
+      "date": "07/11",
+      "timestamp": 1793994300000,
+      "league": "LIGUE1",
+      "leagueName": "🇫🇷 Ligue 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ligue1",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 07/11] Toulouse Fc Vs Rc Strasbourg Alsace (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
+      "number": 3
+    },
+    {
+      "key": "07/11_22:00_fulham_newcastle",
+      "c_home": "fulham",
+      "c_away": "newcastle",
+      "homeTeam": "Fulham",
+      "awayTeam": "Newcastle United",
+      "time": "22:00",
+      "date": "07/11",
+      "timestamp": 1794063600000,
+      "league": "EPL",
+      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 07/11] Fulham Vs Newcastle United (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
       "number": 4
     },
     {
