@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-05 09:21:25",
+  "updated_at": "2026-11-05 09:36:34",
   "live_events": [
     {
-      "key": "05/11_07:30_corinthians_saopaulo",
-      "c_home": "saopaulo",
-      "c_away": "corinthians",
-      "homeTeam": "Sao Paulo",
-      "awayTeam": "Corinthians",
+      "key": "05/11_07:30_corinthianssp_saopaulosp",
+      "c_home": "saopaulosp",
+      "c_away": "corinthianssp",
+      "homeTeam": "Sao Paulo Sp",
+      "awayTeam": "Corinthians Sp",
       "time": "07:30",
       "date": "05/11",
       "timestamp": 1793838600000,
@@ -16,13 +16,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [07:30 05/11] Sao Paulo vs Corinthians (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [07:30 05/11] Sao Paulo Sp Vs Corinthians Sp (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -36,16 +29,9 @@
           "logo": "https://apiv3.apifootball.com/badges/556_sao-paulo.jpg",
           "group": "🍗 Khô Gà TV",
           "ref": ""
-        },
-        {
-          "name": "🟡 07:30 05/11 ⚽ Sao Paulo vs Corinthians Paulista (Cố Tư Nghiêm) [hls]",
-          "url": "https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
         }
       ],
-      "displayTitle": "🔴 [07:30 05/11] Sao Paulo vs Corinthians",
+      "displayTitle": "🔴 [07:30 05/11] Sao Paulo Sp vs Corinthians Sp",
       "number": 1
     },
     {
@@ -122,6 +108,32 @@
       "number": 3
     },
     {
+      "key": "05/11_07:30_corinthianspaulista_saopaulo",
+      "c_home": "saopaulo",
+      "c_away": "corinthianspaulista",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Corinthians Paulista",
+      "time": "07:30",
+      "date": "05/11",
+      "timestamp": 1793838600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟡 07:30 05/11 ⚽ Sao Paulo vs Corinthians Paulista (Cố Tư Nghiêm) [hls]",
+          "url": "https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:30 05/11] Sao Paulo vs Corinthians Paulista",
+      "number": 4
+    },
+    {
       "key": "05/11_08:30_americadecali_millonarios",
       "c_home": "millonarios",
       "c_away": "americadecali",
@@ -187,7 +199,7 @@
         }
       ],
       "displayTitle": "🔴 [08:30 05/11] Millonarios vs America de Cali",
-      "number": 4
+      "number": 5
     },
     {
       "key": "05/11_08:30_amricadecali_millonarios",
@@ -213,7 +225,7 @@
         }
       ],
       "displayTitle": "🔴 [08:30 05/11] Millonarios vs América de Cali",
-      "number": 5
+      "number": 6
     },
     {
       "key": "05/11_07:00_detroitpistons_philadelphia76ers",
@@ -253,32 +265,6 @@
         }
       ],
       "displayTitle": "🏀 [07:00 05/11] Detroit Pistons vs Philadelphia 76ers",
-      "number": 6
-    },
-    {
-      "key": "05/11_07:00_atlantahawks_washingtonwizards",
-      "c_home": "washingtonwizards",
-      "c_away": "atlantahawks",
-      "homeTeam": "Washington Wizards",
-      "awayTeam": "Atlanta Hawks",
-      "time": "07:00",
-      "date": "05/11",
-      "timestamp": 1793836800000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 07:00 05/11 🏀 Washington Wizards vs Atlanta Hawks (The Flash)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.WSXwasL44X2q.m3u8?expires=1793851526&signature=b6nok8Wd2FHDI0lq1lB1CxHu0ajbs2rO5Ib6f19YpEM",
-          "logo": "https://xoigac.top/images/basketball/teams/161.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [07:00 05/11] Washington Wizards vs Atlanta Hawks",
       "number": 7
     },
     {
@@ -1811,13 +1797,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [07:30 05/11] Sao Paulo vs Corinthians (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [08:30 05/11] Millonarios vs America de Cali (BLV Chuối Kem) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
@@ -2913,122 +2892,122 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Philadelphia 76ers",
-      "home_score": "83",
-      "away_score": "95",
+      "home_score": "93",
+      "away_score": "104",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "8:56 - 4th",
+      "detail": "3:07 - 4th",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Atlanta Hawks",
-      "home_score": "103",
-      "away_score": "118",
+      "home_score": "105",
+      "away_score": "120",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "2:24 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Boston Celtics",
       "away_team": "Milwaukee Bucks",
-      "home_score": "89",
-      "away_score": "85",
+      "home_score": "95",
+      "away_score": "93",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:32 - 4th",
+      "detail": "5:55 - 4th",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "Brooklyn Nets",
       "away_team": "Charlotte Hornets",
-      "home_score": "64",
-      "away_score": "64",
+      "home_score": "76",
+      "away_score": "78",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:24 - 3rd",
+      "detail": "58.0 - 3rd",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "New York Knicks",
       "away_team": "Chicago Bulls",
-      "home_score": "107",
-      "away_score": "64",
+      "home_score": "113",
+      "away_score": "79",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:21 - 3rd",
+      "detail": "End of 3rd",
       "date": "2026-11-05T00:30Z"
     },
     {
       "home_team": "Memphis Grizzlies",
       "away_team": "Indiana Pacers",
-      "home_score": "52",
-      "away_score": "54",
+      "home_score": "66",
+      "away_score": "63",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "6:36 - 3rd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Utah Jazz",
-      "home_score": "42",
-      "away_score": "37",
+      "home_score": "50",
+      "away_score": "52",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "7:49 - 3rd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Oklahoma City Thunder",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "60",
-      "away_score": "44",
+      "home_score": "74",
+      "away_score": "62",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:44 - 3rd",
+      "detail": "4:59 - 3rd",
       "date": "2026-11-05T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "40",
-      "away_score": "44",
+      "home_score": "48",
+      "away_score": "49",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:14 - 2nd",
+      "detail": "2:52 - 2nd",
       "date": "2026-11-05T01:30Z"
     },
     {
       "home_team": "Denver Nuggets",
       "away_team": "Toronto Raptors",
-      "home_score": "12",
-      "away_score": "16",
+      "home_score": "33",
+      "away_score": "35",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:57 - 1st",
+      "detail": "End of 1st",
       "date": "2026-11-05T02:00Z"
     },
     {
       "home_team": "Phoenix Suns",
       "away_team": "Portland Trail Blazers",
-      "home_score": "17",
-      "away_score": "14",
+      "home_score": "32",
+      "away_score": "27",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:03 - 1st",
+      "detail": "55.9 - 1st",
       "date": "2026-11-05T02:00Z"
     },
     {
@@ -4314,6 +4293,15 @@
       },
       {
         "rank": 6,
+        "teamName": "Atlanta Hawks",
+        "shortName": "Hawks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+        "played": 9,
+        "gd": "5T-4B (GB 2.5)",
+        "points": 5
+      },
+      {
+        "rank": 7,
         "teamName": "Boston Celtics",
         "shortName": "Celtics",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
@@ -4322,7 +4310,7 @@
         "points": 5
       },
       {
-        "rank": 7,
+        "rank": 8,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -4331,7 +4319,7 @@
         "points": 5
       },
       {
-        "rank": 8,
+        "rank": 9,
         "teamName": "Minnesota Timberwolves",
         "shortName": "Timberwolves",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
@@ -4340,7 +4328,7 @@
         "points": 5
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "Oklahoma City Thunder",
         "shortName": "Thunder",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
@@ -4349,7 +4337,7 @@
         "points": 5
       },
       {
-        "rank": 10,
+        "rank": 11,
         "teamName": "San Antonio Spurs",
         "shortName": "Spurs",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
@@ -4358,7 +4346,7 @@
         "points": 5
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamName": "Portland Trail Blazers",
         "shortName": "Trail Blazers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
@@ -4367,21 +4355,12 @@
         "points": 5
       },
       {
-        "rank": 12,
-        "teamName": "Atlanta Hawks",
-        "shortName": "Hawks",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-        "played": 8,
-        "gd": "4T-4B (GB 3)",
-        "points": 4
-      },
-      {
         "rank": 13,
         "teamName": "Washington Wizards",
         "shortName": "Wizards",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-        "played": 7,
-        "gd": "4T-3B (GB 2.5)",
+        "played": 8,
+        "gd": "4T-4B (GB 3)",
         "points": 4
       },
       {
