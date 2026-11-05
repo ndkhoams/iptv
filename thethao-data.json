@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 19:32:45",
+  "updated_at": "2026-11-05 19:47:56",
   "live_events": [
     {
       "key": "05/11_18:30_adelaideunited_lioncitysailors",
@@ -371,6 +371,39 @@
       "number": 8
     },
     {
+      "key": "05/11_20:00_alkahraba_zakho",
+      "c_home": "alkahraba",
+      "c_away": "zakho",
+      "homeTeam": "Al Kahraba",
+      "awayTeam": "Zakho",
+      "time": "20:00",
+      "date": "05/11",
+      "timestamp": 1793883600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "20:00 05/11 ⚽ Al Kahraba vs CLB Zakho (BLV WARRIOR) [hls]",
+          "url": "https://live05.miekgo.app/live/97885009.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "20:00 05/11 ⚽ Al Kahraba vs CLB Zakho (BLV WARRIOR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [20:00 05/11] Al Kahraba vs Zakho",
+      "number": 9
+    },
+    {
       "key": "06/11_18:00_hatinh_namdinh",
       "c_home": "hatinh",
       "c_away": "namdinh",
@@ -394,7 +427,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 06/11] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh",
-      "number": 9
+      "number": 10
     },
     {
       "key": "07/11_02:45_udinese_venezia",
@@ -420,7 +453,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Venezia vs Udinese",
-      "number": 10
+      "number": 11
     },
     {
       "key": "07/11_02:45_strasbourg_toulouse",
@@ -446,7 +479,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 11
+      "number": 12
     },
     {
       "key": "07/11_03:00_coventrycity_everton",
@@ -472,7 +505,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Everton vs Coventry City",
-      "number": 12
+      "number": 13
     },
     {
       "key": "07/11_03:00_alaves_sevilla",
@@ -498,7 +531,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alaves",
-      "number": 13
+      "number": 14
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -524,7 +557,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 14
+      "number": 15
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -550,7 +583,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 15
+      "number": 16
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -576,7 +609,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 16
+      "number": 17
     },
     {
       "key": "07/11_21:30_1fsvmainz05_bayern",
@@ -602,7 +635,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 17
+      "number": 18
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -628,39 +661,6 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 18
-    },
-    {
-      "key": "05/11_20:00_alkahraba_zakho",
-      "c_home": "alkahraba",
-      "c_away": "zakho",
-      "homeTeam": "Al Kahraba",
-      "awayTeam": "Zakho",
-      "time": "20:00",
-      "date": "05/11",
-      "timestamp": 1793883600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "20:00 05/11 ⚽ Al Kahraba vs CLB Zakho (BLV WARRIOR) [hls]",
-          "url": "https://live05.miekgo.app/live/97885009.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "20:00 05/11 ⚽ Al Kahraba vs CLB Zakho (BLV WARRIOR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [20:00 05/11] Al Kahraba vs Zakho",
       "number": 19
     },
     {
