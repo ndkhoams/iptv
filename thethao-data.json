@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 11:39:23",
+  "updated_at": "2026-11-05 11:54:34",
   "live_events": [
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -2447,45 +2447,45 @@
     {
       "home_team": "Phoenix Suns",
       "away_team": "Portland Trail Blazers",
-      "home_score": "112",
-      "away_score": "126",
+      "home_score": "119",
+      "away_score": "132",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:52 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-05T02:00Z"
     },
     {
       "home_team": "San Antonio Spurs",
       "away_team": "Dallas Mavericks",
-      "home_score": "77",
-      "away_score": "65",
+      "home_score": "90",
+      "away_score": "80",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:28 - 3rd",
+      "detail": "End of 3rd",
       "date": "2026-11-05T02:30Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Los Angeles Lakers",
-      "home_score": "58",
-      "away_score": "67",
+      "home_score": "69",
+      "away_score": "83",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:53 - 3rd",
+      "detail": "2:35 - 3rd",
       "date": "2026-11-05T03:00Z"
     },
     {
       "home_team": "LA Clippers",
       "away_team": "Miami Heat",
-      "home_score": "67",
-      "away_score": "52",
+      "home_score": "68",
+      "away_score": "54",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "9:51 - 3rd",
       "date": "2026-11-05T03:30Z"
     }
   ],
@@ -3765,6 +3765,15 @@
       },
       {
         "rank": 9,
+        "teamName": "Portland Trail Blazers",
+        "shortName": "Trail Blazers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+        "played": 7,
+        "gd": "6T-1B (GB -)",
+        "points": 6
+      },
+      {
+        "rank": 10,
         "teamName": "Atlanta Hawks",
         "shortName": "Hawks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
@@ -3773,7 +3782,7 @@
         "points": 5
       },
       {
-        "rank": 10,
+        "rank": 11,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -3782,21 +3791,12 @@
         "points": 5
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamName": "San Antonio Spurs",
         "shortName": "Spurs",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
         "played": 7,
         "gd": "5T-2B (GB 1)",
-        "points": 5
-      },
-      {
-        "rank": 12,
-        "teamName": "Portland Trail Blazers",
-        "shortName": "Trail Blazers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-        "played": 6,
-        "gd": "5T-1B (GB 0.5)",
         "points": 5
       },
       {
@@ -3957,8 +3957,8 @@
         "teamName": "Phoenix Suns",
         "shortName": "Suns",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-        "played": 5,
-        "gd": "1T-4B (GB 4)",
+        "played": 6,
+        "gd": "1T-5B (GB 4.5)",
         "points": 1
       }
     ],
