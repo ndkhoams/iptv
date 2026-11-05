@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 07:04:27",
+  "updated_at": "2026-11-05 07:19:32",
   "live_events": [
     {
       "key": "05/11_05:30_flamengo_gremio",
@@ -134,6 +134,91 @@
       "number": 4
     },
     {
+      "key": "05/11_07:30_corinthians_saopaulo",
+      "c_home": "saopaulo",
+      "c_away": "corinthians",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Corinthians",
+      "time": "07:30",
+      "date": "05/11",
+      "timestamp": 1793838600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 05/11] Sao Paulo vs Corinthians (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [07:30 05/11] Sao Paulo Sp Vs Corinthians Sp (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 05/11] Sao Paulo vs Corinthians",
+      "number": 5
+    },
+    {
+      "key": "05/11_07:30_atlticomineiromg_botafogorj",
+      "c_home": "botafogorj",
+      "c_away": "atlticomineiromg",
+      "homeTeam": "Botafogo _ RJ",
+      "awayTeam": "Atlético Mineiro _ MG",
+      "time": "07:30",
+      "date": "05/11",
+      "timestamp": 1793838600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:30 05/11 ⚽ Botafogo _ RJ vs Atlético Mineiro _ MG (Doanh Chính)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/5d83c47462e5afb6f1add0ad508c300b.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:30 05/11] Botafogo _ RJ vs Atlético Mineiro _ MG",
+      "number": 6
+    },
+    {
+      "key": "05/11_07:30_corinthianssp_sopaulosp",
+      "c_home": "sopaulosp",
+      "c_away": "corinthianssp",
+      "homeTeam": "São Paulo _ SP",
+      "awayTeam": "Corinthians _ SP",
+      "time": "07:30",
+      "date": "05/11",
+      "timestamp": 1793838600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:30 05/11 ⚽ São Paulo _ SP vs Corinthians _ SP (Nguyễn Ánh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:30 05/11] São Paulo _ SP vs Corinthians _ SP",
+      "number": 7
+    },
+    {
       "key": "05/11_07:00_detroitpistons_philadelphia76ers",
       "c_home": "detroitpistons",
       "c_away": "philadelphia76ers",
@@ -164,92 +249,47 @@
         }
       ],
       "displayTitle": "🏀 [07:00 05/11] Detroit Pistons vs Philadelphia 76ers",
-      "number": 5
+      "number": 8
     },
     {
-      "key": "05/11_07:30_corinthians_saopaulo",
-      "c_home": "saopaulo",
-      "c_away": "corinthians",
-      "homeTeam": "Sao Paulo",
-      "awayTeam": "Corinthians",
+      "key": "05/11_07:30_ibngrbostonceltics_milwaukeebucks",
+      "c_home": "ibngrbostonceltics",
+      "c_away": "milwaukeebucks",
+      "homeTeam": "Đội bóng rổ Boston Celtics",
+      "awayTeam": "Milwaukee Bucks",
       "time": "07:30",
       "date": "05/11",
       "timestamp": 1793838600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [07:30 05/11] Sao Paulo vs Corinthians (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
+          "name": "07:30 05/11 🏀 Đội bóng rổ Boston Celtics vs Milwaukee Bucks (BLV ROCKSTAR) [hls]",
+          "url": "https://live05.miekgo.app/live/82054853.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
         },
         {
-          "name": "⚽ [07:30 05/11] Sao Paulo Sp Vs Corinthians Sp (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 05/11] Sao Paulo vs Corinthians",
-      "number": 6
-    },
-    {
-      "key": "05/11_07:30_atlticomineiromg_botafogorj",
-      "c_home": "botafogorj",
-      "c_away": "atlticomineiromg",
-      "homeTeam": "Botafogo _ RJ",
-      "awayTeam": "Atlético Mineiro _ MG",
-      "time": "07:30",
-      "date": "05/11",
-      "timestamp": 1793838600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
+          "name": "07:30 05/11 🏀 Đội bóng rổ Boston Celtics vs Milwaukee Bucks (BLV ROCKSTAR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
         {
-          "name": "07:30 05/11 ⚽ Botafogo _ RJ vs Atlético Mineiro _ MG (Doanh Chính)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/5d83c47462e5afb6f1add0ad508c300b.png",
-          "group": "👑 Vua Sân Cỏ",
+          "name": "07:30 05/11 🏀 Boston Celtics vs Milwaukee Bucks (Wem By) [hls]",
+          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png",
+          "group": "🐔 Gà Vàng 24h",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [07:30 05/11] Botafogo _ RJ vs Atlético Mineiro _ MG",
-      "number": 7
-    },
-    {
-      "key": "05/11_07:30_corinthianssp_sopaulosp",
-      "c_home": "sopaulosp",
-      "c_away": "corinthianssp",
-      "homeTeam": "São Paulo _ SP",
-      "awayTeam": "Corinthians _ SP",
-      "time": "07:30",
-      "date": "05/11",
-      "timestamp": 1793838600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:30 05/11 ⚽ São Paulo _ SP vs Corinthians _ SP (Nguyễn Ánh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/31f5171de0e1404fdebcef19cd7cd409.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:30 05/11] São Paulo _ SP vs Corinthians _ SP",
-      "number": 8
+      "displayTitle": "🏀 [07:30 05/11] Đội bóng rổ Boston Celtics vs Milwaukee Bucks",
+      "number": 9
     },
     {
       "key": "05/11_08:30_americadecali_millonarios",
@@ -282,7 +322,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 05/11] Millonarios vs America de Cali",
-      "number": 9
+      "number": 10
     },
     {
       "key": "05/11_15:00_amtat_khaankhunserchim",
@@ -308,7 +348,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 05/11] Amtat vs Khaan Khuns Erchim",
-      "number": 10
+      "number": 11
     },
     {
       "key": "05/11_15:30_oakleighcannons_sydneyolympic",
@@ -334,7 +374,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 05/11] Sydney Olympic vs Oakleigh Cannons",
-      "number": 11
+      "number": 12
     },
     {
       "key": "05/11_16:30_india_pakistan",
@@ -360,7 +400,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 05/11] Pakistan vs India",
-      "number": 12
+      "number": 13
     },
     {
       "key": "05/11_17:00_adelaideunited_lioncitysailors",
@@ -393,7 +433,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Lion City Sailors vs Adelaide United",
-      "number": 13
+      "number": 14
     },
     {
       "key": "05/11_17:00_machidazelvia_shanghaishenhua",
@@ -433,7 +473,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Machida Zelvia vs Shanghai Shenhua",
-      "number": 14
+      "number": 15
     },
     {
       "key": "05/11_17:00_kitchee_phnompenhcrown",
@@ -459,7 +499,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 05/11] Kitchee vs Phnom Penh Crown",
-      "number": 15
+      "number": 16
     },
     {
       "key": "05/11_18:30_churchillbrothers_northeastunited",
@@ -485,7 +525,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 05/11] Churchill Brothers vs Northeast United",
-      "number": 16
+      "number": 17
     },
     {
       "key": "05/11_19:15_bgpathumunited_taipo",
@@ -511,7 +551,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Bg Pathum United vs Tai Po",
-      "number": 17
+      "number": 18
     },
     {
       "key": "05/11_19:15_preahkhanreachsvayrieng_tampinesrovers",
@@ -537,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Preah Khan Reach Svay Rieng vs Tampines Rovers",
-      "number": 18
+      "number": 19
     },
     {
       "key": "05/11_19:15_gangwon_kuchingcity",
@@ -577,7 +617,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 05/11] Kuching City vs Gangwon",
-      "number": 19
+      "number": 20
     },
     {
       "key": "05/11_20:25_alkhaleej_alkholood",
@@ -610,7 +650,7 @@
         }
       ],
       "displayTitle": "⚽ [20:25 05/11] Al Kholood vs Al Khaleej",
-      "number": 20
+      "number": 21
     },
     {
       "key": "05/11_20:30_bunyodkor_xorazmurganch",
@@ -636,7 +676,7 @@
         }
       ],
       "displayTitle": "⚽ [20:30 05/11] Bunyodkor vs Xorazm Urganch",
-      "number": 21
+      "number": 22
     },
     {
       "key": "05/11_21:00_mohunbagansupergiant_odisha",
@@ -662,7 +702,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 05/11] Mohun Bagan Super Giant vs Odisha",
-      "number": 22
+      "number": 23
     },
     {
       "key": "05/11_23:30_chertanovomoscow_volgaulyanovsk",
@@ -688,46 +728,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 05/11] Volga Ulyanovsk vs Chertanovo Moscow",
-      "number": 23
-    },
-    {
-      "key": "05/11_07:30_ibngrbostonceltics_milwaukeebucks",
-      "c_home": "ibngrbostonceltics",
-      "c_away": "milwaukeebucks",
-      "homeTeam": "Đội bóng rổ Boston Celtics",
-      "awayTeam": "Milwaukee Bucks",
-      "time": "07:30",
-      "date": "05/11",
-      "timestamp": 1793838600000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:30 05/11 🏀 Đội bóng rổ Boston Celtics vs Milwaukee Bucks (BLV ROCKSTAR) [hls]",
-          "url": "https://live05.miekgo.app/live/82054853.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 05/11 🏀 Đội bóng rổ Boston Celtics vs Milwaukee Bucks (BLV ROCKSTAR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 05/11 🏀 Boston Celtics vs Milwaukee Bucks (Wem By) [hls]",
-          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
-          "logo": "https://static.sportsfeed.pro/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [07:30 05/11] Đội bóng rổ Boston Celtics vs Milwaukee Bucks",
       "number": 24
     },
     {
@@ -1293,23 +1293,23 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Philadelphia 76ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "8",
+      "away_score": "7",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 7:00 PM EST",
+      "detail": "8:37 - 1st",
       "date": "2026-11-05T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Atlanta Hawks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "10",
+      "away_score": "9",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/4 - 7:00 PM EST",
+      "detail": "8:06 - 1st",
       "date": "2026-11-05T00:00Z"
     },
     {
