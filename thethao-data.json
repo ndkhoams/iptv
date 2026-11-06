@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 03:19:39",
+  "updated_at": "2026-11-07 03:35:11",
   "live_events": [
     {
       "key": "07/11_03:00_coventry_everton",
@@ -254,6 +254,32 @@
       "number": 7
     },
     {
+      "key": "07/11_03:45_arouca_famalicao",
+      "c_home": "famalicao",
+      "c_away": "arouca",
+      "homeTeam": "Famalicao",
+      "awayTeam": "Arouca",
+      "time": "03:45",
+      "date": "07/11",
+      "timestamp": 1793997900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:45 07/11] Fc Famalicao Vs Fc Arouca (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [03:45 07/11] Famalicao vs Arouca",
+      "number": 8
+    },
+    {
       "key": "07/11_17:00_hagl_hanoi",
       "c_home": "hagl",
       "c_away": "hanoi",
@@ -277,7 +303,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 8
+      "number": 9
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -303,7 +329,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 9
+      "number": 10
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -329,7 +355,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 10
+      "number": 11
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -355,7 +381,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 11
+      "number": 12
     },
     {
       "key": "07/11_21:30_1fsvmainz05_bayern",
@@ -381,7 +407,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 12
+      "number": 13
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -407,7 +433,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 13
+      "number": 14
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -433,7 +459,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 14
+      "number": 15
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -459,7 +485,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 15
+      "number": 16
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -485,7 +511,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 16
+      "number": 17
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -511,7 +537,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 17
+      "number": 18
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -537,7 +563,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -563,7 +589,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 19
+      "number": 20
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -589,7 +615,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 20
+      "number": 21
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -615,7 +641,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 21
+      "number": 22
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -641,7 +667,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 22
+      "number": 23
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -667,7 +693,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 23
+      "number": 24
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -693,7 +719,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 24
+      "number": 25
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -719,7 +745,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 25
+      "number": 26
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -745,7 +771,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 26
+      "number": 27
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -771,7 +797,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 27
+      "number": 28
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -797,7 +823,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 28
+      "number": 29
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -823,32 +849,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 29
-    },
-    {
-      "key": "07/11_03:45_arouca_famalicao",
-      "c_home": "famalicao",
-      "c_away": "arouca",
-      "homeTeam": "Famalicao",
-      "awayTeam": "Arouca",
-      "time": "03:45",
-      "date": "07/11",
-      "timestamp": 1793997900000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:45 07/11] Fc Famalicao Vs Fc Arouca (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [03:45 07/11] Famalicao vs Arouca",
       "number": 30
     },
     {
@@ -2888,7 +2888,7 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "17'",
+      "detail": "33'",
       "date": "2026-11-06T20:00Z"
     },
     {
@@ -2899,7 +2899,7 @@
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "18'",
+      "detail": "34'",
       "date": "2026-11-06T20:00Z"
     },
     {
@@ -2910,7 +2910,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "32'",
+      "detail": "HT",
       "date": "2026-11-06T19:45Z"
     },
     {
@@ -2921,18 +2921,18 @@
       "league": "BUNDESLIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "HT",
+      "detail": "47'",
       "date": "2026-11-06T19:30Z"
     },
     {
       "home_team": "Toulouse",
       "away_team": "Strasbourg",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "34'",
+      "detail": "45'+5'",
       "date": "2026-11-06T19:45Z"
     },
     {
