@@ -1,6 +1,112 @@
 {
-  "updated_at": "2026-11-07 02:33:40",
+  "updated_at": "2026-11-07 02:49:31",
   "live_events": [
+    {
+      "key": "07/11_03:00_coventry_everton",
+      "c_home": "everton",
+      "c_away": "coventry",
+      "homeTeam": "Everton",
+      "awayTeam": "Coventry",
+      "time": "03:00",
+      "date": "07/11",
+      "timestamp": 1793995200000,
+      "league": "EPL",
+      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 07/11] Everton vs Coventry (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [03:00 07/11] Everton Vs Coventry City (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "03:00 07/11 ⚽ Everton vs Coventry City (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdtMDlmYmlodXI3YWdocmZvNzNvbWNleg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/everton-13",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 07/11 ⚽ Everton vs Coventry City (LÝ LONG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/c13dd4a280714de4be2b1b5e1e75cfa5/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:00 07/11] Everton vs Coventry",
+      "number": 1
+    },
+    {
+      "key": "07/11_03:00_alaves_sevilla",
+      "c_home": "sevilla",
+      "c_away": "alaves",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Alaves",
+      "time": "03:00",
+      "date": "07/11",
+      "timestamp": 1793995200000,
+      "league": "LALIGA",
+      "leagueName": "🇪🇸 La Liga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 07/11] Sevilla vs Alaves (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [03:00 07/11] Sevilla Fc Vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [03:00 07/11] Sevilla vs Alaves",
+      "number": 2
+    },
+    {
+      "key": "07/11_03:00_deportivo_sevilla",
+      "c_home": "sevilla",
+      "c_away": "deportivo",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Deportivo Alavés",
+      "time": "03:00",
+      "date": "07/11",
+      "timestamp": 1793995200000,
+      "league": "LALIGA",
+      "leagueName": "🇪🇸 La Liga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "03:00 07/11 ⚽ Sevilla vs Deportivo Alavés (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxwNDM3NHg3ZndydXJkZHFtaGtkMm42dQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:00 07/11] Sevilla vs Deportivo Alavés",
+      "number": 3
+    },
     {
       "key": "07/11_02:30_borussiamnchengladbach_hamburgersv",
       "c_home": "hamburgersv",
@@ -32,7 +138,7 @@
         }
       ],
       "displayTitle": "🔴 [02:30 07/11] Hamburger SV vs Borussia Mönchengladbach",
-      "number": 1
+      "number": 4
     },
     {
       "key": "07/11_02:45_udinese_venezia",
@@ -79,7 +185,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 07/11] Venezia vs Udinese",
-      "number": 2
+      "number": 5
     },
     {
       "key": "07/11_02:45_strasbourg_toulouse",
@@ -112,7 +218,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 3
+      "number": 6
     },
     {
       "key": "07/11_00:30_dynamodresden_greutherfrth",
@@ -145,7 +251,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 07/11] Dynamo Dresden vs Greuther Fürth",
-      "number": 4
+      "number": 7
     },
     {
       "key": "07/11_02:30_hamburgersv_monchengladbach",
@@ -178,112 +284,6 @@
         }
       ],
       "displayTitle": "🔴 [02:30 07/11] Hamburger Sv vs Borussia Monchengladbach",
-      "number": 5
-    },
-    {
-      "key": "07/11_03:00_coventry_everton",
-      "c_home": "everton",
-      "c_away": "coventry",
-      "homeTeam": "Everton",
-      "awayTeam": "Coventry",
-      "time": "03:00",
-      "date": "07/11",
-      "timestamp": 1793995200000,
-      "league": "EPL",
-      "leagueName": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ngoại Hạng Anh",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_epl",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 07/11] Everton vs Coventry (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 07/11] Everton Vs Coventry City (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "03:00 07/11 ⚽ Everton vs Coventry City (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MjIxMTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdtMDlmYmlodXI3YWdocmZvNzNvbWNleg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/everton-13",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 07/11 ⚽ Everton vs Coventry City (LÝ LONG) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/c13dd4a280714de4be2b1b5e1e75cfa5/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/p3glrw7he21qdyj/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [03:00 07/11] Everton vs Coventry",
-      "number": 6
-    },
-    {
-      "key": "07/11_03:00_alaves_sevilla",
-      "c_home": "sevilla",
-      "c_away": "alaves",
-      "homeTeam": "Sevilla",
-      "awayTeam": "Alaves",
-      "time": "03:00",
-      "date": "07/11",
-      "timestamp": 1793995200000,
-      "league": "LALIGA",
-      "leagueName": "🇪🇸 La Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:00 07/11] Sevilla vs Alaves (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [03:00 07/11] Sevilla Fc Vs Deportivo Alaves (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [03:00 07/11] Sevilla vs Alaves",
-      "number": 7
-    },
-    {
-      "key": "07/11_03:00_deportivo_sevilla",
-      "c_home": "sevilla",
-      "c_away": "deportivo",
-      "homeTeam": "Sevilla",
-      "awayTeam": "Deportivo Alavés",
-      "time": "03:00",
-      "date": "07/11",
-      "timestamp": 1793995200000,
-      "league": "LALIGA",
-      "leagueName": "🇪🇸 La Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "03:00 07/11 ⚽ Sevilla vs Deportivo Alavés (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxwNDM3NHg3ZndydXJkZHFtaGtkMm42dQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alavés",
       "number": 8
     },
     {
@@ -2941,20 +2941,20 @@
       "home_score": "0",
       "away_score": "0",
       "league": "SERIE_A",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "2'",
       "date": "2026-11-06T19:45Z"
     },
     {
       "home_team": "Hamburg SV",
       "away_team": "Borussia Mönchengladbach",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "league": "BUNDESLIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "3'",
+      "detail": "19'",
       "date": "2026-11-06T19:30Z"
     },
     {
@@ -2963,9 +2963,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "LIGUE1",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "4'",
       "date": "2026-11-06T19:45Z"
     },
     {
