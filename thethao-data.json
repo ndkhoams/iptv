@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-06 23:00:42",
+  "updated_at": "2026-11-06 23:16:16",
   "live_events": [
-    {
-      "key": "06/11_21:00_bengaluru_goa",
-      "c_home": "goa",
-      "c_away": "bengaluru",
-      "homeTeam": "Goa",
-      "awayTeam": "Bengaluru",
-      "time": "21:00",
-      "date": "06/11",
-      "timestamp": 1793973600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 06/11] Fc Goa Vs Bengaluru Fc (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "21:00 06/11 ⚽ Goa vs Bengaluru (LÝ LÊN LỬA) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/6de76833b0d34c07986a729c138fbcef/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [21:00 06/11] Goa vs Bengaluru",
-      "number": 1
-    },
     {
       "key": "06/11_21:00_qarabag_turantovuz",
       "c_home": "qarabag",
@@ -58,6 +25,32 @@
         }
       ],
       "displayTitle": "🔴 [21:00 06/11] Qarabag vs Turan Tovuz",
+      "number": 1
+    },
+    {
+      "key": "06/11_21:00_bengaluru_goa",
+      "c_home": "goa",
+      "c_away": "bengaluru",
+      "homeTeam": "Goa",
+      "awayTeam": "Bengaluru",
+      "time": "21:00",
+      "date": "06/11",
+      "timestamp": 1793973600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "21:00 06/11 ⚽ Goa vs Bengaluru (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/6de76833b0d34c07986a729c138fbcef/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh7289q82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [21:00 06/11] Goa vs Bengaluru",
       "number": 2
     },
     {
@@ -179,6 +172,39 @@
       "number": 6
     },
     {
+      "key": "06/11_23:30_lokomotiv_rubin",
+      "c_home": "lokomotiv",
+      "c_away": "rubin",
+      "homeTeam": "Lokomotiv",
+      "awayTeam": "Rubin",
+      "time": "23:30",
+      "date": "06/11",
+      "timestamp": 1793982600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [23:30 06/11] Lokomotiv vs Rubin (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [23:30 06/11] Lokomotiv Moscow Vs Rubin Kazan (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [23:30 06/11] Lokomotiv vs Rubin",
+      "number": 7
+    },
+    {
       "key": "07/11_02:30_borussiamnchengladbach_hamburgersv",
       "c_home": "hamburgersv",
       "c_away": "borussiamnchengladbach",
@@ -209,7 +235,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 07/11] Hamburger SV vs Borussia Mönchengladbach",
-      "number": 7
+      "number": 8
     },
     {
       "key": "07/11_02:45_udinese_venezia",
@@ -256,7 +282,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Venezia vs Udinese",
-      "number": 8
+      "number": 9
     },
     {
       "key": "07/11_02:45_strasbourg_toulouse",
@@ -289,7 +315,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 9
+      "number": 10
     },
     {
       "key": "07/11_03:00_coventry_everton",
@@ -336,7 +362,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Everton vs Coventry",
-      "number": 10
+      "number": 11
     },
     {
       "key": "07/11_03:00_alaves_sevilla",
@@ -369,7 +395,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Alaves",
-      "number": 11
+      "number": 12
     },
     {
       "key": "07/11_03:00_deportivo_sevilla",
@@ -395,7 +421,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alavés",
-      "number": 12
+      "number": 13
     },
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -421,7 +447,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 13
+      "number": 14
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -447,7 +473,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 14
+      "number": 15
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -473,7 +499,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 15
+      "number": 16
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -499,7 +525,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 16
+      "number": 17
     },
     {
       "key": "07/11_21:30_1fsvmainz05_bayern",
@@ -525,7 +551,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 17
+      "number": 18
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -551,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -577,7 +603,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 19
+      "number": 20
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -603,7 +629,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 20
+      "number": 21
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -629,7 +655,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 21
+      "number": 22
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -655,7 +681,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 22
+      "number": 23
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -681,7 +707,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 23
+      "number": 24
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -707,7 +733,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 24
+      "number": 25
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -733,7 +759,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 25
+      "number": 26
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -759,7 +785,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 26
+      "number": 27
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -785,7 +811,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 27
+      "number": 28
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -811,7 +837,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 28
+      "number": 29
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -837,7 +863,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 29
+      "number": 30
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -863,7 +889,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 30
+      "number": 31
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -889,7 +915,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 31
+      "number": 32
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -915,7 +941,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 32
+      "number": 33
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -941,7 +967,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 33
+      "number": 34
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -967,39 +993,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 34
-    },
-    {
-      "key": "06/11_23:30_lokomotiv_rubin",
-      "c_home": "lokomotiv",
-      "c_away": "rubin",
-      "homeTeam": "Lokomotiv",
-      "awayTeam": "Rubin",
-      "time": "23:30",
-      "date": "06/11",
-      "timestamp": 1793982600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:30 06/11] Lokomotiv vs Rubin (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [23:30 06/11] Lokomotiv Moscow Vs Rubin Kazan (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [23:30 06/11] Lokomotiv vs Rubin",
       "number": 35
     },
     {
@@ -2555,13 +2548,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [21:00 06/11] Fc Goa Vs Bengaluru Fc (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [21:15 06/11] Al Arabi Sports Club Vs Al Ahli Sports Clubqatar (BLV Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -3454,26 +3440,103 @@
       "date": "2026-11-04T20:00Z"
     },
     {
-      "home_team": "Phoenix Suns",
-      "away_team": "Orlando Magic",
-      "home_score": "117",
-      "away_score": "104",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Washington Wizards",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-06T02:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 7:00 PM EST",
+      "date": "2026-11-07T00:00Z"
     },
     {
-      "home_team": "Golden State Warriors",
-      "away_team": "Miami Heat",
-      "home_score": "120",
-      "away_score": "100",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Boston Celtics",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-06T03:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 7:00 PM EST",
+      "date": "2026-11-07T00:00Z"
+    },
+    {
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Philadelphia 76ers",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 7:30 PM EST",
+      "date": "2026-11-07T00:30Z"
+    },
+    {
+      "home_team": "Dallas Mavericks",
+      "away_team": "Utah Jazz",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 8:00 PM EST",
+      "date": "2026-11-07T01:00Z"
+    },
+    {
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Oklahoma City Thunder",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 8:00 PM EST",
+      "date": "2026-11-07T01:00Z"
+    },
+    {
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Toronto Raptors",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 8:00 PM EST",
+      "date": "2026-11-07T01:00Z"
+    },
+    {
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Minnesota Timberwolves",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 8:00 PM EST",
+      "date": "2026-11-07T01:00Z"
+    },
+    {
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Portland Trail Blazers",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 10:00 PM EST",
+      "date": "2026-11-07T03:00Z"
+    },
+    {
+      "home_team": "Sacramento Kings",
+      "away_team": "San Antonio Spurs",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/6 - 10:00 PM EST",
+      "date": "2026-11-07T03:00Z"
     }
   ],
   "standings": {
