@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-06 22:45:34",
+  "updated_at": "2026-11-06 23:00:42",
   "live_events": [
-    {
-      "key": "06/11_21:00_qarabag_turantovuz",
-      "c_home": "qarabag",
-      "c_away": "turantovuz",
-      "homeTeam": "Qarabag",
-      "awayTeam": "Turan Tovuz",
-      "time": "21:00",
-      "date": "06/11",
-      "timestamp": 1793973600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 06/11] Qarabag Vs Turan Tovuz (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "21:00 06/11 ⚽ Qarabag vs Turan Tovuz (Trần Cảnh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/7f7d00906d511bcf48f9a600580ff953.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [21:00 06/11] Qarabag vs Turan Tovuz",
-      "number": 1
-    },
     {
       "key": "06/11_21:00_bengaluru_goa",
       "c_home": "goa",
@@ -65,6 +32,32 @@
         }
       ],
       "displayTitle": "🔴 [21:00 06/11] Goa vs Bengaluru",
+      "number": 1
+    },
+    {
+      "key": "06/11_21:00_qarabag_turantovuz",
+      "c_home": "qarabag",
+      "c_away": "turantovuz",
+      "homeTeam": "Qarabag",
+      "awayTeam": "Turan Tovuz",
+      "time": "21:00",
+      "date": "06/11",
+      "timestamp": 1793973600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "21:00 06/11 ⚽ Qarabag vs Turan Tovuz (Trần Cảnh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/7f7d00906d511bcf48f9a600580ff953.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [21:00 06/11] Qarabag vs Turan Tovuz",
       "number": 2
     },
     {
@@ -2561,13 +2554,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [21:00 06/11] Qarabag Vs Turan Tovuz (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [21:00 06/11] Fc Goa Vs Bengaluru Fc (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
