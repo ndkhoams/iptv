@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 08:01:31",
+  "updated_at": "2026-11-06 08:16:38",
   "live_events": [
     {
       "key": "06/11_06:00_cruzeiro_franca",
@@ -96,20 +96,27 @@
       "number": 2
     },
     {
-      "key": "06/11_08:00_cancun_piratas",
+      "key": "06/11_08:06_cancun_piratas",
       "c_home": "cancun",
       "c_away": "piratas",
       "homeTeam": "Cancun",
       "awayTeam": "Piratas",
-      "time": "08:00",
+      "time": "08:06",
       "date": "06/11",
-      "timestamp": 1793926800000,
+      "timestamp": 1793927160000,
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [08:06 06/11] Cancun FC vs Piratas FC (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [08:00 06/11] Cancun Fc Vs Piratas Fc (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -132,7 +139,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [08:00 06/11] Cancun vs Piratas",
+      "displayTitle": "🔴 [08:06 06/11] Cancun vs Piratas",
       "number": 3
     },
     {
@@ -2240,6 +2247,13 @@
         {
           "name": "⚽ [07:30 06/11] Cruzeiro vs Bahia (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [08:06 06/11] Cancun FC vs Piratas FC (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
