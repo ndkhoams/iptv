@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 07:00:19",
+  "updated_at": "2026-11-06 07:15:30",
   "live_events": [
     {
       "key": "06/11_05:30_palmeiras_remo",
@@ -68,6 +68,67 @@
       "number": 2
     },
     {
+      "key": "06/11_07:30_bahia_cruzeiro",
+      "c_home": "cruzeiro",
+      "c_away": "bahia",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Bahia",
+      "time": "07:30",
+      "date": "06/11",
+      "timestamp": 1793925000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 06/11] Cruzeiro vs Bahia (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [07:30 06/11] Cruzeiro Mg Vs Bahia Ba (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "🟡 07:30 06/11 ⚽ Cruzeiro _ MG vs Bahia _ BA (Doanh Chính)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "🟡 07:30 06/11 ⚽ Cruzeiro _ MG vs Bahia _ BA (Gà Siêu Son) [hls]",
+          "url": "https://live2.zktsva.app/live/306290.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "🟡 07:30 06/11 ⚽ CLB Cruzeiro vs Bahia (BLV PEPSI) [hls]",
+          "url": "https://live05.miekgo.app/live/59444581.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 07:30 06/11 ⚽ CLB Cruzeiro vs Bahia (BLV PEPSI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:30 06/11] Cruzeiro vs Bahia",
+      "number": 3
+    },
+    {
       "key": "06/11_18:00_hatinh_namdinh",
       "c_home": "hatinh",
       "c_away": "namdinh",
@@ -133,7 +194,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 06/11] Hong Linh Ha Tinh vs Thep Xanh Nam Dinh",
-      "number": 3
+      "number": 4
     },
     {
       "key": "07/11_02:30_borussiamnchengladbach_hamburgersv",
@@ -159,7 +220,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 07/11] Hamburger SV vs Borussia Mönchengladbach",
-      "number": 4
+      "number": 5
     },
     {
       "key": "07/11_02:45_udinese_venezia",
@@ -199,7 +260,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Venezia vs Udinese",
-      "number": 5
+      "number": 6
     },
     {
       "key": "07/11_02:45_strasbourg_toulouse",
@@ -232,7 +293,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 6
+      "number": 7
     },
     {
       "key": "07/11_03:00_coventrycity_everton",
@@ -272,7 +333,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Everton vs Coventry City",
-      "number": 7
+      "number": 8
     },
     {
       "key": "07/11_03:00_alaves_sevilla",
@@ -298,7 +359,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alaves",
-      "number": 8
+      "number": 9
     },
     {
       "key": "07/11_03:00_deportivo_sevilla",
@@ -324,7 +385,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alavés",
-      "number": 9
+      "number": 10
     },
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -350,7 +411,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 10
+      "number": 11
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -376,7 +437,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 11
+      "number": 12
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -402,7 +463,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 12
+      "number": 13
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -428,7 +489,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 13
+      "number": 14
     },
     {
       "key": "07/11_21:30_1fsvmainz05_bayern",
@@ -454,7 +515,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 14
+      "number": 15
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -480,67 +541,6 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 15
-    },
-    {
-      "key": "06/11_07:30_bahia_cruzeiro",
-      "c_home": "cruzeiro",
-      "c_away": "bahia",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Bahia",
-      "time": "07:30",
-      "date": "06/11",
-      "timestamp": 1793925000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 06/11] Cruzeiro vs Bahia (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [07:30 06/11] Cruzeiro Mg Vs Bahia Ba (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟡 07:30 06/11 ⚽ Cruzeiro _ MG vs Bahia _ BA (Doanh Chính)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "🟡 07:30 06/11 ⚽ Cruzeiro _ MG vs Bahia _ BA (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "🟡 07:30 06/11 ⚽ CLB Cruzeiro vs Bahia (BLV PEPSI) [hls]",
-          "url": "https://live05.miekgo.app/live/59444581.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 07:30 06/11 ⚽ CLB Cruzeiro vs Bahia (BLV PEPSI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:30 06/11] Cruzeiro vs Bahia",
       "number": 16
     },
     {
