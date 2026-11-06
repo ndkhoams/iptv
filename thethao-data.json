@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 16:39:24",
+  "updated_at": "2026-11-06 16:54:34",
   "live_events": [
     {
       "key": "06/11_15:30_dewaunited_psimyogyakarta",
@@ -148,6 +148,98 @@
       "number": 4
     },
     {
+      "key": "06/11_17:00_bnghu_vnhin",
+      "c_home": "vnhin",
+      "c_away": "bnghu",
+      "homeTeam": "Văn Hiến",
+      "awayTeam": "Bóng đá Huế",
+      "time": "17:00",
+      "date": "06/11",
+      "timestamp": 1793959200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [17:00 06/11] Văn Hiến vs Bóng đá Huế (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [17:00 06/11] Văn Hiến vs Bóng đá Huế",
+      "number": 5
+    },
+    {
+      "key": "06/11_17:00_hudahue_vanhienuniversity",
+      "c_home": "vanhienuniversity",
+      "c_away": "hudahue",
+      "homeTeam": "Van Hien University",
+      "awayTeam": "Huda Hue",
+      "time": "17:00",
+      "date": "06/11",
+      "timestamp": 1793959200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [17:00 06/11] Van Hien University Vs Huda Hue (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "17:00 06/11 ⚽ Van Hien University vs Huda Hue (Tôn Quyền)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/9610ddd41e9e46f5db6a61850e1e0183.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "17:00 06/11 ⚽ Van Hien University vs Huda Hue (Gà Siêu Nhí) [hls]",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:00 06/11] Van Hien University vs Huda Hue",
+      "number": 6
+    },
+    {
+      "key": "06/11_17:00_hudahu_vnhin",
+      "c_home": "vnhin",
+      "c_away": "hudahu",
+      "homeTeam": "Văn Hiến",
+      "awayTeam": "Huda Huế",
+      "time": "17:00",
+      "date": "06/11",
+      "timestamp": 1793959200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "17:00 06/11 ⚽ Văn Hiến vs Huda Huế (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/867fdc86f2604b168a6d9088bb1b4ee9/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:00 06/11] Văn Hiến vs Huda Huế",
+      "number": 7
+    },
+    {
       "key": "06/11_18:00_hatinh_namdinh",
       "c_home": "hatinh",
       "c_away": "namdinh",
@@ -220,7 +312,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 06/11] Hồng Lĩnh Hà Tĩnh vs Nam Dinh",
-      "number": 5
+      "number": 8
     },
     {
       "key": "07/11_02:30_borussiamnchengladbach_hamburgersv",
@@ -253,7 +345,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 07/11] Hamburger SV vs Borussia Mönchengladbach",
-      "number": 6
+      "number": 9
     },
     {
       "key": "07/11_02:45_udinese_venezia",
@@ -300,7 +392,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Venezia vs Udinese",
-      "number": 7
+      "number": 10
     },
     {
       "key": "07/11_02:45_strasbourg_toulouse",
@@ -333,7 +425,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 07/11] Toulouse vs Strasbourg Alsace",
-      "number": 8
+      "number": 11
     },
     {
       "key": "07/11_03:00_coventry_everton",
@@ -380,7 +472,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Everton vs Coventry",
-      "number": 9
+      "number": 12
     },
     {
       "key": "07/11_03:00_alaves_sevilla",
@@ -413,7 +505,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Alaves",
-      "number": 10
+      "number": 13
     },
     {
       "key": "07/11_03:00_deportivo_sevilla",
@@ -439,7 +531,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 07/11] Sevilla vs Deportivo Alavés",
-      "number": 11
+      "number": 14
     },
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -465,7 +557,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 12
+      "number": 15
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -491,7 +583,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 13
+      "number": 16
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -517,7 +609,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 14
+      "number": 17
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -543,7 +635,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 15
+      "number": 18
     },
     {
       "key": "07/11_21:30_1fsvmainz05_bayern",
@@ -569,7 +661,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 16
+      "number": 19
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -595,7 +687,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 17
+      "number": 20
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -621,7 +713,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 18
+      "number": 21
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -647,7 +739,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 19
+      "number": 22
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -673,7 +765,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 20
+      "number": 23
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -699,7 +791,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 21
+      "number": 24
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -725,7 +817,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 22
+      "number": 25
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -751,7 +843,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 23
+      "number": 26
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -777,7 +869,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 24
+      "number": 27
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -803,7 +895,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 25
+      "number": 28
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -829,7 +921,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 26
+      "number": 29
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -855,7 +947,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 27
+      "number": 30
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -881,7 +973,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 28
+      "number": 31
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -907,7 +999,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 29
+      "number": 32
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -933,7 +1025,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 30
+      "number": 33
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -959,7 +1051,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 31
+      "number": 34
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -985,7 +1077,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 32
+      "number": 35
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1011,98 +1103,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 33
-    },
-    {
-      "key": "06/11_17:00_bnghu_vnhin",
-      "c_home": "vnhin",
-      "c_away": "bnghu",
-      "homeTeam": "Văn Hiến",
-      "awayTeam": "Bóng đá Huế",
-      "time": "17:00",
-      "date": "06/11",
-      "timestamp": 1793959200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:00 06/11] Văn Hiến vs Bóng đá Huế (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [17:00 06/11] Văn Hiến vs Bóng đá Huế",
-      "number": 34
-    },
-    {
-      "key": "06/11_17:00_hudahue_vanhienuniversity",
-      "c_home": "vanhienuniversity",
-      "c_away": "hudahue",
-      "homeTeam": "Van Hien University",
-      "awayTeam": "Huda Hue",
-      "time": "17:00",
-      "date": "06/11",
-      "timestamp": 1793959200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:00 06/11] Van Hien University Vs Huda Hue (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "17:00 06/11 ⚽ Van Hien University vs Huda Hue (Tôn Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/9610ddd41e9e46f5db6a61850e1e0183.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "17:00 06/11 ⚽ Van Hien University vs Huda Hue (Gà Siêu Nhí) [hls]",
-          "url": "https://live2.zktsva.app/live/301263.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:00 06/11] Van Hien University vs Huda Hue",
-      "number": 35
-    },
-    {
-      "key": "06/11_17:00_hudahu_vnhin",
-      "c_home": "vnhin",
-      "c_away": "hudahu",
-      "homeTeam": "Văn Hiến",
-      "awayTeam": "Huda Huế",
-      "time": "17:00",
-      "date": "06/11",
-      "timestamp": 1793959200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "17:00 06/11 ⚽ Văn Hiến vs Huda Huế (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/867fdc86f2604b168a6d9088bb1b4ee9/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:00 06/11] Văn Hiến vs Huda Huế",
       "number": 36
     },
     {
