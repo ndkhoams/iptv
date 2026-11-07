@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 03:32:39",
+  "updated_at": "2026-11-08 03:48:22",
   "live_events": [
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -202,6 +202,46 @@
       "number": 5
     },
     {
+      "key": "08/11_04:00_charlotte_intermilan",
+      "c_home": "intermilan",
+      "c_away": "charlotte",
+      "homeTeam": "Inter Miami",
+      "awayTeam": "Charlotte",
+      "time": "04:00",
+      "date": "08/11",
+      "timestamp": 1794085200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [04:00 08/11] Inter Miami Cf Vs Charlotte Fc (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/7953_inter-miami.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "🔴 [04:00 08/11] Inter Miami vs Charlotte",
+      "number": 6
+    },
+    {
       "key": "08/11_18:30_lazio_napoli",
       "c_home": "napoli",
       "c_away": "lazio",
@@ -225,7 +265,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 6
+      "number": 7
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -251,7 +291,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 7
+      "number": 8
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -284,7 +324,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 8
+      "number": 9
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -317,7 +357,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 9
+      "number": 10
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -350,7 +390,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 10
+      "number": 11
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -376,7 +416,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 11
+      "number": 12
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -402,7 +442,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 12
+      "number": 13
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -435,7 +475,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 13
+      "number": 14
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -461,7 +501,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 14
+      "number": 15
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -494,7 +534,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 15
+      "number": 16
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -520,7 +560,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 16
+      "number": 17
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -546,7 +586,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter Milan vs Como",
-      "number": 17
+      "number": 18
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -572,7 +612,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 18
+      "number": 19
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -605,7 +645,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 19
+      "number": 20
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -631,7 +671,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 20
+      "number": 21
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -657,46 +697,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 21
-    },
-    {
-      "key": "08/11_04:00_charlotte_intermilan",
-      "c_home": "intermilan",
-      "c_away": "charlotte",
-      "homeTeam": "Inter Miami",
-      "awayTeam": "Charlotte",
-      "time": "04:00",
-      "date": "08/11",
-      "timestamp": 1794085200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [04:00 08/11] Inter Miami Cf Vs Charlotte Fc (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/7953_inter-miami.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [04:00 08/11] Inter Miami vs Charlotte",
       "number": 22
     },
     {
@@ -3239,11 +3239,11 @@
       "home_team": "Valencia",
       "away_team": "Real Madrid",
       "home_score": "0",
-      "away_score": "1",
+      "away_score": "2",
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "30'",
+      "detail": "45'+1'",
       "date": "2026-11-07T20:00Z"
     },
     {
@@ -3287,7 +3287,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "45'+1'",
+      "detail": "HT",
       "date": "2026-11-07T19:45Z"
     },
     {
@@ -3359,12 +3359,12 @@
     {
       "home_team": "Paris Saint-Germain",
       "away_team": "Troyes",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "27'",
+      "detail": "43'",
       "date": "2026-11-07T20:05Z"
     },
     {
