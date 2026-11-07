@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 10:27:04",
+  "updated_at": "2026-11-07 10:42:08",
   "live_events": [
     {
       "key": "07/11_10:00_atlante_santoslaguna",
@@ -4906,53 +4906,53 @@
       "home_score": "97",
       "away_score": "128",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "15.2 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Toronto Raptors",
-      "home_score": "101",
-      "away_score": "109",
+      "home_score": "107",
+      "away_score": "121",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "2:42 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "91",
-      "away_score": "97",
+      "home_score": "104",
+      "away_score": "113",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:44 - 4th",
+      "detail": "24.3 - 4th",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "Los Angeles Lakers",
       "away_team": "Portland Trail Blazers",
-      "home_score": "6",
-      "away_score": "10",
+      "home_score": "19",
+      "away_score": "28",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:20 - 1st",
+      "detail": "21.3 - 1st",
       "date": "2026-11-07T03:00Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "San Antonio Spurs",
-      "home_score": "5",
-      "away_score": "3",
+      "home_score": "22",
+      "away_score": "24",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:36 - 1st",
+      "detail": "4:14 - 1st",
       "date": "2026-11-07T03:00Z"
     }
   ],
@@ -6196,6 +6196,15 @@
       },
       {
         "rank": 5,
+        "teamName": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+        "played": 9,
+        "gd": "7T-2B (GB -)",
+        "points": 7
+      },
+      {
+        "rank": 6,
         "teamName": "Atlanta Hawks",
         "shortName": "Hawks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
@@ -6204,7 +6213,7 @@
         "points": 6
       },
       {
-        "rank": 6,
+        "rank": 7,
         "teamName": "Detroit Pistons",
         "shortName": "Pistons",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
@@ -6213,7 +6222,16 @@
         "points": 6
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "teamName": "Memphis Grizzlies",
+        "shortName": "Grizzlies",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+        "played": 9,
+        "gd": "6T-3B (GB 1)",
+        "points": 6
+      },
+      {
+        "rank": 9,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -6222,7 +6240,7 @@
         "points": 6
       },
       {
-        "rank": 8,
+        "rank": 10,
         "teamName": "Minnesota Timberwolves",
         "shortName": "Timberwolves",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
@@ -6231,28 +6249,10 @@
         "points": 6
       },
       {
-        "rank": 9,
-        "teamName": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-        "played": 8,
-        "gd": "6T-2B (GB 0.5)",
-        "points": 6
-      },
-      {
-        "rank": 10,
+        "rank": 11,
         "teamName": "San Antonio Spurs",
         "shortName": "Spurs",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-        "played": 8,
-        "gd": "6T-2B (GB 0.5)",
-        "points": 6
-      },
-      {
-        "rank": 11,
-        "teamName": "Memphis Grizzlies",
-        "shortName": "Grizzlies",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
         "played": 8,
         "gd": "6T-2B (GB 0.5)",
         "points": 6
@@ -6268,6 +6268,15 @@
       },
       {
         "rank": 13,
+        "teamName": "Toronto Raptors",
+        "shortName": "Raptors",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+        "played": 9,
+        "gd": "5T-4B (GB 2.5)",
+        "points": 5
+      },
+      {
+        "rank": 14,
         "teamName": "Cleveland Cavaliers",
         "shortName": "Cavaliers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
@@ -6276,7 +6285,7 @@
         "points": 5
       },
       {
-        "rank": 14,
+        "rank": 15,
         "teamName": "Dallas Mavericks",
         "shortName": "Mavericks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
@@ -6285,7 +6294,7 @@
         "points": 5
       },
       {
-        "rank": 15,
+        "rank": 16,
         "teamName": "Washington Wizards",
         "shortName": "Wizards",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
@@ -6294,19 +6303,10 @@
         "points": 4
       },
       {
-        "rank": 16,
+        "rank": 17,
         "teamName": "New York Knicks",
         "shortName": "Knicks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-        "played": 8,
-        "gd": "4T-4B (GB 3)",
-        "points": 4
-      },
-      {
-        "rank": 17,
-        "teamName": "Toronto Raptors",
-        "shortName": "Raptors",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
         "played": 8,
         "gd": "4T-4B (GB 3)",
         "points": 4
@@ -6385,18 +6385,18 @@
       },
       {
         "rank": 26,
-        "teamName": "Chicago Bulls",
-        "shortName": "Bulls",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-        "played": 8,
-        "gd": "1T-7B (GB 6)",
+        "teamName": "Milwaukee Bucks",
+        "shortName": "Bucks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+        "played": 9,
+        "gd": "1T-8B (GB 6.5)",
         "points": 1
       },
       {
         "rank": 27,
-        "teamName": "Milwaukee Bucks",
-        "shortName": "Bucks",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+        "teamName": "Chicago Bulls",
+        "shortName": "Bulls",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
         "played": 8,
         "gd": "1T-7B (GB 6)",
         "points": 1
