@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 09:41:08",
+  "updated_at": "2026-11-07 09:56:29",
   "live_events": [
     {
       "key": "07/11_08:00_fortaleza_independientemedelln",
@@ -80,6 +80,32 @@
       "number": 3
     },
     {
+      "key": "07/11_10:00_atlante_santoslaguna",
+      "c_home": "atlante",
+      "c_away": "santoslaguna",
+      "homeTeam": "Atlante",
+      "awayTeam": "Santos Laguna",
+      "time": "10:00",
+      "date": "07/11",
+      "timestamp": 1794020400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [10:00 07/11] Atlante Fc Vs Santos Laguna (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [10:00 07/11] Atlante vs Santos Laguna",
+      "number": 4
+    },
+    {
       "key": "07/11_17:00_hagl_hanoi",
       "c_home": "hagl",
       "c_away": "hanoi",
@@ -103,7 +129,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 4
+      "number": 5
     },
     {
       "key": "07/11_19:15_cahn_tphcm",
@@ -129,7 +155,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh",
-      "number": 5
+      "number": 6
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -155,7 +181,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 6
+      "number": 7
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -181,7 +207,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 7
+      "number": 8
     },
     {
       "key": "07/11_21:30_bayern_fsvmainz05",
@@ -214,7 +240,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München",
-      "number": 8
+      "number": 9
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -240,7 +266,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 9
+      "number": 10
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -273,7 +299,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle",
-      "number": 10
+      "number": 11
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -306,7 +332,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 11
+      "number": 12
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -339,7 +365,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 12
+      "number": 13
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -372,7 +398,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 13
+      "number": 14
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -398,7 +424,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 14
+      "number": 15
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -438,7 +464,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 15
+      "number": 16
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -464,7 +490,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 16
+      "number": 17
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -490,7 +516,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 17
+      "number": 18
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -516,7 +542,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -542,7 +568,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 19
+      "number": 20
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -568,7 +594,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 20
+      "number": 21
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -594,7 +620,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 21
+      "number": 22
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -620,7 +646,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 22
+      "number": 23
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -646,7 +672,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 23
+      "number": 24
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -672,7 +698,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 24
+      "number": 25
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -698,7 +724,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 25
+      "number": 26
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -724,32 +750,6 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 26
-    },
-    {
-      "key": "07/11_10:00_atlante_santoslaguna",
-      "c_home": "atlante",
-      "c_away": "santoslaguna",
-      "homeTeam": "Atlante",
-      "awayTeam": "Santos Laguna",
-      "time": "10:00",
-      "date": "07/11",
-      "timestamp": 1794020400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:00 07/11] Atlante Fc Vs Santos Laguna (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [10:00 07/11] Atlante vs Santos Laguna",
       "number": 27
     },
     {
@@ -2940,56 +2940,56 @@
     {
       "home_team": "Cleveland Cavaliers",
       "away_team": "Philadelphia 76ers",
-      "home_score": "92",
-      "away_score": "74",
+      "home_score": "105",
+      "away_score": "82",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:50 - 4th",
+      "detail": "5:46 - 4th",
       "date": "2026-11-07T00:30Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Utah Jazz",
-      "home_score": "77",
-      "away_score": "70",
+      "home_score": "96",
+      "away_score": "76",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:41 - 3rd",
+      "detail": "10:49 - 4th",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "Memphis Grizzlies",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "68",
-      "away_score": "92",
+      "home_score": "76",
+      "away_score": "98",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:41 - 3rd",
+      "detail": "End of 3rd",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Toronto Raptors",
-      "home_score": "69",
-      "away_score": "66",
+      "home_score": "81",
+      "away_score": "83",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:42 - 3rd",
+      "detail": "1:34 - 3rd",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "63",
-      "away_score": "66",
+      "home_score": "77",
+      "away_score": "74",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:40 - 3rd",
+      "detail": "1:26 - 3rd",
       "date": "2026-11-07T01:00Z"
     },
     {
