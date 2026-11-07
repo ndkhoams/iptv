@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-11-07 12:13:34",
+  "updated_at": "2026-11-07 12:28:42",
   "live_events": [
-    {
-      "key": "07/11_10:00_atlante_santoslaguna",
-      "c_home": "atlante",
-      "c_away": "santoslaguna",
-      "homeTeam": "Atlante",
-      "awayTeam": "Santos Laguna",
-      "time": "10:00",
-      "date": "07/11",
-      "timestamp": 1794020400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 10:00 07/11 ⚽ Atlante vs Santos Laguna (Gà Siêu Tốc) [hls]",
-          "url": "https://live2.zktsva.app/live/307240.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "🟢 10:00 07/11 ⚽ CLB Atlante vs Santos Laguna (BLV PEPSI) [hls]",
-          "url": "https://live05.wecile.app/live/59444581.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 10:00 07/11 ⚽ CLB Atlante vs Santos Laguna (BLV PEPSI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 10:00 07/11 ⚽ Atlante vs Santos Laguna (Raccoon)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.dritZDPnL8jj.m3u8?expires=1794035128&signature=H0c-oIXwtlRsid1QrproDiB4sGKccK7gX58WeJ_tGSI",
-          "logo": "https://xoigac.top/images/football/teams/2312.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [10:00 07/11] Atlante vs Santos Laguna",
-      "number": 1
-    },
     {
       "key": "07/11_11:00_shimizuspulse_tokyoverdy",
       "c_home": "shimizuspulse",
@@ -79,7 +32,7 @@
         }
       ],
       "displayTitle": "🔴 [11:00 07/11] Shimizu S Pulse vs Tokyo Verdy",
-      "number": 2
+      "number": 1
     },
     {
       "key": "07/11_12:00_auckland_wellingtonphoenix",
@@ -147,7 +100,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 07/11] Auckland vs Wellington Phoenix",
-      "number": 3
+      "number": 2
     },
     {
       "key": "07/11_12:00_kyotosanga_nagoyagrampus",
@@ -180,7 +133,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 07/11] Nagoya Grampus vs Kyoto Sanga",
-      "number": 4
+      "number": 3
     },
     {
       "key": "07/11_12:00_gwangjufootballclub_jejusk",
@@ -213,7 +166,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 07/11] Jeju Sk vs Gwangju Football Club",
-      "number": 5
+      "number": 4
     },
     {
       "key": "07/11_12:00_fagianookayama_yokohamafmarinos",
@@ -253,7 +206,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 07/11] Yokohama F. Marinos vs Fagiano Okayama",
-      "number": 6
+      "number": 5
     },
     {
       "key": "07/11_12:00_gwangju_jejuutd",
@@ -286,7 +239,7 @@
         }
       ],
       "displayTitle": "🔴 [12:00 07/11] Jeju Utd vs Gwangju",
-      "number": 7
+      "number": 6
     },
     {
       "key": "07/11_10:00_sacramentokings_tottenham",
@@ -326,7 +279,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 07/11] Sacramento Kings vs San Antonio Spurs",
-      "number": 8
+      "number": 7
     },
     {
       "key": "07/11_10:00_losangeleslakers_portlandtrailblazers",
@@ -352,7 +305,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 07/11] Los Angeles Lakers vs Portland Trail Blazers",
-      "number": 9
+      "number": 8
     },
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -392,7 +345,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 10
+      "number": 9
     },
     {
       "key": "07/11_18:00_haiphong_slna",
@@ -446,7 +399,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Hải Phòng vs Sông Lam Nghệ An",
-      "number": 11
+      "number": 10
     },
     {
       "key": "07/11_19:15_cahn_tphcm",
@@ -486,7 +439,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh",
-      "number": 12
+      "number": 11
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -526,7 +479,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 13
+      "number": 12
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -573,7 +526,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 14
+      "number": 13
     },
     {
       "key": "07/11_21:30_bayern_fsvmainz05",
@@ -648,7 +601,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München",
-      "number": 15
+      "number": 14
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -674,7 +627,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 16
+      "number": 15
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -721,7 +674,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle",
-      "number": 17
+      "number": 16
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -768,7 +721,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 18
+      "number": 17
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -808,7 +761,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 19
+      "number": 18
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -855,7 +808,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 20
+      "number": 19
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -888,7 +841,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 21
+      "number": 20
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -942,7 +895,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 22
+      "number": 21
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -968,7 +921,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 23
+      "number": 22
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -994,7 +947,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 24
+      "number": 23
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -1020,7 +973,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 25
+      "number": 24
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -1046,7 +999,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 26
+      "number": 25
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -1072,7 +1025,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 27
+      "number": 26
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -1098,7 +1051,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 28
+      "number": 27
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -1124,7 +1077,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 29
+      "number": 28
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -1150,7 +1103,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 30
+      "number": 29
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1176,7 +1129,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 31
+      "number": 30
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1202,7 +1155,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 32
+      "number": 31
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1228,7 +1181,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 33
+      "number": 32
     },
     {
       "key": "07/11_13:00_kashimaantlers_tokyo",
@@ -1268,7 +1221,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 07/11] Tokyo vs Kashima Antlers",
-      "number": 34
+      "number": 33
     },
     {
       "key": "07/11_13:30_adelaide36ers_illawarrahawks",
@@ -1301,7 +1254,7 @@
         }
       ],
       "displayTitle": "⚽ [13:30 07/11] Adelaide 36ers vs Illawarra Hawks",
-      "number": 35
+      "number": 34
     },
     {
       "key": "07/11_14:00_kashiwareysol_kawasakifrontale",
@@ -1327,7 +1280,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 07/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 36
+      "number": 35
     },
     {
       "key": "07/11_14:30_anyang_gimcheonsangmu",
@@ -1374,7 +1327,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 07/11] Gimcheon Sangmu vs Anyang",
-      "number": 37
+      "number": 36
     },
     {
       "key": "07/11_14:30_busanktfsonicboom_incheon",
@@ -1407,7 +1360,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 07/11] Busan KTF Sonicboom vs Incheon",
-      "number": 38
+      "number": 37
     },
     {
       "key": "07/11_15:30_khatocokhanhhoa_lamdong",
@@ -1433,7 +1386,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 07/11] Lam Dong vs Khatoco Khanh Hoa",
-      "number": 39
+      "number": 38
     },
     {
       "key": "07/11_15:30_dongtamlongan_dongthap",
@@ -1459,7 +1412,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 07/11] Dong Tam Long An vs Dong Thap",
-      "number": 40
+      "number": 39
     },
     {
       "key": "07/11_15:40_melbournecity_westernsydneywanderers",
@@ -1520,7 +1473,7 @@
         }
       ],
       "displayTitle": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers",
-      "number": 41
+      "number": 40
     },
     {
       "key": "07/11_15:40_melbournecity_wswanderers",
@@ -1546,7 +1499,7 @@
         }
       ],
       "displayTitle": "⚽ [15:40 07/11] Melbourne City vs WS Wanderers",
-      "number": 42
+      "number": 41
     },
     {
       "key": "07/11_17:00_hanoi_hoanganhgialai",
@@ -1586,7 +1539,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi",
-      "number": 43
+      "number": 42
     },
     {
       "key": "07/11_17:30_eyupspor_kocaelispor",
@@ -1612,7 +1565,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 07/11] Eyupspor vs Kocaelispor",
-      "number": 44
+      "number": 43
     },
     {
       "key": "07/11_17:45_newcastle_perthglory",
@@ -1645,7 +1598,7 @@
         }
       ],
       "displayTitle": "⚽ [17:45 07/11] Perth Glory vs Newcastle Jets",
-      "number": 45
+      "number": 44
     },
     {
       "key": "07/11_18:00_haiphong_songlamnghean",
@@ -1692,7 +1645,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An",
-      "number": 46
+      "number": 45
     },
     {
       "key": "07/11_18:00_bcninh_ninhbnh",
@@ -1732,7 +1685,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Ninh Bình vs Bắc Ninh",
-      "number": 47
+      "number": 46
     },
     {
       "key": "07/11_18:00_bacninh_ninhbinh",
@@ -1779,7 +1732,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Ninh Binh vs Bac Ninh",
-      "number": 48
+      "number": 47
     },
     {
       "key": "07/11_18:00_bacninh_ninhbnhclub",
@@ -1805,7 +1758,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Ninh Bình Club vs Bac Ninh",
-      "number": 49
+      "number": 48
     },
     {
       "key": "07/11_19:00_1nrnberg_svdarmstadt98",
@@ -1831,7 +1784,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] 1. Nürnberg vs SV Darmstadt 98",
-      "number": 50
+      "number": 49
     },
     {
       "key": "07/11_19:00_1kaiserslautern_vflosnabrck",
@@ -1857,7 +1810,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] VfL Osnabrück vs 1. Kaiserslautern",
-      "number": 51
+      "number": 50
     },
     {
       "key": "07/11_19:00_kaiserslautern_vflosnabruck",
@@ -1890,7 +1843,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] VfL Osnabruck vs Kaiserslautern",
-      "number": 52
+      "number": 51
     },
     {
       "key": "07/11_19:00_bielefeld_holsteinkiel",
@@ -1923,7 +1876,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] Holstein Kiel vs Bielefeld",
-      "number": 53
+      "number": 52
     },
     {
       "key": "07/11_19:00_darmstadt_nurnberg",
@@ -1956,7 +1909,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] Nurnberg vs Darmstadt",
-      "number": 54
+      "number": 53
     },
     {
       "key": "07/11_19:15_hanoi_tphcm",
@@ -1989,7 +1942,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Cong An Ha Noi vs Cong An Ho Chi Minh City",
-      "number": 55
+      "number": 54
     },
     {
       "key": "07/11_19:30_leeds_tottenham",
@@ -2064,7 +2017,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 07/11] Leeds vs Tottenham",
-      "number": 56
+      "number": 55
     },
     {
       "key": "07/11_20:00_malaga_santander",
@@ -2111,7 +2064,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Malaga vs Racing Santander",
-      "number": 57
+      "number": 56
     },
     {
       "key": "07/11_20:00_mlaga_santander",
@@ -2137,7 +2090,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Málaga vs Racing Santander",
-      "number": 58
+      "number": 57
     },
     {
       "key": "07/11_21:30_dortmund_svelversberg",
@@ -2177,7 +2130,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg",
-      "number": 59
+      "number": 58
     },
     {
       "key": "07/11_21:30_dortmund_sv07elversberg",
@@ -2203,7 +2156,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs Sv 07 Elversberg",
-      "number": 60
+      "number": 59
     },
     {
       "key": "07/11_21:30_frankfurt_paderborn07",
@@ -2250,7 +2203,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Sc Paderborn 07 vs Eintracht Frankfurt",
-      "number": 61
+      "number": 60
     },
     {
       "key": "07/11_22:00_arsenal_hullcity",
@@ -2304,7 +2257,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Arsenal vs Hull City",
-      "number": 62
+      "number": 61
     },
     {
       "key": "07/11_22:15_deportivo_rcdespanyoldebarcelona",
@@ -2337,7 +2290,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Rcd Espanyol De Barcelona vs Deportivo",
-      "number": 63
+      "number": 62
     },
     {
       "key": "07/11_22:15_cadiz_realoviedo",
@@ -2363,7 +2316,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Cadiz vs Real Oviedo",
-      "number": 64
+      "number": 63
     },
     {
       "key": "07/11_22:15_deplacoruna_espanyol",
@@ -2396,7 +2349,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Espanyol vs Dep. La Coruna",
-      "number": 65
+      "number": 64
     },
     {
       "key": "07/11_23:00_amedspor_galatasaray",
@@ -2422,7 +2375,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 07/11] Galatasaray vs Amedspor",
-      "number": 66
+      "number": 65
     },
     {
       "key": "08/11_00:30_mancity_nottmforest",
@@ -2448,7 +2401,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nott'm Forest vs Man City",
-      "number": 67
+      "number": 66
     },
     {
       "key": "08/11_01:00_auxerre_paris",
@@ -2481,7 +2434,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 08/11] Aj Auxerre vs Paris",
-      "number": 68
+      "number": 67
     },
     {
       "key": "08/11_02:45_roma_sassuolo",
@@ -2521,7 +2474,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Roma vs Sassuolo",
-      "number": 69
+      "number": 68
     },
     {
       "key": "08/11_02:45_estactroyes_parissaintgermain",
@@ -2554,7 +2507,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Paris Saint Germain vs Estac Troyes",
-      "number": 70
+      "number": 69
     },
     {
       "key": "08/11_03:05_psg_troyes",
@@ -2580,7 +2533,7 @@
         }
       ],
       "displayTitle": "⚽ [03:05 08/11] Paris Saint-Germain vs Troyes",
-      "number": 71
+      "number": 70
     },
     {
       "key": "08/11_03:30_moreirense_sportingcp",
@@ -2606,7 +2559,7 @@
         }
       ],
       "displayTitle": "⚽ [03:30 08/11] Sporting Cp vs Moreirense",
-      "number": 72
+      "number": 71
     },
     {
       "key": "08/11_04:00_charlotte_intermilan",
@@ -2639,7 +2592,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 08/11] Inter Miami vs Charlotte",
-      "number": 73
+      "number": 72
     },
     {
       "key": "08/11_06:00_atlas_pachuca",
@@ -2665,7 +2618,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 08/11] Atlas vs Pachuca",
-      "number": 74
+      "number": 73
     },
     {
       "key": "08/11_06:10_atleticonacional_deportivo",
@@ -2698,7 +2651,7 @@
         }
       ],
       "displayTitle": "⚽ [06:10 08/11] Atletico Nacional vs Deportivo Pereira",
-      "number": 75
+      "number": 74
     },
     {
       "key": "08/11_07:00_coloradorapids_dallas",
@@ -2724,7 +2677,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 08/11] Dallas vs Colorado Rapids",
-      "number": 76
+      "number": 75
     },
     {
       "key": "08/11_08:00_monterrey_toluca",
@@ -2757,7 +2710,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 08/11] Toluca vs Monterrey",
-      "number": 77
+      "number": 76
     },
     {
       "key": "08/11_10:00_clubamerica_pumasunam",
@@ -2783,7 +2736,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 08/11] Pumas Unam vs Club America",
-      "number": 78
+      "number": 77
     },
     {
       "key": "08/11_11:00_brisbaneroar_macarthur",
@@ -2809,7 +2762,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 08/11] Macarthur vs Brisbane Roar",
-      "number": 79
+      "number": 78
     },
     {
       "key": "08/11_12:00_machidazelvia_sanfreccehiroshima",
@@ -2835,7 +2788,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Machida Zelvia vs Sanfrecce Hiroshima",
-      "number": 80
+      "number": 79
     },
     {
       "key": "08/11_12:00_seoul_ulsan",
@@ -2861,7 +2814,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Seoul vs Ulsan",
-      "number": 81
+      "number": 80
     },
     {
       "key": "08/11_13:00_cerezoosaka_gambaosaka",
@@ -2887,7 +2840,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Gamba Osaka vs Cerezo Osaka",
-      "number": 82
+      "number": 81
     },
     {
       "key": "08/11_13:00_adelaideunited_melbournevictory",
@@ -2913,7 +2866,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Adelaide United vs Melbourne Victory",
-      "number": 83
+      "number": 82
     },
     {
       "key": "08/11_14:30_beijingguoan_chongqingtonglianglong",
@@ -2939,7 +2892,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Beijing Guoan vs Chongqing Tonglianglong",
-      "number": 84
+      "number": 83
     },
     {
       "key": "08/11_14:30_dalianyingbo_tianjinjinmentiger",
@@ -2965,7 +2918,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Dalian Yingbo vs Tianjin Jinmen Tiger",
-      "number": 85
+      "number": 84
     },
     {
       "key": "08/11_14:30_chengdurongcheng_shandongtaishan",
@@ -2991,7 +2944,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Shandong Taishan vs Chengdu Rongcheng",
-      "number": 86
+      "number": 85
     },
     {
       "key": "08/11_14:30_gangwon_jeonbukhyundaimotors",
@@ -3017,7 +2970,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Gangwon vs Jeonbuk Hyundai Motors",
-      "number": 87
+      "number": 86
     },
     {
       "key": "08/11_15:00_jefunitedichiharachiba_mitohollyhock",
@@ -3043,7 +2996,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 08/11] Jef United Ichihara Chiba vs Mito Hollyhock",
-      "number": 88
+      "number": 87
     },
     {
       "key": "08/11_16:30_maldives_pakistan",
@@ -3069,7 +3022,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 08/11] Maldives vs Pakistan",
-      "number": 89
+      "number": 88
     },
     {
       "key": "08/11_18:15_feyenoord_heerenveen",
@@ -3095,7 +3048,7 @@
         }
       ],
       "displayTitle": "⚽ [18:15 08/11] Sc Heerenveen vs Feyenoord",
-      "number": 90
+      "number": 89
     },
     {
       "key": "08/11_21:00_acmilan_genoa",
@@ -3121,7 +3074,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 91
+      "number": 90
     },
     {
       "key": "08/11_21:00_losclille_rennais",
@@ -3147,7 +3100,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 92
+      "number": 91
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -3173,7 +3126,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 93
+      "number": 92
     },
     {
       "key": "08/11_21:30_kln_leverkusen",
@@ -3199,7 +3152,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] Kln vs Bayer 04 Leverkusen",
-      "number": 94
+      "number": 93
     }
   ],
   "source_groups": [
@@ -4908,23 +4861,23 @@
     {
       "home_team": "Los Angeles Lakers",
       "away_team": "Portland Trail Blazers",
-      "home_score": "86",
-      "away_score": "75",
+      "home_score": "95",
+      "away_score": "86",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "26.6 - 3rd",
+      "detail": "7:32 - 4th",
       "date": "2026-11-07T03:00Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "San Antonio Spurs",
-      "home_score": "80",
-      "away_score": "99",
+      "home_score": "90",
+      "away_score": "112",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "End of 3rd",
+      "detail": "7:55 - 4th",
       "date": "2026-11-07T03:00Z"
     }
   ],
