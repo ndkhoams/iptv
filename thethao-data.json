@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 00:15:42",
+  "updated_at": "2026-11-08 00:31:14",
   "live_events": [
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -2685,8 +2685,8 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [22:15 07/11] Rcd Espanyol De Barcelona Vs Rc Deportivo (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [00:30 08/11] Nottingham Forest Vs Manchester City (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2701,13 +2701,6 @@
         {
           "name": "⚽ [00:00 08/11] Parma Vs Bologna (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [00:30 08/11] Nottingham Forest Vs Manchester City (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3303,15 +3296,27 @@
       ]
     },
     {
-      "name": "🍺 Bia Ôm TV",
+      "name": "👑 Vua Sân Cỏ",
       "channels": [
         {
-          "name": "21:00 07/11 ⚽ Torino vs Lecce (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MDk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnVyOTMzOHh1dDgwamg3YWozbnN1eGQ2Zw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613",
-          "group": "🍺 Bia Ôm TV",
+          "name": "21:30 07/11 ⚽ SC Paderborn 07 vs Eintracht Frankfurt (Lê Hoàn)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-5.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/7c8c3c50966c793eba910e18659759a1.png",
+          "group": "👑 Vua Sân Cỏ",
           "ref": ""
         },
+        {
+          "name": "22:15 07/11 ⚽ Cadiz vs Real Oviedo (Dương Kiên)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-3.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/13ad117ddb310052841244f0d1ed3c1e.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍺 Bia Ôm TV",
+      "channels": [
         {
           "name": "21:30 07/11 ⚽ FSV Mainz 05 vs Bayern Munich (Vịt Nướng) [hls]",
           "url": "https://cdnhls.xbdbotv.live/live/MTk3MzUxMjA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnMxMDl3NDBiMGZ5Z2QxYzI2N3A0dzhiMQ/index.m3u8",
@@ -3413,22 +3418,20 @@
       ]
     },
     {
-      "name": "🥤 Cola TV",
+      "name": "🐔 Gà Vàng 33",
       "channels": [
         {
-          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls]",
-          "url": "https://live05.wecile.app/live/33860426.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "21:30 07/11 ⚽ 1. FSV Mainz 05 vs Bayern Munich (Gà Ô Long) [hls]",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/25df2ab8d6c975b4218480a23ace9285.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
+        }
+      ]
+    },
+    {
+      "name": "🥤 Cola TV",
+      "channels": [
         {
           "name": "21:30 07/11 ⚽ 1. FSV Mainz 05 vs Bayern München (BLV WARRIOR) [hls]",
           "url": "https://live05.wecile.app/live/97885009.m3u8",
@@ -3476,27 +3479,6 @@
     {
       "name": "💥 Phá Làng TV",
       "channels": [
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/66cd2f25dc14ffaeabf5d6a48b42dd16/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
         {
           "name": "21:30 07/11 ⚽ Mainz 05 vs Bayern Munich (LÝ LẠNH LÙNG) [geo]",
           "url": "https://pull.digitalcdn.net/live/afc96e751a6e420baf03a57ff7114e93/index.m3u8",
@@ -3607,37 +3589,6 @@
           "url": "https://pull1.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
           "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
           "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "👑 Vua Sân Cỏ",
-      "channels": [
-        {
-          "name": "21:30 07/11 ⚽ SC Paderborn 07 vs Eintracht Frankfurt (Lê Hoàn)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-5.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/7c8c3c50966c793eba910e18659759a1.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "22:15 07/11 ⚽ Cadiz vs Real Oviedo (Dương Kiên)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-3.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/13ad117ddb310052841244f0d1ed3c1e.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🐔 Gà Vàng 33",
-      "channels": [
-        {
-          "name": "21:30 07/11 ⚽ 1. FSV Mainz 05 vs Bayern Munich (Gà Ô Long) [hls]",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/25df2ab8d6c975b4218480a23ace9285.png",
-          "group": "🐔 Gà Vàng 33",
           "ref": ""
         }
       ]
@@ -3961,7 +3912,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "14'",
+      "detail": "30'",
       "date": "2026-11-07T17:00Z"
     },
     {
@@ -4025,9 +3976,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "BUNDESLIGA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "1'",
       "date": "2026-11-07T17:30Z"
     },
     {
