@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 18:40:45",
+  "updated_at": "2026-11-07 18:56:17",
   "live_events": [
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -397,6 +397,157 @@
       "number": 9
     },
     {
+      "key": "07/11_19:00_1kaiserslautern_vflosnabrck",
+      "c_home": "vflosnabrck",
+      "c_away": "1kaiserslautern",
+      "homeTeam": "VfL Osnabrück",
+      "awayTeam": "1. Kaiserslautern",
+      "time": "19:00",
+      "date": "07/11",
+      "timestamp": 1794052800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 07/11 ⚽ VfL Osnabrück vs 1. Kaiserslautern (Nguyễn Ánh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 07/11] VfL Osnabrück vs 1. Kaiserslautern",
+      "number": 10
+    },
+    {
+      "key": "07/11_19:00_1nrnberg_svdarmstadt98",
+      "c_home": "1nrnberg",
+      "c_away": "svdarmstadt98",
+      "homeTeam": "1. Nürnberg",
+      "awayTeam": "SV Darmstadt 98",
+      "time": "19:00",
+      "date": "07/11",
+      "timestamp": 1794052800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 07/11 ⚽ 1. Nürnberg vs SV Darmstadt 98 (Trần Cảnh)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/895a263ae5237d0edbaf850a907a59b0.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 07/11] 1. Nürnberg vs SV Darmstadt 98",
+      "number": 11
+    },
+    {
+      "key": "07/11_19:00_kaiserslautern_vflosnabruck",
+      "c_home": "vflosnabruck",
+      "c_away": "kaiserslautern",
+      "homeTeam": "VfL Osnabruck",
+      "awayTeam": "Kaiserslautern",
+      "time": "19:00",
+      "date": "07/11",
+      "timestamp": 1794052800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 07/11 ⚽ VfL Osnabruck vs CLB Kaiserslautern (BLV SODA) [hls]",
+          "url": "https://live05.wecile.app/live/02456966.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 07/11 ⚽ VfL Osnabruck vs CLB Kaiserslautern (BLV SODA) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 07/11] VfL Osnabruck vs Kaiserslautern",
+      "number": 12
+    },
+    {
+      "key": "07/11_19:00_bielefeld_holsteinkiel",
+      "c_home": "holsteinkiel",
+      "c_away": "bielefeld",
+      "homeTeam": "Holstein Kiel",
+      "awayTeam": "Bielefeld",
+      "time": "19:00",
+      "date": "07/11",
+      "timestamp": 1794052800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 07/11 ⚽ CLB Holstein Kiel vs CLB Bielefeld (BLV AQUA) [hls]",
+          "url": "https://live05.wecile.app/live/18812304.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 07/11 ⚽ CLB Holstein Kiel vs CLB Bielefeld (BLV AQUA) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 07/11] Holstein Kiel vs Bielefeld",
+      "number": 13
+    },
+    {
+      "key": "07/11_19:00_darmstadt_nurnberg",
+      "c_home": "nurnberg",
+      "c_away": "darmstadt",
+      "homeTeam": "Nurnberg",
+      "awayTeam": "Darmstadt",
+      "time": "19:00",
+      "date": "07/11",
+      "timestamp": 1794052800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 07/11 ⚽ Nurnberg vs Darmstadt (BLV C2) [hls]",
+          "url": "https://live05.wecile.app/live/08552895.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 07/11 ⚽ Nurnberg vs Darmstadt (BLV C2) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 07/11] Nurnberg vs Darmstadt",
+      "number": 14
+    },
+    {
       "key": "07/11_19:15_cahn_tphcm",
       "c_home": "cahn",
       "c_away": "tphcm",
@@ -441,7 +592,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh",
-      "number": 10
+      "number": 15
     },
     {
       "key": "07/11_19:30_leeds_tottenham",
@@ -544,7 +695,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 07/11] Leeds vs Tottenham",
-      "number": 11
+      "number": 16
     },
     {
       "key": "07/11_20:00_mlaga_santander",
@@ -570,7 +721,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Málaga vs Racing Santander",
-      "number": 12
+      "number": 17
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -617,7 +768,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 13
+      "number": 18
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -664,7 +815,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 14
+      "number": 19
     },
     {
       "key": "07/11_21:30_dortmund_svelversberg",
@@ -718,7 +869,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg",
-      "number": 15
+      "number": 20
     },
     {
       "key": "07/11_21:30_bayern_fsvmainz05",
@@ -807,7 +958,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München",
-      "number": 16
+      "number": 21
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -833,7 +984,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 17
+      "number": 22
     },
     {
       "key": "07/11_21:30_frankfurt_paderborn07",
@@ -880,7 +1031,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Sc Paderborn 07 vs Eintracht Frankfurt",
-      "number": 18
+      "number": 23
     },
     {
       "key": "07/11_22:00_arsenal_hullcity",
@@ -955,7 +1106,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Arsenal vs Hull City",
-      "number": 19
+      "number": 24
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -1037,7 +1188,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle",
-      "number": 20
+      "number": 25
     },
     {
       "key": "07/11_22:15_deportivo_rcdespanyoldebarcelona",
@@ -1070,7 +1221,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Rcd Espanyol De Barcelona vs Deportivo",
-      "number": 21
+      "number": 26
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -1131,7 +1282,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 22
+      "number": 27
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -1185,7 +1336,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 23
+      "number": 28
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -1246,7 +1397,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 24
+      "number": 29
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -1279,7 +1430,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 25
+      "number": 30
     },
     {
       "key": "08/11_01:00_auxerre_paris",
@@ -1312,7 +1463,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 08/11] Aj Auxerre vs Paris",
-      "number": 26
+      "number": 31
     },
     {
       "key": "08/11_02:45_roma_sassuolo",
@@ -1359,7 +1510,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Roma vs Sassuolo",
-      "number": 27
+      "number": 32
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -1420,7 +1571,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 28
+      "number": 33
     },
     {
       "key": "08/11_03:05_psg_troyes",
@@ -1453,7 +1604,7 @@
         }
       ],
       "displayTitle": "⚽ [03:05 08/11] Paris Saint-Germain vs Troyes",
-      "number": 29
+      "number": 34
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -1479,7 +1630,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 30
+      "number": 35
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -1505,7 +1656,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 31
+      "number": 36
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -1538,7 +1689,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 32
+      "number": 37
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -1564,7 +1715,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 33
+      "number": 38
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -1597,7 +1748,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 34
+      "number": 39
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -1630,7 +1781,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 35
+      "number": 40
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -1656,7 +1807,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 36
+      "number": 41
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -1689,7 +1840,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 37
+      "number": 42
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1715,7 +1866,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 38
+      "number": 43
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1748,7 +1899,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 39
+      "number": 44
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1774,7 +1925,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 40
+      "number": 45
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -1800,7 +1951,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter Milan vs Como",
-      "number": 41
+      "number": 46
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1826,7 +1977,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 42
+      "number": 47
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1859,7 +2010,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 43
+      "number": 48
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1885,7 +2036,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 44
+      "number": 49
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1911,157 +2062,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 45
-    },
-    {
-      "key": "07/11_19:00_1kaiserslautern_vflosnabrck",
-      "c_home": "vflosnabrck",
-      "c_away": "1kaiserslautern",
-      "homeTeam": "VfL Osnabrück",
-      "awayTeam": "1. Kaiserslautern",
-      "time": "19:00",
-      "date": "07/11",
-      "timestamp": 1794052800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "19:00 07/11 ⚽ VfL Osnabrück vs 1. Kaiserslautern (Nguyễn Ánh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-11.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [19:00 07/11] VfL Osnabrück vs 1. Kaiserslautern",
-      "number": 46
-    },
-    {
-      "key": "07/11_19:00_1nrnberg_svdarmstadt98",
-      "c_home": "1nrnberg",
-      "c_away": "svdarmstadt98",
-      "homeTeam": "1. Nürnberg",
-      "awayTeam": "SV Darmstadt 98",
-      "time": "19:00",
-      "date": "07/11",
-      "timestamp": 1794052800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "19:00 07/11 ⚽ 1. Nürnberg vs SV Darmstadt 98 (Trần Cảnh)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-18.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/895a263ae5237d0edbaf850a907a59b0.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [19:00 07/11] 1. Nürnberg vs SV Darmstadt 98",
-      "number": 47
-    },
-    {
-      "key": "07/11_19:00_kaiserslautern_vflosnabruck",
-      "c_home": "vflosnabruck",
-      "c_away": "kaiserslautern",
-      "homeTeam": "VfL Osnabruck",
-      "awayTeam": "Kaiserslautern",
-      "time": "19:00",
-      "date": "07/11",
-      "timestamp": 1794052800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "19:00 07/11 ⚽ VfL Osnabruck vs CLB Kaiserslautern (BLV SODA) [hls]",
-          "url": "https://live05.wecile.app/live/02456966.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "19:00 07/11 ⚽ VfL Osnabruck vs CLB Kaiserslautern (BLV SODA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [19:00 07/11] VfL Osnabruck vs Kaiserslautern",
-      "number": 48
-    },
-    {
-      "key": "07/11_19:00_bielefeld_holsteinkiel",
-      "c_home": "holsteinkiel",
-      "c_away": "bielefeld",
-      "homeTeam": "Holstein Kiel",
-      "awayTeam": "Bielefeld",
-      "time": "19:00",
-      "date": "07/11",
-      "timestamp": 1794052800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "19:00 07/11 ⚽ CLB Holstein Kiel vs CLB Bielefeld (BLV AQUA) [hls]",
-          "url": "https://live05.wecile.app/live/18812304.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "19:00 07/11 ⚽ CLB Holstein Kiel vs CLB Bielefeld (BLV AQUA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [19:00 07/11] Holstein Kiel vs Bielefeld",
-      "number": 49
-    },
-    {
-      "key": "07/11_19:00_darmstadt_nurnberg",
-      "c_home": "nurnberg",
-      "c_away": "darmstadt",
-      "homeTeam": "Nurnberg",
-      "awayTeam": "Darmstadt",
-      "time": "19:00",
-      "date": "07/11",
-      "timestamp": 1794052800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "19:00 07/11 ⚽ Nurnberg vs Darmstadt (BLV C2) [hls]",
-          "url": "https://live05.wecile.app/live/08552895.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "19:00 07/11 ⚽ Nurnberg vs Darmstadt (BLV C2) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [19:00 07/11] Nurnberg vs Darmstadt",
       "number": 50
     },
     {
@@ -3907,6 +3907,32 @@
       "number": 116
     },
     {
+      "key": "10/11_21:00_arba_watlemcen",
+      "c_home": "watlemcen",
+      "c_away": "arba",
+      "homeTeam": "Wa Tlemcen",
+      "awayTeam": "Arba",
+      "time": "21:00",
+      "date": "10/11",
+      "timestamp": 1794319200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 10/11] Wa Tlemcen Vs Rc Arba (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
+      "number": 117
+    },
+    {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
       "c_home": "elmokawloonelarab",
       "c_away": "telecomegypt",
@@ -3930,7 +3956,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 117
+      "number": 118
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -3956,7 +3982,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 118
+      "number": 119
     }
   ],
   "source_groups": [
@@ -4804,6 +4830,13 @@
         {
           "name": "⚽ [21:00 10/11] Mo Bejaia Vs Irb Nezla (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 10/11] Wa Tlemcen Vs Rc Arba (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
