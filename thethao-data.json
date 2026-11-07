@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 17:39:37",
+  "updated_at": "2026-11-07 17:54:45",
   "live_events": [
     {
       "key": "07/11_17:00_hagl_hanoi",
@@ -49,89 +49,65 @@
       "number": 1
     },
     {
-      "key": "07/11_15:30_khatocokhanhhoa_lamdong",
-      "c_home": "lamdong",
-      "c_away": "khatocokhanhhoa",
-      "homeTeam": "Lam Dong",
-      "awayTeam": "Khatoco Khanh Hoa",
-      "time": "15:30",
+      "key": "07/11_18:00_haiphong_slna",
+      "c_home": "haiphong",
+      "c_away": "slna",
+      "homeTeam": "Hải Phòng",
+      "awayTeam": "Sông Lam Nghệ An",
+      "time": "18:00",
       "date": "07/11",
-      "timestamp": 1794040200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "timestamp": 1794049200000,
+      "league": "VLEAGUE",
+      "leagueName": "🇻🇳 V-League 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_vleague",
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "15:30 07/11 ⚽ Lam Dong vs Khatoco Khanh Hoa (Tôn Quyền)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/775fb8eca2172951b0f3d904cabfd337.png",
-          "group": "👑 Vua Sân Cỏ",
+          "name": "18:00 07/11 ⚽ Hải Phòng vs Sông Lam Nghệ An (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI5Mzk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdlNjlzOWRocmJtMnI2dWltMDB5MmJiZQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/hai-phong-15046",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 07/11] Lam Dong vs Khatoco Khanh Hoa",
-      "number": 2
-    },
-    {
-      "key": "07/11_15:30_dongtamlongan_dongthap",
-      "c_home": "dongtamlongan",
-      "c_away": "dongthap",
-      "homeTeam": "Dong Tam Long An",
-      "awayTeam": "Dong Thap",
-      "time": "15:30",
-      "date": "07/11",
-      "timestamp": 1794040200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
+        },
         {
-          "name": "15:30 07/11 ⚽ Dong Tam Long An vs Dong Thap (Doanh Chính)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/347d428c24e85dbda67f7817e7d80ebf.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 07/11] Dong Tam Long An vs Dong Thap",
-      "number": 3
-    },
-    {
-      "key": "07/11_15:30_brisbanebullets_melbournetigers",
-      "c_home": "melbournetigers",
-      "c_away": "brisbanebullets",
-      "homeTeam": "Melbourne Tigers",
-      "awayTeam": "Brisbane Bullets",
-      "time": "15:30",
-      "date": "07/11",
-      "timestamp": 1794040200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "15:30 07/11 🏀 Melbourne Tigers vs Brisbane Bullets (BLV LIPTON) [hls]",
-          "url": "https://live05.wecile.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",
+          "name": "18:00 07/11 ⚽ CLB XM Hai Phong vs Sông Lam Nghệ An (BLV FANTA) [hls]",
+          "url": "https://live05.wecile.app/live/16226575.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "15:30 07/11 🏀 Melbourne Tigers vs Brisbane Bullets (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",
+          "name": "18:00 07/11 ⚽ CLB XM Hai Phong vs Sông Lam Nghệ An (BLV FANTA) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80",
           "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (LÝ LÀNG LÁ) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/11830b9bd55d68fd7c9dee3a58154220/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [15:30 07/11] Melbourne Tigers vs Brisbane Bullets",
-      "number": 4
+      "displayTitle": "🔴 [18:00 07/11] Hải Phòng vs Sông Lam Nghệ An",
+      "number": 2
     },
     {
       "key": "07/11_15:40_melbournecity_westernsydneywanderers",
@@ -148,20 +124,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City Vs Western Sydney Wanderers Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "15:40 07/11 ⚽ Melbourne City vs Western Sydney Wanderers (Lưu Bang)",
           "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-7.m3u8",
@@ -192,7 +154,7 @@
         }
       ],
       "displayTitle": "🔴 [15:40 07/11] Melbourne City vs Western Sydney Wanderers",
-      "number": 5
+      "number": 3
     },
     {
       "key": "07/11_15:40_melbournecity_wswanderers",
@@ -215,17 +177,10 @@
           "logo": "https://apiv3.apifootball.com/badges/401_melbourne-city-fc.jpg",
           "group": "🍗 Khô Gà TV",
           "ref": ""
-        },
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City vs WS Wanderers (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/401_melbourne-city-fc.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "🔴 [15:40 07/11] Melbourne City vs WS Wanderers",
-      "number": 6
+      "number": 4
     },
     {
       "key": "07/11_17:00_hanoi_hoanganhgialai",
@@ -272,7 +227,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi",
-      "number": 7
+      "number": 5
     },
     {
       "key": "07/11_17:30_eyupspor_kocaelispor",
@@ -298,7 +253,7 @@
         }
       ],
       "displayTitle": "🔴 [17:30 07/11] Eyupspor vs Kocaelispor",
-      "number": 8
+      "number": 6
     },
     {
       "key": "07/11_17:45_newcastle_perthglory",
@@ -338,68 +293,181 @@
         }
       ],
       "displayTitle": "🔴 [17:45 07/11] Perth Glory vs Newcastle Jets",
-      "number": 9
+      "number": 7
     },
     {
-      "key": "07/11_18:00_haiphong_slna",
+      "key": "07/11_18:00_haiphong_songlamnghean",
       "c_home": "haiphong",
-      "c_away": "slna",
-      "homeTeam": "Hải Phòng",
-      "awayTeam": "Sông Lam Nghệ An",
+      "c_away": "songlamnghean",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Song Lam Nghe An",
       "time": "18:00",
       "date": "07/11",
       "timestamp": 1794049200000,
-      "league": "VLEAGUE",
-      "leagueName": "🇻🇳 V-League 1",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_vleague",
-      "isOngoing": false,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "18:00 07/11 ⚽ Hải Phòng vs Sông Lam Nghệ An (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4NzI5Mzk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdlNjlzOWRocmJtMnI2dWltMDB5MmJiZQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/hai-phong-15046",
-          "group": "🍺 Bia Ôm TV",
+          "name": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [18:00 07/11] Xm Hai Phong Fc Vs Song Lam Nghe An (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "18:00 07/11 ⚽ XM Hai Phong vs Song Lam Nghe An (Tào Duệ)",
+          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-15.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png",
+          "group": "👑 Vua Sân Cỏ",
           "ref": ""
         },
         {
-          "name": "18:00 07/11 ⚽ CLB XM Hai Phong vs Sông Lam Nghệ An (BLV FANTA) [hls]",
-          "url": "https://live05.wecile.app/live/16226575.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "18:00 07/11 ⚽ Hải Phòng vs Song Lam Nghe An (Nếp Cẩm) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/179222.png",
+          "group": "📜 Sao Kê TV",
           "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [18:00 07/11] Hai Phong vs Song Lam Nghe An",
+      "number": 8
+    },
+    {
+      "key": "07/11_18:00_bcninh_ninhbnh",
+      "c_home": "ninhbnh",
+      "c_away": "bcninh",
+      "homeTeam": "Ninh Bình",
+      "awayTeam": "Bắc Ninh",
+      "time": "18:00",
+      "date": "07/11",
+      "timestamp": 1794049200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:00 07/11] Ninh Bình FC vs Bắc Ninh (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "18:00 07/11 ⚽ CLB XM Hai Phong vs Sông Lam Nghệ An (BLV FANTA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (LÝ LINH LỰC) [geo]",
+          "url": "https://pull.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
           "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (LÝ LÀNG LÁ) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/5614ebbd45fb41b98bef4a589edba709/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (LÝ LINH LỰC) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
           "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "18:00 07/11 ⚽ XM Hải Phòng vs Sông Lam Nghệ An (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/11830b9bd55d68fd7c9dee3a58154220/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4n15moep/image/small",
+          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/f41a93aeb7a1ed24288f59335607f60c/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
           "group": "💥 Phá Làng TV",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [18:00 07/11] Hải Phòng vs Sông Lam Nghệ An",
+      "displayTitle": "🔴 [18:00 07/11] Ninh Bình vs Bắc Ninh",
+      "number": 9
+    },
+    {
+      "key": "07/11_18:00_bacninh_ninhbinh",
+      "c_home": "ninhbinh",
+      "c_away": "bacninh",
+      "homeTeam": "Ninh Binh",
+      "awayTeam": "Bac Ninh",
+      "time": "18:00",
+      "date": "07/11",
+      "timestamp": 1794049200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:00 07/11] Ninh Binh Fc Vs Bac Ninh (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "18:00 07/11 ⚽ Ninh Binh vs Bac Ninh (Gà Siêu Mõm) [hls]",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "18:00 07/11 ⚽ Phu Dong Ninh Binh vs Bac Ninh (BLV MOUNTAIN DEW) [hls]",
+          "url": "https://live05.wecile.app/live/87547578.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "18:00 07/11 ⚽ Phu Dong Ninh Binh vs Bac Ninh (BLV MOUNTAIN DEW) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [18:00 07/11] Phu Dong Ninh Binh vs Bac Ninh (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/8051_ninh-binh.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "🔴 [18:00 07/11] Ninh Binh vs Bac Ninh",
       "number": 10
+    },
+    {
+      "key": "07/11_18:00_bacninh_ninhbnhclub",
+      "c_home": "ninhbnhclub",
+      "c_away": "bacninh",
+      "homeTeam": "Ninh Bình Club",
+      "awayTeam": "Bac Ninh",
+      "time": "18:00",
+      "date": "07/11",
+      "timestamp": 1794049200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "18:00 07/11 ⚽ Ninh Bình Club vs Bac Ninh (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1235223.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [18:00 07/11] Ninh Bình Club vs Bac Ninh",
+      "number": 11
     },
     {
       "key": "07/11_19:15_cahn_tphcm",
@@ -446,7 +514,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh",
-      "number": 11
+      "number": 12
     },
     {
       "key": "07/11_19:30_leeds_tottenham",
@@ -549,7 +617,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 07/11] Leeds vs Tottenham",
-      "number": 12
+      "number": 13
     },
     {
       "key": "07/11_20:00_mlaga_santander",
@@ -575,7 +643,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Málaga vs Racing Santander",
-      "number": 13
+      "number": 14
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -622,7 +690,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 14
+      "number": 15
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -669,7 +737,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 15
+      "number": 16
     },
     {
       "key": "07/11_21:30_dortmund_svelversberg",
@@ -723,7 +791,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg",
-      "number": 16
+      "number": 17
     },
     {
       "key": "07/11_21:30_bayern_fsvmainz05",
@@ -812,7 +880,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München",
-      "number": 17
+      "number": 18
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -838,7 +906,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 18
+      "number": 19
     },
     {
       "key": "07/11_21:30_frankfurt_paderborn07",
@@ -885,7 +953,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Sc Paderborn 07 vs Eintracht Frankfurt",
-      "number": 19
+      "number": 20
     },
     {
       "key": "07/11_22:00_arsenal_hullcity",
@@ -960,7 +1028,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Arsenal vs Hull City",
-      "number": 20
+      "number": 21
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
@@ -1042,7 +1110,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle",
-      "number": 21
+      "number": 22
     },
     {
       "key": "07/11_22:15_deportivo_rcdespanyoldebarcelona",
@@ -1075,7 +1143,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Rcd Espanyol De Barcelona vs Deportivo",
-      "number": 22
+      "number": 23
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -1136,7 +1204,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 23
+      "number": 24
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -1190,7 +1258,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 24
+      "number": 25
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -1251,7 +1319,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 25
+      "number": 26
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -1284,7 +1352,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 26
+      "number": 27
     },
     {
       "key": "08/11_01:00_auxerre_paris",
@@ -1317,7 +1385,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 08/11] Aj Auxerre vs Paris",
-      "number": 27
+      "number": 28
     },
     {
       "key": "08/11_02:45_roma_sassuolo",
@@ -1364,7 +1432,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Roma vs Sassuolo",
-      "number": 28
+      "number": 29
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -1425,7 +1493,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 29
+      "number": 30
     },
     {
       "key": "08/11_03:05_psg_troyes",
@@ -1458,7 +1526,7 @@
         }
       ],
       "displayTitle": "⚽ [03:05 08/11] Paris Saint-Germain vs Troyes",
-      "number": 30
+      "number": 31
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -1484,7 +1552,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 31
+      "number": 32
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -1510,7 +1578,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 32
+      "number": 33
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -1543,7 +1611,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 33
+      "number": 34
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -1569,7 +1637,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 34
+      "number": 35
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -1602,7 +1670,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 35
+      "number": 36
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -1635,7 +1703,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 36
+      "number": 37
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -1661,7 +1729,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 37
+      "number": 38
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -1694,7 +1762,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 38
+      "number": 39
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1720,7 +1788,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 39
+      "number": 40
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1753,7 +1821,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 40
+      "number": 41
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1779,7 +1847,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 41
+      "number": 42
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -1805,7 +1873,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter Milan vs Como",
-      "number": 42
+      "number": 43
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1831,7 +1899,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 43
+      "number": 44
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1864,7 +1932,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 44
+      "number": 45
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1890,7 +1958,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 45
+      "number": 46
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1916,181 +1984,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 46
-    },
-    {
-      "key": "07/11_18:00_haiphong_songlamnghean",
-      "c_home": "haiphong",
-      "c_away": "songlamnghean",
-      "homeTeam": "Hai Phong",
-      "awayTeam": "Song Lam Nghe An",
-      "time": "18:00",
-      "date": "07/11",
-      "timestamp": 1794049200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An (BLV Chuối Kem) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [18:00 07/11] Xm Hai Phong Fc Vs Song Lam Nghe An (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "18:00 07/11 ⚽ XM Hai Phong vs Song Lam Nghe An (Tào Duệ)",
-          "url": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-15.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ Hải Phòng vs Song Lam Nghe An (Nếp Cẩm) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/179222.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An",
       "number": 47
-    },
-    {
-      "key": "07/11_18:00_bcninh_ninhbnh",
-      "c_home": "ninhbnh",
-      "c_away": "bcninh",
-      "homeTeam": "Ninh Bình",
-      "awayTeam": "Bắc Ninh",
-      "time": "18:00",
-      "date": "07/11",
-      "timestamp": 1794049200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 07/11] Ninh Bình FC vs Bắc Ninh (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (LÝ LINH LỰC) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/52b66198f3bf473e97c246ee1dcd356a/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ Ninh Bình vs TDTT Bắc Ninh (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/f41a93aeb7a1ed24288f59335607f60c/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/jw2r09hny0vrz84/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [18:00 07/11] Ninh Bình vs Bắc Ninh",
-      "number": 48
-    },
-    {
-      "key": "07/11_18:00_bacninh_ninhbinh",
-      "c_home": "ninhbinh",
-      "c_away": "bacninh",
-      "homeTeam": "Ninh Binh",
-      "awayTeam": "Bac Ninh",
-      "time": "18:00",
-      "date": "07/11",
-      "timestamp": 1794049200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 07/11] Ninh Binh Fc Vs Bac Ninh (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "18:00 07/11 ⚽ Ninh Binh vs Bac Ninh (Gà Siêu Mõm) [hls]",
-          "url": "https://live2.zktsva.app/live/300523.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ Phu Dong Ninh Binh vs Bac Ninh (BLV MOUNTAIN DEW) [hls]",
-          "url": "https://live05.wecile.app/live/87547578.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 07/11 ⚽ Phu Dong Ninh Binh vs Bac Ninh (BLV MOUNTAIN DEW) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [18:00 07/11] Phu Dong Ninh Binh vs Bac Ninh (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/8051_ninh-binh.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [18:00 07/11] Ninh Binh vs Bac Ninh",
-      "number": 49
-    },
-    {
-      "key": "07/11_18:00_bacninh_ninhbnhclub",
-      "c_home": "ninhbnhclub",
-      "c_away": "bacninh",
-      "homeTeam": "Ninh Bình Club",
-      "awayTeam": "Bac Ninh",
-      "time": "18:00",
-      "date": "07/11",
-      "timestamp": 1794049200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "18:00 07/11 ⚽ Ninh Bình Club vs Bac Ninh (Tít) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1235223.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [18:00 07/11] Ninh Bình Club vs Bac Ninh",
-      "number": 50
     },
     {
       "key": "07/11_19:00_1kaiserslautern_vflosnabrck",
@@ -2116,7 +2010,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] VfL Osnabrück vs 1. Kaiserslautern",
-      "number": 51
+      "number": 48
     },
     {
       "key": "07/11_19:00_1nrnberg_svdarmstadt98",
@@ -2142,7 +2036,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] 1. Nürnberg vs SV Darmstadt 98",
-      "number": 52
+      "number": 49
     },
     {
       "key": "07/11_19:00_kaiserslautern_vflosnabruck",
@@ -2175,7 +2069,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] VfL Osnabruck vs Kaiserslautern",
-      "number": 53
+      "number": 50
     },
     {
       "key": "07/11_19:00_bielefeld_holsteinkiel",
@@ -2208,7 +2102,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] Holstein Kiel vs Bielefeld",
-      "number": 54
+      "number": 51
     },
     {
       "key": "07/11_19:00_darmstadt_nurnberg",
@@ -2241,7 +2135,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 07/11] Nurnberg vs Darmstadt",
-      "number": 55
+      "number": 52
     },
     {
       "key": "07/11_19:15_hanoi_tphcm",
@@ -2281,7 +2175,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Cong An Ha Noi vs Cong An Ho Chi Minh City",
-      "number": 56
+      "number": 53
     },
     {
       "key": "07/11_19:30_wolves_wrexham",
@@ -2307,7 +2201,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 07/11] Wrexham vs Wolverhampton Wanderers",
-      "number": 57
+      "number": 54
     },
     {
       "key": "07/11_20:00_malaga_santander",
@@ -2361,7 +2255,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Malaga vs Racing Santander",
-      "number": 58
+      "number": 55
     },
     {
       "key": "07/11_21:30_dortmund_sv07elversberg",
@@ -2387,7 +2281,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs Sv 07 Elversberg",
-      "number": 59
+      "number": 56
     },
     {
       "key": "07/11_22:15_cadiz_realoviedo",
@@ -2413,7 +2307,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Cadiz vs Real Oviedo",
-      "number": 60
+      "number": 57
     },
     {
       "key": "07/11_22:15_deplacoruna_espanyol",
@@ -2446,7 +2340,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Espanyol vs Dep. La Coruna",
-      "number": 61
+      "number": 58
     },
     {
       "key": "07/11_22:15_depacoruna_espanyol",
@@ -2472,7 +2366,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Espanyol vs Dep. A Coruna",
-      "number": 62
+      "number": 59
     },
     {
       "key": "07/11_23:00_amedspor_galatasaray",
@@ -2498,7 +2392,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 07/11] Galatasaray vs Amedspor",
-      "number": 63
+      "number": 60
     },
     {
       "key": "08/11_00:30_mancity_nottmforest",
@@ -2531,7 +2425,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nott'm Forest vs Man City",
-      "number": 64
+      "number": 61
     },
     {
       "key": "08/11_02:45_estactroyes_parissaintgermain",
@@ -2564,7 +2458,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Paris Saint Germain vs Estac Troyes",
-      "number": 65
+      "number": 62
     },
     {
       "key": "08/11_03:30_moreirense_sportingcp",
@@ -2590,7 +2484,7 @@
         }
       ],
       "displayTitle": "⚽ [03:30 08/11] Sporting Cp vs Moreirense",
-      "number": 66
+      "number": 63
     },
     {
       "key": "08/11_04:00_charlotte_intermilan",
@@ -2630,7 +2524,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 08/11] Inter Miami vs Charlotte",
-      "number": 67
+      "number": 64
     },
     {
       "key": "08/11_05:00_denvernuggets_indianapacers",
@@ -2656,7 +2550,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 08/11] Indiana Pacers vs Denver Nuggets",
-      "number": 68
+      "number": 65
     },
     {
       "key": "08/11_06:00_atlas_pachuca",
@@ -2682,7 +2576,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 08/11] Atlas vs Pachuca",
-      "number": 69
+      "number": 66
     },
     {
       "key": "08/11_06:10_atleticonacional_deportivo",
@@ -2715,7 +2609,7 @@
         }
       ],
       "displayTitle": "⚽ [06:10 08/11] Atletico Nacional vs Deportivo Pereira",
-      "number": 70
+      "number": 67
     },
     {
       "key": "08/11_07:00_coloradorapids_dallas",
@@ -2741,7 +2635,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 08/11] Dallas vs Colorado Rapids",
-      "number": 71
+      "number": 68
     },
     {
       "key": "08/11_08:00_monterrey_toluca",
@@ -2774,7 +2668,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 08/11] Toluca vs Monterrey",
-      "number": 72
+      "number": 69
     },
     {
       "key": "08/11_10:00_clubamerica_pumasunam",
@@ -2800,7 +2694,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 08/11] Pumas Unam vs Club America",
-      "number": 73
+      "number": 70
     },
     {
       "key": "08/11_11:00_brisbaneroar_macarthur",
@@ -2833,7 +2727,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 08/11] Macarthur vs Brisbane Roar",
-      "number": 74
+      "number": 71
     },
     {
       "key": "08/11_12:00_machidazelvia_sanfreccehiroshima",
@@ -2859,7 +2753,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Machida Zelvia vs Sanfrecce Hiroshima",
-      "number": 75
+      "number": 72
     },
     {
       "key": "08/11_12:00_seoul_ulsan",
@@ -2885,7 +2779,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Seoul vs Ulsan",
-      "number": 76
+      "number": 73
     },
     {
       "key": "08/11_13:00_cerezoosaka_gambaosaka",
@@ -2911,7 +2805,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Gamba Osaka vs Cerezo Osaka",
-      "number": 77
+      "number": 74
     },
     {
       "key": "08/11_13:00_adelaideunited_melbournevictory",
@@ -2937,7 +2831,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Adelaide United vs Melbourne Victory",
-      "number": 78
+      "number": 75
     },
     {
       "key": "08/11_14:30_beijingguoan_chongqingtonglianglong",
@@ -2963,7 +2857,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Beijing Guoan vs Chongqing Tonglianglong",
-      "number": 79
+      "number": 76
     },
     {
       "key": "08/11_14:30_dalianyingbo_tianjinjinmentiger",
@@ -2989,7 +2883,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Dalian Yingbo vs Tianjin Jinmen Tiger",
-      "number": 80
+      "number": 77
     },
     {
       "key": "08/11_14:30_chengdurongcheng_shandongtaishan",
@@ -3015,7 +2909,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Shandong Taishan vs Chengdu Rongcheng",
-      "number": 81
+      "number": 78
     },
     {
       "key": "08/11_14:30_gangwon_jeonbukhyundaimotors",
@@ -3041,7 +2935,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Gangwon vs Jeonbuk Hyundai Motors",
-      "number": 82
+      "number": 79
     },
     {
       "key": "08/11_15:00_jefunitedichiharachiba_mitohollyhock",
@@ -3067,7 +2961,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 08/11] Jef United Ichihara Chiba vs Mito Hollyhock",
-      "number": 83
+      "number": 80
     },
     {
       "key": "08/11_16:30_maldives_pakistan",
@@ -3093,7 +2987,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 08/11] Maldives vs Pakistan",
-      "number": 84
+      "number": 81
     },
     {
       "key": "08/11_18:15_feyenoord_heerenveen",
@@ -3119,7 +3013,7 @@
         }
       ],
       "displayTitle": "⚽ [18:15 08/11] Sc Heerenveen vs Feyenoord",
-      "number": 85
+      "number": 82
     },
     {
       "key": "08/11_21:00_acmilan_genoa",
@@ -3152,7 +3046,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 86
+      "number": 83
     },
     {
       "key": "08/11_21:00_losclille_rennais",
@@ -3178,7 +3072,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 87
+      "number": 84
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -3204,7 +3098,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 88
+      "number": 85
     },
     {
       "key": "08/11_21:30_kln_leverkusen",
@@ -3230,7 +3124,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] Kln vs Bayer 04 Leverkusen",
-      "number": 89
+      "number": 86
     },
     {
       "key": "09/11_00:30_celtavigo_levante",
@@ -3256,7 +3150,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
-      "number": 90
+      "number": 87
     },
     {
       "key": "09/11_01:00_porto_vitoriaguimaraes",
@@ -3289,7 +3183,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 09/11] Vitoria Guimaraes vs Porto",
-      "number": 91
+      "number": 88
     },
     {
       "key": "09/11_01:30_schalke04_tsghoffenheim",
@@ -3322,7 +3216,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
-      "number": 92
+      "number": 89
     },
     {
       "key": "09/11_03:30_benfica_estrelaamadorasad",
@@ -3348,7 +3242,7 @@
         }
       ],
       "displayTitle": "⚽ [03:30 09/11] Estrela Amadora Sad vs Benfica",
-      "number": 93
+      "number": 90
     },
     {
       "key": "09/11_05:30_centralcordobasde_clubatleticolanus",
@@ -3374,7 +3268,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
-      "number": 94
+      "number": 91
     },
     {
       "key": "09/11_06:10_deportestolima_millonarios",
@@ -3400,7 +3294,7 @@
         }
       ],
       "displayTitle": "⚽ [06:10 09/11] Deportes Tolima vs Millonarios",
-      "number": 95
+      "number": 92
     },
     {
       "key": "09/11_08:15_alianzafutbolclub_llaneros",
@@ -3426,7 +3320,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 09/11] Alianza Futbol Club vs Llaneros",
-      "number": 96
+      "number": 93
     },
     {
       "key": "09/11_09:00_clubleon_deportivo",
@@ -3452,7 +3346,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 09/11] Club Leon vs Club Deportivo Guadalajara",
-      "number": 97
+      "number": 94
     },
     {
       "key": "09/11_15:00_khovdbroncos_ulaangomcity",
@@ -3478,7 +3372,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 09/11] Ulaangom City vs Khovd Broncos",
-      "number": 98
+      "number": 95
     },
     {
       "key": "09/11_17:30_araksararat_bentonitidzhevan",
@@ -3504,7 +3398,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Bentonit Idzhevan vs Araks Ararat",
-      "number": 99
+      "number": 96
     },
     {
       "key": "09/11_17:30_mikaashtarak_shirakgjumrib",
@@ -3530,7 +3424,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Mika Ashtarak vs Shirak Gjumri B",
-      "number": 100
+      "number": 97
     },
     {
       "key": "09/11_18:30_karagostar_naftgachsaran",
@@ -3556,7 +3450,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 09/11] Kara Gostar vs Naft Gachsaran",
-      "number": 101
+      "number": 98
     },
     {
       "key": "09/11_19:00_havadartehran_saipa",
@@ -3582,7 +3476,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 09/11] Saipa vs Havadar Tehran",
-      "number": 102
+      "number": 99
     },
     {
       "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
@@ -3608,7 +3502,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
-      "number": 103
+      "number": 100
     },
     {
       "key": "09/11_19:30_kahrabaismailia_wadidegla",
@@ -3634,7 +3528,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla Sc vs Kahraba Ismailia",
-      "number": 104
+      "number": 101
     },
     {
       "key": "09/11_20:00_apszakynthos_nikivolou",
@@ -3660,7 +3554,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 09/11] Aps Zakynthos vs Niki Volou",
-      "number": 105
+      "number": 102
     },
     {
       "key": "09/11_22:00_etar_pfkmontana",
@@ -3686,7 +3580,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Etar vs Pfk Montana",
-      "number": 106
+      "number": 103
     },
     {
       "key": "09/11_22:00_samanodeg_zed",
@@ -3719,7 +3613,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Zed vs Samanod Eg",
-      "number": 107
+      "number": 104
     },
     {
       "key": "09/11_23:00_gagra_iberia1999tbilisi",
@@ -3745,7 +3639,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
-      "number": 108
+      "number": 105
     },
     {
       "key": "09/11_23:30_kamaznaberezhnyechelny_velesmoscow",
@@ -3771,7 +3665,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 09/11] Veles Moscow vs Kamaz Naberezhnye Chelny",
-      "number": 109
+      "number": 106
     },
     {
       "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
@@ -3797,7 +3691,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
-      "number": 110
+      "number": 107
     },
     {
       "key": "10/11_01:00_aarhusfremad_hvidovreif",
@@ -3823,7 +3717,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Hvidovre If vs Aarhus Fremad",
-      "number": 111
+      "number": 108
     },
     {
       "key": "10/11_01:00_botosani_otelulgalati",
@@ -3849,7 +3743,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botosani vs Otelul Galati",
-      "number": 112
+      "number": 109
     },
     {
       "key": "10/11_02:30_realsociedad_sabadell",
@@ -3875,7 +3769,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Sabadell vs Real Sociedad B",
-      "number": 113
+      "number": 110
     },
     {
       "key": "10/11_02:30_asdpineto_vispesaro",
@@ -3901,7 +3795,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Asd Pineto vs Vis Pesaro",
-      "number": 114
+      "number": 111
     },
     {
       "key": "10/11_02:30_berkhamstedtown_plymouthparkway",
@@ -3927,7 +3821,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted Town",
-      "number": 115
+      "number": 112
     },
     {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
@@ -3953,7 +3847,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 116
+      "number": 113
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -3979,7 +3873,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 117
+      "number": 114
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -4005,7 +3899,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 118
+      "number": 115
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -4031,7 +3925,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 119
+      "number": 116
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -4057,7 +3951,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 120
+      "number": 117
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -4083,7 +3977,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 121
+      "number": 118
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -4109,7 +4003,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 122
+      "number": 119
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -4135,20 +4029,13 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 123
+      "number": 120
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi (BLV Chuối Già) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -4287,13 +4174,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City Vs Western Sydney Wanderers Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [17:00 07/11] Hoang Anh Gia Lai Vs Hanoi Fc (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -5837,13 +5717,6 @@
     {
       "name": "🍧 Xôi Chè TV",
       "channels": [
-        {
-          "name": "⚽ [15:40 07/11] Melbourne City vs WS Wanderers (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/401_melbourne-city-fc.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [17:45 07/11] Perth Glory vs Newcastle Jets (BLV Xôi Xoài) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
