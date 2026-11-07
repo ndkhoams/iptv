@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 07:38:59",
+  "updated_at": "2026-11-07 07:54:29",
   "live_events": [
     {
       "key": "07/11_06:00_fluminense_vitoria",
@@ -35,6 +35,84 @@
       "number": 1
     },
     {
+      "key": "07/11_08:00_fortaleza_independientemedelln",
+      "c_home": "fortaleza",
+      "c_away": "independientemedelln",
+      "homeTeam": "Fortaleza",
+      "awayTeam": "Independiente Medellín",
+      "time": "08:00",
+      "date": "07/11",
+      "timestamp": 1794013200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 07/11] Fortaleza FC vs Independiente Medellín (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 07/11] Fortaleza vs Independiente Medellín",
+      "number": 2
+    },
+    {
+      "key": "07/11_08:00_clubtijuana_necaxa",
+      "c_home": "necaxa",
+      "c_away": "clubtijuana",
+      "homeTeam": "Necaxa",
+      "awayTeam": "Club Tijuana",
+      "time": "08:00",
+      "date": "07/11",
+      "timestamp": 1794013200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 07/11] Necaxa Vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 07/11] Necaxa vs Club Tijuana",
+      "number": 3
+    },
+    {
+      "key": "07/11_08:00_depindependientemedellin_fortaleza",
+      "c_home": "fortaleza",
+      "c_away": "depindependientemedellin",
+      "homeTeam": "Fortaleza",
+      "awayTeam": "Depindependiente Medellin",
+      "time": "08:00",
+      "date": "07/11",
+      "timestamp": 1794013200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 07/11] Fortaleza Fc Vs Depindependiente Medellin (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 07/11] Fortaleza vs Depindependiente Medellin",
+      "number": 4
+    },
+    {
       "key": "07/11_17:00_hagl_hanoi",
       "c_home": "hagl",
       "c_away": "hanoi",
@@ -58,7 +136,33 @@
         }
       ],
       "displayTitle": "⚽ [17:00 07/11] Hoàng Anh Gia Lai vs Hà Nội",
-      "number": 2
+      "number": 5
+    },
+    {
+      "key": "07/11_19:15_cahn_tphcm",
+      "c_home": "cahn",
+      "c_away": "tphcm",
+      "homeTeam": "Công An Hà Nội",
+      "awayTeam": "TP. Hồ Chí Minh",
+      "time": "19:15",
+      "date": "07/11",
+      "timestamp": 1794053700000,
+      "league": "VLEAGUE",
+      "leagueName": "🇻🇳 V-League 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_vleague",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh",
+      "number": 6
     },
     {
       "key": "07/11_21:00_cagliari_frosinone",
@@ -84,7 +188,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 3
+      "number": 7
     },
     {
       "key": "07/11_21:00_lecce_torino",
@@ -110,7 +214,40 @@
         }
       ],
       "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
-      "number": 4
+      "number": 8
+    },
+    {
+      "key": "07/11_21:30_bayern_fsvmainz05",
+      "c_home": "fsvmainz05",
+      "c_away": "bayern",
+      "homeTeam": "FSV Mainz 05",
+      "awayTeam": "Bayern München",
+      "time": "21:30",
+      "date": "07/11",
+      "timestamp": 1794061800000,
+      "league": "BUNDESLIGA",
+      "leagueName": "🇩🇪 Bundesliga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:30 07/11] 1 Fsv Mainz 05 Vs Fc Bayern Munich (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München",
+      "number": 9
     },
     {
       "key": "07/11_21:30_augsburg_leipzig",
@@ -136,40 +273,14 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Rb Leipzig vs Augsburg",
-      "number": 5
-    },
-    {
-      "key": "07/11_21:30_1fsvmainz05_bayern",
-      "c_home": "1fsvmainz05",
-      "c_away": "bayern",
-      "homeTeam": "1 Fsv Mainz 05",
-      "awayTeam": "Bayern Munich",
-      "time": "21:30",
-      "date": "07/11",
-      "timestamp": 1794061800000,
-      "league": "BUNDESLIGA",
-      "leagueName": "🇩🇪 Bundesliga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:30 07/11] 1 Fsv Mainz 05 Vs Fc Bayern Munich (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [21:30 07/11] 1 Fsv Mainz 05 vs Bayern Munich",
-      "number": 6
+      "number": 10
     },
     {
       "key": "07/11_22:00_fulham_newcastle",
       "c_home": "fulham",
       "c_away": "newcastle",
       "homeTeam": "Fulham",
-      "awayTeam": "Newcastle United",
+      "awayTeam": "Newcastle",
       "time": "22:00",
       "date": "07/11",
       "timestamp": 1794063600000,
@@ -180,6 +291,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [22:00 07/11] Fulham vs Newcastle (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [22:00 07/11] Fulham Vs Newcastle United (BLV Gà Siêu Gáy) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -187,8 +305,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle United",
-      "number": 7
+      "displayTitle": "⚽ [22:00 07/11] Fulham vs Newcastle",
+      "number": 11
     },
     {
       "key": "08/11_00:00_bologna_parma",
@@ -206,6 +324,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [00:00 08/11] Parma vs Bologna (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [00:00 08/11] Parma Vs Bologna (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -214,7 +339,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 08/11] Parma vs Bologna",
-      "number": 8
+      "number": 12
     },
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -232,6 +357,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [00:30 08/11] Nottingham Forest Vs Manchester City (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -240,7 +372,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City",
-      "number": 9
+      "number": 13
     },
     {
       "key": "08/11_00:30_bilbao_osasuna",
@@ -258,6 +390,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [00:30 08/11] Osasuna vs Athletic Club (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [00:30 08/11] Ca Osasuna Vs Athletic Club (BLV Gà Siêu Bệu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -266,7 +405,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Osasuna vs Athletic Club",
-      "number": 10
+      "number": 14
     },
     {
       "key": "08/11_00:30_bremen_stuttgart",
@@ -292,7 +431,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 08/11] Vfb Stuttgart vs Sv Werder Bremen",
-      "number": 11
+      "number": 15
     },
     {
       "key": "08/11_03:00_realmadrid_valencia",
@@ -310,6 +449,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [03:00 08/11] Valencia vs Real Madrid (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [03:00 08/11] Valencia Cf Vs Real Madrid (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -318,7 +464,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
-      "number": 12
+      "number": 16
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -344,7 +490,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 13
+      "number": 17
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -370,7 +516,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 14
+      "number": 18
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -396,7 +542,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 15
+      "number": 19
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -422,7 +568,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 16
+      "number": 20
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -448,7 +594,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 17
+      "number": 21
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -474,7 +620,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 18
+      "number": 22
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -500,7 +646,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 19
+      "number": 23
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -526,7 +672,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 20
+      "number": 24
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -552,7 +698,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 21
+      "number": 25
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -578,7 +724,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 22
+      "number": 26
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -604,85 +750,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 23
-    },
-    {
-      "key": "07/11_08:00_fortaleza_independientemedelln",
-      "c_home": "fortaleza",
-      "c_away": "independientemedelln",
-      "homeTeam": "Fortaleza",
-      "awayTeam": "Independiente Medellín",
-      "time": "08:00",
-      "date": "07/11",
-      "timestamp": 1794013200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 07/11] Fortaleza FC vs Independiente Medellín (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 07/11] Fortaleza vs Independiente Medellín",
-      "number": 24
-    },
-    {
-      "key": "07/11_08:00_clubtijuana_necaxa",
-      "c_home": "necaxa",
-      "c_away": "clubtijuana",
-      "homeTeam": "Necaxa",
-      "awayTeam": "Club Tijuana",
-      "time": "08:00",
-      "date": "07/11",
-      "timestamp": 1794013200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 07/11] Necaxa Vs Club Tijuana (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 07/11] Necaxa vs Club Tijuana",
-      "number": 25
-    },
-    {
-      "key": "07/11_08:00_depindependientemedellin_fortaleza",
-      "c_home": "fortaleza",
-      "c_away": "depindependientemedellin",
-      "homeTeam": "Fortaleza",
-      "awayTeam": "Depindependiente Medellin",
-      "time": "08:00",
-      "date": "07/11",
-      "timestamp": 1794013200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 07/11] Fortaleza Fc Vs Depindependiente Medellin (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 07/11] Fortaleza vs Depindependiente Medellin",
-      "number": 26
+      "number": 27
     },
     {
       "key": "07/11_10:00_atlante_santoslaguna",
@@ -708,7 +776,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 07/11] Atlante vs Santos Laguna",
-      "number": 27
+      "number": 28
     },
     {
       "key": "07/11_11:00_auckland_wellingtonphoenix",
@@ -741,7 +809,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 07/11] Auckland vs Wellington Phoenix",
-      "number": 28
+      "number": 29
     },
     {
       "key": "07/11_11:00_shimizuspulse_tokyoverdy",
@@ -767,7 +835,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 07/11] Shimizu S Pulse vs Tokyo Verdy",
-      "number": 29
+      "number": 30
     },
     {
       "key": "07/11_12:00_kyotosanga_nagoyagrampus",
@@ -793,7 +861,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 07/11] Nagoya Grampus vs Kyoto Sanga",
-      "number": 30
+      "number": 31
     },
     {
       "key": "07/11_12:00_gwangjufootballclub_jejusk",
@@ -819,7 +887,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 07/11] Jeju Sk vs Gwangju Football Club",
-      "number": 31
+      "number": 32
     },
     {
       "key": "07/11_13:00_kashimaantlers_tokyo",
@@ -845,13 +913,13 @@
         }
       ],
       "displayTitle": "⚽ [13:00 07/11] Tokyo vs Kashima Antlers",
-      "number": 32
+      "number": 33
     },
     {
-      "key": "07/11_14:30_anyang_gimcheonsangmufootballclub",
-      "c_home": "gimcheonsangmufootballclub",
+      "key": "07/11_14:30_anyang_gimcheonsangmu",
+      "c_home": "gimcheonsangmu",
       "c_away": "anyang",
-      "homeTeam": "Gimcheon Sangmu Football Club",
+      "homeTeam": "Gimcheon Sangmu",
       "awayTeam": "Anyang",
       "time": "14:30",
       "date": "07/11",
@@ -863,6 +931,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [14:30 07/11] Gimcheon Sangmu FC vs FC Anyang (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [14:30 07/11] Gimcheon Sangmu Football Club Vs Fc Anyang (BLV Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -870,8 +945,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [14:30 07/11] Gimcheon Sangmu Football Club vs Anyang",
-      "number": 33
+      "displayTitle": "⚽ [14:30 07/11] Gimcheon Sangmu vs Anyang",
+      "number": 34
     },
     {
       "key": "07/11_15:40_melbournecity_westernsydneywanderers",
@@ -889,6 +964,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [15:40 07/11] Melbourne City Vs Western Sydney Wanderers Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -897,14 +979,14 @@
         }
       ],
       "displayTitle": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers",
-      "number": 34
+      "number": 35
     },
     {
       "key": "07/11_17:00_hanoi_hoanganhgialai",
       "c_home": "hoanganhgialai",
       "c_away": "hanoi",
       "homeTeam": "Hoang Anh Gia Lai",
-      "awayTeam": "Hanoi",
+      "awayTeam": "Ha Noi",
       "time": "17:00",
       "date": "07/11",
       "timestamp": 1794045600000,
@@ -915,6 +997,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [17:00 07/11] Hoang Anh Gia Lai Vs Hanoi Fc (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -922,8 +1011,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Hanoi",
-      "number": 35
+      "displayTitle": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi",
+      "number": 36
     },
     {
       "key": "07/11_17:45_newcastle_perthglory",
@@ -949,7 +1038,66 @@
         }
       ],
       "displayTitle": "⚽ [17:45 07/11] Perth Glory vs Newcastle Jets",
-      "number": 36
+      "number": 37
+    },
+    {
+      "key": "07/11_18:00_haiphong_songlamnghean",
+      "c_home": "haiphong",
+      "c_away": "songlamnghean",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Song Lam Nghe An",
+      "time": "18:00",
+      "date": "07/11",
+      "timestamp": 1794049200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [18:00 07/11] Xm Hai Phong Fc Vs Song Lam Nghe An (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An",
+      "number": 38
+    },
+    {
+      "key": "07/11_18:00_bcninh_ninhbnh",
+      "c_home": "ninhbnh",
+      "c_away": "bcninh",
+      "homeTeam": "Ninh Bình",
+      "awayTeam": "Bắc Ninh",
+      "time": "18:00",
+      "date": "07/11",
+      "timestamp": 1794049200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:00 07/11] Ninh Bình FC vs Bắc Ninh (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [18:00 07/11] Ninh Bình vs Bắc Ninh",
+      "number": 39
     },
     {
       "key": "07/11_18:00_bacninh_ninhbinh",
@@ -975,33 +1123,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 07/11] Ninh Binh vs Bac Ninh",
-      "number": 37
-    },
-    {
-      "key": "07/11_18:00_haiphong_songlamnghean",
-      "c_home": "haiphong",
-      "c_away": "songlamnghean",
-      "homeTeam": "Xm Hai Phong",
-      "awayTeam": "Song Lam Nghe An",
-      "time": "18:00",
-      "date": "07/11",
-      "timestamp": 1794049200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 07/11] Xm Hai Phong Fc Vs Song Lam Nghe An (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [18:00 07/11] Xm Hai Phong vs Song Lam Nghe An",
-      "number": 38
+      "number": 40
     },
     {
       "key": "07/11_19:15_hanoi_tphcm",
@@ -1027,14 +1149,14 @@
         }
       ],
       "displayTitle": "⚽ [19:15 07/11] Cong An Ha Noi vs Cong An Ho Chi Minh City",
-      "number": 39
+      "number": 41
     },
     {
-      "key": "07/11_19:30_leedsunited_tottenham",
-      "c_home": "leedsunited",
+      "key": "07/11_19:30_leeds_tottenham",
+      "c_home": "leeds",
       "c_away": "tottenham",
-      "homeTeam": "Leeds United",
-      "awayTeam": "Tottenham Hotspur",
+      "homeTeam": "Leeds",
+      "awayTeam": "Tottenham",
       "time": "19:30",
       "date": "07/11",
       "timestamp": 1794054600000,
@@ -1045,6 +1167,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [19:30 07/11] Leeds vs Tottenham (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [19:30 07/11] Leeds United Vs Tottenham Hotspur (BLV Gà Siêu Gáy) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1052,8 +1181,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [19:30 07/11] Leeds United vs Tottenham Hotspur",
-      "number": 40
+      "displayTitle": "⚽ [19:30 07/11] Leeds vs Tottenham",
+      "number": 42
     },
     {
       "key": "07/11_20:00_malaga_santander",
@@ -1079,7 +1208,33 @@
         }
       ],
       "displayTitle": "⚽ [20:00 07/11] Malaga vs Racing Santander",
-      "number": 41
+      "number": 43
+    },
+    {
+      "key": "07/11_21:30_dortmund_svelversberg",
+      "c_home": "dortmund",
+      "c_away": "svelversberg",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SV Elversberg",
+      "time": "21:30",
+      "date": "07/11",
+      "timestamp": 1794061800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg",
+      "number": 44
     },
     {
       "key": "07/11_21:30_dortmund_sv07elversberg",
@@ -1105,7 +1260,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Borussia Dortmund vs Sv 07 Elversberg",
-      "number": 42
+      "number": 45
     },
     {
       "key": "07/11_21:30_frankfurt_paderborn07",
@@ -1131,7 +1286,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 07/11] Sc Paderborn 07 vs Eintracht Frankfurt",
-      "number": 43
+      "number": 46
     },
     {
       "key": "07/11_22:00_arsenal_hullcity",
@@ -1149,6 +1304,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [22:00 07/11] Arsenal vs Hull City (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [22:00 07/11] Arsenal Vs Hull City (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1157,7 +1319,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 07/11] Arsenal vs Hull City",
-      "number": 44
+      "number": 47
     },
     {
       "key": "07/11_22:15_deportivo_rcdespanyoldebarcelona",
@@ -1183,7 +1345,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 07/11] Rcd Espanyol De Barcelona vs Deportivo",
-      "number": 45
+      "number": 48
     },
     {
       "key": "07/11_23:00_amedspor_galatasaray",
@@ -1209,7 +1371,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 07/11] Galatasaray vs Amedspor",
-      "number": 46
+      "number": 49
     },
     {
       "key": "08/11_01:00_auxerre_paris",
@@ -1235,7 +1397,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 08/11] Aj Auxerre vs Paris",
-      "number": 47
+      "number": 50
     },
     {
       "key": "08/11_02:45_roma_sassuolo",
@@ -1253,6 +1415,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [02:45 08/11] As Roma Vs Sassuolo (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1261,23 +1430,30 @@
         }
       ],
       "displayTitle": "⚽ [02:45 08/11] Roma vs Sassuolo",
-      "number": 48
+      "number": 51
     },
     {
-      "key": "08/11_03:05_parissaintgermain_troyes",
+      "key": "08/11_02:45_estactroyes_parissaintgermain",
       "c_home": "parissaintgermain",
-      "c_away": "troyes",
+      "c_away": "estactroyes",
       "homeTeam": "Paris Saint Germain",
-      "awayTeam": "Troyes",
-      "time": "03:05",
+      "awayTeam": "Estac Troyes",
+      "time": "02:45",
       "date": "08/11",
-      "timestamp": 1794081900000,
+      "timestamp": 1794080700000,
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [02:45 08/11] Paris Saint Germain vs Estac Troyes (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [03:05 08/11] Paris Saint Germain Vs Troyes (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -1286,8 +1462,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [03:05 08/11] Paris Saint Germain vs Troyes",
-      "number": 49
+      "displayTitle": "⚽ [02:45 08/11] Paris Saint Germain vs Estac Troyes",
+      "number": 52
     },
     {
       "key": "08/11_03:30_moreirense_sportingcp",
@@ -1313,7 +1489,7 @@
         }
       ],
       "displayTitle": "⚽ [03:30 08/11] Sporting Cp vs Moreirense",
-      "number": 50
+      "number": 53
     },
     {
       "key": "08/11_04:00_charlotte_intermilan",
@@ -1331,6 +1507,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [04:00 08/11] Inter Miami Cf Vs Charlotte Fc (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1339,7 +1522,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 08/11] Inter Miami vs Charlotte",
-      "number": 51
+      "number": 54
     },
     {
       "key": "08/11_06:00_atlas_pachuca",
@@ -1365,13 +1548,13 @@
         }
       ],
       "displayTitle": "⚽ [06:00 08/11] Atlas vs Pachuca",
-      "number": 52
+      "number": 55
     },
     {
-      "key": "08/11_06:10_atleticonacionalmedellin_deportivo",
-      "c_home": "atleticonacionalmedellin",
+      "key": "08/11_06:10_atleticonacional_deportivo",
+      "c_home": "atleticonacional",
       "c_away": "deportivo",
-      "homeTeam": "Atletico Nacional Medellin",
+      "homeTeam": "Atletico Nacional",
       "awayTeam": "Deportivo Pereira",
       "time": "06:10",
       "date": "08/11",
@@ -1383,6 +1566,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [06:10 08/11] Atletico Nacional vs Deportivo Pereira (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [06:10 08/11] Atletico Nacional Medellin Vs Deportivo Pereira (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1390,8 +1580,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [06:10 08/11] Atletico Nacional Medellin vs Deportivo Pereira",
-      "number": 53
+      "displayTitle": "⚽ [06:10 08/11] Atletico Nacional vs Deportivo Pereira",
+      "number": 56
     },
     {
       "key": "08/11_07:00_coloradorapids_dallas",
@@ -1417,14 +1607,14 @@
         }
       ],
       "displayTitle": "⚽ [07:00 08/11] Dallas vs Colorado Rapids",
-      "number": 54
+      "number": 57
     },
     {
-      "key": "08/11_08:00_rayadosdemonterrey_toluca",
+      "key": "08/11_08:00_monterrey_toluca",
       "c_home": "toluca",
-      "c_away": "rayadosdemonterrey",
+      "c_away": "monterrey",
       "homeTeam": "Toluca",
-      "awayTeam": "Rayados De Monterrey",
+      "awayTeam": "Monterrey",
       "time": "08:00",
       "date": "08/11",
       "timestamp": 1794099600000,
@@ -1435,6 +1625,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [08:00 08/11] Toluca vs Monterrey (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [08:00 08/11] Toluca Vs Rayados De Monterrey (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1442,8 +1639,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [08:00 08/11] Toluca vs Rayados De Monterrey",
-      "number": 55
+      "displayTitle": "⚽ [08:00 08/11] Toluca vs Monterrey",
+      "number": 58
     },
     {
       "key": "08/11_10:00_clubamerica_pumasunam",
@@ -1469,7 +1666,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 08/11] Pumas Unam vs Club America",
-      "number": 56
+      "number": 59
     },
     {
       "key": "08/11_11:00_brisbaneroar_macarthur",
@@ -1495,7 +1692,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 08/11] Macarthur vs Brisbane Roar",
-      "number": 57
+      "number": 60
     },
     {
       "key": "08/11_12:00_machidazelvia_sanfreccehiroshima",
@@ -1521,7 +1718,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Machida Zelvia vs Sanfrecce Hiroshima",
-      "number": 58
+      "number": 61
     },
     {
       "key": "08/11_12:00_seoul_ulsan",
@@ -1547,7 +1744,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 08/11] Seoul vs Ulsan",
-      "number": 59
+      "number": 62
     },
     {
       "key": "08/11_13:00_cerezoosaka_gambaosaka",
@@ -1573,7 +1770,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Gamba Osaka vs Cerezo Osaka",
-      "number": 60
+      "number": 63
     },
     {
       "key": "08/11_13:00_adelaideunited_melbournevictory",
@@ -1599,7 +1796,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 08/11] Adelaide United vs Melbourne Victory",
-      "number": 61
+      "number": 64
     },
     {
       "key": "08/11_14:30_beijingguoan_chongqingtonglianglong",
@@ -1625,7 +1822,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Beijing Guoan vs Chongqing Tonglianglong",
-      "number": 62
+      "number": 65
     },
     {
       "key": "08/11_14:30_dalianyingbo_tianjinjinmentiger",
@@ -1651,7 +1848,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Dalian Yingbo vs Tianjin Jinmen Tiger",
-      "number": 63
+      "number": 66
     },
     {
       "key": "08/11_14:30_chengdurongcheng_shandongtaishan",
@@ -1677,7 +1874,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Shandong Taishan vs Chengdu Rongcheng",
-      "number": 64
+      "number": 67
     },
     {
       "key": "08/11_14:30_gangwon_jeonbukhyundaimotors",
@@ -1703,7 +1900,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 08/11] Gangwon vs Jeonbuk Hyundai Motors",
-      "number": 65
+      "number": 68
     },
     {
       "key": "08/11_15:00_jefunitedichiharachiba_mitohollyhock",
@@ -1729,7 +1926,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 08/11] Jef United Ichihara Chiba vs Mito Hollyhock",
-      "number": 66
+      "number": 69
     },
     {
       "key": "08/11_16:30_maldives_pakistan",
@@ -1755,7 +1952,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 08/11] Maldives vs Pakistan",
-      "number": 67
+      "number": 70
     },
     {
       "key": "08/11_18:15_feyenoord_heerenveen",
@@ -1781,7 +1978,7 @@
         }
       ],
       "displayTitle": "⚽ [18:15 08/11] Sc Heerenveen vs Feyenoord",
-      "number": 68
+      "number": 71
     },
     {
       "key": "08/11_21:00_acmilan_genoa",
@@ -1807,7 +2004,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 69
+      "number": 72
     },
     {
       "key": "08/11_21:00_losclille_rennais",
@@ -1833,7 +2030,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 70
+      "number": 73
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -1859,7 +2056,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 71
+      "number": 74
     },
     {
       "key": "08/11_21:30_kln_leverkusen",
@@ -1885,7 +2082,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] Kln vs Bayer 04 Leverkusen",
-      "number": 72
+      "number": 75
     }
   ],
   "source_groups": [
@@ -1912,6 +2109,146 @@
           "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [14:30 07/11] Gimcheon Sangmu FC vs FC Anyang (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [15:40 07/11] Melbourne City vs Western Sydney Wanderers (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [17:00 07/11] Hoang Anh Gia Lai vs Ha Noi (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [18:00 07/11] Hai Phong vs Song Lam Nghe An (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [18:00 07/11] Ninh Bình FC vs Bắc Ninh (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [19:15 07/11] Công An Hà Nội vs TP. Hồ Chí Minh (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [19:30 07/11] Leeds vs Tottenham (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:30 07/11] Borussia Dortmund vs SV Elversberg (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:30 07/11] FSV Mainz 05 vs Bayern München (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 07/11] Arsenal vs Hull City (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 07/11] Fulham vs Newcastle (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [00:00 08/11] Parma vs Bologna (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [00:30 08/11] Nottingham Forest vs Manchester City (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [00:30 08/11] Osasuna vs Athletic Club (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 08/11] Paris Saint Germain vs Estac Troyes (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [03:00 08/11] Valencia vs Real Madrid (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [04:00 08/11] Inter Miami vs Charlotte (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [06:10 08/11] Atletico Nacional vs Deportivo Pereira (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [08:00 08/11] Toluca vs Monterrey (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
         }
       ]
     },
@@ -1933,8 +2270,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [08:00 07/11] Fortaleza Fc Vs Depindependiente Medellin (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [08:00 07/11] Fortaleza Fc Vs Depindependiente Medellin (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2614,34 +2951,34 @@
     {
       "home_team": "Atlanta Hawks",
       "away_team": "Washington Wizards",
-      "home_score": "28",
-      "away_score": "32",
+      "home_score": "54",
+      "away_score": "49",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "End of 1st",
+      "detail": "4:07 - 2nd",
       "date": "2026-11-07T00:00Z"
     },
     {
       "home_team": "Charlotte Hornets",
       "away_team": "Boston Celtics",
-      "home_score": "20",
-      "away_score": "40",
+      "home_score": "25",
+      "away_score": "53",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "End of 1st",
+      "detail": "6:34 - 2nd",
       "date": "2026-11-07T00:00Z"
     },
     {
       "home_team": "Cleveland Cavaliers",
       "away_team": "Philadelphia 76ers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "15",
+      "away_score": "2",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/6 - 7:30 PM EST",
+      "detail": "7:12 - 1st",
       "date": "2026-11-07T00:30Z"
     },
     {
