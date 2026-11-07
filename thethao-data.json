@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 05:34:41",
+  "updated_at": "2026-11-08 05:50:12",
   "live_events": [
     {
       "key": "08/11_04:00_charlotte_intermilan",
@@ -42,6 +42,32 @@
       "number": 1
     },
     {
+      "key": "08/11_06:00_atlas_pachuca",
+      "c_home": "atlas",
+      "c_away": "pachuca",
+      "homeTeam": "Atlas",
+      "awayTeam": "Pachuca",
+      "time": "06:00",
+      "date": "08/11",
+      "timestamp": 1794092400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [06:00 08/11] Atlas Vs Pachuca (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [06:00 08/11] Atlas vs Pachuca",
+      "number": 2
+    },
+    {
       "key": "08/11_05:00_denvernuggets_indianapacers",
       "c_home": "indianapacers",
       "c_away": "denvernuggets",
@@ -65,7 +91,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 08/11] Indiana Pacers vs Denver Nuggets",
-      "number": 2
+      "number": 3
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -91,7 +117,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 3
+      "number": 4
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -117,7 +143,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] The Cong Viettel vs Thanh Hoa",
-      "number": 4
+      "number": 5
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -150,7 +176,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 5
+      "number": 6
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -183,7 +209,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton Hove Albion vs Brentford",
-      "number": 6
+      "number": 7
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -216,7 +242,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 7
+      "number": 8
     },
     {
       "key": "08/11_21:00_bournemouthafc_ipswich",
@@ -242,7 +268,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich Town vs Bournemouth Afc",
-      "number": 8
+      "number": 9
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -268,7 +294,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 9
+      "number": 10
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -301,7 +327,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 10
+      "number": 11
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -327,7 +353,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 11
+      "number": 12
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -360,7 +386,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 12
+      "number": 13
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -386,7 +412,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 13
+      "number": 14
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -419,7 +445,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter Milan vs Como",
-      "number": 14
+      "number": 15
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -445,7 +471,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 15
+      "number": 16
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -478,7 +504,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 16
+      "number": 17
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -504,7 +530,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 17
+      "number": 18
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -530,32 +556,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 18
-    },
-    {
-      "key": "08/11_06:00_atlas_pachuca",
-      "c_home": "atlas",
-      "c_away": "pachuca",
-      "homeTeam": "Atlas",
-      "awayTeam": "Pachuca",
-      "time": "06:00",
-      "date": "08/11",
-      "timestamp": 1794092400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [06:00 08/11] Atlas Vs Pachuca (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [06:00 08/11] Atlas vs Pachuca",
       "number": 19
     },
     {
@@ -3178,12 +3178,12 @@
     {
       "home_team": "Indiana Pacers",
       "away_team": "Denver Nuggets",
-      "home_score": "13",
-      "away_score": "21",
+      "home_score": "28",
+      "away_score": "34",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:47 - 1st",
+      "detail": "10:24 - 2nd",
       "date": "2026-11-07T22:00Z"
     },
     {
