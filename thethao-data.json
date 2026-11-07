@@ -1,119 +1,6 @@
 {
-  "updated_at": "2026-11-08 02:32:13",
+  "updated_at": "2026-11-08 02:47:12",
   "live_events": [
-    {
-      "key": "08/11_02:45_roma_sassuolo",
-      "c_home": "roma",
-      "c_away": "sassuolo",
-      "homeTeam": "Roma",
-      "awayTeam": "Sassuolo",
-      "time": "02:45",
-      "date": "08/11",
-      "timestamp": 1794080700000,
-      "league": "SERIE_A",
-      "leagueName": "🇮🇹 Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 08/11] As Roma Vs Sassuolo (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "02:45 08/11 ⚽ AS Roma vs Sassuolo (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Oms3dmtydDgzOXJoa3lmM2o4MjN2NGF0cQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/139_roma.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "🔴 [02:45 08/11] Roma vs Sassuolo",
-      "number": 1
-    },
-    {
-      "key": "08/11_01:00_auxerre_paris",
-      "c_home": "auxerre",
-      "c_away": "paris",
-      "homeTeam": "Aj Auxerre",
-      "awayTeam": "Paris",
-      "time": "01:00",
-      "date": "08/11",
-      "timestamp": 1794074400000,
-      "league": "LIGUE1",
-      "leagueName": "🇫🇷 Ligue 1",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ligue1",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:00 08/11] Aj Auxerre Vs Paris Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "01:00 08/11 ⚽ Auxerre vs Paris (NEM NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTU1NTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmd2lxa2lmaGNheHVuMjE0azh0dGk0Nw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/auxerre-3682",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [01:00 08/11] Aj Auxerre vs Paris",
-      "number": 2
-    },
-    {
-      "key": "08/11_00:30_mancity_nottmforest",
-      "c_home": "nottmforest",
-      "c_away": "mancity",
-      "homeTeam": "Nott'm Forest",
-      "awayTeam": "Man City",
-      "time": "00:30",
-      "date": "08/11",
-      "timestamp": 1794072600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "00:30 08/11 ⚽ Nott'm Forest vs Man City (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "00:30 08/11 ⚽ Nott'm Forest vs Man City (LÝ LONG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [00:30 08/11] Nott'm Forest vs Man City",
-      "number": 3
-    },
     {
       "key": "08/11_03:00_realmadrid_valencia",
       "c_home": "valencia",
@@ -126,7 +13,7 @@
       "league": "LALIGA",
       "leagueName": "🇪🇸 La Liga",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -172,7 +59,120 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [03:00 08/11] Valencia vs Real Madrid",
+      "displayTitle": "🔴 [03:00 08/11] Valencia vs Real Madrid",
+      "number": 1
+    },
+    {
+      "key": "08/11_02:45_roma_sassuolo",
+      "c_home": "roma",
+      "c_away": "sassuolo",
+      "homeTeam": "Roma",
+      "awayTeam": "Sassuolo",
+      "time": "02:45",
+      "date": "08/11",
+      "timestamp": 1794080700000,
+      "league": "SERIE_A",
+      "leagueName": "🇮🇹 Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 08/11] As Roma Vs Sassuolo (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "02:45 08/11 ⚽ AS Roma vs Sassuolo (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Oms3dmtydDgzOXJoa3lmM2o4MjN2NGF0cQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [02:45 08/11] AS Roma vs Sassuolo (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/139_roma.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 08/11] Roma vs Sassuolo",
+      "number": 2
+    },
+    {
+      "key": "08/11_01:00_auxerre_paris",
+      "c_home": "auxerre",
+      "c_away": "paris",
+      "homeTeam": "Aj Auxerre",
+      "awayTeam": "Paris",
+      "time": "01:00",
+      "date": "08/11",
+      "timestamp": 1794074400000,
+      "league": "LIGUE1",
+      "leagueName": "🇫🇷 Ligue 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ligue1",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:00 08/11] Aj Auxerre Vs Paris Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "01:00 08/11 ⚽ Auxerre vs Paris (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTU1NTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmd2lxa2lmaGNheHVuMjE0azh0dGk0Nw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/auxerre-3682",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [01:00 08/11] Aj Auxerre vs Paris",
+      "number": 3
+    },
+    {
+      "key": "08/11_00:30_mancity_nottmforest",
+      "c_home": "nottmforest",
+      "c_away": "mancity",
+      "homeTeam": "Nott'm Forest",
+      "awayTeam": "Man City",
+      "time": "00:30",
+      "date": "08/11",
+      "timestamp": 1794072600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "00:30 08/11 ⚽ Nott'm Forest vs Man City (LÝ LONG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "00:30 08/11 ⚽ Nott'm Forest vs Man City (LÝ LONG) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdx6ql07/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [00:30 08/11] Nott'm Forest vs Man City",
       "number": 4
     },
     {
@@ -2377,15 +2377,15 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [01:00 08/11] Aj Auxerre Vs Paris Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [02:45 08/11] As Roma Vs Sassuolo (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 08/11] As Roma Vs Sassuolo (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [01:00 08/11] Aj Auxerre Vs Paris Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3414,7 +3414,7 @@
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "74'",
+      "detail": "89'",
       "date": "2026-11-07T18:00Z"
     },
     {
