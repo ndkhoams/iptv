@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 09:10:27",
+  "updated_at": "2026-11-07 09:25:38",
   "live_events": [
     {
       "key": "07/11_08:00_fortaleza_independientemedelln",
@@ -2918,45 +2918,45 @@
     {
       "home_team": "Atlanta Hawks",
       "away_team": "Washington Wizards",
-      "home_score": "131",
-      "away_score": "126",
+      "home_score": "139",
+      "away_score": "132",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:35 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-07T00:00Z"
     },
     {
       "home_team": "Charlotte Hornets",
       "away_team": "Boston Celtics",
-      "home_score": "67",
-      "away_score": "112",
+      "home_score": "80",
+      "away_score": "119",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "4:24 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-07T00:00Z"
     },
     {
       "home_team": "Cleveland Cavaliers",
       "away_team": "Philadelphia 76ers",
-      "home_score": "66",
-      "away_score": "61",
+      "home_score": "83",
+      "away_score": "72",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "8:56 - 3rd",
+      "detail": "2:44 - 3rd",
       "date": "2026-11-07T00:30Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Utah Jazz",
-      "home_score": "57",
+      "home_score": "59",
       "away_score": "57",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "10:31 - 3rd",
       "date": "2026-11-07T01:00Z"
     },
     {
@@ -2967,29 +2967,29 @@
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "11:32 - 3rd",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Toronto Raptors",
-      "home_score": "58",
-      "away_score": "45",
+      "home_score": "60",
+      "away_score": "51",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "56.4 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-07T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Minnesota Timberwolves",
-      "home_score": "45",
-      "away_score": "53",
+      "home_score": "51",
+      "away_score": "57",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:23 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-07T01:00Z"
     },
     {
@@ -4228,6 +4228,15 @@
       },
       {
         "rank": 2,
+        "teamName": "Boston Celtics",
+        "shortName": "Celtics",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+        "played": 9,
+        "gd": "7T-2B (GB 1)",
+        "points": 7
+      },
+      {
+        "rank": 3,
         "teamName": "Los Angeles Lakers",
         "shortName": "Lakers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
@@ -4236,7 +4245,7 @@
         "points": 7
       },
       {
-        "rank": 3,
+        "rank": 4,
         "teamName": "Houston Rockets",
         "shortName": "Rockets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
@@ -4245,7 +4254,16 @@
         "points": 7
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "teamName": "Atlanta Hawks",
+        "shortName": "Hawks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+        "played": 10,
+        "gd": "6T-4B (GB 2.5)",
+        "points": 6
+      },
+      {
+        "rank": 6,
         "teamName": "Detroit Pistons",
         "shortName": "Pistons",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
@@ -4254,16 +4272,7 @@
         "points": 6
       },
       {
-        "rank": 5,
-        "teamName": "Boston Celtics",
-        "shortName": "Celtics",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-        "played": 8,
-        "gd": "6T-2B (GB 1.5)",
-        "points": 6
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -4272,7 +4281,7 @@
         "points": 6
       },
       {
-        "rank": 7,
+        "rank": 8,
         "teamName": "Minnesota Timberwolves",
         "shortName": "Timberwolves",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
@@ -4281,7 +4290,7 @@
         "points": 6
       },
       {
-        "rank": 8,
+        "rank": 9,
         "teamName": "Oklahoma City Thunder",
         "shortName": "Thunder",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
@@ -4290,7 +4299,7 @@
         "points": 6
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "San Antonio Spurs",
         "shortName": "Spurs",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
@@ -4299,7 +4308,7 @@
         "points": 6
       },
       {
-        "rank": 10,
+        "rank": 11,
         "teamName": "Memphis Grizzlies",
         "shortName": "Grizzlies",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
@@ -4308,7 +4317,7 @@
         "points": 6
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamName": "Portland Trail Blazers",
         "shortName": "Trail Blazers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
@@ -4317,16 +4326,16 @@
         "points": 6
       },
       {
-        "rank": 12,
-        "teamName": "Atlanta Hawks",
-        "shortName": "Hawks",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+        "rank": 13,
+        "teamName": "Washington Wizards",
+        "shortName": "Wizards",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
         "played": 9,
-        "gd": "5T-4B (GB 3)",
-        "points": 5
+        "gd": "4T-5B (GB 4)",
+        "points": 4
       },
       {
-        "rank": 13,
+        "rank": 14,
         "teamName": "Toronto Raptors",
         "shortName": "Raptors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
@@ -4335,7 +4344,7 @@
         "points": 4
       },
       {
-        "rank": 14,
+        "rank": 15,
         "teamName": "Cleveland Cavaliers",
         "shortName": "Cavaliers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
@@ -4344,19 +4353,10 @@
         "points": 4
       },
       {
-        "rank": 15,
+        "rank": 16,
         "teamName": "New York Knicks",
         "shortName": "Knicks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-        "played": 8,
-        "gd": "4T-4B (GB 3.5)",
-        "points": 4
-      },
-      {
-        "rank": 16,
-        "teamName": "Washington Wizards",
-        "shortName": "Wizards",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
         "played": 8,
         "gd": "4T-4B (GB 3.5)",
         "points": 4
@@ -4393,8 +4393,8 @@
         "teamName": "Charlotte Hornets",
         "shortName": "Hornets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-        "played": 9,
-        "gd": "3T-6B (GB 5)",
+        "played": 10,
+        "gd": "3T-7B (GB 5.5)",
         "points": 3
       },
       {
