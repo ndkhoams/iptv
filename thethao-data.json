@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 11:27:29",
+  "updated_at": "2026-11-07 11:42:40",
   "live_events": [
     {
       "key": "07/11_10:00_atlante_santoslaguna",
@@ -56,11 +56,11 @@
       "number": 1
     },
     {
-      "key": "07/11_11:00_auckland_wellingtonphoenix",
-      "c_home": "auckland",
-      "c_away": "wellingtonphoenix",
-      "homeTeam": "Auckland",
-      "awayTeam": "Wellington Phoenix",
+      "key": "07/11_11:00_shimizuspulse_tokyoverdy",
+      "c_home": "shimizuspulse",
+      "c_away": "tokyoverdy",
+      "homeTeam": "Shimizu S Pulse",
+      "awayTeam": "Tokyo Verdy",
       "time": "11:00",
       "date": "07/11",
       "timestamp": 1794024000000,
@@ -71,12 +71,38 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [11:00 07/11] Auckland vs Wellington Phoenix (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
+          "name": "⚽ [11:00 07/11] Shimizu S Pulse Vs Tokyo Verdy (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
         },
+        {
+          "name": "🟡 11:00 07/11 ⚽ Shimizu S-Pulse vs Tokyo Verdy (Gà Siêu Gáy) [hls]",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [11:00 07/11] Shimizu S Pulse vs Tokyo Verdy",
+      "number": 2
+    },
+    {
+      "key": "07/11_12:00_auckland_wellingtonphoenix",
+      "c_home": "auckland",
+      "c_away": "wellingtonphoenix",
+      "homeTeam": "Auckland",
+      "awayTeam": "Wellington Phoenix",
+      "time": "12:00",
+      "date": "07/11",
+      "timestamp": 1794027600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
         {
           "name": "⚽ [12:00 07/11] Auckland Fc Vs Wellington Phoenix (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -127,40 +153,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "🔴 [11:00 07/11] Auckland vs Wellington Phoenix",
-      "number": 2
-    },
-    {
-      "key": "07/11_11:00_shimizuspulse_tokyoverdy",
-      "c_home": "shimizuspulse",
-      "c_away": "tokyoverdy",
-      "homeTeam": "Shimizu S Pulse",
-      "awayTeam": "Tokyo Verdy",
-      "time": "11:00",
-      "date": "07/11",
-      "timestamp": 1794024000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [11:00 07/11] Shimizu S Pulse Vs Tokyo Verdy (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟡 11:00 07/11 ⚽ Shimizu S-Pulse vs Tokyo Verdy (Gà Siêu Gáy) [hls]",
-          "url": "https://live2.zktsva.app/live/294335.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [11:00 07/11] Shimizu S Pulse vs Tokyo Verdy",
+      "displayTitle": "🔴 [12:00 07/11] Auckland vs Wellington Phoenix",
       "number": 3
     },
     {
@@ -3221,13 +3214,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [11:00 07/11] Auckland vs Wellington Phoenix (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [14:30 07/11] Gimcheon Sangmu FC vs FC Anyang (BLV Chuối Lá) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
@@ -4936,12 +4922,12 @@
     {
       "home_team": "Los Angeles Lakers",
       "away_team": "Portland Trail Blazers",
-      "home_score": "53",
+      "home_score": "57",
       "away_score": "60",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "10:23 - 3rd",
       "date": "2026-11-07T03:00Z"
     },
     {
@@ -4952,7 +4938,7 @@
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11.0 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-07T03:00Z"
     }
   ],
