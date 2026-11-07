@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 02:02:02",
+  "updated_at": "2026-11-08 02:17:09",
   "live_events": [
     {
       "key": "08/11_00:30_mancity_nottingham",
@@ -3452,12 +3452,12 @@
     {
       "home_team": "Nottingham Forest",
       "away_team": "Manchester City",
-      "home_score": "2",
+      "home_score": "3",
       "away_score": "1",
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "71'",
+      "detail": "87'",
       "date": "2026-11-07T17:30Z"
     },
     {
@@ -3486,11 +3486,11 @@
       "home_team": "Osasuna",
       "away_team": "Athletic Club",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "71'",
+      "detail": "87'",
       "date": "2026-11-07T17:30Z"
     },
     {
@@ -3600,7 +3600,7 @@
       "league": "BUNDESLIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "73'",
+      "detail": "88'",
       "date": "2026-11-07T17:30Z"
     },
     {
@@ -3611,7 +3611,7 @@
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "HT",
+      "detail": "59'",
       "date": "2026-11-07T18:00Z"
     },
     {
@@ -4233,6 +4233,15 @@
       },
       {
         "rank": 8,
+        "teamName": "Bologna",
+        "shortName": "Bologna",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+        "played": 11,
+        "gd": "+2",
+        "points": 17
+      },
+      {
+        "rank": 9,
         "teamName": "Cagliari",
         "shortName": "Cagliari",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
@@ -4241,21 +4250,12 @@
         "points": 16
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "Napoli",
         "shortName": "Napoli",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
         "played": 10,
         "gd": "+4",
-        "points": 14
-      },
-      {
-        "rank": 10,
-        "teamName": "Bologna",
-        "shortName": "Bologna",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-        "played": 10,
-        "gd": "+1",
         "points": 14
       },
       {
@@ -4296,15 +4296,6 @@
       },
       {
         "rank": 15,
-        "teamName": "Parma",
-        "shortName": "Parma",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-        "played": 10,
-        "gd": "-7",
-        "points": 8
-      },
-      {
-        "rank": 16,
         "teamName": "Fiorentina",
         "shortName": "Fiorentina",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
@@ -4313,12 +4304,21 @@
         "points": 8
       },
       {
-        "rank": 17,
+        "rank": 16,
         "teamName": "Sassuolo",
         "shortName": "Sassuolo",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
         "played": 10,
         "gd": "-10",
+        "points": 8
+      },
+      {
+        "rank": 17,
+        "teamName": "Parma",
+        "shortName": "Parma",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+        "played": 11,
+        "gd": "-8",
         "points": 8
       },
       {
