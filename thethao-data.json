@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 20:42:38",
+  "updated_at": "2026-11-07 20:57:46",
   "live_events": [
     {
       "key": "07/11_19:30_leeds_tottenham",
@@ -178,6 +178,100 @@
       "number": 3
     },
     {
+      "key": "07/11_21:00_cagliari_frosinone",
+      "c_home": "cagliari",
+      "c_away": "frosinone",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Frosinone",
+      "time": "21:00",
+      "date": "07/11",
+      "timestamp": 1794060000000,
+      "league": "SERIE_A",
+      "leagueName": "🇮🇹 Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 07/11] Cagliari Vs Frosinone (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) [geo]",
+          "url": "https://pull.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/66cd2f25dc14ffaeabf5d6a48b42dd16/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [21:00 07/11] Cagliari vs Frosinone",
+      "number": 4
+    },
+    {
+      "key": "07/11_21:00_lecce_torino",
+      "c_home": "torino",
+      "c_away": "lecce",
+      "homeTeam": "Torino",
+      "awayTeam": "Lecce",
+      "time": "21:00",
+      "date": "07/11",
+      "timestamp": 1794060000000,
+      "league": "SERIE_A",
+      "leagueName": "🇮🇹 Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 07/11] Torino Vs Lecce (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "21:00 07/11 ⚽ Torino vs Lecce (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MDk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnVyOTMzOHh1dDgwamg3YWozbnN1eGQ2Zw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls]",
+          "url": "https://live05.wecile.app/live/33860426.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [21:00 07/11] Torino vs Lecce",
+      "number": 5
+    },
+    {
       "key": "07/11_19:00_1kaiserslautern_vflosnabrck",
       "c_home": "vflosnabrck",
       "c_away": "1kaiserslautern",
@@ -201,7 +295,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 07/11] VfL Osnabrück vs 1. Kaiserslautern",
-      "number": 4
+      "number": 6
     },
     {
       "key": "07/11_19:00_1nrnberg_svdarmstadt98",
@@ -227,7 +321,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 07/11] 1. Nürnberg vs SV Darmstadt 98",
-      "number": 5
+      "number": 7
     },
     {
       "key": "07/11_19:00_kaiserslautern_vflosnabruck",
@@ -260,7 +354,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 07/11] VfL Osnabruck vs Kaiserslautern",
-      "number": 6
+      "number": 8
     },
     {
       "key": "07/11_19:00_bielefeld_holsteinkiel",
@@ -293,7 +387,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 07/11] Holstein Kiel vs Bielefeld",
-      "number": 7
+      "number": 9
     },
     {
       "key": "07/11_19:00_darmstadt_nurnberg",
@@ -326,7 +420,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 07/11] Nurnberg vs Darmstadt",
-      "number": 8
+      "number": 10
     },
     {
       "key": "07/11_19:15_hanoi_tphcm",
@@ -366,7 +460,7 @@
         }
       ],
       "displayTitle": "🔴 [19:15 07/11] Cong An Ha Noi vs Cong An Ho Chi Minh City",
-      "number": 9
+      "number": 11
     },
     {
       "key": "07/11_19:30_wolves_wrexham",
@@ -392,7 +486,7 @@
         }
       ],
       "displayTitle": "🔴 [19:30 07/11] Wrexham vs Wolverhampton Wanderers",
-      "number": 10
+      "number": 12
     },
     {
       "key": "07/11_20:00_malaga_santander",
@@ -446,100 +540,6 @@
         }
       ],
       "displayTitle": "🔴 [20:00 07/11] Malaga vs Racing Santander",
-      "number": 11
-    },
-    {
-      "key": "07/11_21:00_cagliari_frosinone",
-      "c_home": "cagliari",
-      "c_away": "frosinone",
-      "homeTeam": "Cagliari",
-      "awayTeam": "Frosinone",
-      "time": "21:00",
-      "date": "07/11",
-      "timestamp": 1794060000000,
-      "league": "SERIE_A",
-      "leagueName": "🇮🇹 Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 07/11] Cagliari Vs Frosinone (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (LÝ LINH LỰC) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/c4ae7eca9cdd40a8a5b8ad6f4176f7af/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Cagliari vs Frosinone (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/66cd2f25dc14ffaeabf5d6a48b42dd16/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllh6xwqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [21:00 07/11] Cagliari vs Frosinone",
-      "number": 12
-    },
-    {
-      "key": "07/11_21:00_lecce_torino",
-      "c_home": "torino",
-      "c_away": "lecce",
-      "homeTeam": "Torino",
-      "awayTeam": "Lecce",
-      "time": "21:00",
-      "date": "07/11",
-      "timestamp": 1794060000000,
-      "league": "SERIE_A",
-      "leagueName": "🇮🇹 Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 07/11] Torino Vs Lecce (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "21:00 07/11 ⚽ Torino vs Lecce (ASAHI) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MDk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnVyOTMzOHh1dDgwamg3YWozbnN1eGQ2Zw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls]",
-          "url": "https://live05.wecile.app/live/33860426.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 07/11 ⚽ Torino vs U.S. Lecce (BLV TEPPY) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [21:00 07/11] Torino vs Lecce",
       "number": 13
     },
     {
@@ -5303,7 +5303,7 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "50'",
+      "detail": "66'",
       "date": "2026-11-07T12:30Z"
     },
     {
@@ -5347,7 +5347,7 @@
       "league": "LALIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "41'",
+      "detail": "HT",
       "date": "2026-11-07T13:00Z"
     },
     {
