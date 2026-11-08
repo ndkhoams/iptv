@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-08 17:12:34",
+  "updated_at": "2026-11-08 17:27:38",
   "live_events": [
-    {
-      "key": "08/11_15:00_jefunitedichiharachiba_mitohollyhock",
-      "c_home": "jefunitedichiharachiba",
-      "c_away": "mitohollyhock",
-      "homeTeam": "JEF United Ichihara Chiba",
-      "awayTeam": "Mito Hollyhock",
-      "time": "15:00",
-      "date": "08/11",
-      "timestamp": 1794124800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 15:00 08/11 ⚽ JEF United Ichihara Chiba vs Mito Hollyhock (Gà Siêu Tốc) [hls]",
-          "url": "https://live2.zktsva.app/live/307240.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:00 08/11] JEF United Ichihara Chiba vs Mito Hollyhock",
-      "number": 1
-    },
     {
       "key": "08/11_15:30_baliunited_persikkediri",
       "c_home": "baliunited",
@@ -65,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [15:30 08/11] Bali United vs Persik Kediri",
-      "number": 2
+      "number": 1
     },
     {
       "key": "08/11_16:30_maldives_pakistan",
@@ -98,7 +72,7 @@
         }
       ],
       "displayTitle": "🔴 [16:30 08/11] Maldives vs Pakistan",
-      "number": 3
+      "number": 2
     },
     {
       "key": "08/11_17:00_tphcm_xuanthienphutho",
@@ -131,7 +105,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 08/11] TP. Hồ Chí Minh vs Xuan Thien Phu Tho",
-      "number": 4
+      "number": 3
     },
     {
       "key": "08/11_17:00_bravngtu_gianh",
@@ -171,7 +145,66 @@
         }
       ],
       "displayTitle": "🔴 [17:00 08/11] Bà Rịa Vũng Tàu vs Gia Định",
+      "number": 4
+    },
+    {
+      "key": "08/11_17:30_caykurrizespor_erzurumspor",
+      "c_home": "caykurrizespor",
+      "c_away": "erzurumspor",
+      "homeTeam": "Caykur Rizespor",
+      "awayTeam": "Erzurumspor",
+      "time": "17:30",
+      "date": "08/11",
+      "timestamp": 1794133800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [17:30 08/11] Caykur Rizespor Vs Erzurumspor Fk (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [17:30 08/11] Caykur Rizespor vs Erzurumspor",
       "number": 5
+    },
+    {
+      "key": "08/11_17:30_erzurumbb_rizespor",
+      "c_home": "rizespor",
+      "c_away": "erzurumbb",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Erzurum BB",
+      "time": "17:30",
+      "date": "08/11",
+      "timestamp": 1794133800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "17:30 08/11 ⚽ Rizespor vs Erzurum BB (BLV WARRIOR) [hls]",
+          "url": "https://live05.wecile.app/live/97885009.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/be9dd7715b88e662d366df132c630f72.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "17:30 08/11 ⚽ Rizespor vs Erzurum BB (BLV WARRIOR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/be9dd7715b88e662d366df132c630f72.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:30 08/11] Rizespor vs Erzurum BB",
+      "number": 6
     },
     {
       "key": "08/11_18:30_lazio_napoli",
@@ -274,7 +307,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 08/11] Napoli vs Lazio",
-      "number": 6
+      "number": 7
     },
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -349,7 +382,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] Viettel vs Thanh Hóa",
-      "number": 7
+      "number": 8
     },
     {
       "key": "08/11_20:00_betis_elche",
@@ -438,7 +471,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Elche vs Real Betis",
-      "number": 8
+      "number": 9
     },
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -527,7 +560,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton vs Brentford",
-      "number": 9
+      "number": 10
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -609,7 +642,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 10
+      "number": 11
     },
     {
       "key": "08/11_21:00_bournemouth_ipswich",
@@ -656,7 +689,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich vs Bournemouth",
-      "number": 11
+      "number": 12
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -724,7 +757,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 12
+      "number": 13
     },
     {
       "key": "08/11_21:00_acmilan_genoa",
@@ -792,7 +825,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 13
+      "number": 14
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -832,7 +865,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 14
+      "number": 15
     },
     {
       "key": "08/11_21:00_losclille_rennais",
@@ -858,7 +891,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 15
+      "number": 16
     },
     {
       "key": "08/11_21:30_koln_leverkusen",
@@ -919,7 +952,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] 1. Köln vs Bayer Leverkusen",
-      "number": 16
+      "number": 17
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -980,7 +1013,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 17
+      "number": 18
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1006,7 +1039,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_23:15_brest_lyon",
@@ -1032,7 +1065,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Brest vs Lyon",
-      "number": 19
+      "number": 20
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1128,7 +1161,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 20
+      "number": 21
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1161,7 +1194,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 21
+      "number": 22
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -1236,7 +1269,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter vs Como",
-      "number": 22
+      "number": 23
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1276,7 +1309,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 23
+      "number": 24
     },
     {
       "key": "09/11_00:30_celtavigo_levante",
@@ -1309,7 +1342,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
-      "number": 24
+      "number": 25
     },
     {
       "key": "09/11_01:30_1899hoffenheim_schalke04",
@@ -1349,7 +1382,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] 1899 Hoffenheim vs Schalke 04",
-      "number": 25
+      "number": 26
     },
     {
       "key": "09/11_01:30_schalke04_tsghoffenheim",
@@ -1375,7 +1408,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
-      "number": 26
+      "number": 27
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1415,7 +1448,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 27
+      "number": 28
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1455,7 +1488,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 28
+      "number": 29
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1502,66 +1535,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 29
-    },
-    {
-      "key": "08/11_17:30_caykurrizespor_erzurumspor",
-      "c_home": "caykurrizespor",
-      "c_away": "erzurumspor",
-      "homeTeam": "Caykur Rizespor",
-      "awayTeam": "Erzurumspor",
-      "time": "17:30",
-      "date": "08/11",
-      "timestamp": 1794133800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:30 08/11] Caykur Rizespor Vs Erzurumspor Fk (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [17:30 08/11] Caykur Rizespor vs Erzurumspor",
       "number": 30
-    },
-    {
-      "key": "08/11_17:30_erzurumbb_rizespor",
-      "c_home": "rizespor",
-      "c_away": "erzurumbb",
-      "homeTeam": "Rizespor",
-      "awayTeam": "Erzurum BB",
-      "time": "17:30",
-      "date": "08/11",
-      "timestamp": 1794133800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "17:30 08/11 ⚽ Rizespor vs Erzurum BB (BLV WARRIOR) [hls]",
-          "url": "https://live05.wecile.app/live/97885009.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/be9dd7715b88e662d366df132c630f72.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:30 08/11 ⚽ Rizespor vs Erzurum BB (BLV WARRIOR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/be9dd7715b88e662d366df132c630f72.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:30 08/11] Rizespor vs Erzurum BB",
-      "number": 31
     },
     {
       "key": "08/11_18:00_hungyen_quynhonunited",
@@ -1587,7 +1561,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 08/11] Hung Yen vs Quy Nhon United",
-      "number": 32
+      "number": 31
     },
     {
       "key": "08/11_18:00_gazovikorenburg_krylyasovetov",
@@ -1620,7 +1594,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 08/11] Krylya Sovetov vs Gazovik Orenburg",
-      "number": 33
+      "number": 32
     },
     {
       "key": "08/11_18:15_feyenoord_heerenveen",
@@ -1674,7 +1648,7 @@
         }
       ],
       "displayTitle": "⚽ [18:15 08/11] Sc Heerenveen vs Feyenoord",
-      "number": 34
+      "number": 33
     },
     {
       "key": "08/11_19:15_thanhha_viettel",
@@ -1700,7 +1674,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] Viettel vs Thanh Hòa",
-      "number": 35
+      "number": 34
     },
     {
       "key": "08/11_19:30_1heidenheim1846_hannover96",
@@ -1726,7 +1700,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 08/11] 1. Heidenheim 1846 vs Hannover 96",
-      "number": 36
+      "number": 35
     },
     {
       "key": "08/11_20:00_corum_fenerbahce",
@@ -1766,7 +1740,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Corum vs Fenerbahce",
-      "number": 37
+      "number": 36
     },
     {
       "key": "08/11_21:30_kln_leverkusen",
@@ -1792,7 +1766,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] Kln vs Bayer 04 Leverkusen",
-      "number": 38
+      "number": 37
     },
     {
       "key": "08/11_23:15_bilbao_lorient",
@@ -1818,7 +1792,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Havre Athletic Club vs Lorient",
-      "number": 39
+      "number": 38
     },
     {
       "key": "09/11_01:00_porto_vitoriaguimaraes",
@@ -1851,7 +1825,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 09/11] Vitoria Guimaraes vs Porto",
-      "number": 40
+      "number": 39
     },
     {
       "key": "09/11_03:00_atlmadrid_barcelona",
@@ -1877,7 +1851,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atl. Madrid vs Barcelona",
-      "number": 41
+      "number": 40
     },
     {
       "key": "09/11_03:30_benfica_estrelaamadorasad",
@@ -1903,7 +1877,7 @@
         }
       ],
       "displayTitle": "⚽ [03:30 09/11] Estrela Amadora Sad vs Benfica",
-      "number": 42
+      "number": 41
     },
     {
       "key": "09/11_05:30_centralcordobasde_clubatleticolanus",
@@ -1929,7 +1903,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
-      "number": 43
+      "number": 42
     },
     {
       "key": "09/11_06:10_deportestolima_millonarios",
@@ -1962,7 +1936,7 @@
         }
       ],
       "displayTitle": "⚽ [06:10 09/11] Deportes Tolima vs Millonarios",
-      "number": 44
+      "number": 43
     },
     {
       "key": "09/11_08:15_alianzapetrolera_llaneros",
@@ -1988,7 +1962,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros",
-      "number": 45
+      "number": 44
     },
     {
       "key": "09/11_08:15_alianzafutbolclub_llaneros",
@@ -2014,7 +1988,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 09/11] Alianza Futbol Club vs Llaneros",
-      "number": 46
+      "number": 45
     },
     {
       "key": "09/11_09:00_guadalajarachivas_leon",
@@ -2047,7 +2021,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 09/11] Leon vs Guadalajara Chivas",
-      "number": 47
+      "number": 46
     },
     {
       "key": "09/11_09:00_clubleon_deportivo",
@@ -2073,7 +2047,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 09/11] Club Leon vs Club Deportivo Guadalajara",
-      "number": 48
+      "number": 47
     },
     {
       "key": "09/11_12:00_erchim_khovdwestern",
@@ -2099,7 +2073,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 09/11] Erchim vs Khovd Western",
-      "number": 49
+      "number": 48
     },
     {
       "key": "09/11_15:00_khovdbroncos_ulaangomcity",
@@ -2125,7 +2099,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 09/11] Ulaangom City vs Khovd Broncos",
-      "number": 50
+      "number": 49
     },
     {
       "key": "09/11_17:30_araksararat_bentonitidzhevan",
@@ -2151,7 +2125,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Bentonit Idzhevan vs Araks Ararat",
-      "number": 51
+      "number": 50
     },
     {
       "key": "09/11_17:30_mikaashtarak_shirakgjumrib",
@@ -2177,7 +2151,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Mika Ashtarak vs Shirak Gjumri B",
-      "number": 52
+      "number": 51
     },
     {
       "key": "09/11_18:30_karagostar_naftgachsaran",
@@ -2203,7 +2177,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 09/11] Kara Gostar vs Naft Gachsaran",
-      "number": 53
+      "number": 52
     },
     {
       "key": "09/11_19:00_havadartehran_saipa",
@@ -2229,7 +2203,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 09/11] Saipa vs Havadar Tehran",
-      "number": 54
+      "number": 53
     },
     {
       "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
@@ -2255,7 +2229,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
-      "number": 55
+      "number": 54
     },
     {
       "key": "09/11_19:30_kahrabaismailia_wadidegla",
@@ -2281,7 +2255,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla Sc vs Kahraba Ismailia",
-      "number": 56
+      "number": 55
     },
     {
       "key": "09/11_20:00_apszakynthos_nikivolou",
@@ -2307,7 +2281,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 09/11] Aps Zakynthos vs Niki Volou",
-      "number": 57
+      "number": 56
     },
     {
       "key": "09/11_22:00_etar_pfkmontana",
@@ -2333,7 +2307,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Etar vs Pfk Montana",
-      "number": 58
+      "number": 57
     },
     {
       "key": "09/11_22:00_samanodeg_zed",
@@ -2366,7 +2340,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Zed vs Samanod Eg",
-      "number": 59
+      "number": 58
     },
     {
       "key": "09/11_23:00_gagra_iberia1999tbilisi",
@@ -2392,7 +2366,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
-      "number": 60
+      "number": 59
     },
     {
       "key": "09/11_23:30_kamaznaberezhnyechelny_velesmoscow",
@@ -2425,7 +2399,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 09/11] Veles Moscow vs Kamaz Naberezhnye Chelny",
-      "number": 61
+      "number": 60
     },
     {
       "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
@@ -2451,7 +2425,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
-      "number": 62
+      "number": 61
     },
     {
       "key": "10/11_01:00_aarhusfremad_hvidovreif",
@@ -2477,7 +2451,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Hvidovre If vs Aarhus Fremad",
-      "number": 63
+      "number": 62
     },
     {
       "key": "10/11_01:00_botosani_otelulgalati",
@@ -2503,7 +2477,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botosani vs Otelul Galati",
-      "number": 64
+      "number": 63
     },
     {
       "key": "10/11_02:30_realsociedad_sabadell",
@@ -2529,7 +2503,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Sabadell vs Real Sociedad B",
-      "number": 65
+      "number": 64
     },
     {
       "key": "10/11_02:30_asdpineto_vispesaro",
@@ -2555,7 +2529,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Asd Pineto vs Vis Pesaro",
-      "number": 66
+      "number": 65
     },
     {
       "key": "10/11_02:30_berkhamstedtown_plymouthparkway",
@@ -2581,7 +2555,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted Town",
-      "number": 67
+      "number": 66
     },
     {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
@@ -2607,7 +2581,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 68
+      "number": 67
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -2633,7 +2607,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 69
+      "number": 68
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -2659,7 +2633,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 70
+      "number": 69
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -2685,7 +2659,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 71
+      "number": 70
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -2711,7 +2685,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 72
+      "number": 71
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -2737,7 +2711,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 73
+      "number": 72
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -2763,7 +2737,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 74
+      "number": 73
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -2789,7 +2763,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 75
+      "number": 74
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -2815,7 +2789,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 76
+      "number": 75
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -2841,7 +2815,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 77
+      "number": 76
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -2867,7 +2841,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 78
+      "number": 77
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -2893,7 +2867,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 79
+      "number": 78
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -2919,7 +2893,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 80
+      "number": 79
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -2952,7 +2926,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 81
+      "number": 80
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -2978,7 +2952,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 82
+      "number": 81
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -3004,7 +2978,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 83
+      "number": 82
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -3030,7 +3004,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 84
+      "number": 83
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -3056,7 +3030,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 85
+      "number": 84
     }
   ],
   "source_groups": [
