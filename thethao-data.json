@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-09 05:10:12",
+  "updated_at": "2026-11-09 05:25:20",
   "live_events": [
-    {
-      "key": "09/11_03:00_atlmadrid_barcelona",
-      "c_home": "atlmadrid",
-      "c_away": "barcelona",
-      "homeTeam": "Atl. Madrid",
-      "awayTeam": "Barcelona",
-      "time": "03:00",
-      "date": "09/11",
-      "timestamp": 1794168000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (LÝ LA LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/3bbe2fe21d4c429194b4543980795509/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (LÝ LA LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/3bbe2fe21d4c429194b4543980795509/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/4ec9431b331e975f278906fae8e8ecf0/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [03:00 09/11] Atl. Madrid vs Barcelona",
-      "number": 1
-    },
     {
       "key": "09/11_03:30_benfica_estrelaamadorasad",
       "c_home": "estrelaamadorasad",
@@ -62,10 +22,149 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Amadora vs SL Benfica (Dory) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985628_hd/1793985628_hd@720p.m3u8",
+          "logo": "https://images.keovip88.net/images/teams/estrela-da-amadora.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Estrela Amadora SAD vs Benfica (Gà Siêu Tồ) [hls]",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Estrela vs Benfica (BLV MOUNTAIN DEW) [hls]",
+          "url": "https://live05.wecile.app/live/87547578.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Estrela vs Benfica (BLV MOUNTAIN DEW) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
         }
       ],
       "displayTitle": "🔴 [03:30 09/11] Estrela Amadora Sad vs Benfica",
+      "number": 1
+    },
+    {
+      "key": "09/11_03:30_braga_rioave",
+      "c_home": "rioave",
+      "c_away": "braga",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Braga",
+      "time": "03:30",
+      "date": "09/11",
+      "timestamp": 1794169800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 03:30 09/11 ⚽ Rio Ave vs Braga (BLV BÍ ĐAO) [hls]",
+          "url": "https://live05.wecile.app/live/99121525.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Rio Ave vs Braga (BLV BÍ ĐAO) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:30 09/11] Rio Ave vs Braga",
       "number": 2
+    },
+    {
+      "key": "09/11_03:30_benfica_cfea",
+      "c_home": "cfea",
+      "c_away": "benfica",
+      "homeTeam": "CFEA",
+      "awayTeam": "Benfica",
+      "time": "03:30",
+      "date": "09/11",
+      "timestamp": 1794169800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 03:30 09/11 ⚽ CFEA vs Benfica (Lá Chanh) [hls]",
+          "url": "https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/606eca9e363f1c1e62542f8b23fdc71a.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [03:30 09/11] CFEA vs Benfica",
+      "number": 3
+    },
+    {
+      "key": "09/11_04:25_greenbaypackers_newenglandpatriots",
+      "c_home": "greenbaypackers",
+      "c_away": "newenglandpatriots",
+      "homeTeam": "Green Bay Packers",
+      "awayTeam": "New England Patriots",
+      "time": "04:25",
+      "date": "09/11",
+      "timestamp": 1794173100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 04:25 09/11 🏉 Green Bay Packers vs New England Patriots (Riko) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1794151050_hd/1794151050_hd@720p.m3u8",
+          "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeFjPDwgNAreoWjnpVNqrg_96x96.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [04:25 09/11] Green Bay Packers vs New England Patriots",
+      "number": 4
+    },
+    {
+      "key": "09/11_05:00_blg_t1",
+      "c_home": "t1",
+      "c_away": "blg",
+      "homeTeam": "T1",
+      "awayTeam": "BLG",
+      "time": "05:00",
+      "date": "09/11",
+      "timestamp": 1794175200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 05:00 09/11 🎮 T1 vs BLG (Cận) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150678_hd/1794150678_hd@720p.m3u8",
+          "logo": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [05:00 09/11] T1 vs BLG",
+      "number": 5
     },
     {
       "key": "09/11_05:30_centralcordobasde_clubatleticolanus",
@@ -79,7 +178,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -90,22 +189,88 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
           "url": "https://live05.wecile.app/live/49572724.m3u8",
           "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
-      "number": 3
+      "displayTitle": "🔴 [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
+      "number": 6
+    },
+    {
+      "key": "09/11_05:30_centralcordobasde_clubatlticolans",
+      "c_home": "centralcordobasde",
+      "c_away": "clubatlticolans",
+      "homeTeam": "Central Cordoba SDE",
+      "awayTeam": "Club Atlético Lanús",
+      "time": "05:30",
+      "date": "09/11",
+      "timestamp": 1794177000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 05:30 09/11 ⚽ CA Central Cordoba SDE vs Club Atlético Lanús (Gà Siêu Ngố) [hls]",
+          "url": "https://live2.zktsva.app/live/301238.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [05:30 09/11] Central Cordoba SDE vs Club Atlético Lanús",
+      "number": 7
+    },
+    {
+      "key": "09/11_03:30_chicagobulls_philadelphia76ers",
+      "c_home": "chicagobulls",
+      "c_away": "philadelphia76ers",
+      "homeTeam": "Chicago Bulls",
+      "awayTeam": "Philadelphia 76ers",
+      "time": "03:30",
+      "date": "09/11",
+      "timestamp": 1794169800000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (Chồn) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985408_hd/1793985408_hd@720p.m3u8",
+          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (BLV POCARI) [hls]",
+          "url": "https://live05.wecile.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [03:30 09/11] Chicago Bulls vs Philadelphia 76ers",
+      "number": 8
     },
     {
       "key": "09/11_06:10_deportestolima_millonarios",
@@ -137,14 +302,21 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls]",
+          "name": "🟡 06:10 09/11 ⚽ Tolima vs Millonarios (Nếp Cẩm) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1894.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls]",
           "url": "https://live05.wecile.app/live/82054853.m3u8",
           "logo": "https://img.cltvap.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls 2]",
+          "name": "🟡 06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
           "group": "🥤 Cola TV",
@@ -152,7 +324,7 @@
         }
       ],
       "displayTitle": "⚽ [06:10 09/11] Deportes Tolima vs Millonarios",
-      "number": 4
+      "number": 9
     },
     {
       "key": "09/11_07:00_puebla_queretaro",
@@ -169,6 +341,13 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "07:00 09/11 ⚽ Queretaro vs Puebla (BLV Khô Bò) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/278_queretaro.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
         {
           "name": "07:00 09/11 ⚽ Queretaro vs CLB Puebla (BLV PEPSI) [hls]",
           "url": "https://live05.wecile.app/live/59444581.m3u8",
@@ -192,7 +371,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 09/11] Queretaro vs Puebla",
-      "number": 5
+      "number": 10
     },
     {
       "key": "09/11_08:15_alianzapetrolera_llaneros",
@@ -215,10 +394,17 @@
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "08:15 09/11 ⚽ Alianza vs Llaneros (Bút Chì) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros",
-      "number": 6
+      "number": 11
     },
     {
       "key": "09/11_08:15_alianzafutbolclub_llaneros",
@@ -244,7 +430,33 @@
         }
       ],
       "displayTitle": "⚽ [08:15 09/11] Alianza Futbol Club vs Llaneros",
-      "number": 7
+      "number": 12
+    },
+    {
+      "key": "09/11_08:15_alianzaftbolclub_llaneros",
+      "c_home": "alianzaftbolclub",
+      "c_away": "llaneros",
+      "homeTeam": "Alianza Fútbol Club",
+      "awayTeam": "Llaneros",
+      "time": "08:15",
+      "date": "09/11",
+      "timestamp": 1794186900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:15 09/11 ⚽ Alianza Fútbol Club vs Llaneros (Gà Siêu Mõm) [hls]",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/242d6977e9b86cba5cea704d996edbf8.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [08:15 09/11] Alianza Fútbol Club vs Llaneros",
+      "number": 13
     },
     {
       "key": "09/11_09:00_guadalajarachivas_leon",
@@ -269,6 +481,13 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
+          "name": "09:10 09/11 ⚽ Club Leon vs Guadalajara Chivas (BLV Khô Mật) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/303_leon.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
           "name": "⚽ [09:10 09/11] Club Leon vs Guadalajara Chivas (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/303_leon.jpg",
@@ -277,7 +496,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 09/11] Leon vs Guadalajara Chivas",
-      "number": 8
+      "number": 14
     },
     {
       "key": "09/11_09:00_losangelesclippers_neworleanspelicans",
@@ -310,7 +529,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 09/11] Los Angeles Clippers vs New Orleans Pelicans",
-      "number": 9
+      "number": 15
     },
     {
       "key": "09/11_09:10_clubleon_deportivo",
@@ -333,10 +552,76 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (Gà Siêu Kiêu) [hls]",
+          "url": "https://live2.zktsva.app/live/741294.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [09:10 09/11] Club Leon vs Club Deportivo Guadalajara",
-      "number": 10
+      "number": 16
+    },
+    {
+      "key": "09/11_09:10_chivas_len",
+      "c_home": "len",
+      "c_away": "chivas",
+      "homeTeam": "León",
+      "awayTeam": "Chivas",
+      "time": "09:10",
+      "date": "09/11",
+      "timestamp": 1794190200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "09:10 09/11 ⚽ León vs Chivas (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [09:10 09/11] León vs Chivas",
+      "number": 17
+    },
+    {
+      "key": "09/11_09:10_chivasguadalajara_clubleon",
+      "c_home": "clubleon",
+      "c_away": "chivasguadalajara",
+      "homeTeam": "Club Leon",
+      "awayTeam": "Chivas Guadalajara",
+      "time": "09:10",
+      "date": "09/11",
+      "timestamp": 1794190200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls]",
+          "url": "https://live05.wecile.app/live/14830711.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [09:10 09/11] Club Leon vs Chivas Guadalajara",
+      "number": 18
     },
     {
       "key": "09/11_12:00_erchim_khovdwestern",
@@ -359,36 +644,17 @@
           "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [12:00 09/11] Erchim vs Khovd Western",
-      "number": 11
-    },
-    {
-      "key": "09/11_LIVE_btch",
-      "c_home": "btch",
-      "c_away": "",
-      "homeTeam": "Bút Chì",
-      "awayTeam": "Đội khách",
-      "time": "LIVE",
-      "date": "09/11",
-      "timestamp": 1794200400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
+        },
         {
-          "name": "Bút Chì) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+          "name": "12:00 09/11 ⚽ Erchim vs Khovd Western (Teppy) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8",
+          "logo": "https://media.chuoichientv.net/media/uploads/20250623_142515_2677a0e1.png",
           "group": "📜 Sao Kê TV",
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [LIVE 09/11] Bút Chì vs Đội khách",
-      "number": 12
+      "displayTitle": "⚽ [12:00 09/11] Erchim vs Khovd Western",
+      "number": 19
     },
     {
       "key": "09/11_15:00_khovdbroncos_ulaangomcity",
@@ -411,10 +677,50 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "15:00 09/11 ⚽ Ulaangom City vs Khovd Broncos (Gà Siêu Nhí) [hls]",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [15:00 09/11] Ulaangom City vs Khovd Broncos",
-      "number": 13
+      "number": 20
+    },
+    {
+      "key": "09/11_16:00_aralnukus_metallurgbekabad",
+      "c_home": "metallurgbekabad",
+      "c_away": "aralnukus",
+      "homeTeam": "Metallurg Bekabad",
+      "awayTeam": "Aral Nukus",
+      "time": "16:00",
+      "date": "09/11",
+      "timestamp": 1794214800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "16:00 09/11 ⚽ Metallurg Bekabad vs Aral Nukus (BLV REVIVE) [hls]",
+          "url": "https://live05.wecile.app/live/33982309.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "16:00 09/11 ⚽ Metallurg Bekabad vs Aral Nukus (BLV REVIVE) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [16:00 09/11] Metallurg Bekabad vs Aral Nukus",
+      "number": 21
     },
     {
       "key": "09/11_16:00_kattaqo_pakhtakor",
@@ -433,13 +739,6 @@
       "sources": [
         {
           "name": "16:00 09/11 ⚽ Pakhtakor II vs Kattaqo (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/da7696c95402470bb3ae2af1411f5c82/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh722nq82w/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "16:00 09/11 ⚽ Pakhtakor II vs Kattaqo (LÝ LẠNH LÙNG) (HD2) [geo]",
           "url": "https://pull1.digitalcdn.net/live/da7696c95402470bb3ae2af1411f5c82/index.m3u8",
           "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh722nq82w/image/small",
           "group": "💥 Phá Làng TV",
@@ -447,7 +746,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 09/11] Pakhtakor II vs Kattaqo",
-      "number": 14
+      "number": 22
     },
     {
       "key": "09/11_17:30_araksararat_bentonitidzhevan",
@@ -473,7 +772,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Bentonit Idzhevan vs Araks Ararat",
-      "number": 15
+      "number": 23
     },
     {
       "key": "09/11_17:30_mikaashtarak_shirakgjumrib",
@@ -499,7 +798,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Mika Ashtarak vs Shirak Gjumri B",
-      "number": 16
+      "number": 24
     },
     {
       "key": "09/11_18:30_karagostar_naftgachsaran",
@@ -525,7 +824,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 09/11] Kara Gostar vs Naft Gachsaran",
-      "number": 17
+      "number": 25
     },
     {
       "key": "09/11_19:00_havadartehran_saipa",
@@ -551,7 +850,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 09/11] Saipa vs Havadar Tehran",
-      "number": 18
+      "number": 26
     },
     {
       "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
@@ -577,7 +876,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
-      "number": 19
+      "number": 27
     },
     {
       "key": "09/11_19:30_kahrabaismailia_wadidegla",
@@ -600,10 +899,50 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "19:30 09/11 ⚽ Wadi Degla vs Kahraba Ismailia (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhhY3kzczZwajh2endkdWk5a3ltNnRrcA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ Wadi Degla vs Kahraba Ismailia (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRxbWt3NWIyYjh0MHZ2cmk2NDJpbXhhNQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla Sc vs Kahraba Ismailia",
-      "number": 20
+      "number": 28
+    },
+    {
+      "key": "09/11_19:30_cskasofiaii_rilskisportist",
+      "c_home": "cskasofiaii",
+      "c_away": "rilskisportist",
+      "homeTeam": "CSKA Sofia II",
+      "awayTeam": "Rilski Sportist",
+      "time": "19:30",
+      "date": "09/11",
+      "timestamp": 1794227400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:30 09/11 ⚽ CSKA Sofia II vs Rilski Sportist (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzE2ODk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmNmaHdlbDU0cW9zZzZ1NHg2NTE5YTNjNg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [19:30 09/11] CSKA Sofia II vs Rilski Sportist",
+      "number": 29
     },
     {
       "key": "09/11_19:30_politehnicatimisoara_scolarresita",
@@ -622,13 +961,6 @@
       "sources": [
         {
           "name": "19:30 09/11 ⚽ Politehnica Timisoara vs Scolar Resita (LÃM LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho70ryk0/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:30 09/11 ⚽ Politehnica Timisoara vs Scolar Resita (LÃM LÀNG) (HD2) [geo]",
           "url": "https://pull1.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8",
           "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho70ryk0/image/small",
           "group": "💥 Phá Làng TV",
@@ -636,7 +968,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Politehnica Timisoara vs Scolar Resita",
-      "number": 21
+      "number": 30
     },
     {
       "key": "09/11_20:00_apszakynthos_nikivolou",
@@ -662,7 +994,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 09/11] Aps Zakynthos vs Niki Volou",
-      "number": 22
+      "number": 31
     },
     {
       "key": "09/11_22:00_etar_pfkmontana",
@@ -685,10 +1017,17 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "22:00 09/11 ⚽ Etar vs Montana (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzE2ODM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxsbHZ6N3d4cWswbHRyamJpMmxnanFrYQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Etar vs Pfk Montana",
-      "number": 23
+      "number": 32
     },
     {
       "key": "09/11_22:00_samanodeg_zed",
@@ -713,6 +1052,20 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "22:00 09/11 ⚽ ZED vs Samanod (EG) (Triệu Hằng)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-20.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/a08754ab96c283bacbf148154a50c7fc.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "22:00 09/11 ⚽ ZED vs Samanod (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnE4YW8wam1qenpqd3lraHI4NDR6dmI0bw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/zed-fc-238533",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
           "name": "⚽ [22:00 09/11] ZED vs Samanod (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/13645_zed-fc.jpg",
@@ -721,7 +1074,33 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Zed vs Samanod Eg",
-      "number": 24
+      "number": 33
+    },
+    {
+      "key": "09/11_22:00_csdinamobucuresti_ramnicuvalcea",
+      "c_home": "csdinamobucuresti",
+      "c_away": "ramnicuvalcea",
+      "homeTeam": "CS Dinamo Bucuresti",
+      "awayTeam": "Ramnicu Valcea",
+      "time": "22:00",
+      "date": "09/11",
+      "timestamp": 1794236400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "22:00 09/11 ⚽ CS Dinamo Bucuresti vs Ramnicu Valcea (LÝ LONG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/9102cf0432ec43e5a082ed94f816ae42/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh3571moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [22:00 09/11] CS Dinamo Bucuresti vs Ramnicu Valcea",
+      "number": 34
     },
     {
       "key": "09/11_23:00_gagra_iberia1999tbilisi",
@@ -744,10 +1123,17 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "23:00 09/11 ⚽ Iberia 1999 Tbilisi vs Gagra (Tôn Quyền)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-17.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
-      "number": 25
+      "number": 35
     },
     {
       "key": "09/11_23:30_kamaznaberezhnyechelny_velesmoscow",
@@ -772,6 +1158,13 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "23:30 09/11 ⚽ Veles vs KAMAZ (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/690c2ffb92044f98adcea177c98e4a6a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh753pq82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
           "name": "⚽ [23:30 09/11] Veles Moscow vs Kamaz (BLV Xôi Xoài) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/6270_veles.jpg",
@@ -780,7 +1173,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 09/11] Veles Moscow vs Kamaz Naberezhnye Chelny",
-      "number": 26
+      "number": 36
     },
     {
       "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
@@ -806,7 +1199,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
-      "number": 27
+      "number": 37
     },
     {
       "key": "10/11_01:00_aarhusfremad_hvidovreif",
@@ -832,7 +1225,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Hvidovre If vs Aarhus Fremad",
-      "number": 28
+      "number": 38
     },
     {
       "key": "10/11_01:00_botosani_otelulgalati",
@@ -855,10 +1248,43 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "01:00 10/11 ⚽ Botosani vs Otelul Galati (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/e26b89fb100941ee8c94aeb87b28035a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3woxql07/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botosani vs Otelul Galati",
-      "number": 29
+      "number": 39
+    },
+    {
+      "key": "10/11_01:00_botoani_oelulgalai",
+      "c_home": "botoani",
+      "c_away": "oelulgalai",
+      "homeTeam": "Botoşani",
+      "awayTeam": "Oțelul Galați",
+      "time": "01:00",
+      "date": "10/11",
+      "timestamp": 1794247200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "01:00 10/11 ⚽ Botoşani vs Oțelul Galați (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [01:00 10/11] Botoşani vs Oțelul Galați",
+      "number": 40
     },
     {
       "key": "10/11_01:00_kristiansund_valerenga",
@@ -884,7 +1310,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund vs Valerenga",
-      "number": 30
+      "number": 41
     },
     {
       "key": "10/11_02:30_realsociedad_sabadell",
@@ -910,7 +1336,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Sabadell vs Real Sociedad B",
-      "number": 31
+      "number": 42
     },
     {
       "key": "10/11_02:30_asdpineto_vispesaro",
@@ -936,7 +1362,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Asd Pineto vs Vis Pesaro",
-      "number": 32
+      "number": 43
     },
     {
       "key": "10/11_02:30_berkhamstedtown_plymouthparkway",
@@ -962,7 +1388,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted Town",
-      "number": 33
+      "number": 44
     },
     {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
@@ -988,7 +1414,33 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 34
+      "number": 45
+    },
+    {
+      "key": "10/11_03:15_torreense_uniodeleiria",
+      "c_home": "torreense",
+      "c_away": "uniodeleiria",
+      "homeTeam": "Torreense",
+      "awayTeam": "União de Leiria",
+      "time": "03:15",
+      "date": "10/11",
+      "timestamp": 1794255300000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [03:15 10/11] Torreense vs União de Leiria",
+      "number": 46
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -1014,7 +1466,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 35
+      "number": 47
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -1040,7 +1492,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 36
+      "number": 48
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -1066,7 +1518,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 37
+      "number": 49
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -1092,7 +1544,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 38
+      "number": 50
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -1118,7 +1570,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 39
+      "number": 51
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -1144,7 +1596,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 40
+      "number": 52
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -1170,7 +1622,33 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 41
+      "number": 53
+    },
+    {
+      "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
+      "c_home": "sloveniaindoorsoccer",
+      "c_away": "belgiumindoorsoccer",
+      "homeTeam": "Slovenia Indoor Soccer",
+      "awayTeam": "Belgium Indoor Soccer",
+      "time": "23:30",
+      "date": "10/11",
+      "timestamp": 1794328200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "23:30 10/11 ⚽ Slovenia Indoor Soccer vs Belgium Indoor Soccer (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/a6b92378e9ff496a96f00d791cc394cf/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw56oqdyj/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
+      "number": 54
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -1196,7 +1674,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 42
+      "number": 55
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -1222,7 +1700,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 43
+      "number": 56
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -1248,7 +1726,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 44
+      "number": 57
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -1274,7 +1752,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 45
+      "number": 58
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -1300,7 +1778,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 46
+      "number": 59
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -1326,7 +1804,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 47
+      "number": 60
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1359,7 +1837,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 48
+      "number": 61
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -1385,7 +1863,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 49
+      "number": 62
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1411,7 +1889,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 50
+      "number": 63
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1437,7 +1915,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 51
+      "number": 64
     },
     {
       "key": "09/11_06:00_detroitpistons_losangeleslakers",
@@ -1455,22 +1933,29 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls]",
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls]",
           "url": "https://live05.wecile.app/live/87379114.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls 2]",
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
+        },
+        {
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (Titan) [hls]",
+          "url": "https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/3f82122a48e98eaccc5e71307eba801a.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
         }
       ],
       "displayTitle": "🏀 [06:00 09/11] Detroit Pistons vs Los Angeles Lakers",
-      "number": 52
+      "number": 65
     },
     {
       "key": "09/11_07:30_brooklynnets_dallasmavericks",
@@ -1503,7 +1988,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 09/11] Dallas Mavericks vs Brooklyn Nets",
-      "number": 53
+      "number": 66
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -1529,7 +2014,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 54
+      "number": 67
     }
   ],
   "source_groups": [
@@ -1943,128 +2428,74 @@
       ]
     },
     {
-      "name": "📜 Sao Kê TV",
+      "name": "⏰ Giờ Vàng TV",
       "channels": [
         {
-          "name": "Bút Chì) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-          "group": "📜 Sao Kê TV",
+          "name": "🟢 03:30 09/11 ⚽ Amadora vs SL Benfica (Dory) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985628_hd/1793985628_hd@720p.m3u8",
+          "logo": "https://images.keovip88.net/images/teams/estrela-da-amadora.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (Chồn) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985408_hd/1793985408_hd@720p.m3u8",
+          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 04:25 09/11 🏉 Green Bay Packers vs New England Patriots (Riko) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1794151050_hd/1794151050_hd@720p.m3u8",
+          "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeFjPDwgNAreoWjnpVNqrg_96x96.png",
+          "group": "⏰ Giờ Vàng TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 05:00 09/11 🎮 T1 vs BLG (Cận) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150678_hd/1794150678_hd@720p.m3u8",
+          "logo": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
+          "group": "⏰ Giờ Vàng TV",
           "ref": ""
         }
       ]
     },
     {
-      "name": "🍺 Bia Ôm TV",
+      "name": "🐔 Gà Vàng 33",
       "channels": [
         {
-          "name": "02:45 09/11 ⚽ Lens vs Olympique Marseille (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTU1NDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNuemM4cDE4Znk2eThzYXBtanluMWJqYw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271",
-          "group": "🍺 Bia Ôm TV",
+          "name": "🟢 03:30 09/11 ⚽ Estrela Amadora SAD vs Benfica (Gà Siêu Tồ) [hls]",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "03:00 09/11 ⚽ Atlético Madrid vs Barcelona (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZybHRyd3pldnE5cjQ5cXBkeTF5bjR2aA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
-          "group": "🍺 Bia Ôm TV",
+          "name": "🟢 05:30 09/11 ⚽ CA Central Cordoba SDE vs Club Atlético Lanús (Gà Siêu Ngố) [hls]",
+          "url": "https://live2.zktsva.app/live/301238.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "03:00 09/11 ⚽ Atlético Madrid vs Barcelona (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "💥 Phá Làng TV",
-      "channels": [
-        {
-          "name": "02:45 09/11 ⚽ Fiorentina vs Juventus (LÃM LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/df50658ae61d48c2abdf65db44657539/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
-          "group": "💥 Phá Làng TV",
+          "name": "08:15 09/11 ⚽ Alianza Fútbol Club vs Llaneros (Gà Siêu Mõm) [hls]",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/242d6977e9b86cba5cea704d996edbf8.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "02:45 09/11 ⚽ Fiorentina vs Juventus (LÃM LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/df50658ae61d48c2abdf65db44657539/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
-          "group": "💥 Phá Làng TV",
+          "name": "09:10 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (Gà Siêu Kiêu) [hls]",
+          "url": "https://live2.zktsva.app/live/741294.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         },
         {
-          "name": "02:45 09/11 ⚽ Fiorentina vs Juventus (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/15c99cf32ceec22feafb14f510fd8727/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/8y39mp1h80jmojx/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (LÝ LA LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/3bbe2fe21d4c429194b4543980795509/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (LÝ LA LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/3bbe2fe21d4c429194b4543980795509/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 09/11 ⚽ Atl. Madrid vs Barcelona (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/4ec9431b331e975f278906fae8e8ecf0/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "16:00 09/11 ⚽ Pakhtakor II vs Kattaqo (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/da7696c95402470bb3ae2af1411f5c82/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh722nq82w/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "16:00 09/11 ⚽ Pakhtakor II vs Kattaqo (LÝ LẠNH LÙNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/da7696c95402470bb3ae2af1411f5c82/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh722nq82w/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 09/11 ⚽ Tunisia U17 vs Libya U17 (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/9157f09bc56e4c2f88044628a6c3623e/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8k6wq86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "18:00 09/11 ⚽ Tunisia U17 vs Libya U17 (LÝ LINH LỰC) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/9157f09bc56e4c2f88044628a6c3623e/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8k6wq86p/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:30 09/11 ⚽ Politehnica Timisoara vs Scolar Resita (LÃM LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho70ryk0/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:30 09/11 ⚽ Politehnica Timisoara vs Scolar Resita (LÃM LÀNG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho70ryk0/image/small",
-          "group": "💥 Phá Làng TV",
+          "name": "15:00 09/11 ⚽ Ulaangom City vs Khovd Broncos (Gà Siêu Nhí) [hls]",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/cc0f42f7eec708cb429156b1becb3f93.png",
+          "group": "🐔 Gà Vàng 33",
           "ref": ""
         }
       ]
@@ -2073,42 +2504,84 @@
       "name": "🥤 Cola TV",
       "channels": [
         {
-          "name": "05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
+          "name": "🟢 03:30 09/11 ⚽ Estrela vs Benfica (BLV MOUNTAIN DEW) [hls]",
+          "url": "https://live05.wecile.app/live/87547578.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Estrela vs Benfica (BLV MOUNTAIN DEW) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Rio Ave vs Braga (BLV BÍ ĐAO) [hls]",
+          "url": "https://live05.wecile.app/live/99121525.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 ⚽ Rio Ave vs Braga (BLV BÍ ĐAO) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (BLV POCARI) [hls]",
+          "url": "https://live05.wecile.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 03:30 09/11 🏀 Chicago Bulls vs Philadelphia 76ers (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
           "url": "https://live05.wecile.app/live/49572724.m3u8",
           "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls]",
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls]",
           "url": "https://live05.wecile.app/live/87379114.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls 2]",
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (BLV Cozy) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls]",
+          "name": "🟡 06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls]",
           "url": "https://live05.wecile.app/live/82054853.m3u8",
           "logo": "https://img.cltvap.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
         {
-          "name": "06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls 2]",
+          "name": "🟡 06:10 09/11 ⚽ Deportes Tolima vs CLB Millonarios (BLV ROCKSTAR) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
           "group": "🥤 Cola TV",
@@ -2154,6 +2627,260 @@
           "url": "https://live05.yefpwmc.app/live/56998120_tsc.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",
           "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls]",
+          "url": "https://live05.wecile.app/live/14830711.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "16:00 09/11 ⚽ Metallurg Bekabad vs Aral Nukus (BLV REVIVE) [hls]",
+          "url": "https://live05.wecile.app/live/33982309.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "16:00 09/11 ⚽ Metallurg Bekabad vs Aral Nukus (BLV REVIVE) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/4aa9ac9ceebfd497212c8f17ab6c7162.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🐔 Gà Vàng 24h",
+      "channels": [
+        {
+          "name": "🟢 03:30 09/11 ⚽ CFEA vs Benfica (Lá Chanh) [hls]",
+          "url": "https://playback.livetl002.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "logo": "https://static.sportsfeed.pro/football/team/606eca9e363f1c1e62542f8b23fdc71a.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        },
+        {
+          "name": "🟡 06:00 09/11 🏀 Detroit Pistons vs Los Angeles Lakers (Titan) [hls]",
+          "url": "https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/3f82122a48e98eaccc5e71307eba801a.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "📜 Sao Kê TV",
+      "channels": [
+        {
+          "name": "🟡 06:10 09/11 ⚽ Tolima vs Millonarios (Nếp Cẩm) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1894.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "08:15 09/11 ⚽ Alianza vs Llaneros (Bút Chì) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "09:10 09/11 ⚽ León vs Chivas (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "12:00 09/11 ⚽ Erchim vs Khovd Western (Teppy) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8",
+          "logo": "https://media.chuoichientv.net/media/uploads/20250623_142515_2677a0e1.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍗 Khô Gà TV",
+      "channels": [
+        {
+          "name": "07:00 09/11 ⚽ Queretaro vs Puebla (BLV Khô Bò) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/278_queretaro.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "09:10 09/11 ⚽ Club Leon vs Guadalajara Chivas (BLV Khô Mật) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/303_leon.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "💥 Phá Làng TV",
+      "channels": [
+        {
+          "name": "16:00 09/11 ⚽ Pakhtakor II vs Kattaqo (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/da7696c95402470bb3ae2af1411f5c82/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh722nq82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "18:00 09/11 ⚽ Tunisia U17 vs Libya U17 (LÝ LINH LỰC) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/9157f09bc56e4c2f88044628a6c3623e/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/4wyrn4h8k6wq86p/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ Politehnica Timisoara vs Scolar Resita (LÃM LÀNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/gpxwrxlho70ryk0/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "22:00 09/11 ⚽ CS Dinamo Bucuresti vs Ramnicu Valcea (LÝ LONG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/9102cf0432ec43e5a082ed94f816ae42/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh3571moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "23:30 09/11 ⚽ Veles vs KAMAZ (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/690c2ffb92044f98adcea177c98e4a6a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzgh753pq82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "01:00 10/11 ⚽ Botosani vs Otelul Galati (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/e26b89fb100941ee8c94aeb87b28035a/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/2y8m4zh3woxql07/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "15:00 10/11 ⚽ Qatar U23 vs Singapore U23 (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/8ae2e1d0649843ada4203fcbf41ec8c2/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/4zp5rzgh98vq82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (LÝ LA LÀNG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/6613838023c6447184654af147f85295/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkplym2wd/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (LÝ LONG) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/807fa827de5044529ee76d8ede29ce87/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkplym2wd/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "23:30 10/11 ⚽ Slovenia Indoor Soccer vs Belgium Indoor Soccer (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/a6b92378e9ff496a96f00d791cc394cf/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw56oqdyj/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "👑 Vua Sân Cỏ",
+      "channels": [
+        {
+          "name": "19:00 09/11 ⚽ South Sudan U23 vs Senegal U23 (Trần Hoàng)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-19.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/70d5c573c693c4053f908d9d9314ce87.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "22:00 09/11 ⚽ ZED vs Samanod (EG) (Triệu Hằng)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-20.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/a08754ab96c283bacbf148154a50c7fc.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "23:00 09/11 ⚽ Iberia 1999 Tbilisi vs Gagra (Tôn Quyền)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-17.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍺 Bia Ôm TV",
+      "channels": [
+        {
+          "name": "19:30 09/11 ⚽ CSKA Sofia II vs Rilski Sportist (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzE2ODk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmNmaHdlbDU0cW9zZzZ1NHg2NTE5YTNjNg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ Wadi Degla vs Kahraba Ismailia (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhhY3kzczZwajh2endkdWk5a3ltNnRrcA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ Wadi Degla vs Kahraba Ismailia (ASAHI) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRxbWt3NWIyYjh0MHZ2cmk2NDJpbXhhNQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "22:00 09/11 ⚽ Etar vs Montana (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzE2ODM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxsbHZ6N3d4cWswbHRyamJpMmxnanFrYQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "22:00 09/11 ⚽ ZED vs Samanod (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk5MDI0NTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnE4YW8wam1qenpqd3lraHI4NDR6dmI0bw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/zed-fc-238533",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "01:00 10/11 ⚽ Botoşani vs Oțelul Galați (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
         }
       ]
@@ -2587,12 +3314,12 @@
     {
       "home_team": "Chicago Bulls",
       "away_team": "Philadelphia 76ers",
-      "home_score": "91",
-      "away_score": "99",
+      "home_score": "101",
+      "away_score": "106",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:01 - 3rd",
+      "detail": "8:29 - 4th",
       "date": "2026-11-08T20:30Z"
     },
     {
