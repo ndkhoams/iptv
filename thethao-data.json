@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 20:00:08",
+  "updated_at": "2026-11-08 20:15:12",
   "live_events": [
     {
       "key": "08/11_19:15_thanhhoa_viettel",
@@ -660,6 +660,39 @@
       "number": 14
     },
     {
+      "key": "08/11_20:30_ajax_twente",
+      "c_home": "twente",
+      "c_away": "ajax",
+      "homeTeam": "Twente",
+      "awayTeam": "Câu lạc bộ AFC Ajax",
+      "time": "20:30",
+      "date": "08/11",
+      "timestamp": 1794144600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "20:30 08/11 ⚽ Twente vs Câu lạc bộ AFC Ajax (BLV SAMURAI) [hls]",
+          "url": "https://live05.wecile.app/live/07808742.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7a2d0c79dd5d8589167c88684ac55aca.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "20:30 08/11 ⚽ Twente vs Câu lạc bộ AFC Ajax (BLV SAMURAI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7a2d0c79dd5d8589167c88684ac55aca.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [20:30 08/11] Twente vs Câu lạc bộ AFC Ajax",
+      "number": 15
+    },
+    {
       "key": "08/11_21:00_brentford_brighton",
       "c_home": "brighton",
       "c_away": "brentford",
@@ -753,7 +786,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Brighton vs Brentford",
-      "number": 15
+      "number": 16
     },
     {
       "key": "08/11_21:00_crystalpalace_liverpool",
@@ -856,7 +889,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Crystal Palace vs Liverpool",
-      "number": 16
+      "number": 17
     },
     {
       "key": "08/11_21:00_bournemouth_ipswich",
@@ -910,7 +943,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Ipswich vs Bournemouth",
-      "number": 17
+      "number": 18
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -992,7 +1025,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_21:00_acmilan_genoa",
@@ -1074,7 +1107,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 19
+      "number": 20
     },
     {
       "key": "08/11_21:00_atalanta_monza",
@@ -1114,7 +1147,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 20
+      "number": 21
     },
     {
       "key": "08/11_21:00_losclille_rennais",
@@ -1154,7 +1187,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 21
+      "number": 22
     },
     {
       "key": "08/11_21:00_lilleosc_rennais",
@@ -1187,7 +1220,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Rennais vs Lille OSC",
-      "number": 22
+      "number": 23
     },
     {
       "key": "08/11_21:30_koln_leverkusen",
@@ -1255,7 +1288,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] 1. Köln vs Bayer Leverkusen",
-      "number": 23
+      "number": 24
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -1316,7 +1349,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 24
+      "number": 25
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1342,7 +1375,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 25
+      "number": 26
     },
     {
       "key": "08/11_23:15_brest_lyon",
@@ -1375,7 +1408,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Brest vs Lyon",
-      "number": 26
+      "number": 27
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1471,7 +1504,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 27
+      "number": 28
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1504,7 +1537,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 28
+      "number": 29
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -1579,7 +1612,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter vs Como",
-      "number": 29
+      "number": 30
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1640,7 +1673,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 30
+      "number": 31
     },
     {
       "key": "09/11_00:30_celtavigo_levante",
@@ -1673,7 +1706,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
-      "number": 31
+      "number": 32
     },
     {
       "key": "09/11_01:30_1899hoffenheim_schalke04",
@@ -1734,7 +1767,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] 1899 Hoffenheim vs Schalke 04",
-      "number": 32
+      "number": 33
     },
     {
       "key": "09/11_01:30_schalke04_tsghoffenheim",
@@ -1760,7 +1793,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
-      "number": 33
+      "number": 34
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1821,7 +1854,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 34
+      "number": 35
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1861,7 +1894,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 35
+      "number": 36
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1908,39 +1941,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 36
-    },
-    {
-      "key": "08/11_20:30_ajax_twente",
-      "c_home": "twente",
-      "c_away": "ajax",
-      "homeTeam": "Twente",
-      "awayTeam": "Câu lạc bộ AFC Ajax",
-      "time": "20:30",
-      "date": "08/11",
-      "timestamp": 1794144600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "20:30 08/11 ⚽ Twente vs Câu lạc bộ AFC Ajax (BLV SAMURAI) [hls]",
-          "url": "https://live05.wecile.app/live/07808742.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7a2d0c79dd5d8589167c88684ac55aca.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "20:30 08/11 ⚽ Twente vs Câu lạc bộ AFC Ajax (BLV SAMURAI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/7a2d0c79dd5d8589167c88684ac55aca.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [20:30 08/11] Twente vs Câu lạc bộ AFC Ajax",
       "number": 37
     },
     {
@@ -2183,8 +2183,8 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2360,8 +2360,8 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [09:00 09/11] Club Leon Vs Club Deportivo Guadalajara (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [09:00 09/11] Club Leon Vs Club Deportivo Guadalajara (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3672,8 +3672,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3686,8 +3686,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [09:00 09/11] Club Leon Vs Club Deportivo Guadalajara (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [09:00 09/11] Club Leon Vs Club Deportivo Guadalajara (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -5258,9 +5258,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "LALIGA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "15'",
       "date": "2026-11-08T13:00Z"
     },
     {
@@ -5315,7 +5315,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "70'",
+      "detail": "85'",
       "date": "2026-11-08T11:30Z"
     },
     {
@@ -7159,6 +7159,15 @@
       },
       {
         "rank": 6,
+        "teamName": "Thanh Hòa FC",
+        "shortName": "Thanh Hòa FC",
+        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179226.png",
+        "played": 7,
+        "gd": "0",
+        "points": 11
+      },
+      {
+        "rank": 7,
         "teamName": "Hải Phòng",
         "shortName": "Hải Phòng",
         "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179222.png",
@@ -7167,7 +7176,7 @@
         "points": 10
       },
       {
-        "rank": 7,
+        "rank": 8,
         "teamName": "Cong An Ho Chí Minh City",
         "shortName": "Cong An Ho Chí Minh City",
         "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179228.png",
@@ -7176,7 +7185,7 @@
         "points": 10
       },
       {
-        "rank": 8,
+        "rank": 9,
         "teamName": "Da Nẵng",
         "shortName": "Da Nẵng",
         "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179220.png",
@@ -7185,22 +7194,13 @@
         "points": 9
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "Ha Nội FC",
         "shortName": "Ha Nội FC",
         "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179219.png",
         "played": 7,
         "gd": "-4",
         "points": 9
-      },
-      {
-        "rank": 10,
-        "teamName": "Thanh Hòa FC",
-        "shortName": "Thanh Hòa FC",
-        "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/179226.png",
-        "played": 6,
-        "gd": "-1",
-        "points": 8
       },
       {
         "rank": 11,
@@ -7225,8 +7225,8 @@
         "teamName": "Viettel",
         "shortName": "Viettel",
         "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/743070.png",
-        "played": 6,
-        "gd": "-4",
+        "played": 7,
+        "gd": "-5",
         "points": 4
       },
       {
