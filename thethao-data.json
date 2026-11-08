@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 14:56:30",
+  "updated_at": "2026-11-08 15:11:38",
   "live_events": [
     {
       "key": "08/11_13:00_adelaideunited_melbournevictory",
@@ -112,13 +112,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [13:00 08/11] Gamba Osaka Vs Cerezo Osaka (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "🟢 13:00 08/11 ⚽ Gamba Osaka vs Cerezo Osaka (Nguyễn Ánh)",
           "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-11.m3u8",
@@ -750,9 +743,9 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [19:15 08/11] Viettel vs Thanh Hóa (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "name": "⚽ [19:15 08/11] Viettel vs Thanh Hóa (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
@@ -914,9 +907,9 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [21:00 08/11] Brighton vs Brentford (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "name": "⚽ [21:00 08/11] Brighton vs Brentford (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
@@ -1117,6 +1110,74 @@
       "number": 20
     },
     {
+      "key": "08/11_21:00_acmilan_genoa",
+      "c_home": "genoa",
+      "c_away": "acmilan",
+      "homeTeam": "Genoa",
+      "awayTeam": "Milan",
+      "time": "21:00",
+      "date": "08/11",
+      "timestamp": 1794146400000,
+      "league": "SERIE_A",
+      "leagueName": "🇮🇹 Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 08/11] Genoa vs AC Milan (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:00 08/11] Genoa Vs Ac Milan (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "21:00 08/11 ⚽ Genoa vs Milan (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh4eTkyb2o2ZHJjZ2lzbWEyaTJ2bWYzcQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/genoa-102",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 08/11 ⚽ Genoa vs Milan (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull.digitalcdn.net/live/3180ff3536664a8191b910a8eca1ea82/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 08/11 ⚽ Genoa vs Milan (LÝ LÀNG LÁ) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/3180ff3536664a8191b910a8eca1ea82/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 08/11 ⚽ Genoa vs Milan (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/901193aab9f63b536d27917f09fc4916/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [21:00 08/11] Genoa vs AC Milan (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/4986_genoa.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
+      "number": 21
+    },
+    {
       "key": "08/11_21:00_atalanta_monza",
       "c_home": "monza",
       "c_away": "atalanta",
@@ -1154,7 +1215,33 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Monza vs Atalanta",
-      "number": 21
+      "number": 22
+    },
+    {
+      "key": "08/11_21:00_losclille_rennais",
+      "c_home": "rennais",
+      "c_away": "losclille",
+      "homeTeam": "Rennais",
+      "awayTeam": "Losc Lille",
+      "time": "21:00",
+      "date": "08/11",
+      "timestamp": 1794146400000,
+      "league": "LIGUE1",
+      "leagueName": "🇫🇷 Ligue 1",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_ligue1",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:00 08/11] Stade Rennais Fc Vs Losc Lille (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
+      "number": 23
     },
     {
       "key": "08/11_21:30_koln_leverkusen",
@@ -1215,7 +1302,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] 1. Köln vs Bayer Leverkusen",
-      "number": 22
+      "number": 24
     },
     {
       "key": "08/11_22:15_rayovallecano_realsociedad",
@@ -1276,7 +1363,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 08/11] Real Sociedad vs Rayo Vallecano",
-      "number": 23
+      "number": 25
     },
     {
       "key": "08/11_23:15_angerssco_ogcnice",
@@ -1302,7 +1389,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 24
+      "number": 26
     },
     {
       "key": "08/11_23:15_brest_lyon",
@@ -1328,7 +1415,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Brest vs Lyon",
-      "number": 25
+      "number": 27
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1417,7 +1504,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 26
+      "number": 28
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1450,7 +1537,82 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 27
+      "number": 29
+    },
+    {
+      "key": "09/11_00:00_como_intermilan",
+      "c_home": "intermilan",
+      "c_away": "como",
+      "homeTeam": "Inter",
+      "awayTeam": "Como",
+      "time": "00:00",
+      "date": "09/11",
+      "timestamp": 1794157200000,
+      "league": "SERIE_A",
+      "leagueName": "🇮🇹 Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:00 09/11] Inter vs Como (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [00:00 09/11] Inter Milan Vs Como (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "00:00 09/11 ⚽ Inter Milan vs Como (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnd3OGMxaXZoZHNpMGVvejd4YW02dHdhbA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 09/11 ⚽ Inter Milan vs Como (TIGER) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnJwNGxqdmhjaHIxcmswZWk2MHBhd2JrOQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 09/11 ⚽ Inter vs Como (LÝ LONG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/e0f47d2aef174a02b7af1d27d8202855/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 09/11 ⚽ Inter vs Como (LÝ LONG) (HD2) [geo]",
+          "url": "https://pull1.digitalcdn.net/live/e0f47d2aef174a02b7af1d27d8202855/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 09/11 ⚽ Inter vs Como (Nhà đài)",
+          "url": "https://lilive1.eu.cc/live/2261663274d5e721ecd143ac31408621/playlist.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [00:00 09/11] Inter vs Como (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/79_internazionale.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [00:00 09/11] Inter vs Como",
+      "number": 30
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1490,7 +1652,106 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 28
+      "number": 31
+    },
+    {
+      "key": "09/11_00:30_celtavigo_levante",
+      "c_home": "celtavigo",
+      "c_away": "levante",
+      "homeTeam": "Celta",
+      "awayTeam": "Levante",
+      "time": "00:30",
+      "date": "09/11",
+      "timestamp": 1794159000000,
+      "league": "LALIGA",
+      "leagueName": "🇪🇸 La Liga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_laliga",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:30 09/11] Rc Celta Vs Levante (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:30 09/11] Celta Vigo vs Levante (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/7290_celta-de-vigo.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
+      "number": 32
+    },
+    {
+      "key": "09/11_01:30_1899hoffenheim_schalke04",
+      "c_home": "1899hoffenheim",
+      "c_away": "schalke04",
+      "homeTeam": "1899 Hoffenheim",
+      "awayTeam": "Schalke 04",
+      "time": "01:30",
+      "date": "09/11",
+      "timestamp": 1794162600000,
+      "league": "BUNDESLIGA",
+      "leagueName": "🇩🇪 Bundesliga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:30 09/11] 1899 Hoffenheim vs FC Schalke 04 (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "01:30 09/11 ⚽ TSG 1899 Hoffenheim vs Schalke 04 (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzUxMjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJleTA4aWhhZDZnMHhsdzgxc25tc2dwZg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [01:30 09/11] Hoffenheim vs Schalke (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/170_hoffenheim.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [01:30 09/11] 1899 Hoffenheim vs Schalke 04",
+      "number": 33
+    },
+    {
+      "key": "09/11_01:30_schalke04_tsghoffenheim",
+      "c_home": "tsghoffenheim",
+      "c_away": "schalke04",
+      "homeTeam": "Tsg Hoffenheim",
+      "awayTeam": "Schalke 04",
+      "time": "01:30",
+      "date": "09/11",
+      "timestamp": 1794162600000,
+      "league": "BUNDESLIGA",
+      "leagueName": "🇩🇪 Bundesliga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:30 09/11] Tsg Hoffenheim Vs Schalke 04 (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
+      "number": 34
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1530,7 +1791,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 29
+      "number": 35
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1570,7 +1831,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 30
+      "number": 36
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1617,7 +1878,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 31
+      "number": 37
     },
     {
       "key": "08/11_15:30_baliunited_persikkediri",
@@ -1657,7 +1918,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 08/11] Bali United vs Persik Kediri",
-      "number": 32
+      "number": 38
     },
     {
       "key": "08/11_16:30_maldives_pakistan",
@@ -1690,7 +1951,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 08/11] Maldives vs Pakistan",
-      "number": 33
+      "number": 39
     },
     {
       "key": "08/11_17:00_tphcm_xuanthienphutho",
@@ -1723,7 +1984,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 08/11] TP. Hồ Chí Minh vs Xuan Thien Phu Tho",
-      "number": 34
+      "number": 40
     },
     {
       "key": "08/11_17:00_bravngtu_gianh",
@@ -1763,7 +2024,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 08/11] Bà Rịa Vũng Tàu vs Gia Định",
-      "number": 35
+      "number": 41
     },
     {
       "key": "08/11_17:30_erzurumbb_rizespor",
@@ -1796,7 +2057,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 08/11] Rizespor vs Erzurum BB",
-      "number": 36
+      "number": 42
     },
     {
       "key": "08/11_18:00_hungyen_quynhonunited",
@@ -1822,7 +2083,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 08/11] Hung Yen vs Quy Nhon United",
-      "number": 37
+      "number": 43
     },
     {
       "key": "08/11_18:00_gazovikorenburg_krylyasovetov",
@@ -1855,7 +2116,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 08/11] Krylya Sovetov vs Gazovik Orenburg",
-      "number": 38
+      "number": 44
     },
     {
       "key": "08/11_18:15_feyenoord_heerenveen",
@@ -1909,7 +2170,7 @@
         }
       ],
       "displayTitle": "⚽ [18:15 08/11] Sc Heerenveen vs Feyenoord",
-      "number": 39
+      "number": 45
     },
     {
       "key": "08/11_19:15_thanhha_viettel",
@@ -1935,7 +2196,7 @@
         }
       ],
       "displayTitle": "⚽ [19:15 08/11] Viettel vs Thanh Hòa",
-      "number": 40
+      "number": 46
     },
     {
       "key": "08/11_19:30_1heidenheim1846_hannover96",
@@ -1961,7 +2222,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 08/11] 1. Heidenheim 1846 vs Hannover 96",
-      "number": 41
+      "number": 47
     },
     {
       "key": "08/11_20:00_corum_fenerbahce",
@@ -2001,75 +2262,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 08/11] Corum vs Fenerbahce",
-      "number": 42
-    },
-    {
-      "key": "08/11_21:00_acmilan_genoa",
-      "c_home": "genoa",
-      "c_away": "acmilan",
-      "homeTeam": "Genoa",
-      "awayTeam": "Milan",
-      "time": "21:00",
-      "date": "08/11",
-      "timestamp": 1794146400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 08/11] Genoa vs AC Milan (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [21:00 08/11] Genoa Vs Ac Milan (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "21:00 08/11 ⚽ Genoa vs Milan (NEM NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh4eTkyb2o2ZHJjZ2lzbWEyaTJ2bWYzcQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/genoa-102",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 08/11 ⚽ Genoa vs Milan (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/3180ff3536664a8191b910a8eca1ea82/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 08/11 ⚽ Genoa vs Milan (LÝ LÀNG LÁ) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/3180ff3536664a8191b910a8eca1ea82/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 08/11 ⚽ Genoa vs Milan (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/901193aab9f63b536d27917f09fc4916/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [21:00 08/11] Genoa vs AC Milan (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/4986_genoa.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [21:00 08/11] Genoa vs Milan",
-      "number": 43
+      "number": 48
     },
     {
       "key": "08/11_21:00_chelsea_sunderland",
@@ -2137,33 +2330,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 08/11] Sunderland vs Chelsea",
-      "number": 44
-    },
-    {
-      "key": "08/11_21:00_losclille_rennais",
-      "c_home": "rennais",
-      "c_away": "losclille",
-      "homeTeam": "Rennais",
-      "awayTeam": "Losc Lille",
-      "time": "21:00",
-      "date": "08/11",
-      "timestamp": 1794146400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 08/11] Stade Rennais Fc Vs Losc Lille (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [21:00 08/11] Rennais vs Losc Lille",
-      "number": 45
+      "number": 49
     },
     {
       "key": "08/11_21:30_kln_leverkusen",
@@ -2189,7 +2356,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 08/11] Kln vs Bayer 04 Leverkusen",
-      "number": 46
+      "number": 50
     },
     {
       "key": "08/11_23:15_bilbao_lorient",
@@ -2215,115 +2382,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Havre Athletic Club vs Lorient",
-      "number": 47
-    },
-    {
-      "key": "09/11_00:00_como_intermilan",
-      "c_home": "intermilan",
-      "c_away": "como",
-      "homeTeam": "Inter",
-      "awayTeam": "Como",
-      "time": "00:00",
-      "date": "09/11",
-      "timestamp": 1794157200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:00 09/11] Inter vs Como (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [00:00 09/11] Inter Milan Vs Como (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "00:00 09/11 ⚽ Inter Milan vs Como (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnd3OGMxaXZoZHNpMGVvejd4YW02dHdhbA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 09/11 ⚽ Inter Milan vs Como (TIGER) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnJwNGxqdmhjaHIxcmswZWk2MHBhd2JrOQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 09/11 ⚽ Inter vs Como (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/e0f47d2aef174a02b7af1d27d8202855/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 09/11 ⚽ Inter vs Como (LÝ LONG) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/e0f47d2aef174a02b7af1d27d8202855/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 09/11 ⚽ Inter vs Como (Nhà đài)",
-          "url": "https://lilive1.eu.cc/live/2261663274d5e721ecd143ac31408621/playlist.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzl2moep/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [00:00 09/11] Inter vs Como (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/79_internazionale.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [00:00 09/11] Inter vs Como",
-      "number": 48
-    },
-    {
-      "key": "09/11_00:30_celtavigo_levante",
-      "c_home": "celtavigo",
-      "c_away": "levante",
-      "homeTeam": "Celta",
-      "awayTeam": "Levante",
-      "time": "00:30",
-      "date": "09/11",
-      "timestamp": 1794159000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:30 09/11] Rc Celta Vs Levante (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [00:30 09/11] Celta Vigo vs Levante (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/7290_celta-de-vigo.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
-      "number": 49
+      "number": 51
     },
     {
       "key": "09/11_01:00_porto_vitoriaguimaraes",
@@ -2356,72 +2415,6 @@
         }
       ],
       "displayTitle": "⚽ [01:00 09/11] Vitoria Guimaraes vs Porto",
-      "number": 50
-    },
-    {
-      "key": "09/11_01:30_1899hoffenheim_schalke04",
-      "c_home": "1899hoffenheim",
-      "c_away": "schalke04",
-      "homeTeam": "1899 Hoffenheim",
-      "awayTeam": "Schalke 04",
-      "time": "01:30",
-      "date": "09/11",
-      "timestamp": 1794162600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:30 09/11] 1899 Hoffenheim vs FC Schalke 04 (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "01:30 09/11 ⚽ TSG 1899 Hoffenheim vs Schalke 04 (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzUxMjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJleTA4aWhhZDZnMHhsdzgxc25tc2dwZg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [01:30 09/11] Hoffenheim vs Schalke (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/170_hoffenheim.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [01:30 09/11] 1899 Hoffenheim vs Schalke 04",
-      "number": 51
-    },
-    {
-      "key": "09/11_01:30_schalke04_tsghoffenheim",
-      "c_home": "tsghoffenheim",
-      "c_away": "schalke04",
-      "homeTeam": "Tsg Hoffenheim",
-      "awayTeam": "Schalke 04",
-      "time": "01:30",
-      "date": "09/11",
-      "timestamp": 1794162600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:30 09/11] Tsg Hoffenheim Vs Schalke 04 (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
       "number": 52
     },
     {
@@ -3448,9 +3441,9 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [19:15 08/11] Viettel vs Thanh Hóa (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "name": "⚽ [19:15 08/11] Viettel vs Thanh Hóa (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
@@ -3469,9 +3462,9 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [21:00 08/11] Brighton vs Brentford (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "name": "⚽ [21:00 08/11] Brighton vs Brentford (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
@@ -3578,13 +3571,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [13:00 08/11] Gamba Osaka Vs Cerezo Osaka (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [13:00 08/11] Adelaide United Vs Melbourne Victory (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -5285,169 +5271,213 @@
       "date": "2026-11-07T17:30Z"
     },
     {
-      "home_team": "Málaga",
-      "away_team": "Racing Santander",
-      "home_score": "1",
-      "away_score": "2",
-      "league": "LALIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T13:00Z"
-    },
-    {
-      "home_team": "Espanyol",
-      "away_team": "Deportivo",
+      "home_team": "Elche",
+      "away_team": "Real Betis",
       "home_score": "0",
       "away_score": "0",
       "league": "LALIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T15:15Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T13:00Z"
     },
     {
-      "home_team": "Osasuna",
-      "away_team": "Athletic Club",
-      "home_score": "1",
-      "away_score": "1",
-      "league": "LALIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T17:30Z"
-    },
-    {
-      "home_team": "Valencia",
-      "away_team": "Real Madrid",
+      "home_team": "Real Sociedad",
+      "away_team": "Rayo Vallecano",
       "home_score": "0",
-      "away_score": "3",
+      "away_score": "0",
       "league": "LALIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T20:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T15:15Z"
     },
     {
-      "home_team": "Cagliari",
-      "away_team": "Frosinone",
-      "home_score": "1",
-      "away_score": "0",
-      "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:00Z"
-    },
-    {
-      "home_team": "Torino",
-      "away_team": "Lecce",
-      "home_score": "1",
-      "away_score": "1",
-      "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:00Z"
-    },
-    {
-      "home_team": "Parma",
-      "away_team": "Bologna",
-      "home_score": "1",
-      "away_score": "2",
-      "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T17:00Z"
-    },
-    {
-      "home_team": "AS Roma",
-      "away_team": "Sassuolo",
-      "home_score": "3",
-      "away_score": "0",
-      "league": "SERIE_A",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T19:45Z"
-    },
-    {
-      "home_team": "Borussia Dortmund",
-      "away_team": "SV Elversberg",
-      "home_score": "2",
-      "away_score": "1",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:30Z"
-    },
-    {
-      "home_team": "Mainz",
-      "away_team": "Bayern Munich",
-      "home_score": "1",
-      "away_score": "2",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:30Z"
-    },
-    {
-      "home_team": "RB Leipzig",
-      "away_team": "FC Augsburg",
-      "home_score": "5",
-      "away_score": "2",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:30Z"
-    },
-    {
-      "home_team": "SC Paderborn 07",
-      "away_team": "Eintracht Frankfurt",
-      "home_score": "2",
-      "away_score": "2",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T14:30Z"
-    },
-    {
-      "home_team": "VfB Stuttgart",
-      "away_team": "Werder Bremen",
-      "home_score": "1",
-      "away_score": "0",
-      "league": "BUNDESLIGA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T17:30Z"
-    },
-    {
-      "home_team": "AJ Auxerre",
-      "away_team": "Paris FC",
+      "home_team": "Celta Vigo",
+      "away_team": "Levante",
       "home_score": "0",
-      "away_score": "1",
-      "league": "LIGUE1",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T18:00Z"
+      "away_score": "0",
+      "league": "LALIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T17:30Z"
     },
     {
-      "home_team": "Paris Saint-Germain",
-      "away_team": "Troyes",
-      "home_score": "1",
+      "home_team": "Villarreal",
+      "away_team": "Getafe",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LALIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T17:30Z"
+    },
+    {
+      "home_team": "Atlético Madrid",
+      "away_team": "Barcelona",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LALIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T20:00Z"
+    },
+    {
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T11:30Z"
+    },
+    {
+      "home_team": "Genoa",
+      "away_team": "AC Milan",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T14:00Z"
+    },
+    {
+      "home_team": "Monza",
+      "away_team": "Atalanta",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T14:00Z"
+    },
+    {
+      "home_team": "Internazionale",
+      "away_team": "Como",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T17:00Z"
+    },
+    {
+      "home_team": "Fiorentina",
+      "away_team": "Juventus",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "SERIE_A",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T19:45Z"
+    },
+    {
+      "home_team": "FC Cologne",
+      "away_team": "Bayer Leverkusen",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "BUNDESLIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T14:30Z"
+    },
+    {
+      "home_team": "SC Freiburg",
+      "away_team": "1. FC Union Berlin",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "BUNDESLIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T16:30Z"
+    },
+    {
+      "home_team": "TSG Hoffenheim",
+      "away_team": "Schalke 04",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "BUNDESLIGA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T18:30Z"
+    },
+    {
+      "home_team": "Stade Rennais",
+      "away_team": "Lille",
+      "home_score": "0",
       "away_score": "0",
       "league": "LIGUE1",
-      "state": "post",
-      "is_completed": true,
-      "detail": "FT",
-      "date": "2026-11-07T20:05Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T14:00Z"
+    },
+    {
+      "home_team": "Angers",
+      "away_team": "Nice",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T16:15Z"
+    },
+    {
+      "home_team": "Brest",
+      "away_team": "Lyon",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T16:15Z"
+    },
+    {
+      "home_team": "Le Havre AC",
+      "away_team": "Lorient",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T16:15Z"
+    },
+    {
+      "home_team": "Le Mans",
+      "away_team": "AS Monaco",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T16:15Z"
+    },
+    {
+      "home_team": "Lens",
+      "away_team": "Marseille",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "LIGUE1",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "Scheduled",
+      "date": "2026-11-08T19:45Z"
     },
     {
       "home_team": "AEK Athens",
