@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 07:22:37",
+  "updated_at": "2026-11-08 07:37:41",
   "live_events": [
     {
       "key": "08/11_06:00_atlas_pachuca",
@@ -122,39 +122,6 @@
       "number": 3
     },
     {
-      "key": "08/11_07:00_coloradorapids_dallas",
-      "c_home": "dallas",
-      "c_away": "coloradorapids",
-      "homeTeam": "Dallas",
-      "awayTeam": "Colorado Rapids",
-      "time": "07:00",
-      "date": "08/11",
-      "timestamp": 1794096000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:00 08/11] Fc Dallas Vs Colorado Rapids (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟡 07:00 08/11 ⚽ Dallas vs Colorado Rapids (Gà Siêu Nhí) [hls]",
-          "url": "https://live2.zktsva.app/live/301263.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [07:00 08/11] Dallas vs Colorado Rapids",
-      "number": 4
-    },
-    {
       "key": "08/11_07:00_losangeles_seattlesounders",
       "c_home": "seattlesounders",
       "c_away": "losangeles",
@@ -178,7 +145,7 @@
         }
       ],
       "displayTitle": "🔴 [07:00 08/11] Seattle Sounders vs Los Angeles",
-      "number": 5
+      "number": 4
     },
     {
       "key": "08/11_07:00_lagalaxy_realsaltlake",
@@ -211,6 +178,39 @@
         }
       ],
       "displayTitle": "🔴 [07:00 08/11] Real Salt Lake vs LA Galaxy",
+      "number": 5
+    },
+    {
+      "key": "08/11_07:10_coloradorapids_dallas",
+      "c_home": "dallas",
+      "c_away": "coloradorapids",
+      "homeTeam": "Dallas",
+      "awayTeam": "Colorado Rapids",
+      "time": "07:10",
+      "date": "08/11",
+      "timestamp": 1794096600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:10 08/11] Fc Dallas Vs Colorado Rapids (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "🟡 07:00 08/11 ⚽ Dallas vs Colorado Rapids (Gà Siêu Nhí) [hls]",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [07:10 08/11] Dallas vs Colorado Rapids",
       "number": 6
     },
     {
@@ -3107,7 +3107,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [07:00 08/11] Fc Dallas Vs Colorado Rapids (BLV Gà Siêu Nhí) - Gà Vàng",
+          "name": "⚽ [07:10 08/11] Fc Dallas Vs Colorado Rapids (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -4749,12 +4749,12 @@
     {
       "home_team": "Indiana Pacers",
       "away_team": "Denver Nuggets",
-      "home_score": "97",
-      "away_score": "108",
+      "home_score": "102",
+      "away_score": "114",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "4:36 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-07T22:00Z"
     },
     {
@@ -6163,6 +6163,15 @@
       },
       {
         "rank": 16,
+        "teamName": "Denver Nuggets",
+        "shortName": "Nuggets",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+        "played": 8,
+        "gd": "5T-3B (GB 2)",
+        "points": 5
+      },
+      {
+        "rank": 17,
         "teamName": "Washington Wizards",
         "shortName": "Wizards",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
@@ -6171,7 +6180,7 @@
         "points": 4
       },
       {
-        "rank": 17,
+        "rank": 18,
         "teamName": "New York Knicks",
         "shortName": "Knicks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
@@ -6180,21 +6189,12 @@
         "points": 4
       },
       {
-        "rank": 18,
+        "rank": 19,
         "teamName": "New Orleans Pelicans",
         "shortName": "Pelicans",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
         "played": 9,
         "gd": "4T-5B (GB 3.5)",
-        "points": 4
-      },
-      {
-        "rank": 19,
-        "teamName": "Denver Nuggets",
-        "shortName": "Nuggets",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-        "played": 7,
-        "gd": "4T-3B (GB 2.5)",
         "points": 4
       },
       {
@@ -6208,18 +6208,18 @@
       },
       {
         "rank": 21,
-        "teamName": "Miami Heat",
-        "shortName": "Heat",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-        "played": 9,
-        "gd": "3T-6B (GB 4.5)",
+        "teamName": "Indiana Pacers",
+        "shortName": "Pacers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "played": 10,
+        "gd": "3T-7B (GB 5)",
         "points": 3
       },
       {
         "rank": 22,
-        "teamName": "Indiana Pacers",
-        "shortName": "Pacers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
         "played": 9,
         "gd": "3T-6B (GB 4.5)",
         "points": 3
