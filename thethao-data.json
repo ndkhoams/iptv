@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 22:16:43",
+  "updated_at": "2026-11-08 22:32:17",
   "live_events": [
     {
       "key": "08/11_21:00_brentford_brighton",
@@ -1015,6 +1015,39 @@
       "number": 15
     },
     {
+      "key": "08/11_22:45_cambuur_psv",
+      "c_home": "cambuur",
+      "c_away": "psv",
+      "homeTeam": "Cambuur",
+      "awayTeam": "PSV Eindhoven",
+      "time": "22:45",
+      "date": "08/11",
+      "timestamp": 1794152700000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "22:45 08/11 ⚽ Cambuur vs PSV Eindhoven (BLV MONSTER) [hls]",
+          "url": "https://live05.wecile.app/live/75915087.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/d5cd028beef8bae114183a2635742176.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "22:45 08/11 ⚽ Cambuur vs PSV Eindhoven (BLV MONSTER) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/d5cd028beef8bae114183a2635742176.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [22:45 08/11] Cambuur vs PSV Eindhoven",
+      "number": 16
+    },
+    {
       "key": "08/11_23:15_angerssco_ogcnice",
       "c_home": "angerssco",
       "c_away": "ogcnice",
@@ -1038,7 +1071,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Angers Sco vs Ogc Nice",
-      "number": 16
+      "number": 17
     },
     {
       "key": "08/11_23:15_brest_lyon",
@@ -1078,7 +1111,7 @@
         }
       ],
       "displayTitle": "⚽ [23:15 08/11] Brestois 29 vs Lyon",
-      "number": 17
+      "number": 18
     },
     {
       "key": "08/11_23:30_astonvilla_manutd",
@@ -1174,7 +1207,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Manchester United vs Aston Villa",
-      "number": 18
+      "number": 19
     },
     {
       "key": "08/11_23:30_freiburg_unionberlin",
@@ -1207,7 +1240,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 08/11] Sc Freiburg vs 1 Union Berlin",
-      "number": 19
+      "number": 20
     },
     {
       "key": "09/11_00:00_como_intermilan",
@@ -1296,7 +1329,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 09/11] Inter vs Como",
-      "number": 20
+      "number": 21
     },
     {
       "key": "09/11_00:30_getafe_villarreal",
@@ -1364,7 +1397,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Villarreal vs Getafe",
-      "number": 21
+      "number": 22
     },
     {
       "key": "09/11_00:30_celtavigo_levante",
@@ -1411,7 +1444,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 09/11] Celta vs Levante",
-      "number": 22
+      "number": 23
     },
     {
       "key": "09/11_01:30_1899hoffenheim_schalke04",
@@ -1472,7 +1505,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] 1899 Hoffenheim vs Schalke 04",
-      "number": 23
+      "number": 24
     },
     {
       "key": "09/11_01:30_schalke04_tsghoffenheim",
@@ -1498,7 +1531,7 @@
         }
       ],
       "displayTitle": "⚽ [01:30 09/11] Tsg Hoffenheim vs Schalke 04",
-      "number": 24
+      "number": 25
     },
     {
       "key": "09/11_02:45_fiorentina_juventus",
@@ -1559,7 +1592,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Fiorentina vs Juventus",
-      "number": 25
+      "number": 26
     },
     {
       "key": "09/11_02:45_lens_marseille",
@@ -1599,7 +1632,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 09/11] Lens vs Marseille",
-      "number": 26
+      "number": 27
     },
     {
       "key": "09/11_03:00_atleticomadrid_barcelona",
@@ -1646,39 +1679,6 @@
         }
       ],
       "displayTitle": "⚽ [03:00 09/11] Atletico Madrid vs Barcelona",
-      "number": 27
-    },
-    {
-      "key": "08/11_22:45_cambuur_psv",
-      "c_home": "cambuur",
-      "c_away": "psv",
-      "homeTeam": "Cambuur",
-      "awayTeam": "PSV Eindhoven",
-      "time": "22:45",
-      "date": "08/11",
-      "timestamp": 1794152700000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "22:45 08/11 ⚽ Cambuur vs PSV Eindhoven (BLV MONSTER) [hls]",
-          "url": "https://live05.wecile.app/live/75915087.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d5cd028beef8bae114183a2635742176.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "22:45 08/11 ⚽ Cambuur vs PSV Eindhoven (BLV MONSTER) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/d5cd028beef8bae114183a2635742176.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [22:45 08/11] Cambuur vs PSV Eindhoven",
       "number": 28
     },
     {
@@ -4995,7 +4995,7 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "55'",
+      "detail": "71'",
       "date": "2026-11-08T14:00Z"
     },
     {
@@ -5006,18 +5006,18 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "56'",
+      "detail": "71'",
       "date": "2026-11-08T14:00Z"
     },
     {
       "home_team": "Ipswich Town",
       "away_team": "AFC Bournemouth",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "2",
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "59'",
+      "detail": "75'",
       "date": "2026-11-08T14:00Z"
     },
     {
@@ -5028,7 +5028,7 @@
       "league": "EPL",
       "state": "in",
       "is_completed": false,
-      "detail": "52'",
+      "detail": "67'",
       "date": "2026-11-08T14:00Z"
     },
     {
@@ -5059,9 +5059,9 @@
       "home_score": "0",
       "away_score": "0",
       "league": "LALIGA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "Scheduled",
+      "detail": "13'",
       "date": "2026-11-08T15:15Z"
     },
     {
@@ -5116,7 +5116,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "57'",
+      "detail": "72'",
       "date": "2026-11-08T14:00Z"
     },
     {
@@ -5127,7 +5127,7 @@
       "league": "SERIE_A",
       "state": "in",
       "is_completed": false,
-      "detail": "57'",
+      "detail": "72'",
       "date": "2026-11-08T14:00Z"
     },
     {
@@ -5160,7 +5160,7 @@
       "league": "BUNDESLIGA",
       "state": "in",
       "is_completed": false,
-      "detail": "45'+1'",
+      "detail": "HT",
       "date": "2026-11-08T14:30Z"
     },
     {
@@ -5189,11 +5189,11 @@
       "home_team": "Stade Rennais",
       "away_team": "Lille",
       "home_score": "1",
-      "away_score": "1",
+      "away_score": "2",
       "league": "LIGUE1",
       "state": "in",
       "is_completed": false,
-      "detail": "59'",
+      "detail": "74'",
       "date": "2026-11-08T14:00Z"
     },
     {
