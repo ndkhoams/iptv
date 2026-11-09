@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 21:34:38",
+  "updated_at": "2026-11-09 21:49:46",
   "live_events": [
     {
       "key": "09/11_19:30_kahrabaismailia_wadidegla",
@@ -70,53 +70,6 @@
       "number": 1
     },
     {
-      "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
-      "c_home": "chernomorets1919burgas",
-      "c_away": "yantragabrovo",
-      "homeTeam": "Chernomorets 1919 Burgas",
-      "awayTeam": "Yantra Gabrovo",
-      "time": "19:30",
-      "date": "09/11",
-      "timestamp": 1794227400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:30 09/11] Fk Chernomorets 1919 Burgas Vs Yantra Gabrovo (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (Gà Ô Long) [hls]",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (BLV MONSTER) [hls]",
-          "url": "https://live05.wecile.app/live/75915087.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (BLV MONSTER) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
-      "number": 2
-    },
-    {
       "key": "09/11_19:30_kahrabaaismailia_wadidegla",
       "c_home": "wadidegla",
       "c_away": "kahrabaaismailia",
@@ -147,7 +100,7 @@
         }
       ],
       "displayTitle": "🔴 [19:30 09/11] Wadi Degla vs Kahrabaa Ismailia",
-      "number": 3
+      "number": 2
     },
     {
       "key": "09/11_19:30_cskasofiaii_rilskisportist",
@@ -173,7 +126,7 @@
         }
       ],
       "displayTitle": "🔴 [19:30 09/11] CSKA Sofia II vs Rilski Sportist",
-      "number": 4
+      "number": 3
     },
     {
       "key": "09/11_19:30_kahrbaaismailia_wadidegla",
@@ -199,6 +152,46 @@
         }
       ],
       "displayTitle": "🔴 [19:30 09/11] Wadi Degla vs Kahrbaa Ismailia",
+      "number": 4
+    },
+    {
+      "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
+      "c_home": "chernomorets1919burgas",
+      "c_away": "yantragabrovo",
+      "homeTeam": "Chernomorets 1919 Burgas",
+      "awayTeam": "Yantra Gabrovo",
+      "time": "19:30",
+      "date": "09/11",
+      "timestamp": 1794227400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (Gà Ô Long) [hls]",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (BLV MONSTER) [hls]",
+          "url": "https://live05.wecile.app/live/75915087.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "19:30 09/11 ⚽ FK Chernomorets 1919 Burgas vs Yantra Gabrovo (BLV MONSTER) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/eee07e98c33dbee589b014d04141ee48.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
       "number": 5
     },
     {
@@ -378,7 +371,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -389,7 +382,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea",
+      "displayTitle": "🔴 [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea",
       "number": 11
     },
     {
@@ -404,7 +397,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -415,7 +408,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] Masr vs Samanod",
+      "displayTitle": "🔴 [22:00 09/11] Masr vs Samanod",
       "number": 12
     },
     {
@@ -430,12 +423,12 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [22:00 09/11] Etar Vs Pfk Montana (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [22:00 09/11] Etar Vs Pfk Montana (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -469,7 +462,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] Etar vs Pfk Montana",
+      "displayTitle": "🔴 [22:00 09/11] Etar vs Pfk Montana",
       "number": 13
     },
     {
@@ -484,7 +477,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -558,7 +551,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] Zed vs Samanod Eg",
+      "displayTitle": "🔴 [22:00 09/11] Zed vs Samanod Eg",
       "number": 14
     },
     {
@@ -573,7 +566,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -584,7 +577,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] CS Dinamo București vs Râmnicu Vâlcea",
+      "displayTitle": "🔴 [22:00 09/11] CS Dinamo București vs Râmnicu Vâlcea",
       "number": 15
     },
     {
@@ -599,7 +592,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -617,7 +610,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] Napredak vs Bor 1919",
+      "displayTitle": "🔴 [22:00 09/11] Napredak vs Bor 1919",
       "number": 16
     },
     {
@@ -632,7 +625,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -650,7 +643,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] CS Dinamo Bucuresti vs Ramnicu Valcea",
+      "displayTitle": "🔴 [22:00 09/11] CS Dinamo Bucuresti vs Ramnicu Valcea",
       "number": 17
     },
     {
@@ -665,7 +658,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -676,7 +669,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [22:00 09/11] CS Din. Bucuresti vs Ramnicu Valcea",
+      "displayTitle": "🔴 [22:00 09/11] CS Din. Bucuresti vs Ramnicu Valcea",
       "number": 18
     },
     {
@@ -1874,13 +1867,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [19:30 09/11] Fk Chernomorets 1919 Burgas Vs Yantra Gabrovo (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [19:30 09/11] Wadi Degla Sc Vs Kahraba Ismailia (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1888,8 +1874,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [22:00 09/11] Etar Vs Pfk Montana (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [22:00 09/11] Etar Vs Pfk Montana (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
