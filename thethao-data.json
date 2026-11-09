@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-09 07:12:28",
+  "updated_at": "2026-11-09 07:27:33",
   "live_events": [
-    {
-      "key": "09/11_05:00_blg_t1",
-      "c_home": "t1",
-      "c_away": "blg",
-      "homeTeam": "T1",
-      "awayTeam": "BLG",
-      "time": "05:00",
-      "date": "09/11",
-      "timestamp": 1794175200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 05:00 09/11 🎮 T1 vs BLG (Cận) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150678_hd/1794150678_hd@720p.m3u8",
-          "logo": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [05:00 09/11] T1 vs BLG",
-      "number": 1
-    },
     {
       "key": "09/11_05:30_centralcordobasde_clubatleticolanus",
       "c_home": "centralcordobasde",
@@ -65,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
-      "number": 2
+      "number": 1
     },
     {
       "key": "09/11_05:30_centralcordobasde_clubatlticolans",
@@ -91,7 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [05:30 09/11] Central Cordoba SDE vs Club Atlético Lanús",
-      "number": 3
+      "number": 2
     },
     {
       "key": "09/11_06:10_deportestolima_millonarios",
@@ -145,7 +119,7 @@
         }
       ],
       "displayTitle": "🔴 [06:10 09/11] Deportes Tolima vs Millonarios",
-      "number": 4
+      "number": 3
     },
     {
       "key": "09/11_07:00_puebla_queretaro",
@@ -192,7 +166,7 @@
         }
       ],
       "displayTitle": "🔴 [07:00 09/11] Queretaro vs Puebla",
-      "number": 5
+      "number": 4
     },
     {
       "key": "09/11_06:00_detroitpistons_losangeleslakers",
@@ -232,6 +206,39 @@
         }
       ],
       "displayTitle": "🏀 [06:00 09/11] Detroit Pistons vs Los Angeles Lakers",
+      "number": 5
+    },
+    {
+      "key": "09/11_07:30_brooklynnets_dallasmavericks",
+      "c_home": "dallasmavericks",
+      "c_away": "brooklynnets",
+      "homeTeam": "Dallas Mavericks",
+      "awayTeam": "Brooklyn Nets",
+      "time": "07:30",
+      "date": "09/11",
+      "timestamp": 1794184200000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:30 09/11 🏀 Dallas Mavericks vs Brooklyn Nets (BLV 247) [hls]",
+          "url": "https://live05.wecile.app/live/90865415.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:30 09/11 🏀 Dallas Mavericks vs Brooklyn Nets (BLV 247) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:30 09/11] Dallas Mavericks vs Brooklyn Nets",
       "number": 6
     },
     {
@@ -1779,39 +1786,6 @@
       "number": 60
     },
     {
-      "key": "09/11_07:30_brooklynnets_dallasmavericks",
-      "c_home": "dallasmavericks",
-      "c_away": "brooklynnets",
-      "homeTeam": "Dallas Mavericks",
-      "awayTeam": "Brooklyn Nets",
-      "time": "07:30",
-      "date": "09/11",
-      "timestamp": 1794184200000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:30 09/11 🏀 Dallas Mavericks vs Brooklyn Nets (BLV 247) [hls]",
-          "url": "https://live05.wecile.app/live/90865415.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:30 09/11 🏀 Dallas Mavericks vs Brooklyn Nets (BLV 247) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [07:30 09/11] Dallas Mavericks vs Brooklyn Nets",
-      "number": 61
-    },
-    {
       "key": "10/11_15:00_deren_ulaanbaatar",
       "c_home": "deren",
       "c_away": "ulaanbaatar",
@@ -1835,7 +1809,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 62
+      "number": 61
     }
   ],
   "source_groups": [
@@ -3070,22 +3044,22 @@
       "home_team": "Detroit Pistons",
       "away_team": "Los Angeles Lakers",
       "home_score": "48",
-      "away_score": "61",
+      "away_score": "64",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "11:35 - 3rd",
       "date": "2026-11-08T23:00Z"
     },
     {
       "home_team": "Minnesota Timberwolves",
       "away_team": "Utah Jazz",
-      "home_score": "2",
-      "away_score": "0",
+      "home_score": "14",
+      "away_score": "19",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:52 - 1st",
+      "detail": "4:13 - 1st",
       "date": "2026-11-09T00:00Z"
     },
     {
