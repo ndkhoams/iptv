@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽ TRỰC TIẾP BÓNG ĐÁ",🔄 CẬP NHẬT: 01:07 10/11/2026 (107 LUỒNG)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽ TRỰC TIẾP BÓNG ĐÁ",🔄 CẬP NHẬT: 01:22 10/11/2026 (104 LUỒNG)
 http://127.0.0.1/refresh
-#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea (BLV Chuối Kem) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260909_045338_99bd4727.png" group-title="🍌 Chuối Chiên TV",⚽ [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea (BLV Chuối Kem) - Chuối Chiên
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="" tvg-name="⚽ [22:00 09/11] Masr vs Samanod (BLV Chuối Sấy) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [22:00 09/11] Masr vs Samanod (BLV Chuối Sấy) - Chuối Chiên
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="" tvg-name="⚽ [23:00 09/11] Saburtalo vs Gagra (BLV Chuối Tây) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20250801_093803_c835782a.webp" group-title="🍌 Chuối Chiên TV",⚽ [23:00 09/11] Saburtalo vs Gagra (BLV Chuối Tây) - Chuối Chiên
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-id="" tvg-name="⚽ [23:30 09/11] Veles vs KAMAZ (BLV Chuối Già) - Chuối Chiên" tvg-logo="https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg" group-title="🍌 Chuối Chiên TV",⚽ [23:30 09/11] Veles vs KAMAZ (BLV Chuối Già) - Chuối Chiên
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -327,6 +315,10 @@ https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJ
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/320.png" group-title="⚽ Film4k / Antsports",⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k
+#EXTVLCOPT:http-referrer=https://film4k.pl/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://film4k.pl/api/tv/ants/18162/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (se Viaplay) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/2072.png" group-title="⚽ Film4k / Antsports",⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (se Viaplay) - Film4k
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -343,11 +335,7 @@ https://film4k.pl/api/tv/ants/18158/index.m3u8
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://film4k.pl/api/tv/ants/17800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/320.png" group-title="⚽ Film4k / Antsports",⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k
-#EXTVLCOPT:http-referrer=https://film4k.pl/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://film4k.pl/api/tv/ants/18162/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (English) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/8899.png" group-title="⚽ Film4k / Antsports",⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (English) - Film4k
+#EXTINF:-1 tvg-id="" tvg-name="⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (gb TNT Sports 1) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/8899.png" group-title="⚽ Film4k / Antsports",⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (gb TNT Sports 1) - Film4k
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://film4k.pl/api/tv/ants/18163/index.m3u8
