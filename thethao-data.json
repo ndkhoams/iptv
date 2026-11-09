@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 22:35:12",
+  "updated_at": "2026-11-09 22:50:10",
   "live_events": [
     {
       "key": "09/11_22:00_csdinamobucureti_csmramnicuvalcea",
@@ -359,7 +359,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -370,7 +370,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [23:00 09/11] Saburtalo vs Gagra",
+      "displayTitle": "🔴 [23:00 09/11] Saburtalo vs Gagra",
       "number": 10
     },
     {
@@ -385,7 +385,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -410,7 +410,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
+      "displayTitle": "🔴 [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
       "number": 11
     },
     {
@@ -1434,13 +1434,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [19:30 09/11] Wadi Degla vs Kahraba Ismailia (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea (BLV Chuối Kem) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
@@ -1508,13 +1501,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [19:30 09/11] Wadi Degla Sc Vs Kahraba Ismailia (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [22:00 09/11] Etar Vs Pfk Montana (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -2292,13 +2278,6 @@
           "name": "⚽ [22:00 09/11] ZED vs Samanod (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/13645_zed-fc.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [19:30 09/11] Wadi Degla vs Kahrabaa Ismailia (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/2774_wadi-degla.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
