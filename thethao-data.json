@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 23:05:13",
+  "updated_at": "2026-11-09 23:20:17",
   "live_events": [
     {
       "key": "09/11_22:00_csdinamobucureti_csmramnicuvalcea",
@@ -425,7 +425,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -485,7 +485,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [23:30 09/11] Veles vs KAMAZ",
+      "displayTitle": "🔴 [23:30 09/11] Veles vs KAMAZ",
       "number": 12
     },
     {
@@ -2584,81 +2584,92 @@
       "date": "2026-11-04T20:00Z"
     },
     {
-      "home_team": "Chicago Bulls",
-      "away_team": "Philadelphia 76ers",
-      "home_score": "121",
-      "away_score": "127",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Los Angeles Lakers",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-08T20:30Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 7:00 PM EST",
+      "date": "2026-11-10T00:00Z"
+    },
+    {
+      "home_team": "Charlotte Hornets",
+      "away_team": "Cleveland Cavaliers",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 7:00 PM EST",
+      "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Detroit Pistons",
-      "away_team": "Los Angeles Lakers",
-      "home_score": "116",
-      "away_score": "121",
+      "away_team": "Washington Wizards",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-08T23:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 7:00 PM EST",
+      "date": "2026-11-10T00:00Z"
     },
     {
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Utah Jazz",
-      "home_score": "115",
-      "away_score": "100",
+      "home_team": "Toronto Raptors",
+      "away_team": "Memphis Grizzlies",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-09T00:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 7:30 PM EST",
+      "date": "2026-11-10T00:30Z"
     },
     {
       "home_team": "Dallas Mavericks",
-      "away_team": "Brooklyn Nets",
-      "home_score": "130",
-      "away_score": "93",
+      "away_team": "Indiana Pacers",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-09T00:30Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 8:00 PM EST",
+      "date": "2026-11-10T01:00Z"
     },
     {
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Boston Celtics",
-      "home_score": "97",
-      "away_score": "117",
+      "home_team": "Houston Rockets",
+      "away_team": "Denver Nuggets",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-09T01:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 8:30 PM EST",
+      "date": "2026-11-10T01:30Z"
     },
     {
-      "home_team": "LA Clippers",
+      "home_team": "Phoenix Suns",
+      "away_team": "San Antonio Spurs",
+      "home_score": "0",
+      "away_score": "0",
+      "league": "NBA",
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 9:00 PM EST",
+      "date": "2026-11-10T02:00Z"
+    },
+    {
+      "home_team": "Golden State Warriors",
       "away_team": "New Orleans Pelicans",
-      "home_score": "139",
-      "away_score": "123",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-09T02:00Z"
-    },
-    {
-      "home_team": "Sacramento Kings",
-      "away_team": "Miami Heat",
-      "home_score": "108",
-      "away_score": "114",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-09T02:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/9 - 10:00 PM EST",
+      "date": "2026-11-10T03:00Z"
     }
   ],
   "standings": {
