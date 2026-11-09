@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 00:52:34",
+  "updated_at": "2026-11-10 01:07:43",
   "live_events": [
     {
       "key": "09/11_23:00_gagra_saburtalo",
@@ -42,13 +42,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [23:00 09/11] Fc Iberia 1999 Tbilisi Vs Gagra Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "23:00 09/11 ⚽ Iberia 1999 Tbilisi vs Gagra (Tôn Quyền)",
           "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-17.m3u8",
@@ -169,32 +162,6 @@
       "number": 4
     },
     {
-      "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
-      "c_home": "kristiansundbk",
-      "c_away": "vlerengafotballelite",
-      "homeTeam": "Kristiansund Bk",
-      "awayTeam": "Vlerenga Fotball Elite",
-      "time": "01:00",
-      "date": "10/11",
-      "timestamp": 1794247200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:00 10/11] Kristiansund Bk Vs Vlerenga Fotball Elite (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
-      "number": 5
-    },
-    {
       "key": "10/11_01:00_aarhusfremad_hvidovreif",
       "c_home": "hvidovreif",
       "c_away": "aarhusfremad",
@@ -229,10 +196,24 @@
           "logo": "https://img.cltvap.cc/football/team/865113ccf397b8f317e0681c9c3234dd.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
+        },
+        {
+          "name": "⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (se Viaplay) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18159/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/2072.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (dk TV3 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18160/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/2072.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [01:00 10/11] Hvidovre If vs Aarhus Fremad",
-      "number": 6
+      "number": 5
     },
     {
       "key": "10/11_01:00_botosani_otelulgalati",
@@ -265,6 +246,32 @@
         }
       ],
       "displayTitle": "🔴 [01:00 10/11] Botosani vs Otelul Galati",
+      "number": 6
+    },
+    {
+      "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
+      "c_home": "kristiansundbk",
+      "c_away": "vlerengafotballelite",
+      "homeTeam": "Kristiansund Bk",
+      "awayTeam": "Vlerenga Fotball Elite",
+      "time": "01:00",
+      "date": "10/11",
+      "timestamp": 1794247200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:00 10/11] Kristiansund Bk Vs Vlerenga Fotball Elite (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
       "number": 7
     },
     {
@@ -314,6 +321,13 @@
           "logo": "https://apiv3.apifootball.com/badges/5595_kristiansund.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18162/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/320.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [01:00 10/11] Kristiansund vs Valerenga",
@@ -354,6 +368,13 @@
           "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/674304.png",
           "group": "📜 Sao Kê TV",
           "ref": ""
+        },
+        {
+          "name": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18163/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/8899.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted",
@@ -419,6 +440,32 @@
       "number": 12
     },
     {
+      "key": "10/11_02:30_eldense_laspalmas",
+      "c_home": "laspalmas",
+      "c_away": "eldense",
+      "homeTeam": "Las Palmas",
+      "awayTeam": "Eldense",
+      "time": "02:30",
+      "date": "10/11",
+      "timestamp": 1794252600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:30 10/11] Las Palmas vs Eldense (English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18158/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/534.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [02:30 10/11] Las Palmas vs Eldense",
+      "number": 13
+    },
+    {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
       "c_home": "scutorreense",
       "c_away": "uniaoleiria",
@@ -442,7 +489,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 13
+      "number": 14
     },
     {
       "key": "10/11_03:15_torreense_uniodeleiria",
@@ -468,7 +515,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Torreense vs União de Leiria",
-      "number": 14
+      "number": 15
     },
     {
       "key": "10/11_05:30_2demayo_sportivoluqueno",
@@ -494,7 +541,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 10/11] Sportivo Luqueno vs 2 de Mayo",
-      "number": 15
+      "number": 16
     },
     {
       "key": "10/11_07:00_cucuta_junior",
@@ -527,7 +574,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Junior vs Cucuta",
-      "number": 16
+      "number": 17
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -553,7 +600,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 17
+      "number": 18
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -579,7 +626,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 18
+      "number": 19
     },
     {
       "key": "10/11_09:05_chapulineros_cordobs",
@@ -605,7 +652,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobés",
-      "number": 19
+      "number": 20
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -631,7 +678,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 20
+      "number": 21
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -657,7 +704,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 21
+      "number": 22
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -683,7 +730,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 22
+      "number": 23
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -709,7 +756,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 23
+      "number": 24
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -735,7 +782,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 24
+      "number": 25
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -768,7 +815,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 25
+      "number": 26
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -794,7 +841,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 26
+      "number": 27
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -820,7 +867,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 27
+      "number": 28
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -846,7 +893,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 28
+      "number": 29
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -872,7 +919,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 29
+      "number": 30
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -898,7 +945,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 30
+      "number": 31
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -931,7 +978,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 31
+      "number": 32
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -957,7 +1004,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 32
+      "number": 33
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -990,7 +1037,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 33
+      "number": 34
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -1016,7 +1063,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 34
+      "number": 35
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1042,7 +1089,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 35
+      "number": 36
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1068,7 +1115,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 36
+      "number": 37
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1094,7 +1141,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 37
+      "number": 38
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1120,7 +1167,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 38
+      "number": 39
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1146,7 +1193,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 39
+      "number": 40
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1172,7 +1219,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 40
+      "number": 41
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -1198,7 +1245,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 41
+      "number": 42
     }
   ],
   "source_groups": [
@@ -1274,8 +1321,15 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [23:00 09/11] Fc Iberia 1999 Tbilisi Vs Gagra Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [01:00 10/11] Hvidovre If Vs Aarhus Fremad (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [01:00 10/11] Fc Botosani Vs Fc Otelul Galati (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -1290,20 +1344,6 @@
         {
           "name": "⚽ [01:00 10/11] Kristiansund Bk Vs Vlerenga Fotball Elite (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [01:00 10/11] Hvidovre If Vs Aarhus Fremad (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [01:00 10/11] Fc Botosani Vs Fc Otelul Galati (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -1975,9 +2015,44 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
+          "name": "⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (se Viaplay) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18159/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/2072.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [01:00 10/11] Hvidovre vs Aarhus Fremad (dk TV3 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18160/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/2072.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 10/11] Las Palmas vs Eldense (English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18158/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/534.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (ES Hypermotion) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/17800/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9593.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [01:00 10/11] Kristiansund BK vs Valerenga (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18162/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/320.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18163/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/8899.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
