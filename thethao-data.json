@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-09 11:32:35",
+  "updated_at": "2026-11-09 11:47:42",
   "live_events": [
-    {
-      "key": "09/11_09:00_clippers_pelicans",
-      "c_home": "clippers",
-      "c_away": "pelicans",
-      "homeTeam": "Clippers",
-      "awayTeam": "Pelicans",
-      "time": "09:00",
-      "date": "09/11",
-      "timestamp": 1794189600000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 09:00 09/11 🏀 Clippers vs Pelicans (Cận) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794123417_hd/1794123417_hd@720p.m3u8",
-          "logo": "https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🏀 [09:00 09/11] Clippers vs Pelicans",
-      "number": 1
-    },
     {
       "key": "09/11_12:00_erchim_khovdwestern",
       "c_home": "erchim",
@@ -39,7 +13,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -78,8 +52,8 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [12:00 09/11] Erchim vs Khovd Western",
-      "number": 2
+      "displayTitle": "🔴 [12:00 09/11] Erchim vs Khovd Western",
+      "number": 1
     },
     {
       "key": "09/11_15:00_southerndistrict_ulaangomcity",
@@ -112,7 +86,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 09/11] Ulaangom City vs Southern District",
-      "number": 3
+      "number": 2
     },
     {
       "key": "09/11_15:00_khovdbroncos_ulaangomcity",
@@ -166,7 +140,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 09/11] Ulaangom City vs Khovd Broncos",
-      "number": 4
+      "number": 3
     },
     {
       "key": "09/11_16:00_aral_metalourg",
@@ -192,7 +166,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 09/11] Metalourg vs Aral",
-      "number": 5
+      "number": 4
     },
     {
       "key": "09/11_16:00_aral_metallurgbekabad",
@@ -232,7 +206,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 09/11] Metallurg Bekabad vs Aral",
-      "number": 6
+      "number": 5
     },
     {
       "key": "09/11_16:00_kattaqo_pakhtakor",
@@ -258,7 +232,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 09/11] Pakhtakor II vs Kattaqo",
-      "number": 7
+      "number": 6
     },
     {
       "key": "09/11_17:00_seoulsamsungthunders_suwonktsonicboom",
@@ -284,7 +258,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 09/11] Seoul Samsung Thunders vs Suwon KT Sonicboom",
-      "number": 8
+      "number": 7
     },
     {
       "key": "09/11_17:30_araksararat_bentonitidzhevan",
@@ -310,7 +284,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Bentonit Idzhevan vs Araks Ararat",
-      "number": 9
+      "number": 8
     },
     {
       "key": "09/11_17:30_mikaashtarak_shirakgjumrib",
@@ -343,7 +317,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 09/11] Mika Ashtarak vs Shirak Gjumri B",
-      "number": 10
+      "number": 9
     },
     {
       "key": "09/11_18:30_karagostar_naftgachsaran",
@@ -376,7 +350,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 09/11] Kara Gostar vs Naft Gachsaran",
-      "number": 11
+      "number": 10
     },
     {
       "key": "09/11_19:00_havadartehran_saipa",
@@ -409,7 +383,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 09/11] Saipa vs Havadar Tehran",
-      "number": 12
+      "number": 11
     },
     {
       "key": "09/11_19:30_kahrabaismailia_wadidegla",
@@ -477,7 +451,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla vs Kahraba Ismailia",
-      "number": 13
+      "number": 12
     },
     {
       "key": "09/11_19:30_chernomorets1919burgas_yantragabrovo",
@@ -524,7 +498,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Chernomorets 1919 Burgas vs Yantra Gabrovo",
-      "number": 14
+      "number": 13
     },
     {
       "key": "09/11_19:30_cskasofiaii_rilskisportist",
@@ -550,7 +524,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] CSKA Sofia II vs Rilski Sportist",
-      "number": 15
+      "number": 14
     },
     {
       "key": "09/11_19:30_kahrbaaismailia_wadidegla",
@@ -576,7 +550,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla vs Kahrbaa Ismailia",
-      "number": 16
+      "number": 15
     },
     {
       "key": "09/11_19:30_cskasofiab_rilskisportist",
@@ -609,7 +583,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] CSKA Sofia B vs Rilski Sportist",
-      "number": 17
+      "number": 16
     },
     {
       "key": "09/11_19:30_asupolitimisoara_scolarresita",
@@ -642,7 +616,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] ASU Poli Timisoara vs Scolar Resita",
-      "number": 18
+      "number": 17
     },
     {
       "key": "09/11_19:30_politehnicatimisoara_scolarresita",
@@ -668,7 +642,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Politehnica Timisoara vs Scolar Resita",
-      "number": 19
+      "number": 18
     },
     {
       "key": "09/11_19:30_kahrabaaismailia_wadidegla",
@@ -694,7 +668,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 09/11] Wadi Degla vs Kahrabaa Ismailia",
-      "number": 20
+      "number": 19
     },
     {
       "key": "09/11_20:00_apszakynthos_nikivolou",
@@ -727,7 +701,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 09/11] Aps Zakynthos vs Niki Volou",
-      "number": 21
+      "number": 20
     },
     {
       "key": "09/11_20:00_nikivolos_zakynthos",
@@ -781,7 +755,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 09/11] Zakynthos vs Niki Volos",
-      "number": 22
+      "number": 21
     },
     {
       "key": "09/11_22:00_csdinamobucureti_csmramnicuvalcea",
@@ -807,7 +781,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] CS Dinamo București vs CSM Ramnicu Valcea",
-      "number": 23
+      "number": 22
     },
     {
       "key": "09/11_22:00_masr_samanod",
@@ -833,7 +807,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Masr vs Samanod",
-      "number": 24
+      "number": 23
     },
     {
       "key": "09/11_22:00_etar_pfkmontana",
@@ -887,7 +861,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Etar vs Pfk Montana",
-      "number": 25
+      "number": 24
     },
     {
       "key": "09/11_22:00_samanodeg_zed",
@@ -976,7 +950,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] Zed vs Samanod Eg",
-      "number": 26
+      "number": 25
     },
     {
       "key": "09/11_22:00_csdinamobucureti_rmnicuvlcea",
@@ -1002,7 +976,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] CS Dinamo București vs Râmnicu Vâlcea",
-      "number": 27
+      "number": 26
     },
     {
       "key": "09/11_22:00_csdinamobucuresti_ramnicuvalcea",
@@ -1028,7 +1002,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 09/11] CS Dinamo Bucuresti vs Ramnicu Valcea",
-      "number": 28
+      "number": 27
     },
     {
       "key": "09/11_22:30_fratria_svoge",
@@ -1061,7 +1035,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 09/11] Fratria vs Svoge",
-      "number": 29
+      "number": 28
     },
     {
       "key": "09/11_23:00_gagra_saburtalo",
@@ -1087,7 +1061,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 09/11] Saburtalo vs Gagra",
-      "number": 30
+      "number": 29
     },
     {
       "key": "09/11_23:00_gagra_iberia1999tbilisi",
@@ -1120,7 +1094,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 09/11] Iberia 1999 Tbilisi vs Gagra",
-      "number": 31
+      "number": 30
     },
     {
       "key": "09/11_23:30_kamaz_veles",
@@ -1174,7 +1148,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 09/11] Veles vs KAMAZ",
-      "number": 32
+      "number": 31
     },
     {
       "key": "10/11_01:00_botosani_oelul",
@@ -1200,7 +1174,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botosani vs Oţelul",
-      "number": 33
+      "number": 32
     },
     {
       "key": "10/11_01:00_kristiansundbk_vlerengafotballelite",
@@ -1226,7 +1200,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund Bk vs Vlerenga Fotball Elite",
-      "number": 34
+      "number": 33
     },
     {
       "key": "10/11_01:00_aarhusfremad_hvidovreif",
@@ -1252,7 +1226,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Hvidovre If vs Aarhus Fremad",
-      "number": 35
+      "number": 34
     },
     {
       "key": "10/11_01:00_botosani_otelulgalati",
@@ -1285,7 +1259,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botosani vs Otelul Galati",
-      "number": 36
+      "number": 35
     },
     {
       "key": "10/11_01:00_botoani_oelulgalai",
@@ -1311,7 +1285,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Botoşani vs Oțelul Galați",
-      "number": 37
+      "number": 36
     },
     {
       "key": "10/11_01:00_kristiansund_valerenga",
@@ -1337,7 +1311,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 10/11] Kristiansund vs Valerenga",
-      "number": 38
+      "number": 37
     },
     {
       "key": "10/11_02:30_berkhamsted_plymouthparkway",
@@ -1370,7 +1344,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted",
-      "number": 39
+      "number": 38
     },
     {
       "key": "10/11_02:30_realsociedad_sabadell",
@@ -1396,7 +1370,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Sabadell vs Real Sociedad B",
-      "number": 40
+      "number": 39
     },
     {
       "key": "10/11_02:30_asdpineto_vispesaro",
@@ -1422,7 +1396,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 10/11] Asd Pineto vs Vis Pesaro",
-      "number": 41
+      "number": 40
     },
     {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
@@ -1448,7 +1422,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 42
+      "number": 41
     },
     {
       "key": "10/11_03:15_torreense_uniodeleiria",
@@ -1474,7 +1448,7 @@
         }
       ],
       "displayTitle": "⚽ [03:15 10/11] Torreense vs União de Leiria",
-      "number": 43
+      "number": 42
     },
     {
       "key": "10/11_05:30_2demayo_sportivoluqueno",
@@ -1500,7 +1474,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 10/11] Sportivo Luqueno vs 2 de Mayo",
-      "number": 44
+      "number": 43
     },
     {
       "key": "10/11_07:00_cucuta_junior",
@@ -1533,7 +1507,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Junior vs Cucuta",
-      "number": 45
+      "number": 44
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -1559,7 +1533,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 46
+      "number": 45
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -1585,7 +1559,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 47
+      "number": 46
     },
     {
       "key": "10/11_09:05_chapulineros_cordobs",
@@ -1611,7 +1585,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobés",
-      "number": 48
+      "number": 47
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -1637,7 +1611,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 49
+      "number": 48
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -1663,7 +1637,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 50
+      "number": 49
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -1689,7 +1663,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 51
+      "number": 50
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -1715,7 +1689,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 52
+      "number": 51
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -1741,7 +1715,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 53
+      "number": 52
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -1767,7 +1741,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 54
+      "number": 53
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -1793,7 +1767,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 55
+      "number": 54
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -1819,7 +1793,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 56
+      "number": 55
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -1845,7 +1819,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 57
+      "number": 56
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -1871,7 +1845,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 58
+      "number": 57
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -1897,7 +1871,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 59
+      "number": 58
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -1923,7 +1897,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 60
+      "number": 59
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -1949,7 +1923,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 61
+      "number": 60
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1982,7 +1956,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 62
+      "number": 61
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -2008,7 +1982,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 63
+      "number": 62
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -2034,7 +2008,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 64
+      "number": 63
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -2060,7 +2034,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 65
+      "number": 64
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -2086,7 +2060,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 66
+      "number": 65
     }
   ],
   "source_groups": [
@@ -2550,13 +2524,6 @@
           "logo": "https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png",
           "group": "⏰ Giờ Vàng TV",
           "ref": ""
-        },
-        {
-          "name": "🟢 09:00 09/11 ⚽ Club Leon vs Chivas Guadalajara (Tỵ + Tri) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122111_hd/1794122111_hd@720p.m3u8",
-          "logo": "https://images.keovip88.net/images/teams/club-leon.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
         }
       ]
     },
@@ -2588,20 +2555,6 @@
           "name": "🟢 09:00 09/11 🏀 Sacramento Kings vs Miami Heat (BLV Cozy) [hls 2]",
           "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls]",
-          "url": "https://live05.wecile.app/live/14830711.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (BLV GIÀ LÀNG) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80",
           "group": "🥤 Cola TV",
           "ref": ""
         },
@@ -2800,13 +2753,6 @@
           "ref": ""
         },
         {
-          "name": "🟢 09:10 09/11 ⚽ Club Leon vs Chivas Guadalajara (Rio) [hls]",
-          "url": "https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8",
-          "logo": "https://static.sportsfeed.pro/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
           "name": "🟡 12:00 09/11 ⚽ Erchim vs Khovd Western (Lucie23) [hls]",
           "url": "https://playback.livetl002.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
           "logo": "https://static.sportsfeed.pro/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png",
@@ -2866,52 +2812,12 @@
           "logo": "https://xoigac.top/images/basketball/teams/157.webp",
           "group": "🍧 Xôi Gấc TV",
           "ref": ""
-        },
-        {
-          "name": "🟢 09:10 09/11 ⚽ Leon vs Guadalajara Chivas (Joker)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.F9eohSlHnQGF.m3u8?expires=1794211529&signature=xtC-QIcPkQsAVkZb1n48cJTgpki0qpnDbCneIhtYy4E",
-          "logo": "https://xoigac.top/images/football/teams/2289.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍗 Khô Gà TV",
-      "channels": [
-        {
-          "name": "🟢 09:10 09/11 ⚽ Club Leon vs Guadalajara Chivas (BLV Khô Mật) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/303_leon.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "22:00 09/11 ⚽ ZED vs Samanod (BLV Xôi Gấc) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/13645_zed-fc.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
-        {
-          "name": "23:30 09/11 ⚽ Veles Moscow vs Kamaz (BLV Xôi Xoài) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/6270_veles.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
         }
       ]
     },
     {
       "name": "📜 Sao Kê TV",
       "channels": [
-        {
-          "name": "🟢 09:10 09/11 ⚽ León vs Chivas (Tít) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
         {
           "name": "🟡 12:00 09/11 ⚽ Erchim vs Khovd Western (Teppy) [hls]",
           "url": "https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8",
@@ -2959,13 +2865,6 @@
     {
       "name": "🐔 Gà Vàng 33",
       "channels": [
-        {
-          "name": "🟢 09:10 09/11 ⚽ Club Leon vs Club Deportivo Guadalajara (Gà Siêu Kiêu) [hls]",
-          "url": "https://live2.zktsva.app/live/741294.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
         {
           "name": "15:00 09/11 ⚽ Ulaangom City vs Khovd Broncos (Gà Siêu Nhí) [hls]",
           "url": "https://live2.zktsva.app/live/301263.m3u8",
@@ -3182,6 +3081,25 @@
           "url": "https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8",
           "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067",
           "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍗 Khô Gà TV",
+      "channels": [
+        {
+          "name": "22:00 09/11 ⚽ ZED vs Samanod (BLV Xôi Gấc) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/13645_zed-fc.jpg",
+          "group": "🍗 Khô Gà TV",
+          "ref": ""
+        },
+        {
+          "name": "23:30 09/11 ⚽ Veles Moscow vs Kamaz (BLV Xôi Xoài) [hls]",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/6270_veles.jpg",
+          "group": "🍗 Khô Gà TV",
           "ref": ""
         }
       ]
@@ -3670,12 +3588,12 @@
     {
       "home_team": "LA Clippers",
       "away_team": "New Orleans Pelicans",
-      "home_score": "138",
-      "away_score": "121",
+      "home_score": "139",
+      "away_score": "123",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "47.8 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-09T02:00Z"
     },
     {
@@ -5047,6 +4965,15 @@
       },
       {
         "rank": 18,
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+        "played": 10,
+        "gd": "4T-6B",
+        "points": 4
+      },
+      {
+        "rank": 19,
         "teamName": "Washington Wizards",
         "shortName": "Wizards",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
@@ -5055,16 +4982,16 @@
         "points": 4
       },
       {
-        "rank": 19,
+        "rank": 20,
         "teamName": "New Orleans Pelicans",
         "shortName": "Pelicans",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-        "played": 9,
-        "gd": "4T-5B",
+        "played": 10,
+        "gd": "4T-6B",
         "points": 4
       },
       {
-        "rank": 20,
+        "rank": 21,
         "teamName": "Charlotte Hornets",
         "shortName": "Hornets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
@@ -5073,21 +5000,12 @@
         "points": 3
       },
       {
-        "rank": 21,
+        "rank": 22,
         "teamName": "Indiana Pacers",
         "shortName": "Pacers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
         "played": 10,
         "gd": "3T-7B",
-        "points": 3
-      },
-      {
-        "rank": 22,
-        "teamName": "Miami Heat",
-        "shortName": "Heat",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-        "played": 9,
-        "gd": "3T-6B",
         "points": 3
       },
       {
@@ -5119,6 +5037,15 @@
       },
       {
         "rank": 26,
+        "teamName": "LA Clippers",
+        "shortName": "Clippers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+        "played": 9,
+        "gd": "2T-7B",
+        "points": 2
+      },
+      {
+        "rank": 27,
         "teamName": "Milwaukee Bucks",
         "shortName": "Bucks",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
@@ -5127,7 +5054,7 @@
         "points": 1
       },
       {
-        "rank": 27,
+        "rank": 28,
         "teamName": "Chicago Bulls",
         "shortName": "Bulls",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
@@ -5136,30 +5063,21 @@
         "points": 1
       },
       {
-        "rank": 28,
-        "teamName": "Utah Jazz",
-        "shortName": "Jazz",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+        "rank": 29,
+        "teamName": "Sacramento Kings",
+        "shortName": "Kings",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
         "played": 10,
         "gd": "1T-9B",
         "points": 1
       },
       {
-        "rank": 29,
-        "teamName": "Sacramento Kings",
-        "shortName": "Kings",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-        "played": 9,
-        "gd": "1T-8B",
-        "points": 1
-      },
-      {
         "rank": 30,
-        "teamName": "LA Clippers",
-        "shortName": "Clippers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-        "played": 8,
-        "gd": "1T-7B",
+        "teamName": "Utah Jazz",
+        "shortName": "Jazz",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+        "played": 10,
+        "gd": "1T-9B",
         "points": 1
       }
     ],
