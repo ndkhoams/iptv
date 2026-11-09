@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-09 07:27:33",
+  "updated_at": "2026-11-09 07:42:42",
   "live_events": [
-    {
-      "key": "09/11_05:30_centralcordobasde_clubatleticolanus",
-      "c_home": "centralcordobasde",
-      "c_away": "clubatleticolanus",
-      "homeTeam": "Central Cordoba Sde",
-      "awayTeam": "Club Atletico Lanus",
-      "time": "05:30",
-      "date": "09/11",
-      "timestamp": 1794177000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [05:30 09/11] Ca Central Cordoba Sde Vs Club Atletico Lanus (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
-          "url": "https://live05.wecile.app/live/49572724.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [05:30 09/11] Central Cordoba Sde vs Club Atletico Lanus",
-      "number": 1
-    },
     {
       "key": "09/11_05:30_centralcordobasde_clubatlticolans",
       "c_home": "centralcordobasde",
@@ -65,6 +25,39 @@
         }
       ],
       "displayTitle": "🔴 [05:30 09/11] Central Cordoba SDE vs Club Atlético Lanús",
+      "number": 1
+    },
+    {
+      "key": "09/11_05:30_centralcordobasde_lanus",
+      "c_home": "centralcordobasde",
+      "c_away": "lanus",
+      "homeTeam": "Central Cordoba SDE",
+      "awayTeam": "Lanus",
+      "time": "05:30",
+      "date": "09/11",
+      "timestamp": 1794177000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls]",
+          "url": "https://live05.wecile.app/live/49572724.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟢 05:30 09/11 ⚽ Central Cordoba SDE vs Lanus (BLV REDBULL) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [05:30 09/11] Central Cordoba SDE vs Lanus",
       "number": 2
     },
     {
@@ -1850,13 +1843,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [05:30 09/11] Ca Central Cordoba Sde Vs Club Atletico Lanus (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -3043,34 +3029,34 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Los Angeles Lakers",
-      "home_score": "48",
-      "away_score": "64",
+      "home_score": "70",
+      "away_score": "82",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:35 - 3rd",
+      "detail": "3:51 - 3rd",
       "date": "2026-11-08T23:00Z"
     },
     {
       "home_team": "Minnesota Timberwolves",
       "away_team": "Utah Jazz",
-      "home_score": "14",
-      "away_score": "19",
+      "home_score": "32",
+      "away_score": "27",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:13 - 1st",
+      "detail": "9:28 - 2nd",
       "date": "2026-11-09T00:00Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Brooklyn Nets",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "2",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/8 - 7:30 PM EST",
+      "detail": "10:22 - 1st",
       "date": "2026-11-09T00:30Z"
     },
     {
