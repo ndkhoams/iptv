@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-10 04:25:42",
+  "updated_at": "2026-11-10 04:41:02",
   "live_events": [
-    {
-      "key": "10/11_02:30_realsociedad_sabadell",
-      "c_home": "sabadell",
-      "c_away": "realsociedad",
-      "homeTeam": "Sabadell",
-      "awayTeam": "Real Sociedad II",
-      "time": "02:30",
-      "date": "10/11",
-      "timestamp": 1794252600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:30 10/11] Sabadell Vs Real Sociedad B (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (ES Hypermotion) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/17800/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9593.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:30 10/11] Sabadell vs Real Sociedad II",
-      "number": 1
-    },
-    {
-      "key": "10/11_02:30_asdpineto_vispesaro",
-      "c_home": "asdpineto",
-      "c_away": "vispesaro",
-      "homeTeam": "Asd Pineto",
-      "awayTeam": "Vis Pesaro",
-      "time": "02:30",
-      "date": "10/11",
-      "timestamp": 1794252600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:30 10/11] Asd Pineto Calcio Vs Vis Pesaro (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [02:30 10/11] Asd Pineto vs Vis Pesaro",
-      "number": 2
-    },
     {
       "key": "10/11_02:30_berkhamstedtown_plymouthparkway",
       "c_home": "plymouthparkway",
@@ -105,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [02:30 10/11] Plymouth Parkway vs Berkhamsted Town",
-      "number": 3
+      "number": 1
     },
     {
       "key": "10/11_02:30_eldense_laspalmas",
@@ -131,7 +65,33 @@
         }
       ],
       "displayTitle": "🔴 [02:30 10/11] Las Palmas vs Eldense",
-      "number": 4
+      "number": 2
+    },
+    {
+      "key": "10/11_02:30_realsociedad_sabadell",
+      "c_home": "sabadell",
+      "c_away": "realsociedad",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Real Sociedad II",
+      "time": "02:30",
+      "date": "10/11",
+      "timestamp": 1794252600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (ES Hypermotion) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/17800/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/9593.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:30 10/11] Sabadell vs Real Sociedad II",
+      "number": 3
     },
     {
       "key": "10/11_03:15_scutorreense_uniaoleiria",
@@ -157,7 +117,7 @@
         }
       ],
       "displayTitle": "🔴 [03:15 10/11] Scu Torreense vs Uniao Leiria",
-      "number": 5
+      "number": 4
     },
     {
       "key": "10/11_03:15_torreense_uniodeleiria",
@@ -183,7 +143,7 @@
         }
       ],
       "displayTitle": "🔴 [03:15 10/11] Torreense vs União de Leiria",
-      "number": 6
+      "number": 5
     },
     {
       "key": "10/11_05:30_2demayo_sportivoluqueno",
@@ -209,7 +169,7 @@
         }
       ],
       "displayTitle": "⚽ [05:30 10/11] Sportivo Luqueno vs 2 de Mayo",
-      "number": 7
+      "number": 6
     },
     {
       "key": "10/11_07:00_cucuta_junior",
@@ -242,7 +202,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Junior vs Cucuta",
-      "number": 8
+      "number": 7
     },
     {
       "key": "10/11_07:00_atleticojuniorbarranquilla_deportivo",
@@ -268,7 +228,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 10/11] Atletico Junior Barranquilla vs Cucuta Deportivo",
-      "number": 9
+      "number": 8
     },
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -294,7 +254,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 10/11] Aurora vs Universitario De Vinto",
-      "number": 10
+      "number": 9
     },
     {
       "key": "10/11_09:05_chapulineros_cordobs",
@@ -320,7 +280,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobés",
-      "number": 11
+      "number": 10
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -346,7 +306,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 12
+      "number": 11
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -372,7 +332,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 13
+      "number": 12
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -398,7 +358,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 14
+      "number": 13
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -424,7 +384,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 15
+      "number": 14
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -450,7 +410,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 16
+      "number": 15
     },
     {
       "key": "10/11_22:00_arabcontractors_we",
@@ -476,7 +436,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs WE SC",
-      "number": 17
+      "number": 16
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -509,7 +469,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 18
+      "number": 17
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -535,7 +495,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 19
+      "number": 18
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -561,7 +521,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 20
+      "number": 19
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -587,7 +547,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 21
+      "number": 20
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -613,7 +573,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 22
+      "number": 21
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -639,7 +599,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 23
+      "number": 22
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -672,7 +632,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 24
+      "number": 23
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -698,7 +658,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 25
+      "number": 24
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -731,7 +691,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 26
+      "number": 25
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -757,7 +717,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 27
+      "number": 26
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -783,7 +743,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 28
+      "number": 27
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -809,7 +769,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 29
+      "number": 28
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -835,7 +795,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 30
+      "number": 29
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -861,7 +821,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 31
+      "number": 30
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -887,7 +847,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 32
+      "number": 31
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -913,7 +873,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 33
+      "number": 32
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -939,20 +899,13 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 34
+      "number": 33
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [05:30 10/11] Sportivo Luqueno vs 2 de Mayo (BLV Trốc Tru) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -979,20 +932,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [02:30 10/11] Sabadell Vs Real Sociedad B (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:30 10/11] Asd Pineto Calcio Vs Vis Pesaro (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [02:30 10/11] Plymouth Parkway Vs Berkhamsted Town (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -1213,44 +1152,6 @@
       ]
     },
     {
-      "name": "🍺 Bia Ôm TV",
-      "channels": [
-        {
-          "name": "01:00 10/11 ⚽ Botoşani vs Oțelul Galați (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🥤 Cola TV",
-      "channels": [
-        {
-          "name": "01:00 10/11 ⚽ Hvidovre vs Aarhus Fremad (BLV BÍ ĐAO) [hls]",
-          "url": "https://live05.wecile.app/live/99121525.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/865113ccf397b8f317e0681c9c3234dd.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "01:00 10/11 ⚽ Hvidovre vs Aarhus Fremad (BLV BÍ ĐAO) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/865113ccf397b8f317e0681c9c3234dd.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "📜 Sao Kê TV",
       "channels": [
         {
@@ -1258,6 +1159,18 @@
           "url": "https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8",
           "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/674304.png",
           "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🍺 Bia Ôm TV",
+      "channels": [
+        {
+          "name": "03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
         }
       ]
@@ -1430,6 +1343,13 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
+          "name": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (gb TNT Sports 1) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18163/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/8899.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:30 10/11] Las Palmas vs Eldense (es Hypermotion) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18158/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/534.png",
@@ -1440,13 +1360,6 @@
           "name": "⚽ [02:30 10/11] Sabadell vs Real Sociedad II (ES Hypermotion) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/17800/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9593.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:30 10/11] Plymouth Parkway vs Berkhamsted (gb TNT Sports 1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18163/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/8899.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
