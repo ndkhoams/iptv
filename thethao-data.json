@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 07:58:34",
+  "updated_at": "2026-11-09 08:13:44",
   "live_events": [
     {
       "key": "09/11_06:10_deportestolima_millonarios",
@@ -16,13 +16,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [06:10 09/11] Deportes Tolima vs Millonarios (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [06:10 09/11] Deportes Tolima Vs Millonarios (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -103,6 +96,91 @@
       "number": 2
     },
     {
+      "key": "09/11_08:15_alianzapetrolera_llaneros",
+      "c_home": "alianzapetrolera",
+      "c_away": "llaneros",
+      "homeTeam": "Alianza Petrolera",
+      "awayTeam": "Llaneros",
+      "time": "08:15",
+      "date": "09/11",
+      "timestamp": 1794186900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "08:15 09/11 ⚽ Alianza vs Llaneros (Bút Chì) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:15 09/11] Alianza Petrolera vs Llaneros",
+      "number": 3
+    },
+    {
+      "key": "09/11_08:15_alianzafutbolclub_llaneros",
+      "c_home": "alianzafutbolclub",
+      "c_away": "llaneros",
+      "homeTeam": "Alianza Futbol Club",
+      "awayTeam": "Llaneros",
+      "time": "08:15",
+      "date": "09/11",
+      "timestamp": 1794186900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:15 09/11] Alianza Futbol Club Vs Llaneros Fc (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [08:15 09/11] Alianza Futbol Club vs Llaneros",
+      "number": 4
+    },
+    {
+      "key": "09/11_08:15_alianzaftbolclub_llaneros",
+      "c_home": "alianzaftbolclub",
+      "c_away": "llaneros",
+      "homeTeam": "Alianza Fútbol Club",
+      "awayTeam": "Llaneros",
+      "time": "08:15",
+      "date": "09/11",
+      "timestamp": 1794186900000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:15 09/11 ⚽ Alianza Fútbol Club vs Llaneros (Gà Siêu Mõm) [hls]",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/242d6977e9b86cba5cea704d996edbf8.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:15 09/11] Alianza Fútbol Club vs Llaneros",
+      "number": 5
+    },
+    {
       "key": "09/11_06:00_detroitpistons_losangeleslakers",
       "c_home": "detroitpistons",
       "c_away": "losangeleslakers",
@@ -140,7 +218,7 @@
         }
       ],
       "displayTitle": "🏀 [06:00 09/11] Detroit Pistons vs Los Angeles Lakers",
-      "number": 3
+      "number": 6
     },
     {
       "key": "09/11_07:30_brooklynnets_dallasmavericks",
@@ -173,91 +251,6 @@
         }
       ],
       "displayTitle": "🏀 [07:30 09/11] Dallas Mavericks vs Brooklyn Nets",
-      "number": 4
-    },
-    {
-      "key": "09/11_08:15_alianzapetrolera_llaneros",
-      "c_home": "alianzapetrolera",
-      "c_away": "llaneros",
-      "homeTeam": "Alianza Petrolera",
-      "awayTeam": "Llaneros",
-      "time": "08:15",
-      "date": "09/11",
-      "timestamp": 1794186900000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "08:15 09/11 ⚽ Alianza vs Llaneros (Bút Chì) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros",
-      "number": 5
-    },
-    {
-      "key": "09/11_08:15_alianzafutbolclub_llaneros",
-      "c_home": "alianzafutbolclub",
-      "c_away": "llaneros",
-      "homeTeam": "Alianza Futbol Club",
-      "awayTeam": "Llaneros",
-      "time": "08:15",
-      "date": "09/11",
-      "timestamp": 1794186900000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:15 09/11] Alianza Futbol Club Vs Llaneros Fc (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [08:15 09/11] Alianza Futbol Club vs Llaneros",
-      "number": 6
-    },
-    {
-      "key": "09/11_08:15_alianzaftbolclub_llaneros",
-      "c_home": "alianzaftbolclub",
-      "c_away": "llaneros",
-      "homeTeam": "Alianza Fútbol Club",
-      "awayTeam": "Llaneros",
-      "time": "08:15",
-      "date": "09/11",
-      "timestamp": 1794186900000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:15 09/11 ⚽ Alianza Fútbol Club vs Llaneros (Gà Siêu Mõm) [hls]",
-          "url": "https://live2.zktsva.app/live/300523.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/242d6977e9b86cba5cea704d996edbf8.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [08:15 09/11] Alianza Fútbol Club vs Llaneros",
       "number": 7
     },
     {
@@ -2006,13 +1999,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [06:10 09/11] Deportes Tolima vs Millonarios (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [08:15 09/11] Alianza Petrolera vs Llaneros (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
@@ -3302,45 +3288,45 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Los Angeles Lakers",
-      "home_score": "86",
-      "away_score": "88",
+      "home_score": "94",
+      "away_score": "95",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:48 - 4th",
+      "detail": "6:04 - 4th",
       "date": "2026-11-08T23:00Z"
     },
     {
       "home_team": "Minnesota Timberwolves",
       "away_team": "Utah Jazz",
-      "home_score": "45",
-      "away_score": "37",
+      "home_score": "57",
+      "away_score": "51",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:47 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-09T00:00Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Brooklyn Nets",
-      "home_score": "22",
-      "away_score": "12",
+      "home_score": "35",
+      "away_score": "26",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:20 - 1st",
+      "detail": "11:49 - 2nd",
       "date": "2026-11-09T00:30Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Boston Celtics",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "7",
+      "away_score": "3",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/8 - 8:00 PM EST",
+      "detail": "9:44 - 1st",
       "date": "2026-11-09T01:00Z"
     },
     {
