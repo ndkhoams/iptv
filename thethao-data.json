@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 00:31:36",
+  "updated_at": "2026-11-11 00:46:44",
   "live_events": [
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -79,7 +79,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -97,7 +97,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [01:00 11/11] Anaitasuna vs Alavés",
+      "displayTitle": "🔴 [01:00 11/11] Anaitasuna vs Alavés",
       "number": 3
     },
     {
@@ -652,6 +652,13 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [17:30 11/11] Urawa Reds vs Cerezo Osaka (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/5051_urawa-reds.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa vs Cerezo Osaka",
@@ -1672,6 +1679,13 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [00:45 11/11] Real Madrid W vs Paris FC Women (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/486_real-madrid-w.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [03:00 11/11] Inter W vs Manchester City W (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/334_internazionale-w.jpg",
@@ -1703,6 +1717,13 @@
           "name": "⚽ [17:00 11/11] Yokohama F. Marinos vs Kashima Antlers (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/387_yokohama-f.-marinos.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [17:30 11/11] Urawa Reds vs Cerezo Osaka (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/5051_urawa-reds.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
