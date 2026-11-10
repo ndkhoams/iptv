@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 02:03:35",
+  "updated_at": "2026-11-11 02:18:44",
   "live_events": [
     {
       "key": "11/11_00:30_metalulbuzau_steauabucuresti",
@@ -353,7 +353,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -364,7 +364,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:30 11/11] Bradford vs York",
+      "displayTitle": "🔴 [02:30 11/11] Bradford vs York",
       "number": 13
     },
     {
@@ -379,7 +379,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -390,7 +390,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons",
+      "displayTitle": "🔴 [02:30 11/11] Bromley vs Milton Keynes Dons",
       "number": 14
     },
     {
@@ -1019,6 +1019,32 @@
       "number": 34
     },
     {
+      "key": "13/11_00:00_b_thnhk",
+      "c_home": "thnhk",
+      "c_away": "b",
+      "homeTeam": "Thổ Nhĩ Kỳ",
+      "awayTeam": "Bỉ",
+      "time": "00:00",
+      "date": "13/11",
+      "timestamp": 1794502800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
+      "number": 35
+    },
+    {
       "key": "13/11_02:45_albania_finland",
       "c_home": "albania",
       "c_away": "finland",
@@ -1042,7 +1068,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 35
+      "number": 36
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1068,7 +1094,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 36
+      "number": 37
     },
     {
       "key": "11/11_08:00_bostonceltics_philadelphia76ers",
@@ -1094,7 +1120,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 11/11] Philadelphia 76ers vs Boston Celtics",
-      "number": 37
+      "number": 38
     }
   ],
   "source_groups": [
@@ -1683,6 +1709,13 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [19:00 12/11] Singapore U23 vs U23 Việt Nam (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/10366_singapore-u23.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [22:00 12/11] Ghana vs Somalia (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/725_ghana.jpg",
@@ -1693,6 +1726,13 @@
           "name": "⚽ [22:00 12/11] Uzbekistan vs Russia (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/646_uzbekistan.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -1740,6 +1780,13 @@
           "name": "⚽ [02:00 11/11] Burton Albion vs Notts County (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18173/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/748.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Grimsby vs Nottingham Forest U21 (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18174/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1365.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -1807,13 +1854,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:30 11/11] Crawley Town vs Brentford U21 (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18219/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1362.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 11/11] Colchester vs Ipswich Town U21 (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18220/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1361.png",
@@ -1831,13 +1871,6 @@
           "name": "⚽ [06:00 11/11] Bowling Green vs Kent State (us NCAAF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18166/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:00 11/11] Grimsby vs Nottingham Forest U21 (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18174/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1365.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
