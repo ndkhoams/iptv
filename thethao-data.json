@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 09:30:35",
+  "updated_at": "2026-11-10 09:45:43",
   "live_events": [
     {
       "key": "10/11_07:30_aurora_universitariodevinto",
@@ -16,13 +16,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [07:30 10/11] Aurora Vs Universitario De Vinto (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "07:30 10/11 ⚽ Aurora vs Universitario De Vinto (Gà Siêu Tốc) [hls]",
           "url": "https://live2.zktsva.app/live/307240.m3u8",
@@ -226,43 +219,29 @@
       "number": 7
     },
     {
-      "key": "10/11_07:00_detroitpistons_washingtonwizards",
-      "c_home": "detroitpistons",
-      "c_away": "washingtonwizards",
-      "homeTeam": "Detroit Pistons",
-      "awayTeam": "Washington Wizards",
-      "time": "07:00",
+      "key": "10/11_10:00_newyorkislanders_sanjosesharks",
+      "c_home": "sanjosesharks",
+      "c_away": "newyorkislanders",
+      "homeTeam": "San Jose Sharks",
+      "awayTeam": "New York Islanders",
+      "time": "10:00",
       "date": "10/11",
-      "timestamp": 1794268800000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "timestamp": 1794279600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "07:00 10/11 🏀 Detroit Pistons vs Washington Wizards (BLV LIPTON) [hls]",
-          "url": "https://live05.wecile.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 10/11 🏀 Detroit Pistons vs Washington Wizards (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [07:00 10/11] Detroit Pistons vs Washington Wizards (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18061/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/140.png",
+          "name": "⚽ [10:00 10/11] San Jose Sharks vs New York Islanders (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18113/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/697.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "🏀 [07:00 10/11] Detroit Pistons vs Washington Wizards",
+      "displayTitle": "🔴 [10:00 10/11] San Jose Sharks vs New York Islanders",
       "number": 8
     },
     {
@@ -419,29 +398,43 @@
       "number": 12
     },
     {
-      "key": "10/11_10:00_newyorkislanders_sanjosesharks",
-      "c_home": "sanjosesharks",
-      "c_away": "newyorkislanders",
-      "homeTeam": "San Jose Sharks",
-      "awayTeam": "New York Islanders",
+      "key": "10/11_10:00_goldenstatewarriors_neworleanspelicans",
+      "c_home": "goldenstatewarriors",
+      "c_away": "neworleanspelicans",
+      "homeTeam": "Golden State Warriors",
+      "awayTeam": "New Orleans Pelicans",
       "time": "10:00",
       "date": "10/11",
       "timestamp": 1794279600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [10:00 10/11] San Jose Sharks vs New York Islanders (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18113/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/697.png",
+          "name": "10:00 10/11 🏀 Golden State Warriors vs New Orleans Pelicans (BLV 247) [hls]",
+          "url": "https://live05.wecile.app/live/90865415.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "10:00 10/11 🏀 Golden State Warriors vs New Orleans Pelicans (BLV 247) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [10:00 10/11] Golden State Warriors vs New Orleans Pelicans (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18079/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/141.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [10:00 10/11] San Jose Sharks vs New York Islanders",
+      "displayTitle": "🏀 [10:00 10/11] Golden State Warriors vs New Orleans Pelicans",
       "number": 13
     },
     {
@@ -1333,46 +1326,6 @@
       "number": 45
     },
     {
-      "key": "10/11_10:00_goldenstatewarriors_neworleanspelicans",
-      "c_home": "goldenstatewarriors",
-      "c_away": "neworleanspelicans",
-      "homeTeam": "Golden State Warriors",
-      "awayTeam": "New Orleans Pelicans",
-      "time": "10:00",
-      "date": "10/11",
-      "timestamp": 1794279600000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "10:00 10/11 🏀 Golden State Warriors vs New Orleans Pelicans (BLV 247) [hls]",
-          "url": "https://live05.wecile.app/live/90865415.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "10:00 10/11 🏀 Golden State Warriors vs New Orleans Pelicans (BLV 247) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [10:00 10/11] Golden State Warriors vs New Orleans Pelicans (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18079/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/141.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [10:00 10/11] Golden State Warriors vs New Orleans Pelicans",
-      "number": 46
-    },
-    {
       "key": "10/11_15:00_deren_ulaanbaatar",
       "c_home": "deren",
       "c_away": "ulaanbaatar",
@@ -1403,7 +1356,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 47
+      "number": 46
     }
   ],
   "source_groups": [
@@ -1485,13 +1438,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [07:30 10/11] Aurora Vs Universitario De Vinto (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [09:05 10/11] Chapulineros Vs Cordobes Futbol Club (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -2215,13 +2161,6 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
-          "name": "⚽ [07:00 10/11] Detroit Pistons vs Washington Wizards (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18061/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/140.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [07:30 10/11] Toronto Raptors vs Memphis Grizzlies (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18064/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/159.png",
@@ -2285,23 +2224,16 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [07:00 10/11] Atlanta Hawks vs Los Angeles Lakers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18055/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/132.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 10/11] Charlotte Hornets vs Cleveland Cavaliers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18058/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/135.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [09:30 10/11] Vancouver Canucks vs Philadelphia Flyers (us NHL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18110/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/701.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 10/11] Detroit Pistons vs Washington Wizards (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18061/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/140.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -2711,56 +2643,56 @@
     {
       "home_team": "Detroit Pistons",
       "away_team": "Washington Wizards",
-      "home_score": "117",
-      "away_score": "101",
+      "home_score": "122",
+      "away_score": "111",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "4:44 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Toronto Raptors",
       "away_team": "Memphis Grizzlies",
-      "home_score": "92",
-      "away_score": "95",
+      "home_score": "97",
+      "away_score": "111",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:05 - 4th",
+      "detail": "4:26 - 4th",
       "date": "2026-11-10T00:30Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Indiana Pacers",
-      "home_score": "65",
-      "away_score": "74",
+      "home_score": "84",
+      "away_score": "84",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:07 - 3rd",
+      "detail": "3:39 - 3rd",
       "date": "2026-11-10T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Denver Nuggets",
-      "home_score": "52",
+      "home_score": "54",
       "away_score": "40",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:28 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-10T01:30Z"
     },
     {
       "home_team": "Phoenix Suns",
       "away_team": "San Antonio Spurs",
-      "home_score": "19",
-      "away_score": "22",
+      "home_score": "27",
+      "away_score": "41",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:41 - 1st",
+      "detail": "9:23 - 2nd",
       "date": "2026-11-10T02:00Z"
     },
     {
@@ -4042,6 +3974,15 @@
       },
       {
         "rank": 8,
+        "teamName": "Detroit Pistons",
+        "shortName": "Pistons",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+        "played": 10,
+        "gd": "7T-3B",
+        "points": 7
+      },
+      {
+        "rank": 9,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -4050,22 +3991,13 @@
         "points": 7
       },
       {
-        "rank": 9,
+        "rank": 10,
         "teamName": "Houston Rockets",
         "shortName": "Rockets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
         "played": 10,
         "gd": "7T-3B",
         "points": 7
-      },
-      {
-        "rank": 10,
-        "teamName": "Detroit Pistons",
-        "shortName": "Pistons",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-        "played": 9,
-        "gd": "6T-3B",
-        "points": 6
       },
       {
         "rank": 11,
@@ -4141,18 +4073,18 @@
       },
       {
         "rank": 19,
-        "teamName": "Miami Heat",
-        "shortName": "Heat",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-        "played": 10,
-        "gd": "4T-6B",
+        "teamName": "Washington Wizards",
+        "shortName": "Wizards",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+        "played": 11,
+        "gd": "4T-7B",
         "points": 4
       },
       {
         "rank": 20,
-        "teamName": "Washington Wizards",
-        "shortName": "Wizards",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+        "teamName": "Miami Heat",
+        "shortName": "Heat",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
         "played": 10,
         "gd": "4T-6B",
         "points": 4
