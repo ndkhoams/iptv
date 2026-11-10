@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 07:43:38",
+  "updated_at": "2026-11-10 07:58:42",
   "live_events": [
     {
       "key": "10/11_07:00_cucuta_junior",
@@ -181,6 +181,58 @@
       "number": 5
     },
     {
+      "key": "10/11_08:00_film4k_raw1746",
+      "c_home": "raw1746",
+      "c_away": "film4k",
+      "homeTeam": "RAW #1746",
+      "awayTeam": "Film4k",
+      "time": "08:00",
+      "date": "10/11",
+      "timestamp": 1794272400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 10/11] RAW #1746 (English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18156/index.m3u8",
+          "logo": "https://film4k.pl/icon.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 10/11] RAW #1746 vs Film4k",
+      "number": 6
+    },
+    {
+      "key": "10/11_08:00_edmontonoilers_rangers",
+      "c_home": "edmontonoilers",
+      "c_away": "rangers",
+      "homeTeam": "Edmonton Oilers",
+      "awayTeam": "New York Rangers",
+      "time": "08:00",
+      "date": "10/11",
+      "timestamp": 1794272400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 10/11] Edmonton Oilers vs New York Rangers (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18106/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/683.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 10/11] Edmonton Oilers vs New York Rangers",
+      "number": 7
+    },
+    {
       "key": "10/11_07:00_atlantahawks_losangeleslakers",
       "c_home": "atlantahawks",
       "c_away": "losangeleslakers",
@@ -218,7 +270,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 10/11] Atlanta Hawks vs Los Angeles Lakers",
-      "number": 6
+      "number": 8
     },
     {
       "key": "10/11_07:00_detroitpistons_washingtonwizards",
@@ -258,7 +310,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 10/11] Detroit Pistons vs Washington Wizards",
-      "number": 7
+      "number": 9
     },
     {
       "key": "10/11_07:00_charlottehornets_clevelandcavaliers",
@@ -284,7 +336,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 10/11] Charlotte Hornets vs Cleveland Cavaliers",
-      "number": 8
+      "number": 10
     },
     {
       "key": "10/11_07:30_memphisgrizzlies_torontoraptors",
@@ -324,59 +376,33 @@
         }
       ],
       "displayTitle": "🏀 [07:30 10/11] Toronto Raptors vs Memphis Grizzlies",
-      "number": 9
-    },
-    {
-      "key": "10/11_08:00_film4k_raw1746",
-      "c_home": "raw1746",
-      "c_away": "film4k",
-      "homeTeam": "RAW #1746",
-      "awayTeam": "Film4k",
-      "time": "08:00",
-      "date": "10/11",
-      "timestamp": 1794272400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 10/11] RAW #1746 (English) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18156/index.m3u8",
-          "logo": "https://film4k.pl/icon.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 10/11] RAW #1746 vs Film4k",
-      "number": 10
-    },
-    {
-      "key": "10/11_08:00_edmontonoilers_rangers",
-      "c_home": "edmontonoilers",
-      "c_away": "rangers",
-      "homeTeam": "Edmonton Oilers",
-      "awayTeam": "New York Rangers",
-      "time": "08:00",
-      "date": "10/11",
-      "timestamp": 1794272400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 10/11] Edmonton Oilers vs New York Rangers (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18106/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/683.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 10/11] Edmonton Oilers vs New York Rangers",
       "number": 11
+    },
+    {
+      "key": "10/11_08:00_dallasmavericks_indianapacers",
+      "c_home": "dallasmavericks",
+      "c_away": "indianapacers",
+      "homeTeam": "Dallas Mavericks",
+      "awayTeam": "Indiana Pacers",
+      "time": "08:00",
+      "date": "10/11",
+      "timestamp": 1794272400000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 10/11] Dallas Mavericks vs Indiana Pacers (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18068/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/138.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [08:00 10/11] Dallas Mavericks vs Indiana Pacers",
+      "number": 12
     },
     {
       "key": "10/11_08:15_buffalobills_minnesotavikings",
@@ -409,7 +435,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills",
-      "number": 12
+      "number": 13
     },
     {
       "key": "10/11_09:05_chapulineros_cordobs",
@@ -435,7 +461,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobés",
-      "number": 13
+      "number": 14
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -475,7 +501,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 14
+      "number": 15
     },
     {
       "key": "10/11_09:30_philadelphiaflyers_vancouvercanucks",
@@ -501,7 +527,7 @@
         }
       ],
       "displayTitle": "⚽ [09:30 10/11] Vancouver Canucks vs Philadelphia Flyers",
-      "number": 15
+      "number": 16
     },
     {
       "key": "10/11_10:00_newyorkislanders_sanjosesharks",
@@ -527,7 +553,33 @@
         }
       ],
       "displayTitle": "⚽ [10:00 10/11] San Jose Sharks vs New York Islanders",
-      "number": 16
+      "number": 17
+    },
+    {
+      "key": "10/11_12:00_hunters_tuvazarganuud",
+      "c_home": "tuvazarganuud",
+      "c_away": "hunters",
+      "homeTeam": "Tuv Azarganuud",
+      "awayTeam": "Hunters",
+      "time": "12:00",
+      "date": "10/11",
+      "timestamp": 1794286800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [12:00 10/11] Tuv Azarganuud vs Hunters (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [12:00 10/11] Tuv Azarganuud vs Hunters",
+      "number": 18
     },
     {
       "key": "10/11_12:00_centralstallions_hunters",
@@ -560,7 +612,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 10/11] Central Stallions vs Hunters",
-      "number": 17
+      "number": 19
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -586,7 +638,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 18
+      "number": 20
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -612,7 +664,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 19
+      "number": 21
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -638,7 +690,59 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 20
+      "number": 22
+    },
+    {
+      "key": "10/11_22:00_riversunited_sportingcp",
+      "c_home": "sportingcp",
+      "c_away": "riversunited",
+      "homeTeam": "Sporting Lagos",
+      "awayTeam": "Rivers United",
+      "time": "22:00",
+      "date": "10/11",
+      "timestamp": 1794322800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United",
+      "number": 23
+    },
+    {
+      "key": "10/11_22:00_elmokawloon_itesalat",
+      "c_home": "elmokawloon",
+      "c_away": "itesalat",
+      "homeTeam": "El Mokawloon",
+      "awayTeam": "Itesalat",
+      "time": "22:00",
+      "date": "10/11",
+      "timestamp": 1794322800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 10/11] El Mokawloon vs Itesalat (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 10/11] El Mokawloon vs Itesalat",
+      "number": 24
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -671,7 +775,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 21
+      "number": 25
     },
     {
       "key": "10/11_22:00_arabcontractors_we",
@@ -704,7 +808,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs WE SC",
-      "number": 22
+      "number": 26
     },
     {
       "key": "10/11_22:00_almokawloon_telekomegypt",
@@ -730,7 +834,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Al Mokawloon vs Telekom Egypt",
-      "number": 23
+      "number": 27
     },
     {
       "key": "10/11_22:00_arabcontractors_telecomegypt",
@@ -756,7 +860,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs Telecom Egypt",
-      "number": 24
+      "number": 28
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -782,7 +886,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 25
+      "number": 29
     },
     {
       "key": "11/11_01:00_alavs_anaitasuna",
@@ -808,7 +912,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 11/11] Anaitasuna vs Alavés",
-      "number": 26
+      "number": 30
     },
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -834,7 +938,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 11/11] Leicester vs Walsall",
-      "number": 27
+      "number": 31
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -867,7 +971,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 28
+      "number": 32
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -893,7 +997,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 29
+      "number": 33
     },
     {
       "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
@@ -919,7 +1023,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 30
+      "number": 34
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -945,7 +1049,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 31
+      "number": 35
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -971,7 +1075,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 32
+      "number": 36
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -1004,7 +1108,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 33
+      "number": 37
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -1030,7 +1134,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 34
+      "number": 38
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1063,7 +1167,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 35
+      "number": 39
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -1089,7 +1193,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 36
+      "number": 40
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -1115,7 +1219,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 37
+      "number": 41
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1141,7 +1245,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 38
+      "number": 42
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -1174,7 +1278,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 39
+      "number": 43
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1200,7 +1304,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 40
+      "number": 44
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1226,7 +1330,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 41
+      "number": 45
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1252,7 +1356,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 42
+      "number": 46
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1278,7 +1382,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 43
+      "number": 47
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1304,33 +1408,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 44
-    },
-    {
-      "key": "10/11_08:00_dallasmavericks_indianapacers",
-      "c_home": "dallasmavericks",
-      "c_away": "indianapacers",
-      "homeTeam": "Dallas Mavericks",
-      "awayTeam": "Indiana Pacers",
-      "time": "08:00",
-      "date": "10/11",
-      "timestamp": 1794272400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 10/11] Dallas Mavericks vs Indiana Pacers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18068/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/138.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [08:00 10/11] Dallas Mavericks vs Indiana Pacers",
-      "number": 45
+      "number": 48
     },
     {
       "key": "10/11_08:30_denvernuggets_houstonrockets",
@@ -1377,7 +1455,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 10/11] Houston Rockets vs Denver Nuggets",
-      "number": 46
+      "number": 49
     },
     {
       "key": "10/11_09:00_phoenixsuns_tottenham",
@@ -1417,7 +1495,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 10/11] Phoenix suns vs San Antonio Spurs",
-      "number": 47
+      "number": 50
     },
     {
       "key": "10/11_10:00_goldenstatewarriors_neworleanspelicans",
@@ -1457,7 +1535,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 10/11] Golden State Warriors vs New Orleans Pelicans",
-      "number": 48
+      "number": 51
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -1475,6 +1553,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [15:00 10/11] Deren vs Ulaanbaatar (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [15:00 10/11] Deren Fc Vs Fc Ulaanbaatar (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -1483,7 +1568,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 49
+      "number": 52
     }
   ],
   "source_groups": [
@@ -1505,6 +1590,13 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
+          "name": "⚽ [12:00 10/11] Tuv Azarganuud vs Hunters (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [15:00 10/11] U23 Qatar vs Singapore U23 (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
@@ -1512,7 +1604,42 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
+          "name": "⚽ [15:00 10/11] Deren vs Ulaanbaatar (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [19:00 10/11] U23 Vietnam vs U23 Thailand (BLV Chuối Già) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [20:00 10/11] Hull City U21 vs Fleetwood Town U21 (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [21:00 10/11] Colchester United U21 vs Charlton Athletic U21 (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 10/11] El Mokawloon vs Itesalat (BLV Chuối Già) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
@@ -2734,45 +2861,45 @@
     {
       "home_team": "Atlanta Hawks",
       "away_team": "Los Angeles Lakers",
-      "home_score": "27",
-      "away_score": "41",
+      "home_score": "37",
+      "away_score": "57",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:22 - 2nd",
+      "detail": "5:30 - 2nd",
       "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Charlotte Hornets",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "47",
-      "away_score": "39",
+      "home_score": "64",
+      "away_score": "48",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:40 - 2nd",
+      "detail": "1:53 - 2nd",
       "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Detroit Pistons",
       "away_team": "Washington Wizards",
-      "home_score": "31",
-      "away_score": "32",
+      "home_score": "45",
+      "away_score": "37",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4.0 - 1st",
+      "detail": "7:08 - 2nd",
       "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Toronto Raptors",
       "away_team": "Memphis Grizzlies",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "12",
+      "away_score": "16",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:39 - 1st",
+      "detail": "4:21 - 1st",
       "date": "2026-11-10T00:30Z"
     },
     {
