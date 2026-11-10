@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 02:34:17",
+  "updated_at": "2026-11-11 02:49:28",
   "live_events": [
     {
       "key": "11/11_00:30_metalulbuzau_steauabucuresti",
@@ -405,7 +405,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -423,7 +423,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
+      "displayTitle": "🔴 [03:00 11/11] Ue Tavernes vs Valencia",
       "number": 15
     },
     {
@@ -916,8 +916,8 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://xoiche.live/media/teams/logos/team_479.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -1604,20 +1604,6 @@
       "name": "🍧 Xôi Chè TV",
       "channels": [
         {
-          "name": "⚽ [00:45 11/11] Hacken W vs Chelsea W (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/9859_hacken-w.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [00:45 11/11] Real Madrid W vs Paris FC Women (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/486_real-madrid-w.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [01:00 11/11] Feyenoord W vs Wolfsburg W (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/20241_feyenoord-w.jpg",
@@ -1667,8 +1653,8 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://xoiche.live/media/teams/logos/team_479.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
