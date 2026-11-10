@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 01:32:36",
+  "updated_at": "2026-11-11 01:47:42",
   "live_events": [
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -112,7 +112,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -130,7 +130,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Leicester vs Walsall",
+      "displayTitle": "🔴 [02:00 11/11] Leicester vs Walsall",
       "number": 4
     },
     {
@@ -145,7 +145,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -156,7 +156,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Crewe vs Wigan",
+      "displayTitle": "🔴 [02:00 11/11] Crewe vs Wigan",
       "number": 5
     },
     {
@@ -171,7 +171,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -182,7 +182,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Mansfield Town vs Chesterfield",
+      "displayTitle": "🔴 [02:00 11/11] Mansfield Town vs Chesterfield",
       "number": 6
     },
     {
@@ -197,7 +197,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -208,7 +208,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Burton Albion vs Notts County",
+      "displayTitle": "🔴 [02:00 11/11] Burton Albion vs Notts County",
       "number": 7
     },
     {
@@ -223,7 +223,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -234,7 +234,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Bristol Rovers vs Reading",
+      "displayTitle": "🔴 [02:00 11/11] Bristol Rovers vs Reading",
       "number": 8
     },
     {
@@ -249,7 +249,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -260,7 +260,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:00 11/11] Northampton vs Gillingham",
+      "displayTitle": "🔴 [02:00 11/11] Northampton vs Gillingham",
       "number": 9
     },
     {
@@ -798,6 +798,13 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka (BLV Xôi Xoài) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
+          "logo": "https://xoiche.live/media/teams/logos/team_37951.gif",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
@@ -1488,6 +1495,13 @@
           "name": "⚽ [17:30 11/11] Urawa Reds vs Cerezo Osaka (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/5051_urawa-reds.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka (BLV Xôi Xoài) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
+          "logo": "https://xoiche.live/media/teams/logos/team_37951.gif",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
