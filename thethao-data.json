@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-11 01:47:42",
+  "updated_at": "2026-11-11 02:03:35",
   "live_events": [
-    {
-      "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
-      "c_home": "sloveniaindoorsoccer",
-      "c_away": "belgiumindoorsoccer",
-      "homeTeam": "Slovenia Indoor Soccer",
-      "awayTeam": "Belgium Indoor Soccer",
-      "time": "23:30",
-      "date": "10/11",
-      "timestamp": 1794328200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "23:30 10/11 ⚽ Slovenia Indoor Soccer vs Belgium Indoor Soccer (LÝ LÊN LỬA) [geo]",
-          "url": "https://pull.digitalcdn.net/live/a6b92378e9ff496a96f00d791cc394cf/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw56oqdyj/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "23:30 10/11 ⚽ Slovenia Indoor Soccer vs Belgium Indoor Soccer (LÝ LÊN LỬA) (HD2) [geo]",
-          "url": "https://pull1.digitalcdn.net/live/a6b92378e9ff496a96f00d791cc394cf/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hw56oqdyj/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 1
-    },
     {
       "key": "11/11_00:30_metalulbuzau_steauabucuresti",
       "c_home": "metalulbuzau",
@@ -65,7 +32,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 11/11] Metalul Buzau vs Steaua Bucuresti",
-      "number": 2
+      "number": 1
     },
     {
       "key": "11/11_01:00_alavs_anaitasuna",
@@ -98,7 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [01:00 11/11] Anaitasuna vs Alavés",
-      "number": 3
+      "number": 2
     },
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -128,10 +95,17 @@
           "logo": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hjonq0j6/image/small",
           "group": "💥 Phá Làng TV",
           "ref": ""
+        },
+        {
+          "name": "⚽ [02:00 11/11] Leicester vs Walsall (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18215/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/46.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Leicester vs Walsall",
-      "number": 4
+      "number": 3
     },
     {
       "key": "11/11_02:00_crewe_wigan",
@@ -157,7 +131,7 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Crewe vs Wigan",
-      "number": 5
+      "number": 4
     },
     {
       "key": "11/11_02:00_chesterfield_mansfieldtown",
@@ -183,6 +157,32 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Mansfield Town vs Chesterfield",
+      "number": 5
+    },
+    {
+      "key": "11/11_02:00_stockportcounty_tranmere",
+      "c_home": "stockportcounty",
+      "c_away": "tranmere",
+      "homeTeam": "Stockport County",
+      "awayTeam": "Tranmere",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Stockport County vs Tranmere (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18213/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/4686.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Stockport County vs Tranmere",
       "number": 6
     },
     {
@@ -212,6 +212,32 @@
       "number": 7
     },
     {
+      "key": "11/11_02:00_cheltenham_oxfordunited",
+      "c_home": "oxfordunited",
+      "c_away": "cheltenham",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Cheltenham",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Oxford United vs Cheltenham (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18214/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1338.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Oxford United vs Cheltenham",
+      "number": 8
+    },
+    {
       "key": "11/11_02:00_bristolrovers_reading",
       "c_home": "bristolrovers",
       "c_away": "reading",
@@ -235,7 +261,59 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Bristol Rovers vs Reading",
-      "number": 8
+      "number": 9
+    },
+    {
+      "key": "11/11_02:00_plymouth_swindontown",
+      "c_home": "plymouth",
+      "c_away": "swindontown",
+      "homeTeam": "Plymouth",
+      "awayTeam": "Swindon Town",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Plymouth vs Swindon Town (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18216/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1357.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Plymouth vs Swindon Town",
+      "number": 10
+    },
+    {
+      "key": "11/11_02:00_barnet_leytonorient",
+      "c_home": "barnet",
+      "c_away": "leytonorient",
+      "homeTeam": "Barnet",
+      "awayTeam": "Leyton Orient",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Barnet vs Leyton Orient (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18212/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1369.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Barnet vs Leyton Orient",
+      "number": 11
     },
     {
       "key": "11/11_02:00_gillingham_northampton",
@@ -261,7 +339,59 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Northampton vs Gillingham",
-      "number": 9
+      "number": 12
+    },
+    {
+      "key": "11/11_02:30_bradford_york",
+      "c_home": "bradford",
+      "c_away": "york",
+      "homeTeam": "Bradford",
+      "awayTeam": "York",
+      "time": "02:30",
+      "date": "11/11",
+      "timestamp": 1794339000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:30 11/11] Bradford vs York (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18217/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1343.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [02:30 11/11] Bradford vs York",
+      "number": 13
+    },
+    {
+      "key": "11/11_02:30_bromley_miltonkeynesdons",
+      "c_home": "bromley",
+      "c_away": "miltonkeynesdons",
+      "homeTeam": "Bromley",
+      "awayTeam": "Milton Keynes Dons",
+      "time": "02:30",
+      "date": "11/11",
+      "timestamp": 1794339000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18218/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1832.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons",
+      "number": 14
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -294,7 +424,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 10
+      "number": 15
     },
     {
       "key": "11/11_06:00_akron_westernmichigan",
@@ -320,7 +450,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 11/11] Akron vs Western Michigan",
-      "number": 11
+      "number": 16
     },
     {
       "key": "11/11_06:00_bowlinggreen_kentstate",
@@ -346,7 +476,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 11/11] Bowling Green vs Kent State",
-      "number": 12
+      "number": 17
     },
     {
       "key": "11/11_06:30_americadecali_intermilan",
@@ -372,7 +502,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 11/11] Inter Bogotá vs America de Cali",
-      "number": 13
+      "number": 18
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -398,7 +528,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 14
+      "number": 19
     },
     {
       "key": "11/11_08:30_atleticonacional_oncecaldas",
@@ -431,7 +561,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 15
+      "number": 20
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -464,7 +594,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 16
+      "number": 21
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -490,7 +620,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 17
+      "number": 22
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -523,7 +653,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 18
+      "number": 23
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -556,7 +686,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 19
+      "number": 24
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -589,7 +719,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 20
+      "number": 25
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -622,7 +752,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 21
+      "number": 26
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawa",
@@ -662,7 +792,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa vs Cerezo Osaka",
-      "number": 22
+      "number": 27
     },
     {
       "key": "11/11_19:00_chinesetaipei_vitnam",
@@ -695,7 +825,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Chinese Taipei",
-      "number": 23
+      "number": 28
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -721,7 +851,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 24
+      "number": 29
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -768,7 +898,33 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 25
+      "number": 30
+    },
+    {
+      "key": "11/11_19:00_ibctrunghoa_vitnam",
+      "c_home": "vitnam",
+      "c_away": "ibctrunghoa",
+      "homeTeam": "Việt Nam",
+      "awayTeam": "Đài Bắc Trung Hoa",
+      "time": "19:00",
+      "date": "11/11",
+      "timestamp": 1794398400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://xoiche.live/media/teams/logos/team_479.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa",
+      "number": 31
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -808,7 +964,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 26
+      "number": 32
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -834,7 +990,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 27
+      "number": 33
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -860,7 +1016,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 28
+      "number": 34
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -886,7 +1042,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 29
+      "number": 35
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -912,7 +1068,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 30
+      "number": 36
     },
     {
       "key": "11/11_08:00_bostonceltics_philadelphia76ers",
@@ -938,7 +1094,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 11/11] Philadelphia 76ers vs Boston Celtics",
-      "number": 31
+      "number": 37
     }
   ],
   "source_groups": [
@@ -1499,6 +1655,13 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://xoiche.live/media/teams/logos/team_479.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka (BLV Xôi Xoài) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
           "logo": "https://xoiche.live/media/teams/logos/team_37951.gif",
@@ -1567,16 +1730,16 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:00 11/11] Burton Albion vs Notts County (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18173/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/748.png",
+          "name": "⚽ [02:00 11/11] Stockport County vs Tranmere (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18213/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/4686.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:00 11/11] Grimsby vs Nottingham Forest U21 (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18174/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1365.png",
+          "name": "⚽ [02:00 11/11] Burton Albion vs Notts County (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18173/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/748.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -1588,6 +1751,20 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:00 11/11] Oxford United vs Cheltenham (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18214/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1338.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Leicester vs Walsall (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18215/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/46.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:00 11/11] Bristol Rovers vs Reading (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18177/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1334.png",
@@ -1595,9 +1772,51 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:00 11/11] Plymouth vs Swindon Town (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18216/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1357.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Barnet vs Leyton Orient (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18212/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1369.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:00 11/11] Northampton vs Gillingham (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18179/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1337.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 11/11] Bradford vs York (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18217/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1343.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18218/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1832.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 11/11] Crawley Town vs Brentford U21 (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18219/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1362.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 11/11] Colchester vs Ipswich Town U21 (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18220/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1361.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -1612,6 +1831,13 @@
           "name": "⚽ [06:00 11/11] Bowling Green vs Kent State (us NCAAF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18166/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/154.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Grimsby vs Nottingham Forest U21 (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18174/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1365.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
