@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-10 16:07:42",
+  "updated_at": "2026-11-10 16:23:15",
   "live_events": [
-    {
-      "key": "10/11_14:00_letran_perpetual",
-      "c_home": "letran",
-      "c_away": "perpetual",
-      "homeTeam": "Letran",
-      "awayTeam": "Perpetual",
-      "time": "14:00",
-      "date": "10/11",
-      "timestamp": 1794294000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 14:00 10/11 🏀 Letran vs Perpetual (The Flash)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.vaeFObD7FiLV.m3u8?expires=1794311429&signature=p6WZJPIw_CLMA8ENcwcLFB_mnAsThITGWBRgwOdHAXM",
-          "logo": "https://xoigac.top/uploads/stream-logos/2026-11/3f8a80bdfad34b519d6b06971e562fdc.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 14:00 10/11 🏀 Letran vs Perpetual (Doctor Strange)",
-          "url": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.kZCPlgZYui4i.m3u8?expires=1794311431&signature=4Nfn70UAkCNJfOTIxYssbZR8VJEj9fVDxgsYdHr2mio",
-          "logo": "https://xoigac.top/uploads/stream-logos/2026-11/2dc251466d984575872b1783f2f25ac4.webp",
-          "group": "🍧 Xôi Gấc TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [14:00 10/11] Letran vs Perpetual",
-      "number": 1
-    },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
       "c_home": "deren",
@@ -100,7 +67,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 2
+      "number": 1
     },
     {
       "key": "10/11_17:00_goyangcarrotjumpers_mobisphoebus",
@@ -133,7 +100,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 10/11] Mobis Phoebus vs Goyang Carrot Jumpers",
-      "number": 3
+      "number": 2
     },
     {
       "key": "10/11_17:00_goyangsonoskygunners_ulsanmobisphoebus",
@@ -159,7 +126,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 10/11] Ulsan Mobis Phoebus vs Goyang Sono Skygunners",
-      "number": 4
+      "number": 3
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -206,7 +173,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 5
+      "number": 4
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -246,7 +213,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 6
+      "number": 5
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -286,7 +253,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 7
+      "number": 6
     },
     {
       "key": "10/11_22:00_riversunited_sportingcp",
@@ -319,7 +286,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United",
-      "number": 8
+      "number": 7
     },
     {
       "key": "10/11_22:00_elmokawloon_itesalat",
@@ -345,7 +312,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon vs Itesalat",
-      "number": 9
+      "number": 8
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -392,7 +359,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 10
+      "number": 9
     },
     {
       "key": "10/11_22:00_arabcontractors_we",
@@ -432,7 +399,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs WE SC",
-      "number": 11
+      "number": 10
     },
     {
       "key": "10/11_22:00_almokawloon_telekomegypt",
@@ -458,7 +425,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Al Mokawloon vs Telekom Egypt",
-      "number": 12
+      "number": 11
     },
     {
       "key": "10/11_22:00_arabcontractors_etesalat",
@@ -491,7 +458,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs Etesalat",
-      "number": 13
+      "number": 12
     },
     {
       "key": "10/11_22:00_arabcontractors_telecomegypt",
@@ -524,7 +491,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs Telecom Egypt",
-      "number": 14
+      "number": 13
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -557,7 +524,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 15
+      "number": 14
     },
     {
       "key": "11/11_00:30_metalulbuzau_steauabucuresti",
@@ -590,7 +557,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 11/11] Metalul Buzau vs Steaua Bucuresti",
-      "number": 16
+      "number": 15
     },
     {
       "key": "11/11_01:00_alavs_anaitasuna",
@@ -623,7 +590,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 11/11] Anaitasuna vs Alavés",
-      "number": 17
+      "number": 16
     },
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -656,7 +623,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 11/11] Leicester vs Walsall",
-      "number": 18
+      "number": 17
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -689,7 +656,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 19
+      "number": 18
     },
     {
       "key": "11/11_06:30_americadecali_intermilan",
@@ -715,7 +682,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 11/11] Inter Bogotá vs America de Cali",
-      "number": 20
+      "number": 19
     },
     {
       "key": "11/11_07:00_coloradoavalanche_torontomapleleafs",
@@ -741,7 +708,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 11/11] Toronto Maple Leafs vs Colorado Avalanche",
-      "number": 21
+      "number": 20
     },
     {
       "key": "11/11_07:00_ottawasenators_washingtoncapitals",
@@ -767,7 +734,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 11/11] Ottawa Senators vs Washington Capitals",
-      "number": 22
+      "number": 21
     },
     {
       "key": "11/11_07:00_minnesotawild_montrealcanadiens",
@@ -793,7 +760,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 11/11] Montreal Canadiens vs Minnesota Wild",
-      "number": 23
+      "number": 22
     },
     {
       "key": "11/11_07:00_newjerseydevils_winnipegjets",
@@ -819,7 +786,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 11/11] Winnipeg Jets vs New Jersey Devils",
-      "number": 24
+      "number": 23
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -845,7 +812,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 25
+      "number": 24
     },
     {
       "key": "11/11_07:30_columbusbluejackets_floridapanthers",
@@ -871,7 +838,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Columbus Blue Jackets vs Florida Panthers",
-      "number": 26
+      "number": 25
     },
     {
       "key": "11/11_08:00_bostonceltics_philadelphia76ers",
@@ -904,7 +871,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 11/11] Philadelphia 76ers vs Boston Celtics",
-      "number": 27
+      "number": 26
     },
     {
       "key": "11/11_08:00_detroitredwings_stlouisblues",
@@ -930,7 +897,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings",
-      "number": 28
+      "number": 27
     },
     {
       "key": "11/11_08:30_atleticonacional_oncecaldas",
@@ -963,7 +930,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 29
+      "number": 28
     },
     {
       "key": "11/11_10:00_losangeleskings_nashvillepredators",
@@ -989,7 +956,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 11/11] Los Angeles Kings vs Nashville Predators",
-      "number": 30
+      "number": 29
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -1015,7 +982,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 31
+      "number": 30
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -1041,7 +1008,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 32
+      "number": 31
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -1074,7 +1041,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 33
+      "number": 32
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -1100,7 +1067,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 34
+      "number": 33
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1133,7 +1100,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 35
+      "number": 34
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -1166,7 +1133,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 36
+      "number": 35
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -1192,7 +1159,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 37
+      "number": 36
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1218,7 +1185,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 38
+      "number": 37
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -1265,7 +1232,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 39
+      "number": 38
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1291,7 +1258,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 40
+      "number": 39
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1317,7 +1284,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 41
+      "number": 40
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1343,7 +1310,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 42
+      "number": 41
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1369,7 +1336,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 43
+      "number": 42
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1395,7 +1362,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 44
+      "number": 43
     },
     {
       "key": "11/11_07:30_milwaukeebucks_newyorkknicks",
@@ -1421,7 +1388,7 @@
         }
       ],
       "displayTitle": "🏀 [07:30 11/11] New York Knicks vs Milwaukee Bucks",
-      "number": 45
+      "number": 44
     },
     {
       "key": "11/11_09:00_losangelesclippers_phoenixsuns",
@@ -1447,7 +1414,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 11/11] Phoenix Suns vs Los Angeles Clippers",
-      "number": 46
+      "number": 45
     },
     {
       "key": "11/11_09:00_intermiami_utahjazz",
@@ -1473,7 +1440,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 11/11] Utah Jazz vs Miami Heat",
-      "number": 47
+      "number": 46
     },
     {
       "key": "11/11_10:00_orlandomagic_sacramentokings",
@@ -1499,7 +1466,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 11/11] Sacramento Kings vs Orlando Magic",
-      "number": 48
+      "number": 47
     },
     {
       "key": "11/11_11:00_oklahomacitythunder_portlandtrailblazers",
@@ -1525,7 +1492,7 @@
         }
       ],
       "displayTitle": "🏀 [11:00 11/11] Portland Trail Blazers vs Oklahoma City Thunder",
-      "number": 49
+      "number": 48
     }
   ],
   "source_groups": [
@@ -2515,13 +2482,6 @@
           "name": "⚽ [15:00 10/11] Qatar U23 vs Singapore U23 (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [19:00 10/11] U23 Việt Nam vs Thailand U23 (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
