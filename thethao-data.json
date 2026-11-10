@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-10 10:31:13",
+  "updated_at": "2026-11-10 10:46:32",
   "live_events": [
-    {
-      "key": "10/11_08:15_buffalobills_minnesotavikings",
-      "c_home": "minnesotavikings",
-      "c_away": "buffalobills",
-      "homeTeam": "Minnesota Vikings",
-      "awayTeam": "Buffalo Bills",
-      "time": "08:15",
-      "date": "10/11",
-      "timestamp": 1794273300000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL 1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18155/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/32.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL 2) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18164/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/32.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18154/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/32.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [08:15 10/11] Minnesota Vikings vs Buffalo Bills",
-      "number": 1
-    },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
       "c_home": "chapulineros",
@@ -79,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 2
+      "number": 1
     },
     {
       "key": "10/11_09:30_philadelphiaflyers_vancouvercanucks",
@@ -105,7 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [09:30 10/11] Vancouver Canucks vs Philadelphia Flyers",
-      "number": 3
+      "number": 2
     },
     {
       "key": "10/11_10:00_newyorkislanders_sanjosesharks",
@@ -131,33 +91,7 @@
         }
       ],
       "displayTitle": "🔴 [10:00 10/11] San Jose Sharks vs New York Islanders",
-      "number": 4
-    },
-    {
-      "key": "10/11_08:00_dallasmavericks_indianapacers",
-      "c_home": "dallasmavericks",
-      "c_away": "indianapacers",
-      "homeTeam": "Dallas Mavericks",
-      "awayTeam": "Indiana Pacers",
-      "time": "08:00",
-      "date": "10/11",
-      "timestamp": 1794272400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 10/11] Dallas Mavericks vs Indiana Pacers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18068/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/138.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [08:00 10/11] Dallas Mavericks vs Indiana Pacers",
-      "number": 5
+      "number": 3
     },
     {
       "key": "10/11_08:30_denvernuggets_houstonrockets",
@@ -204,7 +138,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 10/11] Houston Rockets vs Denver Nuggets",
-      "number": 6
+      "number": 4
     },
     {
       "key": "10/11_09:00_phoenixsuns_tottenham",
@@ -244,7 +178,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 10/11] Phoenix suns vs San Antonio Spurs",
-      "number": 7
+      "number": 5
     },
     {
       "key": "10/11_10:00_goldenstatewarriors_neworleanspelicans",
@@ -284,7 +218,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 10/11] Golden State Warriors vs New Orleans Pelicans",
-      "number": 8
+      "number": 6
     },
     {
       "key": "10/11_12:00_hunters_tuvazarganuud",
@@ -310,7 +244,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 10/11] Tuv Azarganuud vs Hunters",
-      "number": 9
+      "number": 7
     },
     {
       "key": "10/11_12:00_centralstallions_hunters",
@@ -343,7 +277,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 10/11] Central Stallions vs Hunters",
-      "number": 10
+      "number": 8
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -369,7 +303,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 11
+      "number": 9
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -395,7 +329,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 12
+      "number": 10
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -421,7 +355,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 13
+      "number": 11
     },
     {
       "key": "10/11_22:00_riversunited_sportingcp",
@@ -447,7 +381,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United",
-      "number": 14
+      "number": 12
     },
     {
       "key": "10/11_22:00_elmokawloon_itesalat",
@@ -473,7 +407,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon vs Itesalat",
-      "number": 15
+      "number": 13
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -506,7 +440,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 16
+      "number": 14
     },
     {
       "key": "10/11_22:00_arabcontractors_we",
@@ -539,7 +473,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs WE SC",
-      "number": 17
+      "number": 15
     },
     {
       "key": "10/11_22:00_almokawloon_telekomegypt",
@@ -565,7 +499,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Al Mokawloon vs Telekom Egypt",
-      "number": 18
+      "number": 16
     },
     {
       "key": "10/11_22:00_arabcontractors_telecomegypt",
@@ -591,7 +525,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs Telecom Egypt",
-      "number": 19
+      "number": 17
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -617,7 +551,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 20
+      "number": 18
     },
     {
       "key": "11/11_01:00_alavs_anaitasuna",
@@ -643,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 11/11] Anaitasuna vs Alavés",
-      "number": 21
+      "number": 19
     },
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -669,7 +603,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 11/11] Leicester vs Walsall",
-      "number": 22
+      "number": 20
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -702,7 +636,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 23
+      "number": 21
     },
     {
       "key": "11/11_06:30_americadecali_intermilan",
@@ -728,7 +662,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 11/11] Inter Bogotá vs America de Cali",
-      "number": 24
+      "number": 22
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -754,7 +688,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 25
+      "number": 23
     },
     {
       "key": "11/11_08:30_atleticonacional_oncecaldas",
@@ -787,7 +721,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 26
+      "number": 24
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -813,7 +747,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 27
+      "number": 25
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -839,7 +773,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 28
+      "number": 26
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -872,7 +806,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 29
+      "number": 27
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -898,7 +832,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 30
+      "number": 28
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -931,7 +865,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 31
+      "number": 29
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -957,7 +891,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 32
+      "number": 30
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -983,7 +917,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 33
+      "number": 31
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1009,7 +943,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 34
+      "number": 32
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -1042,7 +976,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 35
+      "number": 33
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1068,7 +1002,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 36
+      "number": 34
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1094,7 +1028,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 37
+      "number": 35
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1120,7 +1054,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 38
+      "number": 36
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1146,7 +1080,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 39
+      "number": 37
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1172,7 +1106,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 40
+      "number": 38
     },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
@@ -1205,7 +1139,7 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 41
+      "number": 39
     }
   ],
   "source_groups": [
@@ -2437,45 +2371,45 @@
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Indiana Pacers",
-      "home_score": "118",
-      "away_score": "113",
+      "home_score": "125",
+      "away_score": "122",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:22 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-10T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Denver Nuggets",
-      "home_score": "93",
-      "away_score": "87",
+      "home_score": "108",
+      "away_score": "98",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:27 - 4th",
+      "detail": "1:31 - 4th",
       "date": "2026-11-10T01:30Z"
     },
     {
       "home_team": "Phoenix Suns",
       "away_team": "San Antonio Spurs",
-      "home_score": "54",
-      "away_score": "64",
+      "home_score": "66",
+      "away_score": "85",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:38 - 3rd",
+      "detail": "3:23 - 3rd",
       "date": "2026-11-10T02:00Z"
     },
     {
       "home_team": "Golden State Warriors",
       "away_team": "New Orleans Pelicans",
-      "home_score": "29",
-      "away_score": "16",
+      "home_score": "45",
+      "away_score": "22",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:25 - 1st",
+      "detail": "8:47 - 2nd",
       "date": "2026-11-10T03:00Z"
     }
   ],
@@ -3755,6 +3689,15 @@
       },
       {
         "rank": 9,
+        "teamName": "Dallas Mavericks",
+        "shortName": "Mavericks",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+        "played": 11,
+        "gd": "7T-4B",
+        "points": 7
+      },
+      {
+        "rank": 10,
         "teamName": "Memphis Grizzlies",
         "shortName": "Grizzlies",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
@@ -3763,7 +3706,7 @@
         "points": 7
       },
       {
-        "rank": 10,
+        "rank": 11,
         "teamName": "Golden State Warriors",
         "shortName": "Warriors",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -3772,22 +3715,13 @@
         "points": 7
       },
       {
-        "rank": 11,
+        "rank": 12,
         "teamName": "Houston Rockets",
         "shortName": "Rockets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
         "played": 10,
         "gd": "7T-3B",
         "points": 7
-      },
-      {
-        "rank": 12,
-        "teamName": "Dallas Mavericks",
-        "shortName": "Mavericks",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-        "played": 10,
-        "gd": "6T-4B",
-        "points": 6
       },
       {
         "rank": 13,
@@ -3875,8 +3809,8 @@
         "teamName": "Indiana Pacers",
         "shortName": "Pacers",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-        "played": 10,
-        "gd": "3T-7B",
+        "played": 11,
+        "gd": "3T-8B",
         "points": 3
       },
       {
