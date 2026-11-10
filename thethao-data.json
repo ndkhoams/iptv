@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 08:14:17",
+  "updated_at": "2026-11-10 08:29:34",
   "live_events": [
     {
       "key": "10/11_07:00_cucuta_junior",
@@ -255,6 +255,13 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18164/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/32.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18154/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/32.png",
@@ -438,6 +445,53 @@
       "number": 13
     },
     {
+      "key": "10/11_08:30_denvernuggets_houstonrockets",
+      "c_home": "houstonrockets",
+      "c_away": "denvernuggets",
+      "homeTeam": "Houston Rockets",
+      "awayTeam": "Denver Nuggets",
+      "time": "08:30",
+      "date": "10/11",
+      "timestamp": 1794274200000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (BLV Cozy) [hls]",
+          "url": "https://live05.wecile.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (Wem By) [hls]",
+          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/bcfe797437f18526ff4e62177021f638.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [08:30 10/11] Houston Rockets vs Denver Nuggets (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18072/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/142.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [08:30 10/11] Houston Rockets vs Denver Nuggets",
+      "number": 14
+    },
+    {
       "key": "10/11_09:05_chapulineros_cordobs",
       "c_home": "chapulineros",
       "c_away": "cordobs",
@@ -461,7 +515,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobés",
-      "number": 14
+      "number": 15
     },
     {
       "key": "10/11_09:05_chapulineros_cordobesfutbolclub",
@@ -501,7 +555,7 @@
         }
       ],
       "displayTitle": "⚽ [09:05 10/11] Chapulineros vs Cordobes Futbol Club",
-      "number": 15
+      "number": 16
     },
     {
       "key": "10/11_09:30_philadelphiaflyers_vancouvercanucks",
@@ -527,7 +581,7 @@
         }
       ],
       "displayTitle": "⚽ [09:30 10/11] Vancouver Canucks vs Philadelphia Flyers",
-      "number": 16
+      "number": 17
     },
     {
       "key": "10/11_10:00_newyorkislanders_sanjosesharks",
@@ -553,7 +607,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 10/11] San Jose Sharks vs New York Islanders",
-      "number": 17
+      "number": 18
     },
     {
       "key": "10/11_12:00_hunters_tuvazarganuud",
@@ -579,7 +633,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 10/11] Tuv Azarganuud vs Hunters",
-      "number": 18
+      "number": 19
     },
     {
       "key": "10/11_12:00_centralstallions_hunters",
@@ -612,7 +666,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 10/11] Central Stallions vs Hunters",
-      "number": 19
+      "number": 20
     },
     {
       "key": "10/11_21:00_crbenithour_djijel",
@@ -638,7 +692,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Djijel vs Cr Beni Thour",
-      "number": 20
+      "number": 21
     },
     {
       "key": "10/11_21:00_irbnezla_mobejaia",
@@ -664,7 +718,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Mo Bejaia vs Irb Nezla",
-      "number": 21
+      "number": 22
     },
     {
       "key": "10/11_21:00_arba_watlemcen",
@@ -690,7 +744,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 10/11] Wa Tlemcen vs Arba",
-      "number": 22
+      "number": 23
     },
     {
       "key": "10/11_22:00_riversunited_sportingcp",
@@ -716,7 +770,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Sporting Lagos vs Rivers United",
-      "number": 23
+      "number": 24
     },
     {
       "key": "10/11_22:00_elmokawloon_itesalat",
@@ -742,7 +796,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon vs Itesalat",
-      "number": 24
+      "number": 25
     },
     {
       "key": "10/11_22:00_elmokawloonelarab_telecomegypt",
@@ -775,7 +829,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] El Mokawloon El Arab vs Telecom Egypt",
-      "number": 25
+      "number": 26
     },
     {
       "key": "10/11_22:00_arabcontractors_we",
@@ -808,7 +862,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs WE SC",
-      "number": 26
+      "number": 27
     },
     {
       "key": "10/11_22:00_almokawloon_telekomegypt",
@@ -834,7 +888,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Al Mokawloon vs Telekom Egypt",
-      "number": 27
+      "number": 28
     },
     {
       "key": "10/11_22:00_arabcontractors_telecomegypt",
@@ -860,7 +914,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 10/11] Arab Contractors vs Telecom Egypt",
-      "number": 28
+      "number": 29
     },
     {
       "key": "10/11_23:30_belgiumindoorsoccer_sloveniaindoorsoccer",
@@ -886,7 +940,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 10/11] Slovenia Indoor Soccer vs Belgium Indoor Soccer",
-      "number": 29
+      "number": 30
     },
     {
       "key": "11/11_01:00_alavs_anaitasuna",
@@ -912,7 +966,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 11/11] Anaitasuna vs Alavés",
-      "number": 30
+      "number": 31
     },
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -938,7 +992,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 11/11] Leicester vs Walsall",
-      "number": 31
+      "number": 32
     },
     {
       "key": "11/11_03:00_uetavernes_valencia",
@@ -971,7 +1025,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 11/11] Ue Tavernes vs Valencia",
-      "number": 32
+      "number": 33
     },
     {
       "key": "11/11_06:30_americadecali_intermilan",
@@ -997,7 +1051,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 11/11] Inter Bogotá vs America de Cali",
-      "number": 33
+      "number": 34
     },
     {
       "key": "11/11_07:30_anguilla_sintmaarten",
@@ -1023,7 +1077,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 11/11] Sint Maarten vs Anguilla",
-      "number": 34
+      "number": 35
     },
     {
       "key": "11/11_08:30_atleticonacional_oncecaldas",
@@ -1056,7 +1110,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 35
+      "number": 36
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -1082,7 +1136,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 36
+      "number": 37
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -1108,7 +1162,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 37
+      "number": 38
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -1141,7 +1195,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 38
+      "number": 39
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -1167,7 +1221,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 39
+      "number": 40
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1200,7 +1254,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 40
+      "number": 41
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -1226,7 +1280,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 41
+      "number": 42
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawareddiamonds",
@@ -1252,7 +1306,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa Red Diamonds vs Cerezo Osaka",
-      "number": 42
+      "number": 43
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1278,7 +1332,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 43
+      "number": 44
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -1311,7 +1365,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 44
+      "number": 45
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1337,7 +1391,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 45
+      "number": 46
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1363,7 +1417,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 46
+      "number": 47
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1389,7 +1443,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 47
+      "number": 48
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1415,7 +1469,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 48
+      "number": 49
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1441,53 +1495,6 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 49
-    },
-    {
-      "key": "10/11_08:30_denvernuggets_houstonrockets",
-      "c_home": "houstonrockets",
-      "c_away": "denvernuggets",
-      "homeTeam": "Houston Rockets",
-      "awayTeam": "Denver Nuggets",
-      "time": "08:30",
-      "date": "10/11",
-      "timestamp": 1794274200000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (BLV Cozy) [hls]",
-          "url": "https://live05.wecile.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:30 10/11 🏀 Houston Rockets vs Denver Nuggets (Wem By) [hls]",
-          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
-          "logo": "https://static.sportsfeed.pro/basketball/team/bcfe797437f18526ff4e62177021f638.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [08:30 10/11] Houston Rockets vs Denver Nuggets (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18072/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/142.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [08:30 10/11] Houston Rockets vs Denver Nuggets",
       "number": 50
     },
     {
@@ -2497,6 +2504,13 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18164/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/32.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [08:15 10/11] Minnesota Vikings vs Buffalo Bills (us NFL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18154/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/32.png",
@@ -2908,19 +2922,30 @@
     {
       "home_team": "Atlanta Hawks",
       "away_team": "Los Angeles Lakers",
-      "home_score": "57",
-      "away_score": "68",
+      "home_score": "59",
+      "away_score": "72",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "9:57 - 3rd",
       "date": "2026-11-10T00:00Z"
     },
     {
       "home_team": "Charlotte Hornets",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "69",
-      "away_score": "53",
+      "home_score": "84",
+      "away_score": "64",
+      "league": "NBA",
+      "state": "in",
+      "is_completed": false,
+      "detail": "7:21 - 3rd",
+      "date": "2026-11-10T00:00Z"
+    },
+    {
+      "home_team": "Detroit Pistons",
+      "away_team": "Washington Wizards",
+      "home_score": "68",
+      "away_score": "58",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
@@ -2928,36 +2953,25 @@
       "date": "2026-11-10T00:00Z"
     },
     {
-      "home_team": "Detroit Pistons",
-      "away_team": "Washington Wizards",
-      "home_score": "59",
-      "away_score": "51",
-      "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:58 - 2nd",
-      "date": "2026-11-10T00:00Z"
-    },
-    {
       "home_team": "Toronto Raptors",
       "away_team": "Memphis Grizzlies",
-      "home_score": "31",
-      "away_score": "31",
+      "home_score": "41",
+      "away_score": "46",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:44 - 2nd",
+      "detail": "4:30 - 2nd",
       "date": "2026-11-10T00:30Z"
     },
     {
       "home_team": "Dallas Mavericks",
       "away_team": "Indiana Pacers",
-      "home_score": "5",
-      "away_score": "9",
+      "home_score": "20",
+      "away_score": "23",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:25 - 1st",
+      "detail": "4:22 - 1st",
       "date": "2026-11-10T01:00Z"
     },
     {
