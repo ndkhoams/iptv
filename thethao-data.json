@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 03:50:14",
+  "updated_at": "2026-11-11 04:05:33",
   "live_events": [
     {
       "key": "11/11_02:00_leicester_walsall",
@@ -42,32 +42,6 @@
       "number": 1
     },
     {
-      "key": "11/11_02:00_crewe_wigan",
-      "c_home": "crewe",
-      "c_away": "wigan",
-      "homeTeam": "Crewe",
-      "awayTeam": "Wigan",
-      "time": "02:00",
-      "date": "11/11",
-      "timestamp": 1794337200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 11/11] Crewe vs Wigan (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18170/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1363.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 11/11] Crewe vs Wigan",
-      "number": 2
-    },
-    {
       "key": "11/11_02:00_chesterfield_mansfieldtown",
       "c_home": "mansfieldtown",
       "c_away": "chesterfield",
@@ -91,111 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Mansfield Town vs Chesterfield",
-      "number": 3
-    },
-    {
-      "key": "11/11_02:00_stockportcounty_tranmere",
-      "c_home": "stockportcounty",
-      "c_away": "tranmere",
-      "homeTeam": "Stockport County",
-      "awayTeam": "Tranmere",
-      "time": "02:00",
-      "date": "11/11",
-      "timestamp": 1794337200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 11/11] Stockport County vs Tranmere (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18213/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/4686.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 11/11] Stockport County vs Tranmere",
-      "number": 4
-    },
-    {
-      "key": "11/11_02:00_burtonalbion_nottscounty",
-      "c_home": "burtonalbion",
-      "c_away": "nottscounty",
-      "homeTeam": "Burton Albion",
-      "awayTeam": "Notts County",
-      "time": "02:00",
-      "date": "11/11",
-      "timestamp": 1794337200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 11/11] Burton Albion vs Notts County (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18173/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/748.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 11/11] Burton Albion vs Notts County",
-      "number": 5
-    },
-    {
-      "key": "11/11_02:00_cheltenham_oxfordunited",
-      "c_home": "oxfordunited",
-      "c_away": "cheltenham",
-      "homeTeam": "Oxford United",
-      "awayTeam": "Cheltenham",
-      "time": "02:00",
-      "date": "11/11",
-      "timestamp": 1794337200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 11/11] Oxford United vs Cheltenham (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18214/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1338.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 11/11] Oxford United vs Cheltenham",
-      "number": 6
-    },
-    {
-      "key": "11/11_02:00_bristolrovers_reading",
-      "c_home": "bristolrovers",
-      "c_away": "reading",
-      "homeTeam": "Bristol Rovers",
-      "awayTeam": "Reading",
-      "time": "02:00",
-      "date": "11/11",
-      "timestamp": 1794337200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 11/11] Bristol Rovers vs Reading (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18177/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1334.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 11/11] Bristol Rovers vs Reading",
-      "number": 7
+      "number": 2
     },
     {
       "key": "11/11_02:00_plymouth_swindontown",
@@ -221,7 +91,7 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Plymouth vs Swindon Town",
-      "number": 8
+      "number": 3
     },
     {
       "key": "11/11_02:00_barnet_leytonorient",
@@ -247,6 +117,136 @@
         }
       ],
       "displayTitle": "🔴 [02:00 11/11] Barnet vs Leyton Orient",
+      "number": 4
+    },
+    {
+      "key": "11/11_02:00_crewe_wigan",
+      "c_home": "crewe",
+      "c_away": "wigan",
+      "homeTeam": "Crewe",
+      "awayTeam": "Wigan",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Crewe vs Wigan (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18170/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1363.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Crewe vs Wigan",
+      "number": 5
+    },
+    {
+      "key": "11/11_02:00_stockportcounty_tranmere",
+      "c_home": "stockportcounty",
+      "c_away": "tranmere",
+      "homeTeam": "Stockport County",
+      "awayTeam": "Tranmere",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Stockport County vs Tranmere (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18213/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/4686.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Stockport County vs Tranmere",
+      "number": 6
+    },
+    {
+      "key": "11/11_02:00_burtonalbion_nottscounty",
+      "c_home": "burtonalbion",
+      "c_away": "nottscounty",
+      "homeTeam": "Burton Albion",
+      "awayTeam": "Notts County",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Burton Albion vs Notts County (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18173/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/748.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Burton Albion vs Notts County",
+      "number": 7
+    },
+    {
+      "key": "11/11_02:00_cheltenham_oxfordunited",
+      "c_home": "oxfordunited",
+      "c_away": "cheltenham",
+      "homeTeam": "Oxford United",
+      "awayTeam": "Cheltenham",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Oxford United vs Cheltenham (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18214/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1338.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Oxford United vs Cheltenham",
+      "number": 8
+    },
+    {
+      "key": "11/11_02:00_bristolrovers_reading",
+      "c_home": "bristolrovers",
+      "c_away": "reading",
+      "homeTeam": "Bristol Rovers",
+      "awayTeam": "Reading",
+      "time": "02:00",
+      "date": "11/11",
+      "timestamp": 1794337200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 11/11] Bristol Rovers vs Reading (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18177/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1334.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 11/11] Bristol Rovers vs Reading",
       "number": 9
     },
     {
@@ -1319,25 +1319,6 @@
       ]
     },
     {
-      "name": "🥤 Cola TV",
-      "channels": [
-        {
-          "name": "00:30 11/11 ⚽ Metalul Buzau vs Steaua Bucuresti (BLV MOUNTAIN DEW) [hls]",
-          "url": "https://live05.wecile.app/live/87547578.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f5564d465c79e1d82f69a3cd887c50b8.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "00:30 11/11 ⚽ Metalul Buzau vs Steaua Bucuresti (BLV MOUNTAIN DEW) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/f5564d465c79e1d82f69a3cd887c50b8.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "💥 Phá Làng TV",
       "channels": [
         {
@@ -1674,16 +1655,51 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
-          "name": "⚽ [02:00 11/11] Crewe vs Wigan (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18170/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1363.png",
+          "name": "⚽ [02:00 11/11] Mansfield Town vs Chesterfield (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18171/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1374.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:00 11/11] Mansfield Town vs Chesterfield (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18171/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1374.png",
+          "name": "⚽ [02:00 11/11] Plymouth vs Swindon Town (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18216/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1357.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Barnet vs Leyton Orient (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18212/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1369.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 11/11] Bradford vs York (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18217/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1343.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18218/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1832.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 11/11] Colchester vs Ipswich Town U21 (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18220/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1361.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:00 11/11] Crewe vs Wigan (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18170/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1363.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -1737,44 +1753,9 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:00 11/11] Plymouth vs Swindon Town (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18216/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1357.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:00 11/11] Barnet vs Leyton Orient (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18212/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1369.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:00 11/11] Northampton vs Gillingham (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18179/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1337.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:30 11/11] Bradford vs York (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18217/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1343.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:30 11/11] Bromley vs Milton Keynes Dons (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18218/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1832.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 11/11] Colchester vs Ipswich Town U21 (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18220/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1361.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
