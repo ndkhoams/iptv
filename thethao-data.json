@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-11-10 16:38:25",
+  "updated_at": "2026-11-10 16:53:36",
   "live_events": [
+    {
+      "key": "10/11_17:00_goyangcarrotjumpers_mobisphoebus",
+      "c_home": "mobisphoebus",
+      "c_away": "goyangcarrotjumpers",
+      "homeTeam": "Mobis Phoebus",
+      "awayTeam": "Goyang Carrot Jumpers",
+      "time": "17:00",
+      "date": "10/11",
+      "timestamp": 1794304800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "17:00 10/11 🏀 Mobis Phoebus vs Goyang Carrot Jumpers (BLV LIPTON) [hls]",
+          "url": "https://live05.wecile.app/live/89756030.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "17:00 10/11 🏀 Mobis Phoebus vs Goyang Carrot Jumpers (BLV LIPTON) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:00 10/11] Mobis Phoebus vs Goyang Carrot Jumpers",
+      "number": 1
+    },
+    {
+      "key": "10/11_17:00_goyangsonoskygunners_ulsanmobisphoebus",
+      "c_home": "ulsanmobisphoebus",
+      "c_away": "goyangsonoskygunners",
+      "homeTeam": "Ulsan Mobis Phoebus",
+      "awayTeam": "Goyang Sono Skygunners",
+      "time": "17:00",
+      "date": "10/11",
+      "timestamp": 1794304800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "17:00 10/11 🏀 Ulsan Mobis Phoebus vs Goyang Sono Skygunners (Wem By) [hls]",
+          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
+          "logo": "https://static.sportsfeed.pro/basketball/team/8e93da8386dc5b378446762993400ca7.png",
+          "group": "🐔 Gà Vàng 24h",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [17:00 10/11] Ulsan Mobis Phoebus vs Goyang Sono Skygunners",
+      "number": 2
+    },
     {
       "key": "10/11_15:00_deren_ulaanbaatar",
       "c_home": "deren",
@@ -67,65 +126,6 @@
         }
       ],
       "displayTitle": "🏀 [15:00 10/11] Deren vs Ulaanbaatar",
-      "number": 1
-    },
-    {
-      "key": "10/11_17:00_goyangcarrotjumpers_mobisphoebus",
-      "c_home": "mobisphoebus",
-      "c_away": "goyangcarrotjumpers",
-      "homeTeam": "Mobis Phoebus",
-      "awayTeam": "Goyang Carrot Jumpers",
-      "time": "17:00",
-      "date": "10/11",
-      "timestamp": 1794304800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "17:00 10/11 🏀 Mobis Phoebus vs Goyang Carrot Jumpers (BLV LIPTON) [hls]",
-          "url": "https://live05.wecile.app/live/89756030.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "17:00 10/11 🏀 Mobis Phoebus vs Goyang Carrot Jumpers (BLV LIPTON) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:00 10/11] Mobis Phoebus vs Goyang Carrot Jumpers",
-      "number": 2
-    },
-    {
-      "key": "10/11_17:00_goyangsonoskygunners_ulsanmobisphoebus",
-      "c_home": "ulsanmobisphoebus",
-      "c_away": "goyangsonoskygunners",
-      "homeTeam": "Ulsan Mobis Phoebus",
-      "awayTeam": "Goyang Sono Skygunners",
-      "time": "17:00",
-      "date": "10/11",
-      "timestamp": 1794304800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "17:00 10/11 🏀 Ulsan Mobis Phoebus vs Goyang Sono Skygunners (Wem By) [hls]",
-          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
-          "logo": "https://static.sportsfeed.pro/basketball/team/8e93da8386dc5b378446762993400ca7.png",
-          "group": "🐔 Gà Vàng 24h",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [17:00 10/11] Ulsan Mobis Phoebus vs Goyang Sono Skygunners",
       "number": 3
     },
     {
@@ -2482,6 +2482,13 @@
           "name": "⚽ [15:00 10/11] Qatar U23 vs Singapore U23 (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [19:00 10/11] U23 Việt Nam vs Thailand U23 (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
