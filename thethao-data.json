@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 07:39:46",
+  "updated_at": "2026-11-11 07:55:29",
   "live_events": [
     {
       "key": "11/11_06:30_americadecali_intermilan",
@@ -354,6 +354,58 @@
       "number": 13
     },
     {
+      "key": "11/11_08:00_detroitredwings_stlouisblues",
+      "c_home": "stlouisblues",
+      "c_away": "detroitredwings",
+      "homeTeam": "St. Louis Blues",
+      "awayTeam": "Detroit Red Wings",
+      "time": "08:00",
+      "date": "11/11",
+      "timestamp": 1794358800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18131/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/698.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 11/11] St. Louis Blues vs Detroit Red Wings",
+      "number": 14
+    },
+    {
+      "key": "11/11_08:00_film4k_nxt863",
+      "c_home": "nxt863",
+      "c_away": "film4k",
+      "homeTeam": "NXT #863",
+      "awayTeam": "Film4k",
+      "time": "08:00",
+      "date": "11/11",
+      "timestamp": 1794358800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 11/11] NXT #863 (us CW) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18168/index.m3u8",
+          "logo": "https://film4k.pl/icon.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 11/11] NXT #863 vs Film4k",
+      "number": 15
+    },
+    {
       "key": "11/11_07:30_milwaukeebucks_newyorkknicks",
       "c_home": "newyorkknicks",
       "c_away": "milwaukeebucks",
@@ -391,66 +443,47 @@
         }
       ],
       "displayTitle": "🏀 [07:30 11/11] New York Knicks vs Milwaukee Bucks",
-      "number": 14
+      "number": 16
     },
     {
-      "key": "11/11_08:00_detroitredwings_stlouisblues",
-      "c_home": "stlouisblues",
-      "c_away": "detroitredwings",
-      "homeTeam": "St. Louis Blues",
-      "awayTeam": "Detroit Red Wings",
+      "key": "11/11_08:00_ibngrbostonceltics_philadelphia76ers",
+      "c_home": "philadelphia76ers",
+      "c_away": "ibngrbostonceltics",
+      "homeTeam": "Philadelphia 76ers",
+      "awayTeam": "Đội bóng rổ Boston Celtics",
       "time": "08:00",
       "date": "11/11",
       "timestamp": 1794358800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18131/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/698.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings",
-      "number": 15
-    },
-    {
-      "key": "11/11_08:00_film4k_nxt863",
-      "c_home": "nxt863",
-      "c_away": "film4k",
-      "homeTeam": "NXT #863",
-      "awayTeam": "Film4k",
-      "time": "08:00",
-      "date": "11/11",
-      "timestamp": 1794358800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 11/11] NXT #863 (us CW) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18168/index.m3u8",
-          "logo": "https://film4k.pl/icon.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
+          "name": "08:00 11/11 🏀 Philadelphia 76ers vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls]",
+          "url": "https://live05.wecile.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
         },
         {
-          "name": "⚽ [08:00 11/11] NXT #863 (us Disney+) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18169/index.m3u8",
-          "logo": "https://film4k.pl/icon.png",
+          "name": "08:00 11/11 🏀 Philadelphia 76ers vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [08:00 11/11] Philadelphia 76ers vs Boston Celtics (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18084/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/154.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [08:00 11/11] NXT #863 vs Film4k",
-      "number": 16
+      "displayTitle": "🏀 [08:00 11/11] Philadelphia 76ers vs Đội bóng rổ Boston Celtics",
+      "number": 17
     },
     {
       "key": "11/11_08:30_atleticonacional_oncecaldas",
@@ -490,7 +523,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 17
+      "number": 18
     },
     {
       "key": "11/11_08:30_atlticonacional_oncecaldas",
@@ -516,7 +549,7 @@
         }
       ],
       "displayTitle": "⚽ [08:30 11/11] Once Caldas vs Atlético Nacional",
-      "number": 18
+      "number": 19
     },
     {
       "key": "11/11_09:00_losangelesclippers_phoenixsuns",
@@ -556,7 +589,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 11/11] Phoenix suns vs Los Angeles Clippers",
-      "number": 19
+      "number": 20
     },
     {
       "key": "11/11_10:00_losangeleskings_nashvillepredators",
@@ -582,7 +615,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 11/11] Los Angeles Kings vs Nashville Predators",
-      "number": 20
+      "number": 21
     },
     {
       "key": "11/11_11:30_maldives_n",
@@ -608,7 +641,7 @@
         }
       ],
       "displayTitle": "⚽ [11:30 11/11] Ấn Độ vs Maldives",
-      "number": 21
+      "number": 22
     },
     {
       "key": "11/11_12:00_kashimaantlers_yokohamafmarinos",
@@ -641,7 +674,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 11/11] Yokohama F. Marinos vs Kashima Antlers",
-      "number": 22
+      "number": 23
     },
     {
       "key": "11/11_12:00_kashiwareysol_kawasakifrontale",
@@ -667,7 +700,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 23
+      "number": 24
     },
     {
       "key": "11/11_12:30_cerezoosaka_urawareds",
@@ -700,7 +733,7 @@
         }
       ],
       "displayTitle": "⚽ [12:30 11/11] Urawa Reds vs Cerezo Osaka",
-      "number": 24
+      "number": 25
     },
     {
       "key": "11/11_14:00_ibctrunghoa_vitnam",
@@ -733,7 +766,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 11/11] Việt Nam vs Đài Bắc Trung Hoa",
-      "number": 25
+      "number": 26
     },
     {
       "key": "11/11_16:00_bangladesh_srilanka",
@@ -759,7 +792,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 26
+      "number": 27
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -806,7 +839,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 27
+      "number": 28
     },
     {
       "key": "11/11_16:30_ituynqucgian_maldives",
@@ -839,7 +872,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Đội tuyển quốc gia Ấn Độ vs Maldives",
-      "number": 28
+      "number": 29
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -907,7 +940,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 29
+      "number": 30
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -954,7 +987,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 30
+      "number": 31
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -1008,7 +1041,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 31
+      "number": 32
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -1034,7 +1067,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 32
+      "number": 33
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawa",
@@ -1109,7 +1142,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa vs Cerezo Osaka",
-      "number": 33
+      "number": 34
     },
     {
       "key": "11/11_19:00_chinesetaipei_vitnam",
@@ -1142,7 +1175,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Chinese Taipei",
-      "number": 34
+      "number": 35
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -1175,7 +1208,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 35
+      "number": 36
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -1215,7 +1248,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 36
+      "number": 37
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -1248,7 +1281,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 37
+      "number": 38
     },
     {
       "key": "12/11_02:00_atleticolapaz_piratas",
@@ -1274,7 +1307,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 12/11] Piratas vs Atletico La Paz",
-      "number": 38
+      "number": 39
     },
     {
       "key": "12/11_13:00_n_newzealand",
@@ -1300,7 +1333,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 12/11] New Zealand vs Ấn Độ",
-      "number": 39
+      "number": 40
     },
     {
       "key": "12/11_15:30_adelaidecity_apialeichhardttigers",
@@ -1326,7 +1359,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 12/11] Apia Leichhardt Tigers vs Adelaide City",
-      "number": 40
+      "number": 41
     },
     {
       "key": "12/11_17:00_ghana_somalia",
@@ -1352,7 +1385,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 12/11] Ghana vs Somalia",
-      "number": 41
+      "number": 42
     },
     {
       "key": "12/11_17:00_russia_uzbekistan",
@@ -1378,7 +1411,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 12/11] Uzbekistan vs Russia",
-      "number": 42
+      "number": 43
     },
     {
       "key": "12/11_19:00_b_thnhk",
@@ -1404,7 +1437,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 12/11] Thổ Nhĩ Kỳ vs Bỉ",
-      "number": 43
+      "number": 44
     },
     {
       "key": "12/11_21:45_albania_finland",
@@ -1430,7 +1463,7 @@
         }
       ],
       "displayTitle": "⚽ [21:45 12/11] Albania vs Finland",
-      "number": 44
+      "number": 45
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1456,7 +1489,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 45
+      "number": 46
     },
     {
       "key": "12/11_22:00_nga_uzbekistan",
@@ -1482,7 +1515,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Nga",
-      "number": 46
+      "number": 47
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1508,7 +1541,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 47
+      "number": 48
     },
     {
       "key": "13/11_07:00_curacao_panama",
@@ -1534,7 +1567,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 13/11] Curacao vs Panama",
-      "number": 48
+      "number": 49
     },
     {
       "key": "13/11_16:00_kuwait_syria",
@@ -1560,7 +1593,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 13/11] Kuwait vs Syria",
-      "number": 49
+      "number": 50
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -1586,7 +1619,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 50
+      "number": 51
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -1612,7 +1645,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 51
+      "number": 52
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -1638,46 +1671,6 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 52
-    },
-    {
-      "key": "11/11_08:00_ibngrbostonceltics_philadelphia76ers",
-      "c_home": "philadelphia76ers",
-      "c_away": "ibngrbostonceltics",
-      "homeTeam": "Philadelphia 76ers",
-      "awayTeam": "Đội bóng rổ Boston Celtics",
-      "time": "08:00",
-      "date": "11/11",
-      "timestamp": 1794358800000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:00 11/11 🏀 Philadelphia 76ers vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls]",
-          "url": "https://live05.wecile.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "08:00 11/11 🏀 Philadelphia 76ers vs Đội bóng rổ Boston Celtics (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [08:00 11/11] Philadelphia 76ers vs Boston Celtics (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18084/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [08:00 11/11] Philadelphia 76ers vs Đội bóng rổ Boston Celtics",
       "number": 53
     },
     {
@@ -2827,13 +2820,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [08:00 11/11] NXT #863 (us Disney+) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18169/index.m3u8",
-          "logo": "https://film4k.pl/icon.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [09:00 11/11] Phoenix Suns vs Los Angeles Clippers (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18077/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/155.png",
@@ -3238,12 +3224,12 @@
     {
       "home_team": "New York Knicks",
       "away_team": "Milwaukee Bucks",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "15",
+      "away_score": "16",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/10 - 7:30 PM EST",
+      "detail": "3:50 - 1st",
       "date": "2026-11-11T00:30Z"
     },
     {
