@@ -1,58 +1,6 @@
 {
-  "updated_at": "2026-11-11 10:42:44",
+  "updated_at": "2026-11-11 10:58:03",
   "live_events": [
-    {
-      "key": "11/11_08:30_atlticonacional_oncecaldas",
-      "c_home": "oncecaldas",
-      "c_away": "atlticonacional",
-      "homeTeam": "Once Caldas",
-      "awayTeam": "Atlético Nacional",
-      "time": "08:30",
-      "date": "11/11",
-      "timestamp": 1794360600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:30 11/11 ⚽ Once Caldas vs Atlético Nacional (Nếp Cẩm) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6024.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [08:30 11/11] Once Caldas vs Atlético Nacional",
-      "number": 1
-    },
-    {
-      "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
-      "c_home": "deportivaoncecaldas",
-      "c_away": "atleticonacionalmedellin",
-      "homeTeam": "Deportiva Once Caldas",
-      "awayTeam": "Atletico Nacional Medellin",
-      "time": "08:30",
-      "date": "11/11",
-      "timestamp": 1794360600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "08:30 11/11 ⚽ Deportiva Once Caldas vs Atletico Nacional Medellin (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b060f70150fe2b52fba8aa026a930c4e.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
-      "number": 2
-    },
     {
       "key": "11/11_09:00_losangelesclippers_phoenixsuns",
       "c_home": "phoenixsuns",
@@ -91,7 +39,7 @@
         }
       ],
       "displayTitle": "🔴 [09:00 11/11] Phoenix suns vs Los Angeles Clippers",
-      "number": 3
+      "number": 1
     },
     {
       "key": "11/11_10:00_losangeleskings_nashvillepredators",
@@ -117,7 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [10:00 11/11] Los Angeles Kings vs Nashville Predators",
-      "number": 4
+      "number": 2
     },
     {
       "key": "11/11_09:00_intermiami_utahjazz",
@@ -157,7 +105,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 11/11] Utah Jazz vs Miami Heat",
-      "number": 5
+      "number": 3
     },
     {
       "key": "11/11_10:00_orlandomagic_sacramentokings",
@@ -197,7 +145,33 @@
         }
       ],
       "displayTitle": "🏀 [10:00 11/11] Sacramento Kings vs Orlando Magic",
-      "number": 6
+      "number": 4
+    },
+    {
+      "key": "11/11_11:00_oklahomacitythunder_portlandtrailblazers",
+      "c_home": "portlandtrailblazers",
+      "c_away": "oklahomacitythunder",
+      "homeTeam": "Portland Trail Blazers",
+      "awayTeam": "Oklahoma City Thunder",
+      "time": "11:00",
+      "date": "11/11",
+      "timestamp": 1794369600000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [11:00 11/11] Portland Trail Blazers vs Oklahoma City Thunder (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18092/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/156.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [11:00 11/11] Portland Trail Blazers vs Oklahoma City Thunder",
+      "number": 5
     },
     {
       "key": "11/11_12:00_kashimaantlers_yokohamafmarinos",
@@ -223,7 +197,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 11/11] Yokohama F. Marinos vs Kashima Antlers",
-      "number": 7
+      "number": 6
     },
     {
       "key": "11/11_12:30_cerezoosaka_urawareds",
@@ -249,7 +223,7 @@
         }
       ],
       "displayTitle": "⚽ [12:30 11/11] Urawa Reds vs Cerezo Osaka",
-      "number": 8
+      "number": 7
     },
     {
       "key": "11/11_14:00_ibctrunghoa_vitnam",
@@ -275,7 +249,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 11/11] Việt Nam vs Đài Bắc Trung Hoa",
-      "number": 9
+      "number": 8
     },
     {
       "key": "11/11_16:30_india_maldives",
@@ -322,7 +296,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] India vs Maldives",
-      "number": 10
+      "number": 9
     },
     {
       "key": "11/11_16:30_ituynqucgian_maldives",
@@ -355,7 +329,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Đội tuyển quốc gia Ấn Độ vs Maldives",
-      "number": 11
+      "number": 10
     },
     {
       "key": "11/11_16:30_maldives_n",
@@ -381,7 +355,7 @@
         }
       ],
       "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
-      "number": 12
+      "number": 11
     },
     {
       "key": "11/11_17:00_machidazelvia_visselkobe",
@@ -449,7 +423,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
-      "number": 13
+      "number": 12
     },
     {
       "key": "11/11_17:00_kashiwareysol_kawasakifrontale",
@@ -503,7 +477,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
-      "number": 14
+      "number": 13
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamafmarinos",
@@ -564,7 +538,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
-      "number": 15
+      "number": 14
     },
     {
       "key": "11/11_17:00_kashimaantlers_yokohamamarinos",
@@ -590,7 +564,7 @@
         }
       ],
       "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
-      "number": 16
+      "number": 15
     },
     {
       "key": "11/11_17:30_cerezoosaka_urawa",
@@ -672,7 +646,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 11/11] Urawa vs Cerezo Osaka",
-      "number": 17
+      "number": 16
     },
     {
       "key": "11/11_19:00_chinesetaipei_vitnam",
@@ -705,7 +679,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Chinese Taipei",
-      "number": 18
+      "number": 17
     },
     {
       "key": "11/11_19:00_chinesetaipei_vietnam",
@@ -738,7 +712,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Vietnam vs Chinese Taipei",
-      "number": 19
+      "number": 18
     },
     {
       "key": "11/11_19:00_iloan_vitnam",
@@ -778,7 +752,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Loan",
-      "number": 20
+      "number": 19
     },
     {
       "key": "11/11_19:00_ibctrunghoa_vitnam",
@@ -804,7 +778,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 11/11] Việt Nam vs Đài Bắc Trung Hoa",
-      "number": 21
+      "number": 20
     },
     {
       "key": "11/11_21:00_bangladesh_srilanka",
@@ -844,7 +818,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 11/11] Bangladesh vs Sri Lanka",
-      "number": 22
+      "number": 21
     },
     {
       "key": "12/11_02:00_accringtonst_sheffieldwednesday",
@@ -870,7 +844,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 12/11] Sheffield Wednesday vs Accrington ST",
-      "number": 23
+      "number": 22
     },
     {
       "key": "12/11_02:00_barnsley_oldham",
@@ -896,7 +870,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 12/11] Barnsley vs Oldham",
-      "number": 24
+      "number": 23
     },
     {
       "key": "12/11_06:00_realcartagena_realsoacha",
@@ -922,33 +896,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena",
-      "number": 25
-    },
-    {
-      "key": "12/11_07:00_atleticolapaz_piratas",
-      "c_home": "piratas",
-      "c_away": "atleticolapaz",
-      "homeTeam": "Piratas",
-      "awayTeam": "Atletico La Paz",
-      "time": "07:00",
-      "date": "12/11",
-      "timestamp": 1794441600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:00 12/11] Piratas vs Atletico La Paz (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://xoiche.live/media/teams/logos/1794340684727317575_55c3dbaa.png",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [07:00 12/11] Piratas vs Atletico La Paz",
-      "number": 26
+      "number": 24
     },
     {
       "key": "12/11_08:10_quindio_tigres",
@@ -974,7 +922,33 @@
         }
       ],
       "displayTitle": "⚽ [08:10 12/11] Quindio vs Tigres",
-      "number": 27
+      "number": 25
+    },
+    {
+      "key": "12/11_09:00_atleticolapaz_piratas",
+      "c_home": "piratas",
+      "c_away": "atleticolapaz",
+      "homeTeam": "Piratas",
+      "awayTeam": "Atletico La Paz",
+      "time": "09:00",
+      "date": "12/11",
+      "timestamp": 1794448800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [09:00 12/11] Piratas vs Atletico La Paz (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://xoiche.live/media/teams/logos/1794340684727317575_55c3dbaa.png",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [09:00 12/11] Piratas vs Atletico La Paz",
+      "number": 26
     },
     {
       "key": "12/11_13:00_n_newzealand",
@@ -1000,7 +974,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 12/11] New Zealand vs Ấn Độ",
-      "number": 28
+      "number": 27
     },
     {
       "key": "12/11_15:30_adelaidecity_apialeichhardttigers",
@@ -1026,7 +1000,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 12/11] Apia Leichhardt Tigers vs Adelaide City",
-      "number": 29
+      "number": 28
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -1059,7 +1033,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 30
+      "number": 29
     },
     {
       "key": "12/11_22:00_nga_uzbekistan",
@@ -1085,7 +1059,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Nga",
-      "number": 31
+      "number": 30
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -1111,7 +1085,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 32
+      "number": 31
     },
     {
       "key": "13/11_00:00_b_thnhk",
@@ -1137,7 +1111,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
-      "number": 33
+      "number": 32
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1170,7 +1144,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 34
+      "number": 33
     },
     {
       "key": "13/11_07:00_curacao_panama",
@@ -1196,7 +1170,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 13/11] Curacao vs Panama",
-      "number": 35
+      "number": 34
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -1222,7 +1196,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 36
+      "number": 35
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -1248,7 +1222,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 37
+      "number": 36
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1274,7 +1248,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 38
+      "number": 37
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -1300,33 +1274,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 39
-    },
-    {
-      "key": "11/11_11:00_oklahomacitythunder_portlandtrailblazers",
-      "c_home": "portlandtrailblazers",
-      "c_away": "oklahomacitythunder",
-      "homeTeam": "Portland Trail Blazers",
-      "awayTeam": "Oklahoma City Thunder",
-      "time": "11:00",
-      "date": "11/11",
-      "timestamp": 1794369600000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [11:00 11/11] Portland Trail Blazers vs Oklahoma City Thunder (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18092/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/156.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [11:00 11/11] Portland Trail Blazers vs Oklahoma City Thunder",
-      "number": 40
+      "number": 38
     }
   ],
   "source_groups": [
@@ -2177,7 +2125,7 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [07:00 12/11] Piratas vs Atletico La Paz (BLV Tam Mao) - Xôi Chè",
+          "name": "⚽ [09:00 12/11] Piratas vs Atletico La Paz (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://xoiche.live/media/teams/logos/1794340684727317575_55c3dbaa.png",
           "group": "🍧 Xôi Chè TV",
@@ -2237,13 +2185,6 @@
     {
       "name": "⚽ Film4k / Antsports",
       "channels": [
-        {
-          "name": "⚽ [07:00 11/11] Bowling Green vs Kent State (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18166/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
         {
           "name": "⚽ [09:00 11/11] Phoenix Suns vs Los Angeles Clippers (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18077/index.m3u8",
@@ -2692,34 +2633,34 @@
     {
       "home_team": "Phoenix Suns",
       "away_team": "LA Clippers",
-      "home_score": "89",
-      "away_score": "59",
+      "home_score": "99",
+      "away_score": "72",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:21 - 3rd",
+      "detail": "End of 3rd",
       "date": "2026-11-11T02:00Z"
     },
     {
       "home_team": "Utah Jazz",
       "away_team": "Miami Heat",
-      "home_score": "60",
-      "away_score": "70",
+      "home_score": "66",
+      "away_score": "89",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "8:30 - 3rd",
+      "detail": "2:28 - 3rd",
       "date": "2026-11-11T02:00Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Orlando Magic",
-      "home_score": "34",
-      "away_score": "34",
+      "home_score": "43",
+      "away_score": "47",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:20 - 2nd",
+      "detail": "4:35 - 2nd",
       "date": "2026-11-11T03:00Z"
     },
     {
