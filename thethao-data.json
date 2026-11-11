@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-11 10:27:34",
+  "updated_at": "2026-11-11 10:42:44",
   "live_events": [
-    {
-      "key": "11/11_08:30_atleticonacional_oncecaldas",
-      "c_home": "oncecaldas",
-      "c_away": "atleticonacional",
-      "homeTeam": "Once Caldas",
-      "awayTeam": "Atletico Nacional",
-      "time": "08:30",
-      "date": "11/11",
-      "timestamp": 1794360600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [08:30 11/11] Deportiva Once Caldas Vs Atletico Nacional Medellin (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "08:30 11/11 ⚽ Deportiva Once Caldas vs Atletico Nacional Medellin (Gà Siêu Son) [hls]",
-          "url": "https://live2.zktsva.app/live/306290.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b060f70150fe2b52fba8aa026a930c4e.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [08:30 11/11] Once Caldas vs Atletico Nacional",
-      "number": 1
-    },
     {
       "key": "11/11_08:30_atlticonacional_oncecaldas",
       "c_home": "oncecaldas",
@@ -65,6 +25,32 @@
         }
       ],
       "displayTitle": "🔴 [08:30 11/11] Once Caldas vs Atlético Nacional",
+      "number": 1
+    },
+    {
+      "key": "11/11_08:30_atleticonacionalmedellin_deportivaoncecaldas",
+      "c_home": "deportivaoncecaldas",
+      "c_away": "atleticonacionalmedellin",
+      "homeTeam": "Deportiva Once Caldas",
+      "awayTeam": "Atletico Nacional Medellin",
+      "time": "08:30",
+      "date": "11/11",
+      "timestamp": 1794360600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "08:30 11/11 ⚽ Deportiva Once Caldas vs Atletico Nacional Medellin (Gà Siêu Son) [hls]",
+          "url": "https://live2.zktsva.app/live/306290.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b060f70150fe2b52fba8aa026a930c4e.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [08:30 11/11] Deportiva Once Caldas vs Atletico Nacional Medellin",
       "number": 2
     },
     {
@@ -1348,13 +1334,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [08:30 11/11] Once Caldas vs Atletico Nacional (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [14:30 11/11] Guam U17 vs Palestine U17 (BLV Chuối Lá) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
@@ -1457,13 +1436,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [08:30 11/11] Deportiva Once Caldas Vs Atletico Nacional Medellin (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [16:30 11/11] India Vs Maldives (BLV Gà Siêu Bệu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -2273,20 +2245,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [08:00 11/11] Philadelphia 76ers vs Boston Celtics (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18084/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18131/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/698.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [09:00 11/11] Phoenix Suns vs Los Angeles Clippers (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18077/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/155.png",
@@ -2311,6 +2269,13 @@
           "name": "⚽ [10:00 11/11] Los Angeles Kings vs Nashville Predators (us NHL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18134/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/685.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [08:00 11/11] St. Louis Blues vs Detroit Red Wings (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18131/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/698.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -2727,34 +2692,34 @@
     {
       "home_team": "Phoenix Suns",
       "away_team": "LA Clippers",
-      "home_score": "72",
-      "away_score": "53",
+      "home_score": "89",
+      "away_score": "59",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:08 - 3rd",
+      "detail": "4:21 - 3rd",
       "date": "2026-11-11T02:00Z"
     },
     {
       "home_team": "Utah Jazz",
       "away_team": "Miami Heat",
-      "home_score": "54",
-      "away_score": "64",
+      "home_score": "60",
+      "away_score": "70",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "8:30 - 3rd",
       "date": "2026-11-11T02:00Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Orlando Magic",
-      "home_score": "14",
-      "away_score": "24",
+      "home_score": "34",
+      "away_score": "34",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:18 - 1st",
+      "detail": "10:20 - 2nd",
       "date": "2026-11-11T03:00Z"
     },
     {
