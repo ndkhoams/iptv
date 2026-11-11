@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 16:01:51",
+  "updated_at": "2026-11-11 16:17:00",
   "live_events": [
     {
       "key": "11/11_14:00_taiwan_vietnam",
@@ -39,7 +39,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -92,7 +92,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [16:30 11/11] Ấn Độ vs Maldives",
+      "displayTitle": "🔴 [16:30 11/11] Ấn Độ vs Maldives",
       "number": 2
     },
     {
@@ -583,9 +583,9 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena (BLV Chuối Lửa) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20261110_160057_d4d4f6db.png",
+          "name": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         }
@@ -1659,13 +1659,6 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [19:00 11/11] Chinese Taipei U17 vs Thailand U17 (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [19:35 11/11] China U19 vs Vietnam U19 (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
@@ -1687,9 +1680,9 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena (BLV Chuối Lửa) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20261110_160057_d4d4f6db.png",
+          "name": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
         },
