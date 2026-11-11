@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-12 03:59:49",
+  "updated_at": "2026-11-12 04:15:02",
   "live_events": [
-    {
-      "key": "12/11_02:00_barnsley_oldhamathletic",
-      "c_home": "barnsley",
-      "c_away": "oldhamathletic",
-      "homeTeam": "Barnsley",
-      "awayTeam": "Oldham Athletic",
-      "time": "02:00",
-      "date": "12/11",
-      "timestamp": 1794423600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 12/11] Barnsley Vs Oldham Athletic (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 12/11] Barnsley vs Oldham Athletic",
-      "number": 1
-    },
     {
       "key": "12/11_02:00_accringtonstanley_sheffieldwednesday",
       "c_home": "sheffieldwednesday",
@@ -43,13 +17,6 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:00 12/11] Sheffield Wednesday Vs Accrington Stanley (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "02:00 12/11 ⚽ Sheffield Wednesday vs Accrington Stanley (Gà Siêu Ngố) [hls]",
           "url": "https://live2.zktsva.app/live/301238.m3u8",
           "logo": "https://img.cltvap.cc/football/team/dd1616b43a654c009474c911d1e2bbd5.png",
@@ -58,7 +25,7 @@
         }
       ],
       "displayTitle": "🔴 [02:00 12/11] Sheffield Wednesday vs Accrington Stanley",
-      "number": 2
+      "number": 1
     },
     {
       "key": "12/11_06:00_realcartagena_realsoacha",
@@ -84,7 +51,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 12/11] Real Soacha vs Real Cartagena",
-      "number": 3
+      "number": 2
     },
     {
       "key": "12/11_07:00_buffalosabres_tampabaylightning",
@@ -110,7 +77,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 12/11] Buffalo Sabres vs Tampa Bay Lightning",
-      "number": 4
+      "number": 3
     },
     {
       "key": "12/11_07:30_ballstate_buffalostate",
@@ -136,7 +103,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 12/11] Ball State vs Buffalo State",
-      "number": 5
+      "number": 4
     },
     {
       "key": "12/11_07:30_centralmichigan_sacramentostate",
@@ -162,7 +129,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 12/11] Central Michigan vs Sacramento State",
-      "number": 6
+      "number": 5
     },
     {
       "key": "12/11_07:30_toledo_umass",
@@ -188,7 +155,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 12/11] Toledo vs UMass",
-      "number": 7
+      "number": 6
     },
     {
       "key": "12/11_07:30_calgaryflames_rangers",
@@ -214,7 +181,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 12/11] Calgary Flames vs New York Rangers",
-      "number": 8
+      "number": 7
     },
     {
       "key": "12/11_08:00_dynamite371_film4k",
@@ -240,7 +207,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 12/11] Dynamite #371 vs Film4k",
-      "number": 9
+      "number": 8
     },
     {
       "key": "12/11_08:00_collision170_film4k",
@@ -266,7 +233,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 12/11] Collision #170 vs Film4k",
-      "number": 10
+      "number": 9
     },
     {
       "key": "12/11_08:10_quindio_tigres",
@@ -292,7 +259,7 @@
         }
       ],
       "displayTitle": "⚽ [08:10 12/11] Quindio vs Tigres",
-      "number": 11
+      "number": 10
     },
     {
       "key": "12/11_09:00_atleticolapaz_piratas",
@@ -318,7 +285,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 12/11] Piratas vs Atletico La Paz",
-      "number": 12
+      "number": 11
     },
     {
       "key": "12/11_09:00_edmontonoilers_philadelphiaflyers",
@@ -344,7 +311,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 12/11] Edmonton Oilers vs Philadelphia Flyers",
-      "number": 13
+      "number": 12
     },
     {
       "key": "12/11_09:30_utahmammoth_vegasgoldenknights",
@@ -370,7 +337,7 @@
         }
       ],
       "displayTitle": "⚽ [09:30 12/11] Vegas Golden Knights vs Utah Mammoth",
-      "number": 14
+      "number": 13
     },
     {
       "key": "12/11_10:00_pittsburghpenguins_sanjosesharks",
@@ -396,7 +363,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 12/11] San Jose Sharks vs Pittsburgh Penguins",
-      "number": 15
+      "number": 14
     },
     {
       "key": "12/11_10:00_anaheimducks_nashvillepredators",
@@ -422,7 +389,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 12/11] Anaheim Ducks vs Nashville Predators",
-      "number": 16
+      "number": 15
     },
     {
       "key": "12/11_13:00_india_newzealand",
@@ -439,6 +406,13 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [13:00 12/11] New Zealand vs India (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [13:00 12/11] New Zealand Vs India (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -469,7 +443,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 12/11] New Zealand vs Ấn Độ",
-      "number": 17
+      "number": 16
     },
     {
       "key": "12/11_15:30_adelaidecity_apialeichhardttigers",
@@ -495,6 +469,32 @@
         }
       ],
       "displayTitle": "⚽ [15:30 12/11] Apia Leichhardt Tigers vs Adelaide City",
+      "number": 17
+    },
+    {
+      "key": "12/11_17:00_gyeongju_hwacheonkspo",
+      "c_home": "hwacheonkspo",
+      "c_away": "gyeongju",
+      "homeTeam": "Hwacheon KSPO",
+      "awayTeam": "Gyeongju",
+      "time": "17:00",
+      "date": "12/11",
+      "timestamp": 1794477600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [17:00 12/11] Hwacheon KSPO vs Gyeongju (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [17:00 12/11] Hwacheon KSPO vs Gyeongju",
       "number": 18
     },
     {
@@ -524,39 +524,6 @@
       "number": 19
     },
     {
-      "key": "12/11_22:00_ghana_somalia",
-      "c_home": "ghana",
-      "c_away": "somalia",
-      "homeTeam": "Ghana",
-      "awayTeam": "Somalia",
-      "time": "22:00",
-      "date": "12/11",
-      "timestamp": 1794495600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:00 12/11] Ghana Vs Somalia (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [22:00 12/11] Ghana vs Somalia (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/725_ghana.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 20
-    },
-    {
       "key": "12/11_22:00_russia_uzbekistan",
       "c_home": "uzbekistan",
       "c_away": "russia",
@@ -571,6 +538,13 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [22:00 12/11] Uzbekistan vs Russia (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [22:00 12/11] Uzbekistan Vs Russia (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -601,6 +575,46 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
+      "number": 20
+    },
+    {
+      "key": "12/11_22:00_ghana_somalia",
+      "c_home": "ghana",
+      "c_away": "somalia",
+      "homeTeam": "Ghana",
+      "awayTeam": "Somalia",
+      "time": "22:00",
+      "date": "12/11",
+      "timestamp": 1794495600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 12/11] Ghana vs Somalia (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 12/11] Ghana Vs Somalia (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [22:00 12/11] Ghana vs Somalia (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/725_ghana.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
       "number": 21
     },
     {
@@ -608,7 +622,7 @@
       "c_home": "madagascar",
       "c_away": "guineabissau",
       "homeTeam": "Madagascar",
-      "awayTeam": "Guinea Bissau",
+      "awayTeam": "Guinea-Bissau",
       "time": "23:00",
       "date": "12/11",
       "timestamp": 1794499200000,
@@ -619,6 +633,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [23:00 12/11] Madagascar Vs Guinea Bissau (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -626,7 +647,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [23:00 12/11] Madagascar vs Guinea Bissau",
+      "displayTitle": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau",
       "number": 22
     },
     {
@@ -711,7 +732,7 @@
       "key": "13/11_00:00_belgium_turkiye",
       "c_home": "turkiye",
       "c_away": "belgium",
-      "homeTeam": "Turkiye",
+      "homeTeam": "Türkiye",
       "awayTeam": "Belgium",
       "time": "00:00",
       "date": "13/11",
@@ -723,6 +744,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [00:00 13/11] Türkiye vs Belgium (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
           "name": "⚽ [00:00 13/11] Turkiye Vs Belgium (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -730,7 +758,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Turkiye vs Belgium",
+      "displayTitle": "⚽ [00:00 13/11] Türkiye vs Belgium",
       "number": 26
     },
     {
@@ -873,6 +901,32 @@
       "number": 30
     },
     {
+      "key": "13/11_01:00_betis_navalcarnero",
+      "c_home": "navalcarnero",
+      "c_away": "betis",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Real Betis",
+      "time": "01:00",
+      "date": "13/11",
+      "timestamp": 1794506400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [01:00 13/11] Navalcarnero vs Real Betis (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [01:00 13/11] Navalcarnero vs Real Betis",
+      "number": 31
+    },
+    {
       "key": "13/11_02:00_cotedivoire_gambia",
       "c_home": "cotedivoire",
       "c_away": "gambia",
@@ -896,7 +950,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cote Divoire vs Gambia",
-      "number": 31
+      "number": 32
     },
     {
       "key": "13/11_02:00_cameroon_namibia",
@@ -922,7 +976,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cameroon vs Namibia",
-      "number": 32
+      "number": 33
     },
     {
       "key": "13/11_02:45_france_italy",
@@ -939,6 +993,13 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [02:45 13/11] Italy vs France (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
         {
           "name": "⚽ [02:45 13/11] Italy Vs France (BLV Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -1004,7 +1065,101 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Italy vs Pháp",
-      "number": 33
+      "number": 34
+    },
+    {
+      "key": "13/11_02:45_czechrepublic_spain",
+      "c_home": "czechrepublic",
+      "c_away": "spain",
+      "homeTeam": "Czech Republic",
+      "awayTeam": "Spain",
+      "time": "02:45",
+      "date": "13/11",
+      "timestamp": 1794512700000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 13/11] Czech Republic vs Spain (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 13/11] Czech Republic vs Spain",
+      "number": 35
+    },
+    {
+      "key": "13/11_02:45_croatia_england",
+      "c_home": "england",
+      "c_away": "croatia",
+      "homeTeam": "England",
+      "awayTeam": "Croatia",
+      "time": "02:45",
+      "date": "13/11",
+      "timestamp": 1794512700000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England Vs Croatia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (gb ITV 1) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18251/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (us English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18252/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (es English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18253/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18254/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (sa beIN Sport 3) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18255/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 13/11] England vs Croatia",
+      "number": 36
     },
     {
       "key": "13/11_02:45_czechia_spain",
@@ -1058,68 +1213,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Czechia vs Spain",
-      "number": 34
-    },
-    {
-      "key": "13/11_02:45_croatia_england",
-      "c_home": "england",
-      "c_away": "croatia",
-      "homeTeam": "England",
-      "awayTeam": "Croatia",
-      "time": "02:45",
-      "date": "13/11",
-      "timestamp": 1794512700000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 13/11] England Vs Croatia (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] England vs Croatia (gb ITV 1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18251/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] England vs Croatia (us English) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18252/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] England vs Croatia (es English) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18253/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] England vs Croatia (no TV2 Sport) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18254/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] England vs Croatia (sa beIN Sport 3) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18255/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 13/11] England vs Croatia",
-      "number": 35
+      "number": 37
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1173,7 +1267,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Finland",
-      "number": 36
+      "number": 38
     },
     {
       "key": "13/11_02:45_belarus_sanmarino",
@@ -1220,7 +1314,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] San Marino vs Belarus",
-      "number": 37
+      "number": 39
     },
     {
       "key": "13/11_02:45_latvia_montenegro",
@@ -1267,7 +1361,59 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Montenegro vs Latvia",
-      "number": 38
+      "number": 40
+    },
+    {
+      "key": "13/11_04:00_deportivo_junior",
+      "c_home": "deportivo",
+      "c_away": "junior",
+      "homeTeam": "Deportivo Pasto",
+      "awayTeam": "Junior",
+      "time": "04:00",
+      "date": "13/11",
+      "timestamp": 1794517200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [04:00 13/11] Deportivo Pasto vs Junior (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [04:00 13/11] Deportivo Pasto vs Junior",
+      "number": 41
+    },
+    {
+      "key": "13/11_04:00_chico_llaneros",
+      "c_home": "llaneros",
+      "c_away": "chico",
+      "homeTeam": "Llaneros",
+      "awayTeam": "Chico",
+      "time": "04:00",
+      "date": "13/11",
+      "timestamp": 1794517200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [04:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [04:00 13/11] Llaneros vs Chico",
+      "number": 42
     },
     {
       "key": "13/11_07:30_curacao_panama",
@@ -1293,7 +1439,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 13/11] Curacao vs Panama",
-      "number": 39
+      "number": 43
     },
     {
       "key": "13/11_15:00_centralstallions_deren",
@@ -1319,7 +1465,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 13/11] Deren vs Central Stallions",
-      "number": 40
+      "number": 44
     },
     {
       "key": "13/11_15:30_marconistallions_oakleighcannons",
@@ -1345,7 +1491,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
-      "number": 41
+      "number": 45
     },
     {
       "key": "13/11_15:30_prestonlions_queenslandlions",
@@ -1371,7 +1517,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Preston Lions vs Queensland Lions Sc",
-      "number": 42
+      "number": 46
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -1397,7 +1543,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 43
+      "number": 47
     },
     {
       "key": "13/11_20:00_ethiopia_mozambique",
@@ -1423,7 +1569,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Mozambique vs Ethiopia",
-      "number": 44
+      "number": 48
     },
     {
       "key": "13/11_20:00_comoros_viettel",
@@ -1449,7 +1595,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Comoros vs Republic Of The Congo",
-      "number": 45
+      "number": 49
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -1475,7 +1621,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 46
+      "number": 50
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1501,7 +1647,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 47
+      "number": 51
     },
     {
       "key": "13/11_21:10_honduras_unitedarabemirates",
@@ -1527,7 +1673,7 @@
         }
       ],
       "displayTitle": "⚽ [21:10 13/11] United Arab Emirates vs Honduras",
-      "number": 48
+      "number": 52
     },
     {
       "key": "13/11_21:30_korea_saudiarabia",
@@ -1553,7 +1699,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 13/11] Saudi Arabia vs South Korea",
-      "number": 49
+      "number": 53
     },
     {
       "key": "13/11_21:45_australia_qatar",
@@ -1579,7 +1725,7 @@
         }
       ],
       "displayTitle": "⚽ [21:45 13/11] Qatar vs Australia",
-      "number": 50
+      "number": 54
     },
     {
       "key": "13/11_23:00_nigeria_tanzania",
@@ -1605,7 +1751,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Nigeria vs Tanzania",
-      "number": 51
+      "number": 55
     },
     {
       "key": "13/11_23:00_kenya_southafrica",
@@ -1631,7 +1777,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] South Africa vs Kenya",
-      "number": 52
+      "number": 56
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -1657,7 +1803,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 53
+      "number": 57
     },
     {
       "key": "13/11_23:00_caboverde_liberia",
@@ -1683,7 +1829,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Cabo Verde vs Liberia",
-      "number": 54
+      "number": 58
     },
     {
       "key": "12/11_07:00_bostonceltics_torontoraptors",
@@ -1709,7 +1855,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] Toronto Raptors vs Boston Celtics",
-      "number": 55
+      "number": 59
     },
     {
       "key": "12/11_07:00_indianapacers_washingtonwizards",
@@ -1735,7 +1881,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] Indiana Pacers vs Washington Wizards",
-      "number": 56
+      "number": 60
     },
     {
       "key": "12/11_07:00_clevelandcavaliers_newyorkknicks",
@@ -1761,7 +1907,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] New York Knicks vs Cleveland Cavaliers",
-      "number": 57
+      "number": 61
     },
     {
       "key": "12/11_08:00_chicagobulls_tottenham",
@@ -1787,7 +1933,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 12/11] Chicago Bulls vs San Antonio Spurs",
-      "number": 58
+      "number": 62
     },
     {
       "key": "12/11_08:00_denvernuggets_memphisgrizzlies",
@@ -1813,7 +1959,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 12/11] Memphis Grizzlies vs Denver Nuggets",
-      "number": 59
+      "number": 63
     },
     {
       "key": "12/11_08:00_losangeleslakers_milwaukeebucks",
@@ -1839,7 +1985,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 12/11] Milwaukee Bucks vs Los Angeles Lakers",
-      "number": 60
+      "number": 64
     },
     {
       "key": "12/11_08:00_brooklynnets_neworleanspelicans",
@@ -1865,7 +2011,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 12/11] New Orleans Pelicans vs Brooklyn Nets",
-      "number": 61
+      "number": 65
     },
     {
       "key": "12/11_09:00_orlandomagic_utahjazz",
@@ -1891,7 +2037,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 12/11] Utah Jazz vs Orlando Magic",
-      "number": 62
+      "number": 66
     },
     {
       "key": "12/11_09:30_goldenstatewarriors_houstonrockets",
@@ -1917,7 +2063,7 @@
         }
       ],
       "displayTitle": "🏀 [09:30 12/11] Houston Rockets vs Golden State Warriors",
-      "number": 63
+      "number": 67
     },
     {
       "key": "12/11_10:00_oklahomacitythunder_portlandtrailblazers",
@@ -1943,7 +2089,7 @@
         }
       ],
       "displayTitle": "🏀 [10:00 12/11] Portland Trail Blazers vs Oklahoma City Thunder",
-      "number": 64
+      "number": 68
     }
   ],
   "source_groups": [
@@ -1963,26 +2109,124 @@
           "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
           "group": "🍌 Chuối Chiên TV",
           "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [13:00 12/11] New Zealand vs India (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [15:00 12/11] U23 Thailand vs U23 Qatar (BLV Chuối Lửa) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20261110_160057_d4d4f6db.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [17:00 12/11] Hwacheon KSPO vs Gyeongju (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [19:00 12/11] Singapore U23 vs U23 Vietnam (BLV Chuối Kem) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260909_045338_99bd4727.png",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [19:00 12/11] Singapore U23 vs U23 Vietnam (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [20:00 12/11] Iceland U21 vs Greece U21 (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 12/11] Uzbekistan vs Russia (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [22:00 12/11] Ghana vs Somalia (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [00:00 13/11] Türkiye vs Belgium (BLV Chuối Tây) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [01:00 13/11] Navalcarnero vs Real Betis (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] Italy vs France (BLV Chuối Nhỏ) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] Czech Republic vs Spain (BLV Chuối Chao) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] England vs Croatia (BLV Chuối Lá) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [04:00 13/11] Deportivo Pasto vs Junior (BLV Trốc Tru) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        },
+        {
+          "name": "⚽ [04:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
         }
       ]
     },
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [02:00 12/11] Barnsley Vs Oldham Athletic (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:00 12/11] Sheffield Wednesday Vs Accrington Stanley (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [13:00 12/11] New Zealand Vs India (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
