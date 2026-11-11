@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 16:32:51",
+  "updated_at": "2026-11-11 16:47:58",
   "live_events": [
     {
       "key": "11/11_15:30_illawarrahawks_southeastmelbourne",
@@ -142,7 +142,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -202,7 +202,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 11/11] Vissel Kobe vs Machida Zelvia",
+      "displayTitle": "🔴 [17:00 11/11] Vissel Kobe vs Machida Zelvia",
       "number": 3
     },
     {
@@ -217,7 +217,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -270,7 +270,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
+      "displayTitle": "🔴 [17:00 11/11] Kawasaki Frontale vs Kashiwa Reysol",
       "number": 4
     },
     {
@@ -285,7 +285,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -338,7 +338,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
+      "displayTitle": "🔴 [17:00 11/11] Yokohama F Marinos vs Kashima Antlers",
       "number": 5
     },
     {
@@ -353,7 +353,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -371,7 +371,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 11/11] LG Sakers vs Seoul Knights",
+      "displayTitle": "🔴 [17:00 11/11] LG Sakers vs Seoul Knights",
       "number": 6
     },
     {
@@ -386,7 +386,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -404,7 +404,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
+      "displayTitle": "🔴 [17:00 11/11] Yokohama Marinos vs Kashima Antlers",
       "number": 7
     },
     {
@@ -1989,6 +1989,13 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [20:00 11/11] Singapore U17 Vs India U17 (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [20:00 11/11] Czechia Republic U19 Vs Netherlands U19 (BLV Gà Siêu Tốc) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2068,13 +2075,6 @@
         {
           "name": "⚽ [19:00 12/11] Singapore U23 Vs Vietnam U23 (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [20:00 12/11] Germany U19 Vs Sweden U19 (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
