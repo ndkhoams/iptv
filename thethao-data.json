@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 07:04:01",
+  "updated_at": "2026-11-12 07:19:11",
   "live_events": [
     {
       "key": "12/11_05:00_londrina_nautico",
@@ -153,6 +153,110 @@
       "number": 5
     },
     {
+      "key": "12/11_07:30_ballstate_buffalostate",
+      "c_home": "ballstate",
+      "c_away": "buffalostate",
+      "homeTeam": "Ball State",
+      "awayTeam": "Buffalo State",
+      "time": "07:30",
+      "date": "12/11",
+      "timestamp": 1794443400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 12/11] Ball State vs Buffalo State (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18225/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/70.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 12/11] Ball State vs Buffalo State",
+      "number": 6
+    },
+    {
+      "key": "12/11_07:30_centralmichigan_sacramentostate",
+      "c_home": "centralmichigan",
+      "c_away": "sacramentostate",
+      "homeTeam": "Central Michigan",
+      "awayTeam": "Sacramento State",
+      "time": "07:30",
+      "date": "12/11",
+      "timestamp": 1794443400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 12/11] Central Michigan vs Sacramento State (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18226/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/62.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 12/11] Central Michigan vs Sacramento State",
+      "number": 7
+    },
+    {
+      "key": "12/11_07:30_toledo_umass",
+      "c_home": "toledo",
+      "c_away": "umass",
+      "homeTeam": "Toledo",
+      "awayTeam": "UMass",
+      "time": "07:30",
+      "date": "12/11",
+      "timestamp": 1794443400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 12/11] Toledo vs UMass (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18227/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/75.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 12/11] Toledo vs UMass",
+      "number": 8
+    },
+    {
+      "key": "12/11_07:30_calgaryflames_rangers",
+      "c_home": "calgaryflames",
+      "c_away": "rangers",
+      "homeTeam": "Calgary Flames",
+      "awayTeam": "New York Rangers",
+      "time": "07:30",
+      "date": "12/11",
+      "timestamp": 1794443400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 12/11] Calgary Flames vs New York Rangers (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18140/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/675.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 12/11] Calgary Flames vs New York Rangers",
+      "number": 9
+    },
+    {
       "key": "12/11_07:00_clevelandcavaliers_newyorkknicks",
       "c_home": "newyorkknicks",
       "c_away": "clevelandcavaliers",
@@ -190,7 +294,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] New York Knicks vs Cleveland Cavaliers",
-      "number": 6
+      "number": 10
     },
     {
       "key": "12/11_07:00_doibongrobostonceltics_torontoraptors",
@@ -230,7 +334,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] Toronto Raptors vs Đội bóng rổ Boston Celtics",
-      "number": 7
+      "number": 11
     },
     {
       "key": "12/11_07:00_indianapacers_washingtonwizards",
@@ -256,110 +360,6 @@
         }
       ],
       "displayTitle": "🏀 [07:00 12/11] Indiana Pacers vs Washington Wizards",
-      "number": 8
-    },
-    {
-      "key": "12/11_07:30_ballstate_buffalostate",
-      "c_home": "ballstate",
-      "c_away": "buffalostate",
-      "homeTeam": "Ball State",
-      "awayTeam": "Buffalo State",
-      "time": "07:30",
-      "date": "12/11",
-      "timestamp": 1794443400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 12/11] Ball State vs Buffalo State (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18225/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/70.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 12/11] Ball State vs Buffalo State",
-      "number": 9
-    },
-    {
-      "key": "12/11_07:30_centralmichigan_sacramentostate",
-      "c_home": "centralmichigan",
-      "c_away": "sacramentostate",
-      "homeTeam": "Central Michigan",
-      "awayTeam": "Sacramento State",
-      "time": "07:30",
-      "date": "12/11",
-      "timestamp": 1794443400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 12/11] Central Michigan vs Sacramento State (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18226/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/62.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 12/11] Central Michigan vs Sacramento State",
-      "number": 10
-    },
-    {
-      "key": "12/11_07:30_toledo_umass",
-      "c_home": "toledo",
-      "c_away": "umass",
-      "homeTeam": "Toledo",
-      "awayTeam": "UMass",
-      "time": "07:30",
-      "date": "12/11",
-      "timestamp": 1794443400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 12/11] Toledo vs UMass (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18227/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/75.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 12/11] Toledo vs UMass",
-      "number": 11
-    },
-    {
-      "key": "12/11_07:30_calgaryflames_rangers",
-      "c_home": "calgaryflames",
-      "c_away": "rangers",
-      "homeTeam": "Calgary Flames",
-      "awayTeam": "New York Rangers",
-      "time": "07:30",
-      "date": "12/11",
-      "timestamp": 1794443400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 12/11] Calgary Flames vs New York Rangers (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18140/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/675.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 12/11] Calgary Flames vs New York Rangers",
       "number": 12
     },
     {
@@ -4323,34 +4323,34 @@
     {
       "home_team": "Indiana Pacers",
       "away_team": "Washington Wizards",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "13",
+      "away_score": "11",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/11 - 7:00 PM EST",
+      "detail": "7:08 - 1st",
       "date": "2026-11-12T00:00Z"
     },
     {
       "home_team": "New York Knicks",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "4",
+      "away_score": "6",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/11 - 7:00 PM EST",
+      "detail": "8:37 - 1st",
       "date": "2026-11-12T00:00Z"
     },
     {
       "home_team": "Toronto Raptors",
       "away_team": "Boston Celtics",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "8",
+      "away_score": "6",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/11 - 7:00 PM EST",
+      "detail": "9:29 - 1st",
       "date": "2026-11-12T00:00Z"
     },
     {
