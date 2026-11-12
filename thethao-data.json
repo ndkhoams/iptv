@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:21:35",
+  "updated_at": "2026-11-12 09:36:40",
   "live_events": [
     {
       "key": "12/11_07:30_ballstate_buffalostate",
@@ -2831,41 +2831,8 @@
       ]
     },
     {
-      "name": "📜 Sao Kê TV",
-      "channels": [
-        {
-          "name": "06:00 12/11 ⚽ Real Cundinamarca vs Real Cartagena (Nếp Cẩm) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
-        {
-          "name": "08:10 12/11 ⚽ Deportes Quindío vs Tigres (Tít) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "🥤 Cola TV",
       "channels": [
-        {
-          "name": "06:00 12/11 ⚽ Valledupar vs Cartagena (BLV ROCKSTAR) [hls]",
-          "url": "https://live05.wecile.app/live/82054853.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/50fbe18e0f3a8bba0049607f8780eed0.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "06:00 12/11 ⚽ Valledupar vs Cartagena (BLV ROCKSTAR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/50fbe18e0f3a8bba0049607f8780eed0.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
         {
           "name": "07:00 12/11 🏀 New York Knicks vs Cleveland Cavaliers (BLV 247) [hls]",
           "url": "https://live05.wecile.app/live/90865415.m3u8",
@@ -2948,6 +2915,18 @@
           "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
           "logo": "https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
           "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "📜 Sao Kê TV",
+      "channels": [
+        {
+          "name": "08:10 12/11 ⚽ Deportes Quindío vs Tigres (Tít) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
+          "group": "📜 Sao Kê TV",
           "ref": ""
         }
       ]
@@ -3399,34 +3378,6 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
-          "name": "⚽ [07:00 12/11] Toronto Raptors vs Boston Celtics (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18065/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/159.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 12/11] Indiana Pacers vs Washington Wizards (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18094/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/143.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 12/11] New York Knicks vs Cleveland Cavaliers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18082/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/151.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 12/11] Buffalo Sabres vs Tampa Bay Lightning (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18137/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/674.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [07:30 12/11] Ball State vs Buffalo State (us NCAAF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18225/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/70.png",
@@ -3521,6 +3472,27 @@
           "name": "⚽ [09:30 12/11] Vegas Golden Knights vs Utah Mammoth (us NHL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18142/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/702.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 12/11] Toronto Raptors vs Boston Celtics (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18065/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/159.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 12/11] New York Knicks vs Cleveland Cavaliers (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18082/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/151.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 12/11] Buffalo Sabres vs Tampa Bay Lightning (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18137/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/674.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -4143,78 +4115,78 @@
     {
       "home_team": "New York Knicks",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "99",
-      "away_score": "99",
+      "home_score": "105",
+      "away_score": "112",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:35 - 4th",
+      "detail": "29.7 - 4th",
       "date": "2026-11-12T00:00Z"
     },
     {
       "home_team": "Toronto Raptors",
       "away_team": "Boston Celtics",
-      "home_score": "89",
-      "away_score": "84",
+      "home_score": "93",
+      "away_score": "95",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "4:34 - 4th",
+      "detail": "15.1 - 4th",
       "date": "2026-11-12T00:00Z"
     },
     {
       "home_team": "Chicago Bulls",
       "away_team": "San Antonio Spurs",
-      "home_score": "70",
-      "away_score": "61",
+      "home_score": "82",
+      "away_score": "81",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:06 - 3rd",
+      "detail": "4:03 - 3rd",
       "date": "2026-11-12T01:00Z"
     },
     {
       "home_team": "Memphis Grizzlies",
       "away_team": "Denver Nuggets",
-      "home_score": "54",
-      "away_score": "68",
+      "home_score": "69",
+      "away_score": "77",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:07 - 3rd",
+      "detail": "6:33 - 3rd",
       "date": "2026-11-12T01:00Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Los Angeles Lakers",
-      "home_score": "50",
-      "away_score": "61",
+      "home_score": "60",
+      "away_score": "77",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:10 - 3rd",
+      "detail": "5:20 - 3rd",
       "date": "2026-11-12T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Brooklyn Nets",
-      "home_score": "66",
-      "away_score": "83",
+      "home_score": "70",
+      "away_score": "93",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "8:55 - 3rd",
       "date": "2026-11-12T01:00Z"
     },
     {
       "home_team": "Utah Jazz",
       "away_team": "Orlando Magic",
-      "home_score": "13",
-      "away_score": "7",
+      "home_score": "29",
+      "away_score": "25",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:49 - 1st",
+      "detail": "47.8 - 1st",
       "date": "2026-11-12T02:00Z"
     },
     {
@@ -5606,6 +5578,24 @@
       },
       {
         "rank": 19,
+        "teamName": "Indiana Pacers",
+        "shortName": "Pacers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+        "played": 12,
+        "gd": "4T-8B",
+        "points": 4
+      },
+      {
+        "rank": 20,
+        "teamName": "Washington Wizards",
+        "shortName": "Wizards",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+        "played": 12,
+        "gd": "4T-8B",
+        "points": 4
+      },
+      {
+        "rank": 21,
         "teamName": "Charlotte Hornets",
         "shortName": "Hornets",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
@@ -5614,16 +5604,7 @@
         "points": 4
       },
       {
-        "rank": 20,
-        "teamName": "Washington Wizards",
-        "shortName": "Wizards",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-        "played": 11,
-        "gd": "4T-7B",
-        "points": 4
-      },
-      {
-        "rank": 21,
+        "rank": 22,
         "teamName": "New Orleans Pelicans",
         "shortName": "Pelicans",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
@@ -5632,22 +5613,13 @@
         "points": 4
       },
       {
-        "rank": 22,
+        "rank": 23,
         "teamName": "Phoenix Suns",
         "shortName": "Suns",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
         "played": 10,
         "gd": "4T-6B",
         "points": 4
-      },
-      {
-        "rank": 23,
-        "teamName": "Indiana Pacers",
-        "shortName": "Pacers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-        "played": 11,
-        "gd": "3T-8B",
-        "points": 3
       },
       {
         "rank": 24,
