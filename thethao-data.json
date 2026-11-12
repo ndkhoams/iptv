@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 05:41:25",
+  "updated_at": "2026-11-13 05:56:38",
   "live_events": [
     {
       "key": "13/11_04:00_deportivo_junior",
@@ -98,7 +98,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -109,7 +109,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [06:00 13/11] Antigua And Barbuda vs Trinidad And Tobago",
+      "displayTitle": "🔴 [06:00 13/11] Antigua And Barbuda vs Trinidad And Tobago",
       "number": 4
     },
     {
@@ -2669,81 +2669,6 @@
       ]
     },
     {
-      "name": "🥤 Cola TV",
-      "channels": [
-        {
-          "name": "02:15 13/11 🏀 Olympiacos Piraeus vs dubai (BLV ROCKSTAR) [hls]",
-          "url": "https://live05.wecile.app/live/82054853.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "02:15 13/11 🏀 Olympiacos Piraeus vs dubai (BLV ROCKSTAR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Đội tuyển QG Albania vs ĐTQG Phần Lan (BLV WARRIOR) [hls]",
-          "url": "https://live05.wecile.app/live/97885009.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Đội tuyển QG Albania vs ĐTQG Phần Lan (BLV WARRIOR) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 13/11 🏀 Real Madrid vs Sao Đỏ Beograd (BLV Cozy) [hls]",
-          "url": "https://live05.wecile.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "03:00 13/11 🏀 Real Madrid vs Sao Đỏ Beograd (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "04:00 13/11 ⚽ Dep. Pasto vs Junior (BLV PEPSI) [hls]",
-          "url": "https://live05.wecile.app/live/59444581.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "04:00 13/11 ⚽ Dep. Pasto vs Junior (BLV PEPSI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
-          "url": "https://live05.wecile.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "🍗 Khô Gà TV",
       "channels": [
         {
@@ -2829,6 +2754,67 @@
           "url": "https://live2.zktsva.app/live/303098.m3u8",
           "logo": "https://img.cltvap.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png",
           "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🥤 Cola TV",
+      "channels": [
+        {
+          "name": "02:45 13/11 ⚽ Đội tuyển QG Albania vs ĐTQG Phần Lan (BLV WARRIOR) [hls]",
+          "url": "https://live05.wecile.app/live/97885009.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Đội tuyển QG Albania vs ĐTQG Phần Lan (BLV WARRIOR) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/97885009_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 13/11 🏀 Real Madrid vs Sao Đỏ Beograd (BLV Cozy) [hls]",
+          "url": "https://live05.wecile.app/live/87379114.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "03:00 13/11 🏀 Real Madrid vs Sao Đỏ Beograd (BLV Cozy) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "04:00 13/11 ⚽ Dep. Pasto vs Junior (BLV PEPSI) [hls]",
+          "url": "https://live05.wecile.app/live/59444581.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "04:00 13/11 ⚽ Dep. Pasto vs Junior (BLV PEPSI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
+          "url": "https://live05.wecile.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
           "ref": ""
         }
       ]
