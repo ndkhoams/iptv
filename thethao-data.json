@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 03:40:00",
+  "updated_at": "2026-11-13 03:55:20",
   "live_events": [
     {
       "key": "13/11_02:00_cotedivoire_gambia",
@@ -774,7 +774,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -785,7 +785,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [04:00 13/11] Deportivo Pasto vs Junior",
+      "displayTitle": "🔴 [04:00 13/11] Deportivo Pasto vs Junior",
       "number": 16
     },
     {
@@ -800,7 +800,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -818,7 +818,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [04:00 13/11] Dep. Pasto vs Junior",
+      "displayTitle": "🔴 [04:00 13/11] Dep. Pasto vs Junior",
       "number": 17
     },
     {
@@ -2248,13 +2248,6 @@
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [01:00 13/11] Navalcarnero vs Real Betis (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [02:45 13/11] Italy vs France (BLV Chuối Nhỏ) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
