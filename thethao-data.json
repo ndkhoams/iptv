@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 23:36:06",
+  "updated_at": "2026-11-12 23:51:35",
   "live_events": [
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -363,7 +363,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -395,7 +395,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Türkiye vs Belgium",
+      "displayTitle": "🔴 [00:00 13/11] Türkiye vs Belgium",
       "number": 8
     },
     {
@@ -410,7 +410,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -421,7 +421,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Guinea vs Eritrea",
+      "displayTitle": "🔴 [00:00 13/11] Guinea vs Eritrea",
       "number": 9
     },
     {
@@ -436,7 +436,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -449,13 +449,6 @@
         {
           "name": "⚽ [00:00 13/11] Armenia vs Cyprus (us Fox Soccer Plus) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18235/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1094.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [00:00 13/11] Armenia vs Cyprus (gb Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18236/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1094.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -482,7 +475,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Armenia vs Cyprus",
+      "displayTitle": "🔴 [00:00 13/11] Armenia vs Cyprus",
       "number": 10
     },
     {
@@ -497,7 +490,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -529,7 +522,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
+      "displayTitle": "🔴 [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
       "number": 11
     },
     {
@@ -544,7 +537,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -555,7 +548,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Armenia vs Síp",
+      "displayTitle": "🔴 [00:00 13/11] Armenia vs Síp",
       "number": 12
     },
     {
@@ -570,7 +563,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -581,7 +574,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Armenia vs Đảo Síp",
+      "displayTitle": "🔴 [00:00 13/11] Armenia vs Đảo Síp",
       "number": 13
     },
     {
@@ -596,7 +589,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -607,7 +600,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [00:00 13/11] Seattle Kraken vs Carolina Hurricanes",
+      "displayTitle": "🔴 [00:00 13/11] Seattle Kraken vs Carolina Hurricanes",
       "number": 14
     },
     {
@@ -1403,32 +1396,6 @@
       "number": 31
     },
     {
-      "key": "13/11_04:00_chico_llaneros",
-      "c_home": "llaneros",
-      "c_away": "chico",
-      "homeTeam": "Llaneros",
-      "awayTeam": "Chico",
-      "time": "04:00",
-      "date": "13/11",
-      "timestamp": 1794517200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [04:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [04:00 13/11] Llaneros vs Chico",
-      "number": 32
-    },
-    {
       "key": "13/11_04:00_deppasto_junior",
       "c_home": "deppasto",
       "c_away": "junior",
@@ -1459,7 +1426,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Dep. Pasto vs Junior",
-      "number": 33
+      "number": 32
     },
     {
       "key": "13/11_05:00_aruba_martinique",
@@ -1485,7 +1452,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 13/11] Aruba vs Martinique",
-      "number": 34
+      "number": 33
     },
     {
       "key": "13/11_06:00_antiguaandbarbuda_trinidadandtobago",
@@ -1511,6 +1478,32 @@
         }
       ],
       "displayTitle": "⚽ [06:00 13/11] Antigua And Barbuda vs Trinidad And Tobago",
+      "number": 34
+    },
+    {
+      "key": "13/11_07:00_chico_llaneros",
+      "c_home": "llaneros",
+      "c_away": "chico",
+      "homeTeam": "Llaneros",
+      "awayTeam": "Chico",
+      "time": "07:00",
+      "date": "13/11",
+      "timestamp": 1794528000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
+          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
+          "group": "🍌 Chuối Chiên TV",
+          "ref": "https://live.chuoichien.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [07:00 13/11] Llaneros vs Chico",
       "number": 35
     },
     {
@@ -2945,7 +2938,7 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [04:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
+          "name": "⚽ [07:00 13/11] Llaneros vs Chico (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
           "group": "🍌 Chuối Chiên TV",
@@ -4096,13 +4089,6 @@
         {
           "name": "⚽ [00:00 13/11] Armenia vs Cyprus (us Fox Soccer Plus) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18235/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1094.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [00:00 13/11] Armenia vs Cyprus (gb Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18236/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1094.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
