@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-11-12 17:29:46",
+  "updated_at": "2026-11-12 17:44:56",
   "live_events": [
-    {
-      "key": "12/11_15:30_adelaidecity_apialeichhardttigers",
-      "c_home": "apialeichhardttigers",
-      "c_away": "adelaidecity",
-      "homeTeam": "Apia Leichhardt Tigers",
-      "awayTeam": "Adelaide City",
-      "time": "15:30",
-      "date": "12/11",
-      "timestamp": 1794472200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [15:30 12/11] Apia Leichhardt Tigers Vs Adelaide City Fc (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt vs Adelaide City (Kai) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/162237.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt Tigers vs Adelaide City (Gà Siêu Bệu) [hls]",
-          "url": "https://live2.zktsva.app/live/289650.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 12/11] Apia Leichhardt Tigers vs Adelaide City",
-      "number": 1
-    },
     {
       "key": "12/11_15:30_adelaide36ers_melbourneunited",
       "c_home": "adelaide36ers",
@@ -65,6 +25,39 @@
         }
       ],
       "displayTitle": "🔴 [15:30 12/11] Adelaide 36ers vs Melbourne United",
+      "number": 1
+    },
+    {
+      "key": "12/11_15:30_adelaidecity_apialeichhardt",
+      "c_home": "apialeichhardt",
+      "c_away": "adelaidecity",
+      "homeTeam": "APIA Leichhardt",
+      "awayTeam": "Adelaide City",
+      "time": "15:30",
+      "date": "12/11",
+      "timestamp": 1794472200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt vs Adelaide City (Kai) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/162237.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt Tigers vs Adelaide City (Gà Siêu Bệu) [hls]",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png",
+          "group": "🐔 Gà Vàng 33",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [15:30 12/11] APIA Leichhardt vs Adelaide City",
       "number": 2
     },
     {
@@ -3118,13 +3111,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [15:30 12/11] Apia Leichhardt Tigers Vs Adelaide City Fc (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [19:00 12/11] Viborg Reserve Vs Vejle Reserve (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -3620,25 +3606,6 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        }
-      ]
-    },
-    {
-      "name": "⏰ Giờ Vàng TV",
-      "channels": [
-        {
-          "name": "🟢 14:00 12/11 🎮 FUT Esports vs MOUZ (Mickey) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414428_hd/1794414428_hd@720p.m3u8",
-          "logo": "https://static.flashscore.com/res/image/data/8IALaoGG-WQ0dY9GI.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 15:30 12/11 🏀 Adelaide 36ers vs Melbourne United (Mason) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794461140_hd/1794461140_hd@720p.m3u8",
-          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
         }
       ]
     },
@@ -4181,6 +4148,18 @@
           "url": "https://pull.digitalcdn.net/live/9f77dd7a926c49dfa62983cc16d1184c/index.m3u8",
           "logo": "https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small",
           "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "⏰ Giờ Vàng TV",
+      "channels": [
+        {
+          "name": "🟢 15:30 12/11 🏀 Adelaide 36ers vs Melbourne United (Mason) [hls]",
+          "url": "https://pzhgifbkllliv.vcdn.cloud/1794461140_hd/1794461140_hd@720p.m3u8",
+          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+          "group": "⏰ Giờ Vàng TV",
           "ref": ""
         }
       ]
