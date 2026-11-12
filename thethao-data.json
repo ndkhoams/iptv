@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 02:24:34",
+  "updated_at": "2026-11-13 02:39:32",
   "live_events": [
     {
       "key": "13/11_01:00_betis_navalcarnero",
@@ -204,7 +204,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -271,7 +271,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 13/11] Italy vs France (es English) - Film4k",
+          "name": "⚽ [02:45 13/11] Italy vs France (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18243/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/768.png",
           "group": "⚽ Film4k / Antsports",
@@ -299,7 +299,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Italy vs Pháp",
+      "displayTitle": "🔴 [02:45 13/11] Italy vs Pháp",
       "number": 7
     },
     {
@@ -314,7 +314,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -351,9 +351,16 @@
           "logo": "https://film4k.pl/api/antsimg/football/teams/770.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 13/11] Czech Republic vs Spain (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18277/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/770.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Czech Republic vs Spain",
+      "displayTitle": "🔴 [02:45 13/11] Czech Republic vs Spain",
       "number": 8
     },
     {
@@ -368,7 +375,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -435,7 +442,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] England vs Croatia",
+      "displayTitle": "🔴 [02:45 13/11] England vs Croatia",
       "number": 9
     },
     {
@@ -450,7 +457,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -468,7 +475,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Czechia vs Spain",
+      "displayTitle": "🔴 [02:45 13/11] Czechia vs Spain",
       "number": 10
     },
     {
@@ -483,7 +490,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -522,8 +529,8 @@
           "ref": ""
         },
         {
-          "name": "⚽ [02:45 13/11] Albania vs Finland (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18257/index.m3u8",
+          "name": "⚽ [02:45 13/11] Albania vs Finland (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18256/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/778.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -536,7 +543,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Albania vs Phần Lan",
+      "displayTitle": "🔴 [02:45 13/11] Albania vs Phần Lan",
       "number": 11
     },
     {
@@ -551,7 +558,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -562,21 +569,14 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 13/11] San Marino vs Belarus (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18261/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1115.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] San Marino vs Belarus (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18262/index.m3u8",
+          "name": "⚽ [02:45 13/11] San Marino vs Belarus (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18260/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1115.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] San Marino vs Belarus",
+      "displayTitle": "🔴 [02:45 13/11] San Marino vs Belarus",
       "number": 12
     },
     {
@@ -591,7 +591,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -616,8 +616,8 @@
           "ref": ""
         },
         {
-          "name": "⚽ [02:45 13/11] Montenegro vs Latvia (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18264/index.m3u8",
+          "name": "⚽ [02:45 13/11] Montenegro vs Latvia (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18263/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1109.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -630,7 +630,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Montenegro vs Latvia",
+      "displayTitle": "🔴 [02:45 13/11] Montenegro vs Latvia",
       "number": 13
     },
     {
@@ -645,7 +645,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -663,7 +663,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] Cộng hòa Séc vs Tây Ban Nha",
+      "displayTitle": "🔴 [02:45 13/11] Cộng hòa Séc vs Tây Ban Nha",
       "number": 14
     },
     {
@@ -678,7 +678,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -689,7 +689,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [02:45 13/11] CH Séc vs Tây Ban Nha",
+      "displayTitle": "🔴 [02:45 13/11] CH Séc vs Tây Ban Nha",
       "number": 15
     },
     {
@@ -1738,6 +1738,13 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
@@ -2259,27 +2266,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [02:00 13/11] Cote Divoire Vs Gambia (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:00 13/11] Senegal Vs Sudan (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] Italy Vs France (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [02:45 13/11] Czechia Vs Spain (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2294,8 +2280,29 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [02:45 13/11] Italy Vs France (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [02:45 13/11] Albania Vs Finland (BLV Gà Siêu Bệu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:00 13/11] Cote Divoire Vs Gambia (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:00 13/11] Senegal Vs Sudan (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2595,6 +2602,13 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [18:35 14/11] China U19 Vs Tajikistan U19 (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [19:00 14/11] China Vs Malaysia (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2660,48 +2674,8 @@
       ]
     },
     {
-      "name": "👑 Vua Sân Cỏ",
-      "channels": [
-        {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (Trần Hoàng)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/b3a153ec4be947cbee37d78cead6552b.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Democratic Republic of the Congo vs Sierra Leone (Lê Lợi)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-6.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Equatorial Guinea vs Zimbabwe (Nguyễn Ánh)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-11.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/3d9171993c26e3bbe878122a09435451.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Guinea vs Eritrea (Tôn Quyền)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-17.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ]
-    },
-    {
       "name": "🍗 Khô Gà TV",
       "channels": [
-        {
-          "name": "23:00 12/11 ⚽ CHDC Congo vs Sierra Leone (BLV Khô Mật) [hls]",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/728_congo-dr.jpg",
-          "group": "🍗 Khô Gà TV",
-          "ref": ""
-        },
         {
           "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (BLV Khô Cóc) [hls]",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
@@ -2719,15 +2693,83 @@
       ]
     },
     {
-      "name": "📜 Sao Kê TV",
+      "name": "🍺 Bia Ôm TV",
       "channels": [
         {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea-Bissau (Long Ruồi) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
-          "group": "📜 Sao Kê TV",
+          "name": "00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639",
+          "group": "🍺 Bia Ôm TV",
           "ref": ""
         },
+        {
+          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (333) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "01:00 13/11 ⚽ Navalcarnero vs Real Betis (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Montenegro vs Latvia (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Albania vs Phần Lan (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdlejhkbzVzYzQzcnptaWZtc21wanU3Yg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Ý vs Pháp (TIGER) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnhjejZ0cWk0YWo3aDNueWp3djU0c3pxZQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Ý vs Pháp (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Cộng hòa Séc vs Tây Ban Nha (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-18718",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Anh vs Croatia (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "📜 Sao Kê TV",
+      "channels": [
         {
           "name": "00:00 13/11 ⚽ Turkiye vs Belgium (Ricky) [hls]",
           "url": "https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8",
@@ -2747,20 +2789,6 @@
     {
       "name": "🐔 Gà Vàng 33",
       "channels": [
-        {
-          "name": "23:00 12/11 ⚽ Italy U20 vs Portugal U20 (Gà Siêu Bệu) [hls]",
-          "url": "https://live2.zktsva.app/live/289650.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Guinea vs Eritrea (Gà Siêu Nhí) [hls]",
-          "url": "https://live2.zktsva.app/live/301263.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        },
         {
           "name": "00:00 13/11 ⚽ Turkiye vs Belgium (Gà Ô Long) [hls]",
           "url": "https://live2.zktsva.app/live/432017.m3u8",
@@ -2785,50 +2813,90 @@
       ]
     },
     {
-      "name": "🥤 Cola TV",
+      "name": "💥 Phá Làng TV",
       "channels": [
         {
-          "name": "23:00 12/11 ⚽ Guinea vs Eritrea (BLV FANTA) [hls]",
-          "url": "https://live05.wecile.app/live/16226575.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (LÝ LA LÀNG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/b51304c295964dd8b3bf383462de2038/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllhvxyqvy9/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "23:00 12/11 ⚽ Guinea vs Eritrea (BLV FANTA) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "00:00 13/11 ⚽ Armenia vs Đảo Síp (LÝ LINH LỰC) [geo]",
+          "url": "https://pull.digitalcdn.net/live/aa35d53ab2d4468c9c62cf8b7138385f/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh167r6od/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "23:00 12/11 ⚽ Pháp U20 vs Đan Mạch U20 (BLV TEPPY) [hls]",
-          "url": "https://live05.wecile.app/live/33860426.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "01:00 13/11 ⚽ CD Artistico Navalcarnero vs Real Betis (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/e075b3cfcb2e48d2b258e37750fef6c5/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4jpkmoep/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "23:00 12/11 ⚽ Pháp U20 vs Đan Mạch U20 (BLV TEPPY) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "02:45 13/11 ⚽ Italy vs Pháp (LÝ LA LÀNG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/b47874e23a1045eeb8ffd873de9b1377/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh290md7o/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls]",
-          "url": "https://live05.wecile.app/live/75748097.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "02:45 13/11 ⚽ Anh vs Croatia (LÝ LONG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/4222a02620fa41ab89505c7873402f5e/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
         {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
-          "group": "🥤 Cola TV",
+          "name": "02:45 13/11 ⚽ CH Séc vs Tây Ban Nha (LÃM LÀNG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/b4d84d8ae61d4c9abdb7b459582dc846/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhy07md7o/image/small",
+          "group": "💥 Phá Làng TV",
           "ref": ""
         },
+        {
+          "name": "15:30 13/11 ⚽ Preston Lions vs Queensland Lions SC (LÝ LÊN LỬA) [geo]",
+          "url": "https://pull.digitalcdn.net/live/c71e81c3a4674a76915d0db4ea2a6031/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkynxm2wd/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 13/11 ⚽ Đài Loan vs Kyrgyzstan (LÝ LẠNH LÙNG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/f8a158d7222a4659b702bc73271aa685/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzghj44lq82w/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "19:00 13/11 ⚽ Singapore vs Paraguay (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull.digitalcdn.net/live/4acc0b62e5d44a978cbfacae6af9a68d/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwk9zqdyj/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:00 13/11 ⚽ Kuwait vs Syria (LÝ LONG) [geo]",
+          "url": "https://pull.digitalcdn.net/live/9f77dd7a926c49dfa62983cc16d1184c/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        },
+        {
+          "name": "21:30 13/11 ⚽ Ả Rập Xê Út vs Hàn Quốc (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull.digitalcdn.net/live/cd08eb1cab7246d5b1528666eeb2e293/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
+      "name": "🥤 Cola TV",
+      "channels": [
         {
           "name": "02:00 13/11 ⚽ Bờ Biển Ngà vs Gambia (BLV BÍ ĐAO) [hls]",
           "url": "https://live05.wecile.app/live/99121525.m3u8",
@@ -2911,170 +2979,6 @@
           "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
           "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
           "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "💥 Phá Làng TV",
-      "channels": [
-        {
-          "name": "23:00 12/11 ⚽ Italy U20 vs Bồ Đào Nha U20 (Unknown) [geo]",
-          "url": "https://pull.digitalcdn.net/live/132cf30a1e5945dcb975a7046bcd87cd/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/l7oqdehn1exr510/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (LÝ LA LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/b51304c295964dd8b3bf383462de2038/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/kn54qllhvxyqvy9/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Armenia vs Đảo Síp (LÝ LINH LỰC) [geo]",
-          "url": "https://pull.digitalcdn.net/live/aa35d53ab2d4468c9c62cf8b7138385f/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/9vjxm8gh167r6od/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "01:00 13/11 ⚽ CD Artistico Navalcarnero vs Real Betis (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/e075b3cfcb2e48d2b258e37750fef6c5/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/dn1m1gh4jpkmoep/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Italy vs Pháp (LÝ LA LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/b47874e23a1045eeb8ffd873de9b1377/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/56ypq3nh290md7o/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Anh vs Croatia (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/4222a02620fa41ab89505c7873402f5e/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ CH Séc vs Tây Ban Nha (LÃM LÀNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/b4d84d8ae61d4c9abdb7b459582dc846/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/56ypq3nhy07md7o/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "15:30 13/11 ⚽ Preston Lions vs Queensland Lions SC (LÝ LÊN LỬA) [geo]",
-          "url": "https://pull.digitalcdn.net/live/c71e81c3a4674a76915d0db4ea2a6031/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phkynxm2wd/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:00 13/11 ⚽ Đài Loan vs Kyrgyzstan (LÝ LẠNH LÙNG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/f8a158d7222a4659b702bc73271aa685/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/zp5rzghj44lq82w/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "19:00 13/11 ⚽ Singapore vs Paraguay (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/4acc0b62e5d44a978cbfacae6af9a68d/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwk9zqdyj/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:00 13/11 ⚽ Kuwait vs Syria (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/9f77dd7a926c49dfa62983cc16d1184c/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "21:30 13/11 ⚽ Ả Rập Xê Út vs Hàn Quốc (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/cd08eb1cab7246d5b1528666eeb2e293/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ]
-    },
-    {
-      "name": "🍺 Bia Ôm TV",
-      "channels": [
-        {
-          "name": "00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (333) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "01:00 13/11 ⚽ Navalcarnero vs Real Betis (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Montenegro vs Latvia (NEM NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Albania vs Phần Lan (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdlejhkbzVzYzQzcnptaWZtc21wanU3Yg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Ý vs Pháp (TIGER) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnhjejZ0cWk0YWo3aDNueWp3djU0c3pxZQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Ý vs Pháp (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Cộng hòa Séc vs Tây Ban Nha (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-18718",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Anh vs Croatia (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645",
-          "group": "🍺 Bia Ôm TV",
           "ref": ""
         }
       ]
@@ -3167,6 +3071,13 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
@@ -3214,7 +3125,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 13/11] Italy vs France (es English) - Film4k",
+          "name": "⚽ [02:45 13/11] Italy vs France (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18243/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/768.png",
           "group": "⚽ Film4k / Antsports",
@@ -3270,6 +3181,13 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:45 13/11] Czech Republic vs Spain (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18277/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/770.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:45 13/11] England vs Croatia (gb ITV 1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18251/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/10.png",
@@ -3298,8 +3216,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 13/11] Albania vs Finland (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18257/index.m3u8",
+          "name": "⚽ [02:45 13/11] Albania vs Finland (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18256/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/778.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3312,22 +3230,15 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 13/11] San Marino vs Belarus (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18261/index.m3u8",
+          "name": "⚽ [02:45 13/11] San Marino vs Belarus (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18260/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1115.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 13/11] San Marino vs Belarus (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18262/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1115.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 13/11] Montenegro vs Latvia (us DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18264/index.m3u8",
+          "name": "⚽ [02:45 13/11] Montenegro vs Latvia (US Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18263/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1109.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
