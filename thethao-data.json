@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 06:42:03",
+  "updated_at": "2026-11-13 06:57:52",
   "live_events": [
     {
       "key": "13/11_05:00_aruba_martinique",
@@ -65,7 +65,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -76,7 +76,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] Llaneros vs Chico",
+      "displayTitle": "🔴 [07:00 13/11] Llaneros vs Chico",
       "number": 3
     },
     {
@@ -91,7 +91,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -102,7 +102,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] Boston Bruins vs Montreal Canadiens",
+      "displayTitle": "🔴 [07:00 13/11] Boston Bruins vs Montreal Canadiens",
       "number": 4
     },
     {
@@ -117,7 +117,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -128,7 +128,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] Columbus Blue Jackets vs Tampa Bay Lightning",
+      "displayTitle": "🔴 [07:00 13/11] Columbus Blue Jackets vs Tampa Bay Lightning",
       "number": 5
     },
     {
@@ -143,7 +143,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -154,7 +154,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] New Jersey Devils vs Washington Capitals",
+      "displayTitle": "🔴 [07:00 13/11] New Jersey Devils vs Washington Capitals",
       "number": 6
     },
     {
@@ -169,7 +169,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -180,7 +180,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] Ottawa Senators vs Colorado Avalanche",
+      "displayTitle": "🔴 [07:00 13/11] Ottawa Senators vs Colorado Avalanche",
       "number": 7
     },
     {
@@ -195,7 +195,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -206,8 +206,74 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [07:00 13/11] Toronto Maple Leafs vs Minnesota Wild",
+      "displayTitle": "🔴 [07:00 13/11] Toronto Maple Leafs vs Minnesota Wild",
       "number": 8
+    },
+    {
+      "key": "13/11_07:00_philadelphia76ers_torontoraptors",
+      "c_home": "philadelphia76ers",
+      "c_away": "torontoraptors",
+      "homeTeam": "Philadelphia 76ers",
+      "awayTeam": "Toronto Raptors",
+      "time": "07:00",
+      "date": "13/11",
+      "timestamp": 1794528000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
+          "url": "https://live05.wecile.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "⚽ [07:00 13/11] Philadelphia 76ers vs Toronto Raptors (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18066/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/154.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
+      "number": 9
+    },
+    {
+      "key": "13/11_07:00_detroitpistons_washingtonwizards",
+      "c_home": "washingtonwizards",
+      "c_away": "detroitpistons",
+      "homeTeam": "Washington Wizards",
+      "awayTeam": "Detroit Pistons",
+      "time": "07:00",
+      "date": "13/11",
+      "timestamp": 1794528000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:00 13/11] Washington Wizards vs Detroit Pistons (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18062/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/161.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [07:00 13/11] Washington Wizards vs Detroit Pistons",
+      "number": 10
     },
     {
       "key": "13/11_07:30_curacao_panama",
@@ -233,7 +299,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 13/11] Curacao vs Panama",
-      "number": 9
+      "number": 11
     },
     {
       "key": "13/11_07:30_detroitredwings_floridapanthers",
@@ -259,7 +325,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 13/11] Florida Panthers vs Detroit Red Wings",
-      "number": 10
+      "number": 12
     },
     {
       "key": "13/11_08:00_memphis_southflorida",
@@ -285,7 +351,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 13/11] South Florida vs Memphis",
-      "number": 11
+      "number": 13
     },
     {
       "key": "13/11_08:00_buffalosabres_chicagoblackhawks",
@@ -311,7 +377,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 13/11] Chicago Blackhawks vs Buffalo Sabres",
-      "number": 12
+      "number": 14
     },
     {
       "key": "13/11_08:00_dallasstars_winnipegjets",
@@ -337,7 +403,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 13/11] Dallas Stars vs Winnipeg Jets",
-      "number": 13
+      "number": 15
     },
     {
       "key": "13/11_08:00_hendricedeno_jhonorobio",
@@ -363,7 +429,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 13/11] Jhon Orobio vs Hendri Cedeno",
-      "number": 14
+      "number": 16
     },
     {
       "key": "13/11_08:15_newyorkgiants_washingtoncommanders",
@@ -396,7 +462,7 @@
         }
       ],
       "displayTitle": "⚽ [08:15 13/11] New York Giants vs Washington Commanders",
-      "number": 15
+      "number": 17
     },
     {
       "key": "13/11_09:00_atlmorelia_leonesnegros",
@@ -422,7 +488,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 13/11] Atl. Morelia vs Leones Negros",
-      "number": 16
+      "number": 18
     },
     {
       "key": "13/11_09:00_louisiana_ulmonroe",
@@ -448,7 +514,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 13/11] UL Monroe vs Louisiana",
-      "number": 17
+      "number": 19
     },
     {
       "key": "13/11_09:00_stlouisblues_utahmammoth",
@@ -474,7 +540,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 13/11] Utah Mammoth vs St. Louis Blues",
-      "number": 18
+      "number": 20
     },
     {
       "key": "13/11_10:00_losangeleskings_newyorkislanders",
@@ -500,7 +566,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 13/11] Los Angeles Kings vs New York Islanders",
-      "number": 19
+      "number": 21
     },
     {
       "key": "13/11_15:00_centralstallions_deren",
@@ -526,7 +592,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 13/11] Deren vs Central Stallions",
-      "number": 20
+      "number": 22
     },
     {
       "key": "13/11_15:30_marconistallions_oakleighcannons",
@@ -552,7 +618,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
-      "number": 21
+      "number": 23
     },
     {
       "key": "13/11_15:30_prestonlions_queenslandlions",
@@ -585,7 +651,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Preston Lions vs Queensland Lions Sc",
-      "number": 22
+      "number": 24
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -618,7 +684,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 23
+      "number": 25
     },
     {
       "key": "13/11_19:00_kyrgyzstan_taiwan",
@@ -644,7 +710,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Đài Loan vs Kyrgyzstan",
-      "number": 24
+      "number": 26
     },
     {
       "key": "13/11_20:00_ethiopia_mozambique",
@@ -670,7 +736,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Mozambique vs Ethiopia",
-      "number": 25
+      "number": 27
     },
     {
       "key": "13/11_20:00_comoros_viettel",
@@ -696,7 +762,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Comoros vs Republic Of The Congo",
-      "number": 26
+      "number": 28
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -722,7 +788,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 27
+      "number": 29
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -755,7 +821,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 28
+      "number": 30
     },
     {
       "key": "13/11_21:10_honduras_unitedarabemirates",
@@ -781,7 +847,7 @@
         }
       ],
       "displayTitle": "⚽ [21:10 13/11] United Arab Emirates vs Honduras",
-      "number": 29
+      "number": 31
     },
     {
       "key": "13/11_21:30_korea_saudiarabia",
@@ -814,7 +880,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 13/11] Ả Rập Xê Út vs Hàn Quốc",
-      "number": 30
+      "number": 32
     },
     {
       "key": "13/11_21:45_australia_qatar",
@@ -847,7 +913,7 @@
         }
       ],
       "displayTitle": "⚽ [21:45 13/11] Qatar vs Australia",
-      "number": 31
+      "number": 33
     },
     {
       "key": "13/11_22:00_iraq_lebanon",
@@ -873,7 +939,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 13/11] Iraq vs Lebanon",
-      "number": 32
+      "number": 34
     },
     {
       "key": "13/11_23:00_nigeria_tanzania",
@@ -906,7 +972,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Nigeria vs Tanzania",
-      "number": 33
+      "number": 35
     },
     {
       "key": "13/11_23:00_kenya_southafrica",
@@ -932,7 +998,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] South Africa vs Kenya",
-      "number": 34
+      "number": 36
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -965,7 +1031,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 35
+      "number": 37
     },
     {
       "key": "13/11_23:00_caboverde_liberia",
@@ -991,7 +1057,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Cabo Verde vs Liberia",
-      "number": 36
+      "number": 38
     },
     {
       "key": "13/11_23:30_kuwait_syria",
@@ -1017,7 +1083,7 @@
         }
       ],
       "displayTitle": "⚽ [23:30 13/11] Kuwait vs Syria",
-      "number": 37
+      "number": 39
     },
     {
       "key": "14/11_00:00_kazakhstan_moldova",
@@ -1050,7 +1116,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 14/11] Moldova vs Kazakhstan",
-      "number": 38
+      "number": 40
     },
     {
       "key": "14/11_02:00_mali_rwanda",
@@ -1076,7 +1142,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Mali vs Rwanda",
-      "number": 39
+      "number": 41
     },
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -1102,7 +1168,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Egypt vs Malawi",
-      "number": 40
+      "number": 42
     },
     {
       "key": "14/11_02:30_burgos_leganes",
@@ -1128,7 +1194,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 14/11] Leganes vs Burgos",
-      "number": 41
+      "number": 43
     },
     {
       "key": "14/11_02:45_greece_netherlands",
@@ -1154,7 +1220,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Netherlands vs Greece",
-      "number": 42
+      "number": 44
     },
     {
       "key": "14/11_02:45_germany_serbia",
@@ -1187,7 +1253,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Serbia vs Đức",
-      "number": 43
+      "number": 45
     },
     {
       "key": "14/11_02:45_northmacedonia_scotland",
@@ -1213,7 +1279,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs North Macedonia",
-      "number": 44
+      "number": 46
     },
     {
       "key": "14/11_02:45_slovenia_switzerland",
@@ -1246,7 +1312,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ",
-      "number": 45
+      "number": 47
     },
     {
       "key": "14/11_02:45_faroeislands_slovakia",
@@ -1272,7 +1338,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovakia vs Faroe Islands",
-      "number": 46
+      "number": 48
     },
     {
       "key": "14/11_02:45_estonia_luxembourg",
@@ -1298,7 +1364,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Luxembourg vs Estonia",
-      "number": 47
+      "number": 49
     },
     {
       "key": "14/11_02:45_bulgaria_iceland",
@@ -1324,7 +1390,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Bulgaria vs Iceland",
-      "number": 48
+      "number": 50
     },
     {
       "key": "14/11_02:45_andorra_gibraltar",
@@ -1350,7 +1416,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Andorra vs Gibraltar",
-      "number": 49
+      "number": 51
     },
     {
       "key": "14/11_03:00_morocco_niger",
@@ -1383,7 +1449,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 14/11] Morocco vs Niger",
-      "number": 50
+      "number": 52
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -1416,7 +1482,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 51
+      "number": 53
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -1442,7 +1508,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 52
+      "number": 54
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -1468,7 +1534,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 53
+      "number": 55
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -1494,7 +1560,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 54
+      "number": 56
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -1520,7 +1586,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 55
+      "number": 57
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -1546,7 +1612,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 56
+      "number": 58
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -1572,7 +1638,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Japan vs Brazil",
-      "number": 57
+      "number": 59
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -1598,7 +1664,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] China vs Malaysia",
-      "number": 58
+      "number": 60
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -1624,7 +1690,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 59
+      "number": 61
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -1650,7 +1716,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 60
+      "number": 62
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -1683,7 +1749,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 61
+      "number": 63
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -1709,7 +1775,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 62
+      "number": 64
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -1735,7 +1801,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 63
+      "number": 65
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -1761,7 +1827,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 64
+      "number": 66
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -1787,7 +1853,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 65
+      "number": 67
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -1813,7 +1879,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 66
+      "number": 68
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -1839,7 +1905,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 67
+      "number": 69
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -1865,7 +1931,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 68
+      "number": 70
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -1891,7 +1957,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Ba Lan",
-      "number": 69
+      "number": 71
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -1917,7 +1983,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 70
+      "number": 72
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -1943,7 +2009,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 71
+      "number": 73
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -1969,7 +2035,7 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 72
+      "number": 74
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -1995,7 +2061,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 73
+      "number": 75
     },
     {
       "key": "15/11_22:15_granada_laspalmas",
@@ -2021,7 +2087,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Las Palmas",
-      "number": 74
+      "number": 76
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2047,7 +2113,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 75
+      "number": 77
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2073,72 +2139,6 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 76
-    },
-    {
-      "key": "13/11_07:00_philadelphia76ers_torontoraptors",
-      "c_home": "philadelphia76ers",
-      "c_away": "torontoraptors",
-      "homeTeam": "Philadelphia 76ers",
-      "awayTeam": "Toronto Raptors",
-      "time": "07:00",
-      "date": "13/11",
-      "timestamp": 1794528000000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
-          "url": "https://live05.wecile.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [07:00 13/11] Philadelphia 76ers vs Toronto Raptors (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18066/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
-      "number": 77
-    },
-    {
-      "key": "13/11_07:00_detroitpistons_washingtonwizards",
-      "c_home": "washingtonwizards",
-      "c_away": "detroitpistons",
-      "homeTeam": "Washington Wizards",
-      "awayTeam": "Detroit Pistons",
-      "time": "07:00",
-      "date": "13/11",
-      "timestamp": 1794528000000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:00 13/11] Washington Wizards vs Detroit Pistons (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18062/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/161.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [07:00 13/11] Washington Wizards vs Detroit Pistons",
       "number": 78
     },
     {
