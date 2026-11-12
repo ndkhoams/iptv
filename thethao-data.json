@@ -1,131 +1,6 @@
 {
-  "updated_at": "2026-11-12 17:44:56",
+  "updated_at": "2026-11-12 18:00:01",
   "live_events": [
-    {
-      "key": "12/11_15:30_adelaide36ers_melbourneunited",
-      "c_home": "adelaide36ers",
-      "c_away": "melbourneunited",
-      "homeTeam": "Adelaide 36ers",
-      "awayTeam": "Melbourne United",
-      "time": "15:30",
-      "date": "12/11",
-      "timestamp": 1794472200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟢 15:30 12/11 🏀 Adelaide 36ers vs Melbourne United (Mason) [hls]",
-          "url": "https://pzhgifbkllliv.vcdn.cloud/1794461140_hd/1794461140_hd@720p.m3u8",
-          "logo": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
-          "group": "⏰ Giờ Vàng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 12/11] Adelaide 36ers vs Melbourne United",
-      "number": 1
-    },
-    {
-      "key": "12/11_15:30_adelaidecity_apialeichhardt",
-      "c_home": "apialeichhardt",
-      "c_away": "adelaidecity",
-      "homeTeam": "APIA Leichhardt",
-      "awayTeam": "Adelaide City",
-      "time": "15:30",
-      "date": "12/11",
-      "timestamp": 1794472200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt vs Adelaide City (Kai) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/162237.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Leichhardt Tigers vs Adelaide City (Gà Siêu Bệu) [hls]",
-          "url": "https://live2.zktsva.app/live/289650.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png",
-          "group": "🐔 Gà Vàng 33",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 12/11] APIA Leichhardt vs Adelaide City",
-      "number": 2
-    },
-    {
-      "key": "12/11_15:30_adelaide36ers_melbournetigers",
-      "c_home": "adelaide36ers",
-      "c_away": "melbournetigers",
-      "homeTeam": "Adelaide 36ers",
-      "awayTeam": "Melbourne Tigers",
-      "time": "15:30",
-      "date": "12/11",
-      "timestamp": 1794472200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 15:30 12/11 🏀 Adelaide 36ers vs Melbourne Tigers (BLV Cozy) [hls]",
-          "url": "https://live05.wecile.app/live/87379114.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 15:30 12/11 🏀 Adelaide 36ers vs Melbourne Tigers (BLV Cozy) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 12/11] Adelaide 36ers vs Melbourne Tigers",
-      "number": 3
-    },
-    {
-      "key": "12/11_15:30_adelaidecity_apiatigers",
-      "c_home": "apiatigers",
-      "c_away": "adelaidecity",
-      "homeTeam": "APIA Tigers",
-      "awayTeam": "Adelaide City",
-      "time": "15:30",
-      "date": "12/11",
-      "timestamp": 1794472200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Tigers vs Adelaide City (BLV BÍ ĐAO) [hls]",
-          "url": "https://live05.wecile.app/live/99121525.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 15:30 12/11 ⚽ APIA Tigers vs Adelaide City (BLV BÍ ĐAO) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [15:30 12/11] APIA Tigers vs Adelaide City",
-      "number": 4
-    },
     {
       "key": "12/11_17:00_gyeongju_hwacheonkspo",
       "c_home": "hwacheonkspo",
@@ -150,7 +25,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 12/11] Hwacheon KSPO vs Gyeongju",
-      "number": 5
+      "number": 1
     },
     {
       "key": "12/11_17:00_goyangcarrotjumpers_incheon",
@@ -183,7 +58,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 12/11] Incheon vs Goyang Carrot Jumpers",
-      "number": 6
+      "number": 2
     },
     {
       "key": "12/11_17:00_leipzig_mladaboleslav",
@@ -216,7 +91,7 @@
         }
       ],
       "displayTitle": "🔴 [17:00 12/11] RB Leipzig vs Mlada Boleslav",
-      "number": 7
+      "number": 3
     },
     {
       "key": "12/11_17:30_perthwildcats_tasmaniajacknguoinhay",
@@ -249,7 +124,7 @@
         }
       ],
       "displayTitle": "🔴 [17:30 12/11] Perth Wildcats vs Tasmania JackNgười Nhảy",
-      "number": 8
+      "number": 4
     },
     {
       "key": "12/11_18:00_hannover96_tsvhavelse",
@@ -263,7 +138,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -281,8 +156,8 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [18:00 12/11] Hannover 96 vs TSV Havelse",
-      "number": 9
+      "displayTitle": "🔴 [18:00 12/11] Hannover 96 vs TSV Havelse",
+      "number": 5
     },
     {
       "key": "12/11_19:00_vejlereserve_viborgreserve",
@@ -315,7 +190,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 12/11] Viborg Reserve vs Vejle Reserve",
-      "number": 10
+      "number": 6
     },
     {
       "key": "12/11_19:30_dayrout_proxy",
@@ -341,7 +216,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 12/11] Dayrout vs Proxy",
-      "number": 11
+      "number": 7
     },
     {
       "key": "12/11_19:30_nasr_pharco",
@@ -367,7 +242,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 12/11] Nasr vs Pharco",
-      "number": 12
+      "number": 8
     },
     {
       "key": "12/11_19:30_masar_tersana",
@@ -400,7 +275,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 12/11] Masar vs Tersana SC",
-      "number": 13
+      "number": 9
     },
     {
       "key": "12/11_22:00_russia_uzbekistan",
@@ -475,7 +350,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Uzbekistan vs Russia",
-      "number": 14
+      "number": 10
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -529,7 +404,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 12/11] Ghana vs Somalia",
-      "number": 15
+      "number": 11
     },
     {
       "key": "12/11_23:00_guineabissau_madagascar",
@@ -583,7 +458,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau",
-      "number": 16
+      "number": 12
     },
     {
       "key": "12/11_23:00_eritrea_guinea",
@@ -637,7 +512,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 12/11] Guinea vs Eritrea",
-      "number": 17
+      "number": 13
     },
     {
       "key": "12/11_23:00_equatorialguinea_zimbabwe",
@@ -670,7 +545,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 12/11] Equatorial Guinea vs Zimbabwe",
-      "number": 18
+      "number": 14
     },
     {
       "key": "12/11_23:00_sierraleone_viettel",
@@ -696,7 +571,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 12/11] Democratic Republic of the Congo vs Sierra Leone",
-      "number": 19
+      "number": 15
     },
     {
       "key": "12/11_23:00_chdccongo_sierraleone",
@@ -722,7 +597,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 12/11] CHDC Congo vs Sierra Leone",
-      "number": 20
+      "number": 16
     },
     {
       "key": "13/11_00:00_belgium_turkiye",
@@ -755,7 +630,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Türkiye vs Belgium",
-      "number": 21
+      "number": 17
     },
     {
       "key": "13/11_00:00_armenia_cyprus",
@@ -816,7 +691,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Cyprus",
-      "number": 22
+      "number": 18
     },
     {
       "key": "13/11_00:00_armenia_sip",
@@ -842,7 +717,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Síp",
-      "number": 23
+      "number": 19
     },
     {
       "key": "13/11_00:00_belgium_turkey",
@@ -889,7 +764,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
-      "number": 24
+      "number": 20
     },
     {
       "key": "13/11_00:00_armenia_daosip",
@@ -915,7 +790,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Đảo Síp",
-      "number": 25
+      "number": 21
     },
     {
       "key": "13/11_00:00_carolinahurricanes_seattlekraken",
@@ -941,7 +816,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Seattle Kraken vs Carolina Hurricanes",
-      "number": 26
+      "number": 22
     },
     {
       "key": "13/11_00:30_eswatini_malta",
@@ -967,7 +842,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 13/11] Malta vs Eswatini",
-      "number": 27
+      "number": 23
     },
     {
       "key": "13/11_01:00_betis_navalcarnero",
@@ -1007,7 +882,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 13/11] Navalcarnero vs Real Betis",
-      "number": 28
+      "number": 24
     },
     {
       "key": "13/11_02:00_cotedivoire_gambia",
@@ -1033,7 +908,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cote Divoire vs Gambia",
-      "number": 29
+      "number": 25
     },
     {
       "key": "13/11_02:00_cameroon_namibia",
@@ -1059,7 +934,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cameroon vs Namibia",
-      "number": 30
+      "number": 26
     },
     {
       "key": "13/11_02:00_gambia_russia",
@@ -1085,7 +960,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Bờ Biển Ngà vs Gambia",
-      "number": 31
+      "number": 27
     },
     {
       "key": "13/11_02:15_dubai_olympiacospiraeus",
@@ -1118,7 +993,7 @@
         }
       ],
       "displayTitle": "⚽ [02:15 13/11] Olympiacos Piraeus vs dubai",
-      "number": 32
+      "number": 28
     },
     {
       "key": "13/11_02:45_france_italy",
@@ -1235,7 +1110,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Italy vs Pháp",
-      "number": 33
+      "number": 29
     },
     {
       "key": "13/11_02:45_czechrepublic_spain",
@@ -1289,7 +1164,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Czech Republic vs Spain",
-      "number": 34
+      "number": 30
     },
     {
       "key": "13/11_02:45_croatia_england",
@@ -1378,7 +1253,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] England vs Croatia",
-      "number": 35
+      "number": 31
     },
     {
       "key": "13/11_02:45_czechia_spain",
@@ -1404,7 +1279,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Czechia vs Spain",
-      "number": 36
+      "number": 32
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1465,7 +1340,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Phần Lan",
-      "number": 37
+      "number": 33
     },
     {
       "key": "13/11_02:45_belarus_sanmarino",
@@ -1512,7 +1387,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] San Marino vs Belarus",
-      "number": 38
+      "number": 34
     },
     {
       "key": "13/11_02:45_latvia_montenegro",
@@ -1573,7 +1448,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Montenegro vs Latvia",
-      "number": 39
+      "number": 35
     },
     {
       "key": "13/11_02:45_conghoasec_spain",
@@ -1606,7 +1481,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Cộng hòa Séc vs Tây Ban Nha",
-      "number": 40
+      "number": 36
     },
     {
       "key": "13/11_02:45_chsec_spain",
@@ -1632,7 +1507,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] CH Séc vs Tây Ban Nha",
-      "number": 41
+      "number": 37
     },
     {
       "key": "13/11_04:00_deportivo_junior",
@@ -1658,7 +1533,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Deportivo Pasto vs Junior",
-      "number": 42
+      "number": 38
     },
     {
       "key": "13/11_04:00_chico_llaneros",
@@ -1684,7 +1559,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Llaneros vs Chico",
-      "number": 43
+      "number": 39
     },
     {
       "key": "13/11_05:00_aruba_martinique",
@@ -1710,7 +1585,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 13/11] Aruba vs Martinique",
-      "number": 44
+      "number": 40
     },
     {
       "key": "13/11_06:00_antiguaandbarbuda_trinidadandtobago",
@@ -1736,7 +1611,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 13/11] Antigua And Barbuda vs Trinidad And Tobago",
-      "number": 45
+      "number": 41
     },
     {
       "key": "13/11_07:30_curacao_panama",
@@ -1762,7 +1637,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 13/11] Curacao vs Panama",
-      "number": 46
+      "number": 42
     },
     {
       "key": "13/11_15:00_centralstallions_deren",
@@ -1788,7 +1663,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 13/11] Deren vs Central Stallions",
-      "number": 47
+      "number": 43
     },
     {
       "key": "13/11_15:30_marconistallions_oakleighcannons",
@@ -1814,7 +1689,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
-      "number": 48
+      "number": 44
     },
     {
       "key": "13/11_15:30_prestonlions_queenslandlions",
@@ -1847,7 +1722,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Preston Lions vs Queensland Lions Sc",
-      "number": 49
+      "number": 45
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -1880,7 +1755,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 50
+      "number": 46
     },
     {
       "key": "13/11_19:00_kyrgyzstan_taiwan",
@@ -1906,7 +1781,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Đài Loan vs Kyrgyzstan",
-      "number": 51
+      "number": 47
     },
     {
       "key": "13/11_20:00_ethiopia_mozambique",
@@ -1932,7 +1807,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Mozambique vs Ethiopia",
-      "number": 52
+      "number": 48
     },
     {
       "key": "13/11_20:00_comoros_viettel",
@@ -1958,7 +1833,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Comoros vs Republic Of The Congo",
-      "number": 53
+      "number": 49
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -1984,7 +1859,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 54
+      "number": 50
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -2017,7 +1892,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 55
+      "number": 51
     },
     {
       "key": "13/11_21:10_honduras_unitedarabemirates",
@@ -2043,7 +1918,7 @@
         }
       ],
       "displayTitle": "⚽ [21:10 13/11] United Arab Emirates vs Honduras",
-      "number": 56
+      "number": 52
     },
     {
       "key": "13/11_21:30_korea_saudiarabia",
@@ -2069,7 +1944,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 13/11] Saudi Arabia vs South Korea",
-      "number": 57
+      "number": 53
     },
     {
       "key": "13/11_21:45_australia_qatar",
@@ -2102,7 +1977,7 @@
         }
       ],
       "displayTitle": "⚽ [21:45 13/11] Qatar vs Australia",
-      "number": 58
+      "number": 54
     },
     {
       "key": "13/11_22:00_iraq_lebanon",
@@ -2128,7 +2003,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 13/11] Iraq vs Lebanon",
-      "number": 59
+      "number": 55
     },
     {
       "key": "13/11_23:00_nigeria_tanzania",
@@ -2154,7 +2029,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Nigeria vs Tanzania",
-      "number": 60
+      "number": 56
     },
     {
       "key": "13/11_23:00_kenya_southafrica",
@@ -2180,7 +2055,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] South Africa vs Kenya",
-      "number": 61
+      "number": 57
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -2206,7 +2081,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 62
+      "number": 58
     },
     {
       "key": "13/11_23:00_caboverde_liberia",
@@ -2232,7 +2107,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Cabo Verde vs Liberia",
-      "number": 63
+      "number": 59
     },
     {
       "key": "14/11_00:00_kazakhstan_moldova",
@@ -2265,7 +2140,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 14/11] Moldova vs Kazakhstan",
-      "number": 64
+      "number": 60
     },
     {
       "key": "14/11_02:00_mali_rwanda",
@@ -2291,7 +2166,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Mali vs Rwanda",
-      "number": 65
+      "number": 61
     },
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -2317,7 +2192,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Egypt vs Malawi",
-      "number": 66
+      "number": 62
     },
     {
       "key": "14/11_02:45_greece_netherlands",
@@ -2343,7 +2218,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Netherlands vs Greece",
-      "number": 67
+      "number": 63
     },
     {
       "key": "14/11_02:45_germany_serbia",
@@ -2369,7 +2244,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Serbia vs Germany",
-      "number": 68
+      "number": 64
     },
     {
       "key": "14/11_02:45_northmacedonia_scotland",
@@ -2395,7 +2270,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs North Macedonia",
-      "number": 69
+      "number": 65
     },
     {
       "key": "14/11_02:45_slovenia_switzerland",
@@ -2421,7 +2296,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovenia vs Switzerland",
-      "number": 70
+      "number": 66
     },
     {
       "key": "14/11_02:45_faroeislands_slovakia",
@@ -2447,7 +2322,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovakia vs Faroe Islands",
-      "number": 71
+      "number": 67
     },
     {
       "key": "14/11_02:45_estonia_luxembourg",
@@ -2473,7 +2348,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Luxembourg vs Estonia",
-      "number": 72
+      "number": 68
     },
     {
       "key": "14/11_02:45_bulgaria_iceland",
@@ -2499,7 +2374,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Bulgaria vs Iceland",
-      "number": 73
+      "number": 69
     },
     {
       "key": "14/11_02:45_andorra_gibraltar",
@@ -2525,7 +2400,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Andorra vs Gibraltar",
-      "number": 74
+      "number": 70
     },
     {
       "key": "14/11_03:00_morocco_niger",
@@ -2551,7 +2426,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 14/11] Morocco vs Niger",
-      "number": 75
+      "number": 71
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -2577,7 +2452,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 76
+      "number": 72
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -2603,7 +2478,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 77
+      "number": 73
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -2629,7 +2504,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 78
+      "number": 74
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -2655,7 +2530,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 79
+      "number": 75
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -2681,7 +2556,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 80
+      "number": 76
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -2707,7 +2582,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 81
+      "number": 77
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -2733,7 +2608,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Japan vs Brazil",
-      "number": 82
+      "number": 78
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -2759,7 +2634,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] China vs Malaysia",
-      "number": 83
+      "number": 79
     },
     {
       "key": "14/11_19:00_kyrgyzstan_taiwan",
@@ -2785,7 +2660,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Chinese Taipei vs Kyrgyzstan",
-      "number": 84
+      "number": 80
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -2811,7 +2686,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 85
+      "number": 81
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -2837,7 +2712,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 86
+      "number": 82
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -2863,7 +2738,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 87
+      "number": 83
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -2889,7 +2764,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 88
+      "number": 84
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -2915,7 +2790,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 89
+      "number": 85
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -2941,7 +2816,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 90
+      "number": 86
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -2967,7 +2842,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 91
+      "number": 87
     },
     {
       "key": "13/11_12:00_hunters_ulaanbaatar",
@@ -2993,7 +2868,7 @@
         }
       ],
       "displayTitle": "🏀 [12:00 13/11] Ulaanbaatar vs Hunters",
-      "number": 92
+      "number": 88
     }
   ],
   "source_groups": [
