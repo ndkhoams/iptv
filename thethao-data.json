@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 16:44:15",
+  "updated_at": "2026-11-12 16:59:28",
   "live_events": [
     {
       "key": "12/11_15:30_adelaidecity_apialeichhardttigers",
@@ -145,7 +145,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -156,7 +156,7 @@
           "ref": "https://live.chuoichien.tv/"
         }
       ],
-      "displayTitle": "⚽ [17:00 12/11] Hwacheon KSPO vs Gyeongju",
+      "displayTitle": "🔴 [17:00 12/11] Hwacheon KSPO vs Gyeongju",
       "number": 5
     },
     {
@@ -171,7 +171,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -189,7 +189,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 12/11] Incheon vs Goyang Carrot Jumpers",
+      "displayTitle": "🔴 [17:00 12/11] Incheon vs Goyang Carrot Jumpers",
       "number": 6
     },
     {
@@ -204,7 +204,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -222,7 +222,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [17:00 12/11] RB Leipzig vs Mlada Boleslav",
+      "displayTitle": "🔴 [17:00 12/11] RB Leipzig vs Mlada Boleslav",
       "number": 7
     },
     {
@@ -2509,6 +2509,32 @@
       "number": 73
     },
     {
+      "key": "14/11_02:45_andorra_gibraltar",
+      "c_home": "andorra",
+      "c_away": "gibraltar",
+      "homeTeam": "Andorra",
+      "awayTeam": "Gibraltar",
+      "time": "02:45",
+      "date": "14/11",
+      "timestamp": 1794599100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 14/11] Andorra Vs Gibraltar (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 14/11] Andorra vs Gibraltar",
+      "number": 74
+    },
+    {
       "key": "14/11_03:00_morocco_niger",
       "c_home": "morocco",
       "c_away": "niger",
@@ -2532,7 +2558,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 14/11] Morocco vs Niger",
-      "number": 74
+      "number": 75
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -2558,7 +2584,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 75
+      "number": 76
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -2584,7 +2610,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 76
+      "number": 77
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -2610,7 +2636,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 77
+      "number": 78
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -2636,7 +2662,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 78
+      "number": 79
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -2662,7 +2688,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 79
+      "number": 80
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -2688,7 +2714,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 80
+      "number": 81
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -2714,7 +2740,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Japan vs Brazil",
-      "number": 81
+      "number": 82
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -2740,7 +2766,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] China vs Malaysia",
-      "number": 82
+      "number": 83
     },
     {
       "key": "14/11_19:00_kyrgyzstan_taiwan",
@@ -2766,7 +2792,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Chinese Taipei vs Kyrgyzstan",
-      "number": 83
+      "number": 84
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -2792,7 +2818,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 84
+      "number": 85
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -2818,7 +2844,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 85
+      "number": 86
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -2844,7 +2870,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 86
+      "number": 87
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -2870,7 +2896,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 87
+      "number": 88
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -2896,7 +2922,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 88
+      "number": 89
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -2922,7 +2948,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 89
+      "number": 90
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -2948,7 +2974,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 90
+      "number": 91
     },
     {
       "key": "13/11_12:00_hunters_ulaanbaatar",
@@ -2974,20 +3000,13 @@
         }
       ],
       "displayTitle": "🏀 [12:00 13/11] Ulaanbaatar vs Hunters",
-      "number": 91
+      "number": 92
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [15:00 12/11] U23 Thailand vs U23 Qatar (BLV Chuối Lửa) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20261110_160057_d4d4f6db.png",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [17:00 12/11] Hwacheon KSPO vs Gyeongju (BLV Chuối Sấy) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -3098,13 +3117,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [15:00 12/11] Thailand U23 Vs Qatar U23 (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [15:30 12/11] Apia Leichhardt Tigers Vs Adelaide City Fc (BLV Gà Siêu Bệu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -3458,6 +3470,13 @@
         {
           "name": "⚽ [02:45 14/11] Bulgaria Vs Iceland (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Andorra Vs Gibraltar (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -4312,13 +4331,6 @@
     {
       "name": "🍧 Xôi Chè TV",
       "channels": [
-        {
-          "name": "⚽ [15:00 12/11] Thailand U23 vs Qatar U23 (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/9471_thailand-u23.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [19:00 12/11] Singapore U23 vs U23 Việt Nam (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
