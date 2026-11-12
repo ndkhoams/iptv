@@ -1,100 +1,6 @@
 {
-  "updated_at": "2026-11-13 00:52:05",
+  "updated_at": "2026-11-13 01:07:54",
   "live_events": [
-    {
-      "key": "12/11_23:00_guineabissau_madagascar",
-      "c_home": "madagascar",
-      "c_away": "guineabissau",
-      "homeTeam": "Madagascar",
-      "awayTeam": "Guinea-Bissau",
-      "time": "23:00",
-      "date": "12/11",
-      "timestamp": 1794499200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [23:00 12/11] Madagascar Vs Guinea Bissau (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (Trần Hoàng)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-19.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/b3a153ec4be947cbee37d78cead6552b.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea-Bissau (Long Ruồi) [hls]",
-          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
-          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
-          "group": "📜 Sao Kê TV",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls]",
-          "url": "https://live05.wecile.app/live/75748097.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [23:00 12/11] Madagascar vs Guinea-Bissau",
-      "number": 1
-    },
-    {
-      "key": "12/11_23:00_sierraleone_viettel",
-      "c_home": "viettel",
-      "c_away": "sierraleone",
-      "homeTeam": "Democratic Republic Of The Congo",
-      "awayTeam": "Sierra Leone",
-      "time": "23:00",
-      "date": "12/11",
-      "timestamp": 1794499200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 12/11] Democratic Republic Of The Congo Vs Sierra Leone (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "23:00 12/11 ⚽ Democratic Republic of the Congo vs Sierra Leone (Lê Lợi)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-6.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [23:00 12/11] Democratic Republic Of The Congo vs Sierra Leone",
-      "number": 2
-    },
     {
       "key": "12/11_23:00_equatorialguinea_zimbabwe",
       "c_home": "equatorialguinea",
@@ -126,6 +32,79 @@
         }
       ],
       "displayTitle": "🔴 [23:00 12/11] Equatorial Guinea vs Zimbabwe",
+      "number": 1
+    },
+    {
+      "key": "12/11_23:00_guineabissau_madagascar",
+      "c_home": "madagascar",
+      "c_away": "guineabissau",
+      "homeTeam": "Madagascar",
+      "awayTeam": "Guinea Bissau",
+      "time": "23:00",
+      "date": "12/11",
+      "timestamp": 1794499200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (Trần Hoàng)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-19.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/b3a153ec4be947cbee37d78cead6552b.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        },
+        {
+          "name": "23:00 12/11 ⚽ Madagascar vs Guinea-Bissau (Long Ruồi) [hls]",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
+          "group": "📜 Sao Kê TV",
+          "ref": ""
+        },
+        {
+          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls]",
+          "url": "https://live05.wecile.app/live/75748097.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "23:00 12/11 ⚽ Madagascar vs Guinea Bissau (BLV SPRITE) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/b3a153ec4be947cbee37d78cead6552b.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [23:00 12/11] Madagascar vs Guinea Bissau",
+      "number": 2
+    },
+    {
+      "key": "12/11_23:00_sierraleone_viettel",
+      "c_home": "viettel",
+      "c_away": "sierraleone",
+      "homeTeam": "Democratic Republic of the Congo",
+      "awayTeam": "Sierra Leone",
+      "time": "23:00",
+      "date": "12/11",
+      "timestamp": 1794499200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "23:00 12/11 ⚽ Democratic Republic of the Congo vs Sierra Leone (Lê Lợi)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-6.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [23:00 12/11] Democratic Republic of the Congo vs Sierra Leone",
       "number": 3
     },
     {
@@ -2427,32 +2406,6 @@
       "number": 72
     },
     {
-      "key": "14/11_19:00_kyrgyzstan_taiwan",
-      "c_home": "taiwan",
-      "c_away": "kyrgyzstan",
-      "homeTeam": "Chinese Taipei",
-      "awayTeam": "Kyrgyzstan",
-      "time": "19:00",
-      "date": "14/11",
-      "timestamp": 1794657600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 14/11] Chinese Taipei Vs Kyrgyzstan (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [19:00 14/11] Chinese Taipei vs Kyrgyzstan",
-      "number": 73
-    },
-    {
       "key": "14/11_19:50_ajman_aldhafra",
       "c_home": "aldhafra",
       "c_away": "ajman",
@@ -2476,7 +2429,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 74
+      "number": 73
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -2502,7 +2455,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 75
+      "number": 74
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -2535,7 +2488,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 76
+      "number": 75
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -2561,7 +2514,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 77
+      "number": 76
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -2587,7 +2540,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 78
+      "number": 77
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -2613,7 +2566,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 79
+      "number": 78
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -2639,7 +2592,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 80
+      "number": 79
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -2665,7 +2618,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 81
+      "number": 80
     },
     {
       "key": "13/11_07:00_philadelphia76ers_torontoraptors",
@@ -2698,7 +2651,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
-      "number": 82
+      "number": 81
     },
     {
       "key": "13/11_12:00_hunters_ulaanbaatar",
@@ -2724,20 +2677,13 @@
         }
       ],
       "displayTitle": "🏀 [12:00 13/11] Ulaanbaatar vs Hunters",
-      "number": 83
+      "number": 82
     }
   ],
   "source_groups": [
     {
       "name": "🍌 Chuối Chiên TV",
       "channels": [
-        {
-          "name": "⚽ [23:00 12/11] Madagascar vs Guinea-Bissau (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [00:00 13/11] Türkiye vs Belgium (BLV Chuối Tây) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
@@ -2809,20 +2755,6 @@
         {
           "name": "⚽ [00:00 13/11] Armenia Vs Cyprus (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [23:00 12/11] Madagascar Vs Guinea Bissau (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [23:00 12/11] Democratic Republic Of The Congo Vs Sierra Leone (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3187,13 +3119,6 @@
         {
           "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Phệ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [19:00 14/11] Chinese Taipei Vs Kyrgyzstan (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3763,13 +3688,6 @@
     {
       "name": "🍧 Xôi Chè TV",
       "channels": [
-        {
-          "name": "⚽ [23:00 12/11] CHDC Congo vs Sierra Leone (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/728_congo-dr.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
