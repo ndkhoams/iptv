@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-12 22:50:10",
+  "updated_at": "2026-11-12 23:05:35",
   "live_events": [
-    {
-      "key": "12/11_20:30_unionberlin_vflwolfsburg",
-      "c_home": "vflwolfsburg",
-      "c_away": "unionberlin",
-      "homeTeam": "VfL Wolfsburg",
-      "awayTeam": "1. Union Berlin",
-      "time": "20:30",
-      "date": "12/11",
-      "timestamp": 1794490200000,
-      "league": "BUNDESLIGA",
-      "leagueName": "🇩🇪 Bundesliga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls]",
-          "url": "https://live05.wecile.app/live/87547578.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [20:30 12/11] VfL Wolfsburg vs 1. Union Berlin",
-      "number": 1
-    },
     {
       "key": "12/11_22:00_russia_uzbekistan",
       "c_home": "uzbekistan",
@@ -107,7 +74,7 @@
         }
       ],
       "displayTitle": "🔴 [22:00 12/11] Uzbekistan vs Russia",
-      "number": 2
+      "number": 1
     },
     {
       "key": "12/11_22:00_ghana_somalia",
@@ -182,7 +149,7 @@
         }
       ],
       "displayTitle": "🔴 [22:00 12/11] Ghana vs Somalia",
-      "number": 3
+      "number": 2
     },
     {
       "key": "12/11_23:00_guineabissau_madagascar",
@@ -243,6 +210,39 @@
         }
       ],
       "displayTitle": "🔴 [23:00 12/11] Madagascar vs Guinea-Bissau",
+      "number": 3
+    },
+    {
+      "key": "12/11_23:00_sierraleone_viettel",
+      "c_home": "viettel",
+      "c_away": "sierraleone",
+      "homeTeam": "Democratic Republic Of The Congo",
+      "awayTeam": "Sierra Leone",
+      "time": "23:00",
+      "date": "12/11",
+      "timestamp": 1794499200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [23:00 12/11] Democratic Republic Of The Congo Vs Sierra Leone (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "23:00 12/11 ⚽ Democratic Republic of the Congo vs Sierra Leone (Lê Lợi)",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-6.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png",
+          "group": "👑 Vua Sân Cỏ",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [23:00 12/11] Democratic Republic Of The Congo vs Sierra Leone",
       "number": 4
     },
     {
@@ -333,32 +333,6 @@
       "number": 6
     },
     {
-      "key": "12/11_23:00_sierraleone_viettel",
-      "c_home": "viettel",
-      "c_away": "sierraleone",
-      "homeTeam": "Democratic Republic of the Congo",
-      "awayTeam": "Sierra Leone",
-      "time": "23:00",
-      "date": "12/11",
-      "timestamp": 1794499200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "23:00 12/11 ⚽ Democratic Republic of the Congo vs Sierra Leone (Lê Lợi)",
-          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-6.m3u8",
-          "logo": "https://global-cdn.cdnx.tech/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png",
-          "group": "👑 Vua Sân Cỏ",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [23:00 12/11] Democratic Republic of the Congo vs Sierra Leone",
-      "number": 7
-    },
-    {
       "key": "12/11_23:00_chdccongo_sierraleone",
       "c_home": "chdccongo",
       "c_away": "sierraleone",
@@ -382,7 +356,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 12/11] CHDC Congo vs Sierra Leone",
-      "number": 8
+      "number": 7
     },
     {
       "key": "13/11_00:00_belgium_turkiye",
@@ -429,7 +403,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Türkiye vs Belgium",
-      "number": 9
+      "number": 8
     },
     {
       "key": "13/11_00:00_armenia_cyprus",
@@ -490,7 +464,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Cyprus",
-      "number": 10
+      "number": 9
     },
     {
       "key": "13/11_00:00_belgium_turkey",
@@ -537,7 +511,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ",
-      "number": 11
+      "number": 10
     },
     {
       "key": "13/11_00:00_armenia_sip",
@@ -563,7 +537,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Síp",
-      "number": 12
+      "number": 11
     },
     {
       "key": "13/11_00:00_armenia_daosip",
@@ -589,7 +563,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Armenia vs Đảo Síp",
-      "number": 13
+      "number": 12
     },
     {
       "key": "13/11_00:00_carolinahurricanes_seattlekraken",
@@ -615,7 +589,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 13/11] Seattle Kraken vs Carolina Hurricanes",
-      "number": 14
+      "number": 13
     },
     {
       "key": "13/11_01:00_betis_navalcarnero",
@@ -655,7 +629,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 13/11] Navalcarnero vs Real Betis",
-      "number": 15
+      "number": 14
     },
     {
       "key": "13/11_02:00_cotedivoire_gambia",
@@ -681,7 +655,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cote Divoire vs Gambia",
-      "number": 16
+      "number": 15
     },
     {
       "key": "13/11_02:00_senegal_sudan",
@@ -707,7 +681,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Senegal vs Sudan",
-      "number": 17
+      "number": 16
     },
     {
       "key": "13/11_02:00_gambia_russia",
@@ -747,7 +721,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Bờ Biển Ngà vs Gambia",
-      "number": 18
+      "number": 17
     },
     {
       "key": "13/11_02:00_cameroon_namibia",
@@ -773,7 +747,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 13/11] Cameroon vs Namibia",
-      "number": 19
+      "number": 18
     },
     {
       "key": "13/11_02:15_dubai_olympiacospiraeus",
@@ -806,7 +780,7 @@
         }
       ],
       "displayTitle": "⚽ [02:15 13/11] Olympiacos Piraeus vs dubai",
-      "number": 20
+      "number": 19
     },
     {
       "key": "13/11_02:45_france_italy",
@@ -923,7 +897,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Italy vs Pháp",
-      "number": 21
+      "number": 20
     },
     {
       "key": "13/11_02:45_czechrepublic_spain",
@@ -984,7 +958,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Czech Republic vs Spain",
-      "number": 22
+      "number": 21
     },
     {
       "key": "13/11_02:45_croatia_england",
@@ -1073,7 +1047,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] England vs Croatia",
-      "number": 23
+      "number": 22
     },
     {
       "key": "13/11_02:45_czechia_spain",
@@ -1106,7 +1080,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Czechia vs Spain",
-      "number": 24
+      "number": 23
     },
     {
       "key": "13/11_02:45_albania_finland",
@@ -1181,7 +1155,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Albania vs Phần Lan",
-      "number": 25
+      "number": 24
     },
     {
       "key": "13/11_02:45_belarus_sanmarino",
@@ -1228,7 +1202,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] San Marino vs Belarus",
-      "number": 26
+      "number": 25
     },
     {
       "key": "13/11_02:45_latvia_montenegro",
@@ -1289,7 +1263,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Montenegro vs Latvia",
-      "number": 27
+      "number": 26
     },
     {
       "key": "13/11_02:45_conghoasec_spain",
@@ -1322,7 +1296,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] Cộng hòa Séc vs Tây Ban Nha",
-      "number": 28
+      "number": 27
     },
     {
       "key": "13/11_02:45_chsec_spain",
@@ -1348,7 +1322,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 13/11] CH Séc vs Tây Ban Nha",
-      "number": 29
+      "number": 28
     },
     {
       "key": "13/11_03:00_realmadrid_saodobeograd",
@@ -1381,7 +1355,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 13/11] Real Madrid vs Sao Đỏ Beograd",
-      "number": 30
+      "number": 29
     },
     {
       "key": "13/11_04:00_deportivo_junior",
@@ -1407,7 +1381,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Deportivo Pasto vs Junior",
-      "number": 31
+      "number": 30
     },
     {
       "key": "13/11_04:00_chico_llaneros",
@@ -1433,7 +1407,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Llaneros vs Chico",
-      "number": 32
+      "number": 31
     },
     {
       "key": "13/11_04:00_deppasto_junior",
@@ -1466,7 +1440,7 @@
         }
       ],
       "displayTitle": "⚽ [04:00 13/11] Dep. Pasto vs Junior",
-      "number": 33
+      "number": 32
     },
     {
       "key": "13/11_05:00_aruba_martinique",
@@ -1492,7 +1466,7 @@
         }
       ],
       "displayTitle": "⚽ [05:00 13/11] Aruba vs Martinique",
-      "number": 34
+      "number": 33
     },
     {
       "key": "13/11_06:00_antiguaandbarbuda_trinidadandtobago",
@@ -1518,40 +1492,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 13/11] Antigua And Barbuda vs Trinidad And Tobago",
-      "number": 35
-    },
-    {
-      "key": "13/11_07:00_philadelphia76ers_torontoraptors",
-      "c_home": "philadelphia76ers",
-      "c_away": "torontoraptors",
-      "homeTeam": "Philadelphia 76ers",
-      "awayTeam": "Toronto Raptors",
-      "time": "07:00",
-      "date": "13/11",
-      "timestamp": 1794528000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
-          "url": "https://live05.wecile.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
-      "number": 36
+      "number": 34
     },
     {
       "key": "13/11_07:30_curacao_panama",
@@ -1577,7 +1518,7 @@
         }
       ],
       "displayTitle": "⚽ [07:30 13/11] Curacao vs Panama",
-      "number": 37
+      "number": 35
     },
     {
       "key": "13/11_15:00_centralstallions_deren",
@@ -1603,7 +1544,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 13/11] Deren vs Central Stallions",
-      "number": 38
+      "number": 36
     },
     {
       "key": "13/11_15:30_marconistallions_oakleighcannons",
@@ -1629,7 +1570,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
-      "number": 39
+      "number": 37
     },
     {
       "key": "13/11_15:30_prestonlions_queenslandlions",
@@ -1662,7 +1603,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 13/11] Preston Lions vs Queensland Lions Sc",
-      "number": 40
+      "number": 38
     },
     {
       "key": "13/11_19:00_paraguay_singapore",
@@ -1695,7 +1636,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Singapore vs Paraguay",
-      "number": 41
+      "number": 39
     },
     {
       "key": "13/11_19:00_kyrgyzstan_taiwan",
@@ -1721,7 +1662,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 13/11] Đài Loan vs Kyrgyzstan",
-      "number": 42
+      "number": 40
     },
     {
       "key": "13/11_20:00_ethiopia_mozambique",
@@ -1747,7 +1688,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Mozambique vs Ethiopia",
-      "number": 43
+      "number": 41
     },
     {
       "key": "13/11_20:00_comoros_viettel",
@@ -1773,7 +1714,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Comoros vs Republic Of The Congo",
-      "number": 44
+      "number": 42
     },
     {
       "key": "13/11_20:00_burundi_zambia",
@@ -1799,7 +1740,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 13/11] Zambia vs Burundi",
-      "number": 45
+      "number": 43
     },
     {
       "key": "13/11_21:00_kuwait_syria",
@@ -1832,7 +1773,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
-      "number": 46
+      "number": 44
     },
     {
       "key": "13/11_21:10_honduras_unitedarabemirates",
@@ -1858,7 +1799,7 @@
         }
       ],
       "displayTitle": "⚽ [21:10 13/11] United Arab Emirates vs Honduras",
-      "number": 47
+      "number": 45
     },
     {
       "key": "13/11_21:30_korea_saudiarabia",
@@ -1891,7 +1832,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 13/11] Ả Rập Xê Út vs Hàn Quốc",
-      "number": 48
+      "number": 46
     },
     {
       "key": "13/11_21:45_australia_qatar",
@@ -1924,7 +1865,7 @@
         }
       ],
       "displayTitle": "⚽ [21:45 13/11] Qatar vs Australia",
-      "number": 49
+      "number": 47
     },
     {
       "key": "13/11_22:00_iraq_lebanon",
@@ -1950,7 +1891,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 13/11] Iraq vs Lebanon",
-      "number": 50
+      "number": 48
     },
     {
       "key": "13/11_23:00_nigeria_tanzania",
@@ -1976,7 +1917,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Nigeria vs Tanzania",
-      "number": 51
+      "number": 49
     },
     {
       "key": "13/11_23:00_kenya_southafrica",
@@ -2002,7 +1943,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] South Africa vs Kenya",
-      "number": 52
+      "number": 50
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -2025,10 +1966,17 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 13/11] Tunisia vs Libya (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/719_tunisia.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Tunisia vs Libya",
-      "number": 53
+      "number": 51
     },
     {
       "key": "13/11_23:00_caboverde_liberia",
@@ -2054,7 +2002,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 13/11] Cabo Verde vs Liberia",
-      "number": 54
+      "number": 52
     },
     {
       "key": "14/11_00:00_kazakhstan_moldova",
@@ -2087,7 +2035,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 14/11] Moldova vs Kazakhstan",
-      "number": 55
+      "number": 53
     },
     {
       "key": "14/11_02:00_mali_rwanda",
@@ -2113,7 +2061,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Mali vs Rwanda",
-      "number": 56
+      "number": 54
     },
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -2139,7 +2087,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Egypt vs Malawi",
-      "number": 57
+      "number": 55
     },
     {
       "key": "14/11_02:45_greece_netherlands",
@@ -2165,14 +2113,14 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Netherlands vs Greece",
-      "number": 58
+      "number": 56
     },
     {
       "key": "14/11_02:45_germany_serbia",
       "c_home": "serbia",
       "c_away": "germany",
       "homeTeam": "Serbia",
-      "awayTeam": "Germany",
+      "awayTeam": "Đức",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -2188,10 +2136,17 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Đức (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [02:45 14/11] Serbia vs Germany",
-      "number": 59
+      "displayTitle": "⚽ [02:45 14/11] Serbia vs Đức",
+      "number": 57
     },
     {
       "key": "14/11_02:45_northmacedonia_scotland",
@@ -2217,7 +2172,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs North Macedonia",
-      "number": 60
+      "number": 58
     },
     {
       "key": "14/11_02:45_slovenia_switzerland",
@@ -2243,7 +2198,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovenia vs Switzerland",
-      "number": 61
+      "number": 59
     },
     {
       "key": "14/11_02:45_faroeislands_slovakia",
@@ -2269,7 +2224,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovakia vs Faroe Islands",
-      "number": 62
+      "number": 60
     },
     {
       "key": "14/11_02:45_estonia_luxembourg",
@@ -2295,7 +2250,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Luxembourg vs Estonia",
-      "number": 63
+      "number": 61
     },
     {
       "key": "14/11_02:45_bulgaria_iceland",
@@ -2321,7 +2276,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Bulgaria vs Iceland",
-      "number": 64
+      "number": 62
     },
     {
       "key": "14/11_02:45_andorra_gibraltar",
@@ -2347,7 +2302,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Andorra vs Gibraltar",
-      "number": 65
+      "number": 63
     },
     {
       "key": "14/11_03:00_morocco_niger",
@@ -2373,7 +2328,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 14/11] Morocco vs Niger",
-      "number": 66
+      "number": 64
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -2399,7 +2354,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 67
+      "number": 65
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -2425,7 +2380,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 68
+      "number": 66
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -2451,7 +2406,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 69
+      "number": 67
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -2477,7 +2432,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 70
+      "number": 68
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -2503,7 +2458,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 71
+      "number": 69
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -2529,7 +2484,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 72
+      "number": 70
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -2555,7 +2510,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Japan vs Brazil",
-      "number": 73
+      "number": 71
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -2581,7 +2536,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] China vs Malaysia",
-      "number": 74
+      "number": 72
     },
     {
       "key": "14/11_19:00_kyrgyzstan_taiwan",
@@ -2607,7 +2562,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Chinese Taipei vs Kyrgyzstan",
-      "number": 75
+      "number": 73
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -2633,7 +2588,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 76
+      "number": 74
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -2659,7 +2614,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 77
+      "number": 75
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -2682,10 +2637,17 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 78
+      "number": 76
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -2711,7 +2673,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 79
+      "number": 77
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -2737,7 +2699,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 80
+      "number": 78
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -2763,7 +2725,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 81
+      "number": 79
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -2789,6 +2751,65 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
+      "number": 80
+    },
+    {
+      "key": "15/11_02:45_bosniaherzegovina_sweden",
+      "c_home": "sweden",
+      "c_away": "bosniaherzegovina",
+      "homeTeam": "Thụy Điển",
+      "awayTeam": "Bosnia & Herzegovina",
+      "time": "02:45",
+      "date": "15/11",
+      "timestamp": 1794685500000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
+      "number": 81
+    },
+    {
+      "key": "13/11_07:00_philadelphia76ers_torontoraptors",
+      "c_home": "philadelphia76ers",
+      "c_away": "torontoraptors",
+      "homeTeam": "Philadelphia 76ers",
+      "awayTeam": "Toronto Raptors",
+      "time": "07:00",
+      "date": "13/11",
+      "timestamp": 1794528000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls]",
+          "url": "https://live05.wecile.app/live/19919577.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "07:00 13/11 🏀 Philadelphia 76ers vs Toronto Raptors (BLV POCARI) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🏀 [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
       "number": 82
     },
     {
@@ -2905,13 +2926,6 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [22:00 12/11] Ghana Vs Somalia (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [22:00 12/11] Uzbekistan Vs Russia (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2919,8 +2933,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [23:00 12/11] Italy U20 Vs Portugal U20 (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [22:00 12/11] Ghana Vs Somalia (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2928,6 +2942,13 @@
         {
           "name": "⚽ [23:00 12/11] Madagascar Vs Guinea Bissau (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 12/11] Democratic Republic Of The Congo Vs Sierra Leone (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3372,95 +3393,6 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        }
-      ]
-    },
-    {
-      "name": "🍺 Bia Ôm TV",
-      "channels": [
-        {
-          "name": "🟢 19:30 12/11 ⚽ El Entag El Harby vs Baladiyyat Al Mehalla (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3NzYxMjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm13OWh4cXB6M2ZnYXJobjBveHVsMjlidw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/el-entag-el-harby-6998",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "🟢 19:30 12/11 ⚽ Masar vs Tersana (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk3NzYxMjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ondmb2Z1ZDE1a3gxbW1waXVqaDIwY3B2Ng/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/masar-275606",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (333) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "01:00 13/11 ⚽ Navalcarnero vs Real Betis (Lẩu Ếch) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Montenegro vs Latvia (NEM NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Albania vs Phần Lan (TÔM CHIÊN) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdlejhkbzVzYzQzcnptaWZtc21wanU3Yg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Ý vs Pháp (TIGER) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnhjejZ0cWk0YWo3aDNueWp3djU0c3pxZQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Ý vs Pháp (HÀU NƯỚNG) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Cộng hòa Séc vs Tây Ban Nha (Vịt Nướng) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-18718",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
-        },
-        {
-          "name": "02:45 13/11 ⚽ Anh vs Croatia (SAPPORO) [hls]",
-          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8",
-          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645",
-          "group": "🍺 Bia Ôm TV",
-          "ref": ""
         }
       ]
     },
@@ -3999,6 +3931,81 @@
       ]
     },
     {
+      "name": "🍺 Bia Ôm TV",
+      "channels": [
+        {
+          "name": "00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "00:00 13/11 ⚽ Thổ Nhĩ Kỳ vs Bỉ (333) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "01:00 13/11 ⚽ Navalcarnero vs Real Betis (Lẩu Ếch) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Montenegro vs Latvia (NEM NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Albania vs Phần Lan (TÔM CHIÊN) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY3NTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdlejhkbzVzYzQzcnptaWZtc21wanU3Yg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Ý vs Pháp (TIGER) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnhjejZ0cWk0YWo3aDNueWp3djU0c3pxZQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Ý vs Pháp (HÀU NƯỚNG) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Cộng hòa Séc vs Tây Ban Nha (Vịt Nướng) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-18718",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        },
+        {
+          "name": "02:45 13/11 ⚽ Anh vs Croatia (SAPPORO) [hls]",
+          "url": "https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8",
+          "logo": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645",
+          "group": "🍺 Bia Ôm TV",
+          "ref": ""
+        }
+      ]
+    },
+    {
       "name": "🍧 Xôi Chè TV",
       "channels": [
         {
@@ -4026,6 +4033,13 @@
           "name": "⚽ [00:00 13/11] Thổ Nhĩ Kỳ vs Bỉ (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [00:45 13/11] Barcelona Women vs Arsenal W (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/25_barcelona-w.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -4079,9 +4093,44 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [23:00 13/11] Tunisia vs Libya (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/719_tunisia.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [00:00 14/11] Moldova vs Kazakhstan (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/689_moldova.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Đức (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [23:30 15/11] Arsenal W vs London City Lionesses W (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/11085_arsenal-fc-w.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
@@ -4682,114 +4731,48 @@
       "date": "2026-11-04T20:00Z"
     },
     {
-      "home_team": "Indiana Pacers",
-      "away_team": "Washington Wizards",
-      "home_score": "114",
-      "away_score": "101",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Toronto Raptors",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T00:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/12 - 7:00 PM EST",
+      "date": "2026-11-13T00:00Z"
     },
     {
-      "home_team": "New York Knicks",
-      "away_team": "Cleveland Cavaliers",
-      "home_score": "107",
-      "away_score": "115",
+      "home_team": "Washington Wizards",
+      "away_team": "Detroit Pistons",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T00:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/12 - 7:00 PM EST",
+      "date": "2026-11-13T00:00Z"
     },
     {
-      "home_team": "Toronto Raptors",
-      "away_team": "Boston Celtics",
-      "home_score": "93",
-      "away_score": "98",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Dallas Mavericks",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T00:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/12 - 8:00 PM EST",
+      "date": "2026-11-13T01:00Z"
     },
     {
-      "home_team": "Chicago Bulls",
-      "away_team": "San Antonio Spurs",
-      "home_score": "119",
-      "away_score": "124",
+      "home_team": "Phoenix Suns",
+      "away_team": "Charlotte Hornets",
+      "home_score": "0",
+      "away_score": "0",
       "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T01:00Z"
-    },
-    {
-      "home_team": "Memphis Grizzlies",
-      "away_team": "Denver Nuggets",
-      "home_score": "118",
-      "away_score": "123",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T01:00Z"
-    },
-    {
-      "home_team": "Milwaukee Bucks",
-      "away_team": "Los Angeles Lakers",
-      "home_score": "112",
-      "away_score": "123",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T01:00Z"
-    },
-    {
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Brooklyn Nets",
-      "home_score": "111",
-      "away_score": "145",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T01:00Z"
-    },
-    {
-      "home_team": "Utah Jazz",
-      "away_team": "Orlando Magic",
-      "home_score": "108",
-      "away_score": "123",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T02:00Z"
-    },
-    {
-      "home_team": "Houston Rockets",
-      "away_team": "Golden State Warriors",
-      "home_score": "115",
-      "away_score": "108",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T02:30Z"
-    },
-    {
-      "home_team": "Portland Trail Blazers",
-      "away_team": "Oklahoma City Thunder",
-      "home_score": "118",
-      "away_score": "108",
-      "league": "NBA",
-      "state": "post",
-      "is_completed": true,
-      "detail": "Final",
-      "date": "2026-11-12T03:00Z"
+      "state": "pre",
+      "is_completed": false,
+      "detail": "11/12 - 9:00 PM EST",
+      "date": "2026-11-13T02:00Z"
     }
   ],
   "standings": {
