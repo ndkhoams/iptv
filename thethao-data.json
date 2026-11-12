@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-12 20:02:09",
+  "updated_at": "2026-11-12 20:17:09",
   "live_events": [
+    {
+      "key": "12/11_20:30_unionberlin_vflwolfsburg",
+      "c_home": "vflwolfsburg",
+      "c_away": "unionberlin",
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "1. Union Berlin",
+      "time": "20:30",
+      "date": "12/11",
+      "timestamp": 1794490200000,
+      "league": "BUNDESLIGA",
+      "leagueName": "🇩🇪 Bundesliga",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls]",
+          "url": "https://live05.wecile.app/live/87547578.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        },
+        {
+          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls 2]",
+          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
+          "group": "🥤 Cola TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [20:30 12/11] VfL Wolfsburg vs 1. Union Berlin",
+      "number": 1
+    },
     {
       "key": "12/11_19:30_baladiyyatalmehalla_elentagelharby",
       "c_home": "elentagelharby",
@@ -25,7 +58,7 @@
         }
       ],
       "displayTitle": "🔴 [19:30 12/11] El Entag El Harby vs Baladiyyat Al Mehalla",
-      "number": 1
+      "number": 2
     },
     {
       "key": "12/11_19:30_masar_tersana",
@@ -51,39 +84,6 @@
         }
       ],
       "displayTitle": "🔴 [19:30 12/11] Masar vs Tersana",
-      "number": 2
-    },
-    {
-      "key": "12/11_20:30_unionberlin_vflwolfsburg",
-      "c_home": "vflwolfsburg",
-      "c_away": "unionberlin",
-      "homeTeam": "VfL Wolfsburg",
-      "awayTeam": "1. Union Berlin",
-      "time": "20:30",
-      "date": "12/11",
-      "timestamp": 1794490200000,
-      "league": "BUNDESLIGA",
-      "leagueName": "🇩🇪 Bundesliga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_bundesliga",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls]",
-          "url": "https://live05.wecile.app/live/87547578.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        },
-        {
-          "name": "🟡 20:30 12/11 ⚽ VfL Wolfsburg vs 1. Union Berlin (BLV MOUNTAIN DEW) [hls 2]",
-          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
-          "group": "🥤 Cola TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "⚽ [20:30 12/11] VfL Wolfsburg vs 1. Union Berlin",
       "number": 3
     },
     {
@@ -2875,7 +2875,7 @@
           "ref": "https://live.chuoichien.tv/"
         },
         {
-          "name": "⚽ [20:00 12/11] Iceland U21 vs Greece U21 (BLV Chuối Chao) - Chuối Chiên",
+          "name": "⚽ [20:00 12/11] Scotland U21 vs Ukraine U21 (BLV Chuối Chao) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
           "group": "🍌 Chuối Chiên TV",
