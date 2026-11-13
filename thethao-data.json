@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 03:15:56",
+  "updated_at": "2026-11-14 03:18:33",
   "live_events": [
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -7,6 +7,8 @@
       "c_away": "malawi",
       "homeTeam": "Egypt",
       "awayTeam": "Malawi",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:00",
       "date": "14/11",
       "timestamp": 1794596400000,
@@ -33,6 +35,8 @@
       "c_away": "rwanda",
       "homeTeam": "Mali",
       "awayTeam": "Rwanda",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:00",
       "date": "14/11",
       "timestamp": 1794596400000,
@@ -59,6 +63,8 @@
       "c_away": "burgos",
       "homeTeam": "Leganes",
       "awayTeam": "Burgos",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:30",
       "date": "14/11",
       "timestamp": 1794598200000,
@@ -85,6 +91,8 @@
       "c_away": "germany",
       "homeTeam": "Serbia",
       "awayTeam": "Đức",
+      "homeLogo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/21_germany.jpg",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -94,13 +102,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [02:45 14/11] Serbia Vs Germany (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -112,7 +113,9 @@
           "name": "⚽ [02:45 14/11] Serbia vs Đức (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/21_germany.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
@@ -167,6 +170,8 @@
       "c_away": "greece",
       "homeTeam": "Netherlands",
       "awayTeam": "Greece",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -176,13 +181,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [02:45 14/11] Netherlands Vs Greece (BLV Gà Siêu Gáy) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -230,91 +228,13 @@
       "number": 5
     },
     {
-      "key": "14/11_02:45_faroeislands_slovenia",
-      "c_home": "slovenia",
-      "c_away": "faroeislands",
-      "homeTeam": "Slovenia",
-      "awayTeam": "Faroe Islands",
-      "time": "02:45",
-      "date": "14/11",
-      "timestamp": 1794599100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Slovenia vs Faroe Islands (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [02:45 14/11] Slovenia vs Faroe Islands",
-      "number": 6
-    },
-    {
-      "key": "14/11_02:45_fyrmacedonia_scotland",
-      "c_home": "scotland",
-      "c_away": "fyrmacedonia",
-      "homeTeam": "Scotland",
-      "awayTeam": "FYR Macedonia",
-      "time": "02:45",
-      "date": "14/11",
-      "timestamp": 1794599100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (gb BBC Two) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18320/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (us Fox Soccer Plus) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18321/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (sa beIN Sport 5) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18323/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [02:45 14/11] Scotland vs FYR Macedonia",
-      "number": 7
-    },
-    {
       "key": "14/11_02:45_northmacedonia_scotland",
       "c_home": "scotland",
       "c_away": "northmacedonia",
       "homeTeam": "Scotland",
       "awayTeam": "North Macedonia",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -333,7 +253,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Scotland vs North Macedonia",
-      "number": 8
+      "number": 6
     },
     {
       "key": "14/11_02:45_slovenia_switzerland",
@@ -341,6 +261,8 @@
       "c_away": "switzerland",
       "homeTeam": "Slovenia",
       "awayTeam": "Thụy Sĩ",
+      "homeLogo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/2_switzerland.jpg",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -361,7 +283,9 @@
           "name": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/2_switzerland.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
@@ -401,7 +325,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Slovenia vs Thụy Sĩ",
-      "number": 9
+      "number": 7
     },
     {
       "key": "14/11_02:45_faroeislands_slovakia",
@@ -409,6 +333,8 @@
       "c_away": "faroeislands",
       "homeTeam": "Slovakia",
       "awayTeam": "Faroe Islands",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -445,10 +371,17 @@
           "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18332/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Slovakia vs Faroe Islands",
-      "number": 10
+      "number": 8
     },
     {
       "key": "14/11_02:45_estonia_luxembourg",
@@ -456,6 +389,8 @@
       "c_away": "estonia",
       "homeTeam": "Luxembourg",
       "awayTeam": "Estonia",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -492,10 +427,17 @@
           "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18336/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Luxembourg vs Estonia",
-      "number": 11
+      "number": 9
     },
     {
       "key": "14/11_02:45_bulgaria_iceland",
@@ -503,6 +445,8 @@
       "c_away": "iceland",
       "homeTeam": "Bulgaria",
       "awayTeam": "Iceland",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -542,7 +486,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Bulgaria vs Iceland",
-      "number": 12
+      "number": 10
     },
     {
       "key": "14/11_02:45_andorra_gibraltar",
@@ -550,6 +494,8 @@
       "c_away": "gibraltar",
       "homeTeam": "Andorra",
       "awayTeam": "Gibraltar",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -593,10 +539,17 @@
           "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18338/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Andorra vs Gibraltar",
-      "number": 13
+      "number": 11
     },
     {
       "key": "14/11_02:45_bacmacedonia_scotland",
@@ -604,6 +557,8 @@
       "c_away": "bacmacedonia",
       "homeTeam": "Scotland",
       "awayTeam": "Bắc Macedonia",
+      "homeLogo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+      "awayLogo": "https://flagcdn.com/w160/mk.png",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -617,12 +572,14 @@
           "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "away_logo": "https://flagcdn.com/w160/mk.png",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Scotland vs Bắc Macedonia",
-      "number": 14
+      "number": 12
     },
     {
       "key": "14/11_02:45_hylap_netherlands",
@@ -630,6 +587,8 @@
       "c_away": "hylap",
       "homeTeam": "Hà Lan",
       "awayTeam": "Hy Lạp",
+      "homeLogo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -643,12 +602,14 @@
           "name": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Hà Lan vs Hy Lạp",
-      "number": 15
+      "number": 13
     },
     {
       "key": "14/11_02:45_azerbaijan_liechtenstein",
@@ -656,6 +617,8 @@
       "c_away": "azerbaijan",
       "homeTeam": "Liechtenstein",
       "awayTeam": "Azerbaijan",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "14/11",
       "timestamp": 1794599100000,
@@ -695,7 +658,56 @@
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Liechtenstein vs Azerbaijan",
-      "number": 16
+      "number": 14
+    },
+    {
+      "key": "14/11_02:45_fyrmacedonia_scotland",
+      "c_home": "scotland",
+      "c_away": "fyrmacedonia",
+      "homeTeam": "Scotland",
+      "awayTeam": "FYR Macedonia",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "14/11",
+      "timestamp": 1794599100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (gb BBC Two) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18320/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (us Fox Soccer Plus) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18321/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (sa beIN Sport 5) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18323/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 14/11] Scotland vs FYR Macedonia",
+      "number": 15
     },
     {
       "key": "14/11_03:00_morocco_niger",
@@ -703,6 +715,8 @@
       "c_away": "niger",
       "homeTeam": "Morocco",
       "awayTeam": "Niger",
+      "homeLogo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/740_niger.jpg",
       "time": "03:00",
       "date": "14/11",
       "timestamp": 1794600000000,
@@ -723,12 +737,14 @@
           "name": "⚽ [03:00 14/11] Morocco vs Niger (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/740_niger.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "🔴 [03:00 14/11] Morocco vs Niger",
-      "number": 17
+      "number": 16
     },
     {
       "key": "14/11_03:10_france_southafrica",
@@ -736,6 +752,8 @@
       "c_away": "southafrica",
       "homeTeam": "France",
       "awayTeam": "South Africa",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "03:10",
       "date": "14/11",
       "timestamp": 1794600600000,
@@ -754,7 +772,7 @@
         }
       ],
       "displayTitle": "🔴 [03:10 14/11] France vs South Africa",
-      "number": 18
+      "number": 17
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -762,6 +780,8 @@
       "c_away": "uruguay",
       "homeTeam": "Argentina",
       "awayTeam": "Uruguay",
+      "homeLogo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/539_uruguay.jpg",
       "time": "06:00",
       "date": "14/11",
       "timestamp": 1794610800000,
@@ -771,13 +791,6 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [06:00 14/11] Argentina Vs Uruguay (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -789,7 +802,9 @@
           "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/539_uruguay.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
@@ -801,7 +816,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 19
+      "number": 18
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -809,6 +824,8 @@
       "c_away": "chile",
       "homeTeam": "Colombia",
       "awayTeam": "Chile",
+      "homeLogo": "https://apiv3.apifootball.com/badges/535_colombia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/528_chile.jpg",
       "time": "07:00",
       "date": "14/11",
       "timestamp": 1794614400000,
@@ -818,13 +835,6 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [07:00 14/11] Colombia vs Chile (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
         {
           "name": "⚽ [07:00 14/11] Colombia Vs Chile (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -836,12 +846,14 @@
           "name": "⚽ [07:00 14/11] Colombia vs Chile (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/535_colombia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/535_colombia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/528_chile.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 20
+      "number": 19
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -849,6 +861,8 @@
       "c_away": "costarica",
       "homeTeam": "Ecuador",
       "awayTeam": "Costa Rica",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "07:00",
       "date": "14/11",
       "timestamp": 1794614400000,
@@ -867,7 +881,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 21
+      "number": 20
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -875,6 +889,8 @@
       "c_away": "bolivia",
       "homeTeam": "Peru",
       "awayTeam": "Bolivia",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "08:00",
       "date": "14/11",
       "timestamp": 1794618000000,
@@ -893,7 +909,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 22
+      "number": 21
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -901,6 +917,8 @@
       "c_away": "canada",
       "homeTeam": "Guatemala",
       "awayTeam": "Canada",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "09:00",
       "date": "14/11",
       "timestamp": 1794621600000,
@@ -911,13 +929,6 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [09:00 14/11] Guatemala vs Canada (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [09:00 14/11] Guatemala Vs Canada (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -926,7 +937,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 23
+      "number": 22
     },
     {
       "key": "14/11_13:00_bahrain_yemen",
@@ -934,6 +945,8 @@
       "c_away": "yemen",
       "homeTeam": "Bahrain",
       "awayTeam": "Yemen",
+      "homeLogo": "https://apiv3.apifootball.com/badges/643_bahrain.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/648_yemen.jpg",
       "time": "13:00",
       "date": "14/11",
       "timestamp": 1794636000000,
@@ -947,12 +960,14 @@
           "name": "⚽ [13:00 14/11] Bahrain vs Yemen (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/643_bahrain.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/643_bahrain.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/648_yemen.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [13:00 14/11] Bahrain vs Yemen",
-      "number": 24
+      "number": 23
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -960,6 +975,8 @@
       "c_away": "sydneyolympic",
       "homeTeam": "Bayswater City",
       "awayTeam": "Sydney Olympic",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "15:30",
       "date": "14/11",
       "timestamp": 1794645000000,
@@ -978,7 +995,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 25
+      "number": 24
     },
     {
       "key": "14/11_16:00_oman_tajikistan",
@@ -986,6 +1003,8 @@
       "c_away": "tajikistan",
       "homeTeam": "Oman",
       "awayTeam": "Tajikistan",
+      "homeLogo": "https://apiv3.apifootball.com/badges/649_oman.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/351_tajikistan.jpg",
       "time": "16:00",
       "date": "14/11",
       "timestamp": 1794646800000,
@@ -999,12 +1018,14 @@
           "name": "⚽ [16:00 14/11] Oman vs Tajikistan (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/649_oman.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/649_oman.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/351_tajikistan.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [16:00 14/11] Oman vs Tajikistan",
-      "number": 26
+      "number": 25
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -1012,6 +1033,8 @@
       "c_away": "brazil",
       "homeTeam": "Nhật Bản",
       "awayTeam": "Brazil",
+      "homeLogo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
       "time": "17:15",
       "date": "14/11",
       "timestamp": 1794651300000,
@@ -1032,12 +1055,14 @@
           "name": "⚽ [17:15 14/11] Nhật Bản vs Brazil (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Nhật Bản vs Brazil",
-      "number": 27
+      "number": 26
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -1045,6 +1070,8 @@
       "c_away": "malaysia",
       "homeTeam": "Trung Quốc",
       "awayTeam": "Malaysia",
+      "homeLogo": "https://flagcdn.com/w160/cn.png",
+      "awayLogo": "https://xoiche.live/media/teams/logos/team_478.jpg",
       "time": "19:00",
       "date": "14/11",
       "timestamp": 1794657600000,
@@ -1065,12 +1092,14 @@
           "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://flagcdn.com/w160/cn.png",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://flagcdn.com/w160/cn.png",
+          "away_logo": "https://xoiche.live/media/teams/logos/team_478.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Trung Quốc vs Malaysia",
-      "number": 28
+      "number": 27
     },
     {
       "key": "14/11_19:30_bruneidarussalam_thailand",
@@ -1078,6 +1107,8 @@
       "c_away": "bruneidarussalam",
       "homeTeam": "Thailand",
       "awayTeam": "Brunei Darussalam",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "19:30",
       "date": "14/11",
       "timestamp": 1794659400000,
@@ -1096,7 +1127,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 14/11] Thailand vs Brunei Darussalam",
-      "number": 29
+      "number": 28
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -1104,6 +1135,8 @@
       "c_away": "ajman",
       "homeTeam": "Al Dhafra",
       "awayTeam": "Ajman",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "19:50",
       "date": "14/11",
       "timestamp": 1794660600000,
@@ -1122,7 +1155,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 30
+      "number": 29
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -1130,6 +1163,8 @@
       "c_away": "castellon",
       "homeTeam": "Real Valladolid",
       "awayTeam": "Castellon",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "20:00",
       "date": "14/11",
       "timestamp": 1794661200000,
@@ -1148,7 +1183,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 31
+      "number": 30
     },
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -1156,6 +1191,8 @@
       "c_away": "israel",
       "homeTeam": "Kosovo",
       "awayTeam": "Israel",
+      "homeLogo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
       "time": "21:00",
       "date": "14/11",
       "timestamp": 1794664800000,
@@ -1176,12 +1213,14 @@
           "name": "⚽ [21:00 14/11] Kosovo vs Israel (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
-      "number": 32
+      "number": 31
     },
     {
       "key": "14/11_21:30_bangladesh_pakistan",
@@ -1189,6 +1228,8 @@
       "c_away": "pakistan",
       "homeTeam": "Bangladesh",
       "awayTeam": "Pakistan",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "21:30",
       "date": "14/11",
       "timestamp": 1794666600000,
@@ -1207,7 +1248,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 14/11] Bangladesh vs Pakistan",
-      "number": 33
+      "number": 32
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -1215,6 +1256,8 @@
       "c_away": "iran",
       "homeTeam": "Palestine",
       "awayTeam": "Ir Iran",
+      "homeLogo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/644_ir-iran.jpg",
       "time": "22:00",
       "date": "14/11",
       "timestamp": 1794668400000,
@@ -1235,12 +1278,14 @@
           "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/644_ir-iran.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 34
+      "number": 33
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -1248,6 +1293,8 @@
       "c_away": "sportingcp",
       "homeTeam": "Real Sociedad B",
       "awayTeam": "Sporting Gijon",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "22:15",
       "date": "14/11",
       "timestamp": 1794669300000,
@@ -1266,7 +1313,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 35
+      "number": 34
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -1274,6 +1321,8 @@
       "c_away": "gijon",
       "homeTeam": "Real Sociedad B",
       "awayTeam": "Gijon",
+      "homeLogo": "https://apiv3.apifootball.com/badges/7216_real-sociedad-ii.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/7270_sporting-de-gijon.jpg",
       "time": "22:15",
       "date": "14/11",
       "timestamp": 1794669300000,
@@ -1287,12 +1336,14 @@
           "name": "⚽ [22:15 14/11] Real Sociedad B vs Gijon (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7216_real-sociedad-ii.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/7216_real-sociedad-ii.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7270_sporting-de-gijon.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 36
+      "number": 35
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -1300,6 +1351,8 @@
       "c_away": "alnasrdubai",
       "homeTeam": "Al Wasl Sc",
       "awayTeam": "Al Nasr Dubai",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "22:30",
       "date": "14/11",
       "timestamp": 1794670200000,
@@ -1318,7 +1371,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 37
+      "number": 36
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -1326,6 +1379,8 @@
       "c_away": "alain",
       "homeTeam": "Hatta",
       "awayTeam": "Al Ain",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "22:30",
       "date": "14/11",
       "timestamp": 1794670200000,
@@ -1344,7 +1399,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 38
+      "number": 37
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -1352,6 +1407,8 @@
       "c_away": "emmen",
       "homeTeam": "NAC Breda",
       "awayTeam": "Emmen",
+      "homeLogo": "https://apiv3.apifootball.com/badges/5513_nac-breda.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/5463_emmen.jpg",
       "time": "22:30",
       "date": "14/11",
       "timestamp": 1794670200000,
@@ -1365,12 +1422,14 @@
           "name": "⚽ [22:30 14/11] NAC Breda vs FC Emmen (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/5513_nac-breda.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/5513_nac-breda.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/5463_emmen.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 39
+      "number": 38
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -1378,6 +1437,8 @@
       "c_away": "botswana",
       "homeTeam": "Uganda",
       "awayTeam": "Botswana",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "23:00",
       "date": "14/11",
       "timestamp": 1794672000000,
@@ -1396,7 +1457,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 40
+      "number": 39
     },
     {
       "key": "15/11_00:00_norway_wales",
@@ -1404,6 +1465,8 @@
       "c_away": "wales",
       "homeTeam": "Norway",
       "awayTeam": "Wales",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "00:00",
       "date": "15/11",
       "timestamp": 1794675600000,
@@ -1422,7 +1485,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Norway vs Wales",
-      "number": 41
+      "number": 40
     },
     {
       "key": "15/11_00:00_georgia_hungary",
@@ -1430,6 +1493,8 @@
       "c_away": "hungary",
       "homeTeam": "Georgia",
       "awayTeam": "Hungary",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "00:00",
       "date": "15/11",
       "timestamp": 1794675600000,
@@ -1448,7 +1513,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Georgia vs Hungary",
-      "number": 42
+      "number": 41
     },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
@@ -1456,6 +1521,8 @@
       "c_away": "cordoba",
       "homeTeam": "Rcd Mallorca",
       "awayTeam": "Cordoba",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "00:30",
       "date": "15/11",
       "timestamp": 1794677400000,
@@ -1474,7 +1541,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 43
+      "number": 42
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -1482,6 +1549,8 @@
       "c_away": "andorra",
       "homeTeam": "Almeria",
       "awayTeam": "Andorra",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "00:30",
       "date": "15/11",
       "timestamp": 1794677400000,
@@ -1500,7 +1569,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Almeria vs Andorra",
-      "number": 44
+      "number": 43
     },
     {
       "key": "15/11_02:00_angola_southsudan",
@@ -1508,6 +1577,8 @@
       "c_away": "southsudan",
       "homeTeam": "Angola",
       "awayTeam": "South Sudan",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:00",
       "date": "15/11",
       "timestamp": 1794682800000,
@@ -1526,7 +1597,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Angola vs South Sudan",
-      "number": 45
+      "number": 44
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -1534,6 +1605,8 @@
       "c_away": "togo",
       "homeTeam": "Algeria",
       "awayTeam": "Togo",
+      "homeLogo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
       "time": "02:00",
       "date": "15/11",
       "timestamp": 1794682800000,
@@ -1554,12 +1627,14 @@
           "name": "⚽ [02:00 15/11] Algeria vs Togo (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 46
+      "number": 45
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -1567,6 +1642,8 @@
       "c_away": "denmark",
       "homeTeam": "Bồ Đào Nha",
       "awayTeam": "Đan Mạch",
+      "homeLogo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1587,12 +1664,14 @@
           "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 47
+      "number": 46
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -1600,6 +1679,8 @@
       "c_away": "ukraine",
       "homeTeam": "Northern Ireland",
       "awayTeam": "Ukraine",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1618,7 +1699,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 48
+      "number": 47
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -1626,6 +1707,8 @@
       "c_away": "bosniaandherzegovina",
       "homeTeam": "Sweden",
       "awayTeam": "Bosnia And Herzegovina",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1644,7 +1727,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 49
+      "number": 48
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -1652,6 +1735,8 @@
       "c_away": "poland",
       "homeTeam": "Romania",
       "awayTeam": "Poland",
+      "homeLogo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1672,12 +1757,14 @@
           "name": "⚽ [02:45 15/11] Romania vs Ba Lan (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Poland",
-      "number": 50
+      "number": 49
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -1685,6 +1772,8 @@
       "c_away": "ireland",
       "homeTeam": "Austria",
       "awayTeam": "Ireland",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1703,7 +1792,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 51
+      "number": 50
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -1711,6 +1800,8 @@
       "c_away": "bosniaherzegovina",
       "homeTeam": "Thụy Điển",
       "awayTeam": "Bosnia & Herzegovina",
+      "homeLogo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1724,12 +1815,14 @@
           "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 52
+      "number": 51
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -1737,6 +1830,8 @@
       "c_away": "usa",
       "homeTeam": "Haiti",
       "awayTeam": "Mỹ",
+      "homeLogo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/523_united-states.jpg",
       "time": "04:30",
       "date": "15/11",
       "timestamp": 1794691800000,
@@ -1750,12 +1845,14 @@
           "name": "⚽ [04:30 15/11] Haiti vs Mỹ (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/523_united-states.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 53
+      "number": 52
     },
     {
       "key": "15/11_06:00_queretaro_rayadosdemonterrey",
@@ -1763,6 +1860,8 @@
       "c_away": "rayadosdemonterrey",
       "homeTeam": "Queretaro",
       "awayTeam": "Rayados De Monterrey",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "06:00",
       "date": "15/11",
       "timestamp": 1794697200000,
@@ -1781,7 +1880,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 54
+      "number": 53
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -1789,6 +1888,8 @@
       "c_away": "vascodagamasafrj",
       "homeTeam": "Chapecoense Sc",
       "awayTeam": "Vasco Da Gama Saf Rj",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "06:30",
       "date": "15/11",
       "timestamp": 1794699000000,
@@ -1807,7 +1908,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 55
+      "number": 54
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -1815,6 +1916,8 @@
       "c_away": "belize",
       "homeTeam": "Saint Vincent And The Grenadines",
       "awayTeam": "Belize",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "07:00",
       "date": "15/11",
       "timestamp": 1794700800000,
@@ -1833,7 +1936,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 56
+      "number": 55
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -1841,6 +1944,8 @@
       "c_away": "mexico",
       "homeTeam": "Jamaica",
       "awayTeam": "Mexico",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "08:00",
       "date": "15/11",
       "timestamp": 1794704400000,
@@ -1859,7 +1964,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 57
+      "number": 56
     },
     {
       "key": "15/11_10:00_india_newzealand",
@@ -1867,6 +1972,8 @@
       "c_away": "india",
       "homeTeam": "New Zealand",
       "awayTeam": "India",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "10:00",
       "date": "15/11",
       "timestamp": 1794711600000,
@@ -1885,7 +1992,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 15/11] New Zealand vs India",
-      "number": 58
+      "number": 57
     },
     {
       "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
@@ -1893,6 +2000,8 @@
       "c_away": "sagantosu",
       "homeTeam": "Hokkaido Consadole Sapporo",
       "awayTeam": "Sagan Tosu",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "11:00",
       "date": "15/11",
       "timestamp": 1794715200000,
@@ -1911,7 +2020,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 59
+      "number": 58
     },
     {
       "key": "15/11_12:00_machidazelvia_visselkobe",
@@ -1919,6 +2028,8 @@
       "c_away": "visselkobe",
       "homeTeam": "Machida Zelvia",
       "awayTeam": "Vissel Kobe",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "12:00",
       "date": "15/11",
       "timestamp": 1794718800000,
@@ -1937,7 +2048,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 60
+      "number": 59
     },
     {
       "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
@@ -1945,6 +2056,8 @@
       "c_away": "yokohamafmarinos",
       "homeTeam": "Kashima Antlers",
       "awayTeam": "Yokohama F Marinos",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "13:00",
       "date": "15/11",
       "timestamp": 1794722400000,
@@ -1963,7 +2076,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 61
+      "number": 60
     },
     {
       "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
@@ -1971,6 +2084,8 @@
       "c_away": "urawareddiamonds",
       "homeTeam": "Cerezo Osaka",
       "awayTeam": "Urawa Red Diamonds",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "13:00",
       "date": "15/11",
       "timestamp": 1794722400000,
@@ -1989,7 +2104,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 62
+      "number": 61
     },
     {
       "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
@@ -1997,6 +2112,8 @@
       "c_away": "dingnanunited",
       "homeTeam": "Guizhou Guiyang Athletic",
       "awayTeam": "Dingnan United",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "14:00",
       "date": "15/11",
       "timestamp": 1794726000000,
@@ -2015,7 +2132,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 63
+      "number": 62
     },
     {
       "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
@@ -2023,6 +2140,8 @@
       "c_away": "kawasakifrontale",
       "homeTeam": "Kashiwa Reysol",
       "awayTeam": "Kawasaki Frontale",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "15:00",
       "date": "15/11",
       "timestamp": 1794729600000,
@@ -2041,7 +2160,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 64
+      "number": 63
     },
     {
       "key": "15/11_17:30_apollonkalamarias_kallithea",
@@ -2049,6 +2168,8 @@
       "c_away": "kallithea",
       "homeTeam": "Apollon Kalamarias",
       "awayTeam": "Kallithea",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "17:30",
       "date": "15/11",
       "timestamp": 1794738600000,
@@ -2067,7 +2188,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 65
+      "number": 64
     },
     {
       "key": "15/11_18:00_cdtondela_farense",
@@ -2075,6 +2196,8 @@
       "c_away": "farense",
       "homeTeam": "Cd Tondela",
       "awayTeam": "Sc Farense",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "18:00",
       "date": "15/11",
       "timestamp": 1794740400000,
@@ -2093,7 +2216,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 66
+      "number": 65
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -2101,6 +2224,8 @@
       "c_away": "vietnam",
       "homeTeam": "Kyrgyzstan",
       "awayTeam": "Việt Nam",
+      "homeLogo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
+      "awayLogo": "https://flagcdn.com/w160/vn.png",
       "time": "19:00",
       "date": "15/11",
       "timestamp": 1794744000000,
@@ -2121,12 +2246,14 @@
           "name": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
+          "away_logo": "https://flagcdn.com/w160/vn.png",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 67
+      "number": 66
     },
     {
       "key": "15/11_19:50_alsharjah_dubaiunited",
@@ -2134,6 +2261,8 @@
       "c_away": "alsharjah",
       "homeTeam": "Dubai United",
       "awayTeam": "Al Sharjah",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "19:50",
       "date": "15/11",
       "timestamp": 1794747000000,
@@ -2152,7 +2281,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 68
+      "number": 67
     },
     {
       "key": "15/11_20:00_adceuta_tenerife",
@@ -2160,6 +2289,8 @@
       "c_away": "adceuta",
       "homeTeam": "Tenerife",
       "awayTeam": "Ad Ceuta",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "20:00",
       "date": "15/11",
       "timestamp": 1794747600000,
@@ -2178,7 +2309,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 69
+      "number": 68
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -2186,6 +2317,8 @@
       "c_away": "armenia",
       "homeTeam": "Latvia",
       "awayTeam": "Armenia",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "21:00",
       "date": "15/11",
       "timestamp": 1794751200000,
@@ -2204,7 +2337,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 70
+      "number": 69
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -2212,6 +2345,8 @@
       "c_away": "montenegro",
       "homeTeam": "Cyprus",
       "awayTeam": "Montenegro",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "21:00",
       "date": "15/11",
       "timestamp": 1794751200000,
@@ -2230,7 +2365,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 71
+      "number": 70
     },
     {
       "key": "15/11_22:15_granada_udlaspalmas",
@@ -2238,6 +2373,8 @@
       "c_away": "udlaspalmas",
       "homeTeam": "Granada",
       "awayTeam": "Ud Las Palmas",
+      "homeLogo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/7289_las-palmas.jpg",
       "time": "22:15",
       "date": "15/11",
       "timestamp": 1794755700000,
@@ -2258,12 +2395,14 @@
           "name": "⚽ [22:15 15/11] Granada CF vs Las Palmas (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7289_las-palmas.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 72
+      "number": 71
     },
     {
       "key": "15/11_22:30_alahli_ittihadkalba",
@@ -2271,6 +2410,8 @@
       "c_away": "alahli",
       "homeTeam": "Ittihad Kalba",
       "awayTeam": "Shabab Al Ahli",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "22:30",
       "date": "15/11",
       "timestamp": 1794756600000,
@@ -2289,7 +2430,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 73
+      "number": 72
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2297,6 +2438,8 @@
       "c_away": "cadiz",
       "homeTeam": "Eibar",
       "awayTeam": "Cadiz",
+      "homeLogo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/7277_cadiz.jpg",
       "time": "00:30",
       "date": "16/11",
       "timestamp": 1794763800000,
@@ -2310,12 +2453,14 @@
           "name": "⚽ [00:30 16/11] Eibar vs Cadiz CF (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7277_cadiz.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 74
+      "number": 73
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2323,6 +2468,8 @@
       "c_away": "senegal",
       "homeTeam": "Sudan",
       "awayTeam": "Senegal",
+      "homeLogo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
       "time": "20:00",
       "date": "16/11",
       "timestamp": 1794834000000,
@@ -2336,12 +2483,14 @@
           "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 75
+      "number": 74
     },
     {
       "key": "17/11_19:00_kyrgyzstan_vietnam",
@@ -2349,6 +2498,8 @@
       "c_away": "vietnam",
       "homeTeam": "Kyrgyzstan",
       "awayTeam": "Vietnam",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "19:00",
       "date": "17/11",
       "timestamp": 1794916800000,
@@ -2367,64 +2518,10 @@
         }
       ],
       "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 76
+      "number": 75
     }
   ],
   "source_groups": [
-    {
-      "name": "🍌 Chuối Chiên TV",
-      "channels": [
-        {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (BLV Chuối Nhỏ) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260521_194621_a9ab74b4.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovenia vs Faroe Islands (BLV Chuối Lá) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (BLV Chuối Già) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Chuối Chao) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260811_164552_d11a017f.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [07:00 14/11] Colombia vs Chile (BLV Trốc Tru) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [09:00 14/11] Guatemala vs Canada (BLV Chuối Tây) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20250801_093803_c835782a.webp",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        }
-      ]
-    },
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
@@ -2886,195 +2983,249 @@
       ]
     },
     {
-      "name": "🍧 Xôi Chè TV",
+      "name": "🍵 Xôi Chè TV",
       "channels": [
         {
           "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "away_logo": "https://flagcdn.com/w160/mk.png",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/2_switzerland.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 14/11] Serbia vs Đức (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/21_germany.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [03:00 14/11] Morocco vs Niger (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/740_niger.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [06:00 14/11] Argentina vs Uruguay (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/539_uruguay.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [07:00 14/11] Colombia vs Chile (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/535_colombia.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/535_colombia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/528_chile.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [13:00 14/11] Bahrain vs Yemen (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/643_bahrain.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/643_bahrain.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/648_yemen.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [16:00 14/11] Oman vs Tajikistan (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/649_oman.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/649_oman.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/351_tajikistan.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [17:15 14/11] Nhật Bản vs Brazil (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://flagcdn.com/w160/cn.png",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://flagcdn.com/w160/cn.png",
+          "away_logo": "https://xoiche.live/media/teams/logos/team_478.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [21:00 14/11] Kosovo vs Israel (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/339_palestine.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/644_ir-iran.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [22:15 14/11] Real Sociedad B vs Gijon (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7216_real-sociedad-ii.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/7216_real-sociedad-ii.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7270_sporting-de-gijon.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [22:30 14/11] NAC Breda vs FC Emmen (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/5513_nac-breda.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/5513_nac-breda.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/5463_emmen.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:00 15/11] Algeria vs Togo (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 15/11] Romania vs Ba Lan (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [04:30 15/11] Haiti vs Mỹ (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/523_united-states.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
+          "away_logo": "https://flagcdn.com/w160/vn.png",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [22:15 15/11] Granada CF vs Las Palmas (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7289_las-palmas.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [23:30 15/11] Arsenal W vs London City Lionesses W (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/11085_arsenal-fc-w.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/11085_arsenal-fc-w.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/11038_london-city-lionesses-w.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [00:30 16/11] Eibar vs Cadiz CF (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7277_cadiz.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
-          "group": "🍧 Xôi Chè TV",
+          "home_logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
+          "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         }
       ]
@@ -3188,6 +3339,13 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18332/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (US Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18303/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
@@ -3258,6 +3416,13 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18336/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (gb DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18312/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
@@ -3281,6 +3446,13 @@
         {
           "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (se Viaplay se) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18337/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18338/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
