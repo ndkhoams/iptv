@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-11-14 05:20:05",
+  "updated_at": "2026-11-14 05:30:22",
   "live_events": [
-    {
-      "key": "14/11_03:10_france_southafrica",
-      "c_home": "france",
-      "c_away": "southafrica",
-      "homeTeam": "France",
-      "awayTeam": "South Africa",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "03:10",
-      "date": "14/11",
-      "timestamp": 1794600600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [03:10 14/11] France vs South Africa (gb ITV1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18324/index.m3u8",
-          "logo": "https://media.api-sports.io/rugby/teams/387.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [03:10 14/11] France vs South Africa",
-      "number": 1
-    },
     {
       "key": "14/11_06:00_argentina_uruguay",
       "c_home": "argentina",
@@ -71,7 +43,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 2
+      "number": 1
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -108,7 +80,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 3
+      "number": 2
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -136,7 +108,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 4
+      "number": 3
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -164,7 +136,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 5
+      "number": 4
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -192,7 +164,238 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
+      "number": 5
+    },
+    {
+      "key": "14/11_LIVE_tv360_tv3601",
+      "c_home": "tv3601",
+      "c_away": "tv360",
+      "homeTeam": "TV360+ 1",
+      "awayTeam": "TV360",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "LIVE",
+      "date": "14/11",
+      "timestamp": 1794632400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "📺 TV360+ 1 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjk1ODYsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.1PalCc950Fzv3tSgv2op_boSL-tNGmG1I2_jD1wdL5k&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "62cd425595ba45b0a3f80290510308b4",
+            "key": "2fc95e0a371cd0ba343bc1d120dd9713"
+          }
+        },
+        {
+          "name": "📺 TV360+ 2 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIxNDkyfQ.Y4mPwGKMWDG6GoRKp3F6FQM6gSIQ45yA8nkxfrcfi6TYuuPN4cGSqx0UKHKOPH5ZxgI0RktKVEWFtBix-dg4ig&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "2c24f672f7715433a83953e74ae564b1",
+            "key": "10a63f9f2ccd81dfc4a05263c2fd1575"
+          }
+        },
+        {
+          "name": "📺 TV360+ 3 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/200200/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMDIwMC9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE1MTg2fQ.FCibzMxR5Z_dc_mSr7uEMhGvZZUtdp72YXMrOdGewCHmEn4kZ3Qoht68hXm017lxQp8unHClMON-wjOcxltZBA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "8405a15e96b35497bde131a29e7fb67e",
+            "key": "adb30d908915cf14760880240961a5ed"
+          }
+        },
+        {
+          "name": "📺 TV360+ 4 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI4NTUxfQ.c13--y33Jl25_EJ_JusRNF_Hb1KIh4jLiW-4AXGTHrQL7FjG3JWEEGvGoFb_2fI3WkEMZWK7Y5SwFu4sQQAmlA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "f6ae18fbe05a596da5c9ea312d3257e2",
+            "key": "9e1eda8e6c4405c3751300309eb5822c"
+          }
+        },
+        {
+          "name": "📺 TV360+ 5 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE0MTU0fQ.pVgkZgiLK1juv8e3okHm6T8CPPpaGxq8ZGODuSQqvj56Im3dM11FlWNmuiWG0Y_f57oiNcYkSYyl6PhYJhQa4g&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267019948/634cdb439c75_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "edfa094d8ac55cf98f5867128a926aa7",
+            "key": "0e10fa6099105e2e0a7ce1e34e9c0230"
+          }
+        },
+        {
+          "name": "📺 TV360+ 6 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjg3MDEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.2n61iA-SS6QLXy4oGRRU0DLxxNxe05pNC8ipdSAuFGc&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267080314/d06a99b5bd9c_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
+        },
+        {
+          "name": "📺 TV360+ 7 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/369369/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2OTM2OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE4Nzg2fQ.xRzdSLPfwwPjb5voXLgeI-qiYYO4Dzito8wW2CVh65dVwb69tYwWINr_U5VoEZPtJqGSddK57fqdOV5llMJyag&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/177626714329/4631db40bb03_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "10244b0b86e45b5fa4d8089b24b5f566",
+            "key": "b7bf64fad4622ec88e429409c2c9997d"
+          }
+        },
+        {
+          "name": "📺 TV360+ 8 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2MjIzODYsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.KBozW3IMojPSk5omihi6JG_RCye_1YqYJOw_cluWKIU&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "72a793a108f04d68858f2075616b6b98",
+            "key": "76650cf89c991b0d26e9c50de2087891"
+          }
+        },
+        {
+          "name": "📺 TV360+ 9 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjc3ODYsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.r3uuFLLqnzdYCH7U5LsGiOx3uqQ7baFEGxOiDR9Y2XA&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyMjM4Nn0.supwrXQxJ5EEBTvUzX3cRjo-0QUPGJKhwu_CzgwAKrOpG1O54aU6bLovh4FH9cO5JOuKeTmYHXc0rgCgR3-FAg&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 11 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYxNTE4Nn0.xwUFHjffZqb9iJ5L-qjgFAaIO_KEJ5KzTGs7fdkCLe-UASGqRVCxMhd4SjYeNnEQ2_n1oR6Xa-CCxrkebRo8Lg&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 12 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/465/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2MjIzODYsInVyaSI6Ii9icGstdHYvNDY1L291dHB1dC9pbmRleC5tcGQifQ.MGoNLh4KUBTQXBWdpHa6NQ7rpwY3MbWYoM5f4u46dh8&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "6db5c5c963365f6fafa1a23b8a06bd67",
+            "key": "1a0727fcea62de4e4471ebb0aaaec628"
+          }
+        },
+        {
+          "name": "📺 TV360+ 13 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIyMzg2fQ.ZCxz01A54OiR-ekYkyK48IKkQzkJTQvBxzPrMSU5QryG7id2PnzQrDjg1g2P55084AX43MnkwtSZwClomXzkDA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "41ce0eac12eb58f69607df0d2eaff649",
+            "key": "68c1d283bdd53500336f0db4900e2170"
+          }
+        },
+        {
+          "name": "📺 TV360+ 14 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/472472/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MjQ3Mi9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIyMzg2fQ.EtVCvw3GCOz3BKgTX9ybu5YwD-8j95Z8JQpkr3C_fVjgUTDARGE-lV7Hyo-N2P4YCmmqsYlsvhUI18dJ1xtngw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "807890b3dba7517b90e568e8be4ddaa4",
+            "key": "bb89427403116b132f9fbb34cd616347"
+          }
+        },
+        {
+          "name": "📺 TV360+ 15 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/473473/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MzQ3My9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI3Nzg2fQ.pZvWcExBwHWApBUV1L6EiAAVCnQg2pYarkWLM4obTiWib67uGPOlp6QqqPaYXx8CWiFAZ293yTFdnRcXcmyZ0w&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "fa4033841a70511c84a7fe7e0daf1a6a",
+            "key": "237d5bce065aa40fc4c8839cd8827cd2"
+          }
+        },
+        {
+          "name": "📺 TV360 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyMjM4Nn0.lCfK1hgYY5AMFDldMajO4eaiithxlBHRd71cmKSaLdnLQtmhA_KOgcmUsHplCPYdVkzDwQsPuICGWsXl01Gzog&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        }
+      ],
+      "displayTitle": "⚽ [LIVE 14/11] TV360+ 1 vs TV360",
       "number": 6
+    },
+    {
+      "key": "14/11_LIVE_livestream01_tv360",
+      "c_home": "livestream01",
+      "c_away": "tv360",
+      "homeTeam": "Livestream 01",
+      "awayTeam": "TV360",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "LIVE",
+      "date": "14/11",
+      "timestamp": 1794632400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "📺 Livestream 01 (Trực tiếp) - TV360",
+          "url": "https://livestream-evg8.tv360.vn/ImbDAKL3ytyPcLGUZLDIRg/1794687189/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/14/1794555156822/96350250891c_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        }
+      ],
+      "displayTitle": "⚽ [LIVE 14/11] Livestream 01 vs TV360",
+      "number": 7
     },
     {
       "key": "14/11_13:00_bahrain_yemen",
@@ -222,7 +425,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 14/11] Bahrain vs Yemen",
-      "number": 7
+      "number": 8
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -250,7 +453,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 8
+      "number": 9
     },
     {
       "key": "14/11_16:00_oman_tajikistan",
@@ -280,7 +483,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 14/11] Oman vs Tajikistan",
-      "number": 9
+      "number": 10
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -317,7 +520,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Nhật Bản vs Brazil",
-      "number": 10
+      "number": 11
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -354,7 +557,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Trung Quốc vs Malaysia",
-      "number": 11
+      "number": 12
     },
     {
       "key": "14/11_19:30_bruneidarussalam_thailand",
@@ -382,7 +585,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 14/11] Thailand vs Brunei Darussalam",
-      "number": 12
+      "number": 13
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -410,7 +613,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 13
+      "number": 14
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -447,7 +650,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 14
+      "number": 15
     },
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -484,7 +687,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
-      "number": 15
+      "number": 16
     },
     {
       "key": "14/11_21:30_bangladesh_pakistan",
@@ -512,7 +715,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 14/11] Bangladesh vs Pakistan",
-      "number": 16
+      "number": 17
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -549,7 +752,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 17
+      "number": 18
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -577,7 +780,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 18
+      "number": 19
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -607,7 +810,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 19
+      "number": 20
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -635,7 +838,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 20
+      "number": 21
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -663,7 +866,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 21
+      "number": 22
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -693,7 +896,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 22
+      "number": 23
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -721,7 +924,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 23
+      "number": 24
     },
     {
       "key": "15/11_00:00_norway_wales",
@@ -749,7 +952,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Norway vs Wales",
-      "number": 24
+      "number": 25
     },
     {
       "key": "15/11_00:00_georgia_hungary",
@@ -777,7 +980,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Georgia vs Hungary",
-      "number": 25
+      "number": 26
     },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
@@ -805,7 +1008,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 26
+      "number": 27
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -833,7 +1036,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Almeria vs Andorra",
-      "number": 27
+      "number": 28
     },
     {
       "key": "15/11_02:00_angola_southsudan",
@@ -861,7 +1064,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Angola vs South Sudan",
-      "number": 28
+      "number": 29
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -898,7 +1101,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 29
+      "number": 30
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -935,7 +1138,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 30
+      "number": 31
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -963,7 +1166,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 31
+      "number": 32
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -991,7 +1194,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 32
+      "number": 33
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -1028,7 +1231,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Poland",
-      "number": 33
+      "number": 34
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -1056,7 +1259,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 34
+      "number": 35
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -1086,7 +1289,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 35
+      "number": 36
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -1116,7 +1319,7 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 36
+      "number": 37
     },
     {
       "key": "15/11_06:00_queretaro_rayadosdemonterrey",
@@ -1144,7 +1347,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 37
+      "number": 38
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -1172,7 +1375,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 38
+      "number": 39
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -1200,7 +1403,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 39
+      "number": 40
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -1228,7 +1431,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 40
+      "number": 41
     },
     {
       "key": "15/11_10:00_india_newzealand",
@@ -1256,7 +1459,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 15/11] New Zealand vs India",
-      "number": 41
+      "number": 42
     },
     {
       "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
@@ -1284,7 +1487,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 42
+      "number": 43
     },
     {
       "key": "15/11_12:00_machidazelvia_visselkobe",
@@ -1312,7 +1515,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 43
+      "number": 44
     },
     {
       "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
@@ -1340,7 +1543,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 44
+      "number": 45
     },
     {
       "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
@@ -1368,7 +1571,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 45
+      "number": 46
     },
     {
       "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
@@ -1396,7 +1599,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 46
+      "number": 47
     },
     {
       "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
@@ -1424,7 +1627,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 47
+      "number": 48
     },
     {
       "key": "15/11_17:30_apollonkalamarias_kallithea",
@@ -1452,7 +1655,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 48
+      "number": 49
     },
     {
       "key": "15/11_18:00_cdtondela_farense",
@@ -1480,7 +1683,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 49
+      "number": 50
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -1517,7 +1720,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 50
+      "number": 51
     },
     {
       "key": "15/11_19:50_alsharjah_dubaiunited",
@@ -1545,7 +1748,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 51
+      "number": 52
     },
     {
       "key": "15/11_20:00_adceuta_tenerife",
@@ -1573,7 +1776,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 52
+      "number": 53
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -1601,7 +1804,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 53
+      "number": 54
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -1629,7 +1832,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 54
+      "number": 55
     },
     {
       "key": "15/11_22:15_granada_udlaspalmas",
@@ -1666,7 +1869,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 55
+      "number": 56
     },
     {
       "key": "15/11_22:30_alahli_ittihadkalba",
@@ -1694,7 +1897,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 56
+      "number": 57
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -1724,7 +1927,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 57
+      "number": 58
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -1754,7 +1957,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 58
+      "number": 59
     },
     {
       "key": "17/11_19:00_kyrgyzstan_vietnam",
@@ -1782,7 +1985,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 59
+      "number": 60
     }
   ],
   "source_groups": [
@@ -2397,6 +2600,209 @@
           "logo": "https://film4k.pl/api/antsimg/football/teams/26.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
+        }
+      ]
+    },
+    {
+      "name": "⚽ Sự Kiện Trực Tiếp / TV360",
+      "channels": [
+        {
+          "name": "⚽ [08:00 12/11] Phim kinh điển (TV360) - Film4k",
+          "url": "https://rr2-ateme.tv360.vn/video1/2026/04/21/14/c1aed757/ed7472/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzA0LzIxLzE0L2MxYWVkNzU3L2VkNzQ3Mi9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc5NDYyMTMwMH0.TW3Z7DMBnxj-b9D3fJXhV4of2tbYL_1CJK8HokdWEPPGdrmFn6z5bKsKKfGnJjOYxchKWEDSZ2QAw-50FNUW5A&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/17/1794566048165/1022640ca318_1280_720.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 1 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjk1ODYsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.1PalCc950Fzv3tSgv2op_boSL-tNGmG1I2_jD1wdL5k&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "62cd425595ba45b0a3f80290510308b4",
+            "key": "2fc95e0a371cd0ba343bc1d120dd9713"
+          }
+        },
+        {
+          "name": "📺 TV360+ 2 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIxNDkyfQ.Y4mPwGKMWDG6GoRKp3F6FQM6gSIQ45yA8nkxfrcfi6TYuuPN4cGSqx0UKHKOPH5ZxgI0RktKVEWFtBix-dg4ig&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "2c24f672f7715433a83953e74ae564b1",
+            "key": "10a63f9f2ccd81dfc4a05263c2fd1575"
+          }
+        },
+        {
+          "name": "📺 TV360+ 3 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/200200/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMDIwMC9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE1MTg2fQ.FCibzMxR5Z_dc_mSr7uEMhGvZZUtdp72YXMrOdGewCHmEn4kZ3Qoht68hXm017lxQp8unHClMON-wjOcxltZBA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "8405a15e96b35497bde131a29e7fb67e",
+            "key": "adb30d908915cf14760880240961a5ed"
+          }
+        },
+        {
+          "name": "📺 TV360+ 4 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI4NTUxfQ.c13--y33Jl25_EJ_JusRNF_Hb1KIh4jLiW-4AXGTHrQL7FjG3JWEEGvGoFb_2fI3WkEMZWK7Y5SwFu4sQQAmlA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "f6ae18fbe05a596da5c9ea312d3257e2",
+            "key": "9e1eda8e6c4405c3751300309eb5822c"
+          }
+        },
+        {
+          "name": "📺 TV360+ 5 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE0MTU0fQ.pVgkZgiLK1juv8e3okHm6T8CPPpaGxq8ZGODuSQqvj56Im3dM11FlWNmuiWG0Y_f57oiNcYkSYyl6PhYJhQa4g&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267019948/634cdb439c75_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "edfa094d8ac55cf98f5867128a926aa7",
+            "key": "0e10fa6099105e2e0a7ce1e34e9c0230"
+          }
+        },
+        {
+          "name": "📺 TV360+ 6 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjg3MDEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.2n61iA-SS6QLXy4oGRRU0DLxxNxe05pNC8ipdSAuFGc&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267080314/d06a99b5bd9c_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
+        },
+        {
+          "name": "📺 TV360+ 7 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/369369/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2OTM2OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjE4Nzg2fQ.xRzdSLPfwwPjb5voXLgeI-qiYYO4Dzito8wW2CVh65dVwb69tYwWINr_U5VoEZPtJqGSddK57fqdOV5llMJyag&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/177626714329/4631db40bb03_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "10244b0b86e45b5fa4d8089b24b5f566",
+            "key": "b7bf64fad4622ec88e429409c2c9997d"
+          }
+        },
+        {
+          "name": "📺 TV360+ 8 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2MjIzODYsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.KBozW3IMojPSk5omihi6JG_RCye_1YqYJOw_cluWKIU&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "72a793a108f04d68858f2075616b6b98",
+            "key": "76650cf89c991b0d26e9c50de2087891"
+          }
+        },
+        {
+          "name": "📺 TV360+ 9 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjc3ODYsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.r3uuFLLqnzdYCH7U5LsGiOx3uqQ7baFEGxOiDR9Y2XA&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyMjM4Nn0.supwrXQxJ5EEBTvUzX3cRjo-0QUPGJKhwu_CzgwAKrOpG1O54aU6bLovh4FH9cO5JOuKeTmYHXc0rgCgR3-FAg&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 11 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYxNTE4Nn0.xwUFHjffZqb9iJ5L-qjgFAaIO_KEJ5KzTGs7fdkCLe-UASGqRVCxMhd4SjYeNnEQ2_n1oR6Xa-CCxrkebRo8Lg&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 12 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/465/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2MjIzODYsInVyaSI6Ii9icGstdHYvNDY1L291dHB1dC9pbmRleC5tcGQifQ.MGoNLh4KUBTQXBWdpHa6NQ7rpwY3MbWYoM5f4u46dh8&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "6db5c5c963365f6fafa1a23b8a06bd67",
+            "key": "1a0727fcea62de4e4471ebb0aaaec628"
+          }
+        },
+        {
+          "name": "📺 TV360+ 13 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIyMzg2fQ.ZCxz01A54OiR-ekYkyK48IKkQzkJTQvBxzPrMSU5QryG7id2PnzQrDjg1g2P55084AX43MnkwtSZwClomXzkDA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "41ce0eac12eb58f69607df0d2eaff649",
+            "key": "68c1d283bdd53500336f0db4900e2170"
+          }
+        },
+        {
+          "name": "📺 TV360+ 14 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/472472/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MjQ3Mi9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjIyMzg2fQ.EtVCvw3GCOz3BKgTX9ybu5YwD-8j95Z8JQpkr3C_fVjgUTDARGE-lV7Hyo-N2P4YCmmqsYlsvhUI18dJ1xtngw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "807890b3dba7517b90e568e8be4ddaa4",
+            "key": "bb89427403116b132f9fbb34cd616347"
+          }
+        },
+        {
+          "name": "📺 TV360+ 15 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/473473/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MzQ3My9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI3Nzg2fQ.pZvWcExBwHWApBUV1L6EiAAVCnQg2pYarkWLM4obTiWib67uGPOlp6QqqPaYXx8CWiFAZ293yTFdnRcXcmyZ0w&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "fa4033841a70511c84a7fe7e0daf1a6a",
+            "key": "237d5bce065aa40fc4c8839cd8827cd2"
+          }
+        },
+        {
+          "name": "📺 TV360 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyMjM4Nn0.lCfK1hgYY5AMFDldMajO4eaiithxlBHRd71cmKSaLdnLQtmhA_KOgcmUsHplCPYdVkzDwQsPuICGWsXl01Gzog&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 Livestream 01 (Trực tiếp) - TV360",
+          "url": "https://livestream-evg8.tv360.vn/ImbDAKL3ytyPcLGUZLDIRg/1794687189/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/14/1794555156822/96350250891c_480_270.png",
+          "group": "⚽ Sự Kiện Trực Tiếp / TV360",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
         }
       ]
     }
