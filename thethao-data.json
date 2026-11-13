@@ -1,32 +1,6 @@
 {
-  "updated_at": "2026-11-13 23:12:13",
+  "updated_at": "2026-11-13 23:27:11",
   "live_events": [
-    {
-      "key": "13/11_21:00_kuwait_syria",
-      "c_home": "kuwait",
-      "c_away": "syria",
-      "homeTeam": "Kuwait",
-      "awayTeam": "Syria",
-      "time": "21:00",
-      "date": "13/11",
-      "timestamp": 1794578400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "21:00 13/11 ⚽ Kuwait vs Syria (LÝ LONG) [geo]",
-          "url": "https://pull.digitalcdn.net/live/9f77dd7a926c49dfa62983cc16d1184c/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        }
-      ],
-      "displayTitle": "🔴 [21:00 13/11] Kuwait vs Syria",
-      "number": 1
-    },
     {
       "key": "13/11_21:30_korea_saudiarabia",
       "c_home": "saudiarabia",
@@ -72,7 +46,7 @@
         }
       ],
       "displayTitle": "🔴 [21:30 13/11] Ả Rập Xê Út vs Hàn Quốc",
-      "number": 2
+      "number": 1
     },
     {
       "key": "13/11_21:45_australia_qatar",
@@ -112,7 +86,7 @@
         }
       ],
       "displayTitle": "🔴 [21:45 13/11] Qatar vs Australia",
-      "number": 3
+      "number": 2
     },
     {
       "key": "13/11_23:00_capeverdeislands_liberia",
@@ -138,7 +112,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] Cape Verde Islands vs Liberia",
-      "number": 4
+      "number": 3
     },
     {
       "key": "13/11_23:00_kenya_southafrica",
@@ -171,7 +145,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] South Africa vs Kenya",
-      "number": 5
+      "number": 4
     },
     {
       "key": "13/11_23:00_nigeria_tanzania",
@@ -204,7 +178,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] Nigeria vs Tanzania",
-      "number": 6
+      "number": 5
     },
     {
       "key": "13/11_23:00_burkinafaso_mauritania",
@@ -230,7 +204,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] Burkina Faso vs Mauritania",
-      "number": 7
+      "number": 6
     },
     {
       "key": "13/11_23:00_libya_tunisia",
@@ -263,7 +237,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] Tunisia vs Libya",
-      "number": 8
+      "number": 7
     },
     {
       "key": "13/11_23:00_caboverde_liberia",
@@ -289,7 +263,7 @@
         }
       ],
       "displayTitle": "🔴 [23:00 13/11] Cabo Verde vs Liberia",
-      "number": 9
+      "number": 8
     },
     {
       "key": "13/11_23:30_kuwait_syria",
@@ -303,7 +277,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -314,8 +288,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [23:30 13/11] Kuwait vs Syria",
-      "number": 10
+      "displayTitle": "🔴 [23:30 13/11] Kuwait vs Syria",
+      "number": 9
     },
     {
       "key": "14/11_00:00_kazakhstan_moldova",
@@ -383,7 +357,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 14/11] Moldova vs Kazakhstan",
-      "number": 11
+      "number": 10
     },
     {
       "key": "14/11_02:00_mali_rwanda",
@@ -409,7 +383,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Mali vs Rwanda",
-      "number": 12
+      "number": 11
     },
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -435,7 +409,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 14/11] Egypt vs Malawi",
-      "number": 13
+      "number": 12
     },
     {
       "key": "14/11_02:30_burgos_leganes",
@@ -461,7 +435,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 14/11] Leganes vs Burgos",
-      "number": 14
+      "number": 13
     },
     {
       "key": "14/11_02:45_germany_serbia",
@@ -498,10 +472,45 @@
           "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (us Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18288/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (es La 1) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18291/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (sa beIN Sport 3) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18292/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18293/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Serbia vs Đức",
-      "number": 15
+      "number": 14
     },
     {
       "key": "14/11_02:45_greece_netherlands",
@@ -562,7 +571,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Netherlands vs Greece",
-      "number": 16
+      "number": 15
     },
     {
       "key": "14/11_02:45_faroeislands_slovenia",
@@ -588,7 +597,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovenia vs Faroe Islands",
-      "number": 17
+      "number": 16
     },
     {
       "key": "14/11_02:45_fyrmacedonia_scotland",
@@ -642,7 +651,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs FYR Macedonia",
-      "number": 18
+      "number": 17
     },
     {
       "key": "14/11_02:45_northmacedonia_scotland",
@@ -668,7 +677,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs North Macedonia",
-      "number": 19
+      "number": 18
     },
     {
       "key": "14/11_02:45_slovenia_switzerland",
@@ -743,7 +752,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ",
-      "number": 20
+      "number": 19
     },
     {
       "key": "14/11_02:45_faroeislands_slovakia",
@@ -766,10 +775,38 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (us Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18300/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (gb DAZN) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18301/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (es VIX) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18302/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18332/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Slovakia vs Faroe Islands",
-      "number": 21
+      "number": 20
     },
     {
       "key": "14/11_02:45_estonia_luxembourg",
@@ -823,7 +860,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Luxembourg vs Estonia",
-      "number": 22
+      "number": 21
     },
     {
       "key": "14/11_02:45_bulgaria_iceland",
@@ -877,7 +914,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Bulgaria vs Iceland",
-      "number": 23
+      "number": 22
     },
     {
       "key": "14/11_02:45_andorra_gibraltar",
@@ -938,7 +975,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Andorra vs Gibraltar",
-      "number": 24
+      "number": 23
     },
     {
       "key": "14/11_02:45_bacmacedonia_scotland",
@@ -964,7 +1001,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia",
-      "number": 25
+      "number": 24
     },
     {
       "key": "14/11_02:45_hylap_netherlands",
@@ -990,7 +1027,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp",
-      "number": 26
+      "number": 25
     },
     {
       "key": "14/11_02:45_azerbaijan_liechtenstein",
@@ -1044,7 +1081,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan",
-      "number": 27
+      "number": 26
     },
     {
       "key": "14/11_03:00_morocco_niger",
@@ -1077,7 +1114,7 @@
         }
       ],
       "displayTitle": "⚽ [03:00 14/11] Morocco vs Niger",
-      "number": 28
+      "number": 27
     },
     {
       "key": "14/11_03:10_france_southafrica",
@@ -1103,7 +1140,7 @@
         }
       ],
       "displayTitle": "⚽ [03:10 14/11] France vs South Africa",
-      "number": 29
+      "number": 28
     },
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -1150,7 +1187,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
-      "number": 30
+      "number": 29
     },
     {
       "key": "14/11_07:00_chile_colombia",
@@ -1183,7 +1220,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Colombia vs Chile",
-      "number": 31
+      "number": 30
     },
     {
       "key": "14/11_07:00_costarica_ecuador",
@@ -1209,7 +1246,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 14/11] Ecuador vs Costa Rica",
-      "number": 32
+      "number": 31
     },
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -1235,7 +1272,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
-      "number": 33
+      "number": 32
     },
     {
       "key": "14/11_09:00_canada_guatemala",
@@ -1268,7 +1305,7 @@
         }
       ],
       "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 34
+      "number": 33
     },
     {
       "key": "14/11_13:00_bahrain_yemen",
@@ -1294,7 +1331,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 14/11] Bahrain vs Yemen",
-      "number": 35
+      "number": 34
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -1320,7 +1357,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 36
+      "number": 35
     },
     {
       "key": "14/11_16:00_oman_tajikistan",
@@ -1346,7 +1383,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 14/11] Oman vs Tajikistan",
-      "number": 37
+      "number": 36
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -1379,7 +1416,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Nhật Bản vs Brazil",
-      "number": 38
+      "number": 37
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -1405,7 +1442,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] China vs Malaysia",
-      "number": 39
+      "number": 38
     },
     {
       "key": "14/11_19:30_bruneidarussalam_thailand",
@@ -1431,7 +1468,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 14/11] Thailand vs Brunei Darussalam",
-      "number": 40
+      "number": 39
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -1457,7 +1494,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 41
+      "number": 40
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -1483,7 +1520,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 42
+      "number": 41
     },
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -1516,7 +1553,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
-      "number": 43
+      "number": 42
     },
     {
       "key": "14/11_21:30_bangladesh_pakistan",
@@ -1542,7 +1579,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 14/11] Bangladesh vs Pakistan",
-      "number": 44
+      "number": 43
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -1575,7 +1612,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 45
+      "number": 44
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -1601,7 +1638,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 46
+      "number": 45
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -1627,7 +1664,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 47
+      "number": 46
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -1653,7 +1690,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 48
+      "number": 47
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -1679,7 +1716,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 49
+      "number": 48
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -1705,7 +1742,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 50
+      "number": 49
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -1731,7 +1768,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 51
+      "number": 50
     },
     {
       "key": "15/11_00:00_norway_wales",
@@ -1757,7 +1794,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Norway vs Wales",
-      "number": 52
+      "number": 51
     },
     {
       "key": "15/11_00:00_georgia_hungary",
@@ -1783,7 +1820,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Georgia vs Hungary",
-      "number": 53
+      "number": 52
     },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
@@ -1809,7 +1846,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 54
+      "number": 53
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -1835,7 +1872,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Almeria vs Andorra",
-      "number": 55
+      "number": 54
     },
     {
       "key": "15/11_02:00_angola_southsudan",
@@ -1861,7 +1898,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Angola vs South Sudan",
-      "number": 56
+      "number": 55
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -1894,7 +1931,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 57
+      "number": 56
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -1927,7 +1964,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 58
+      "number": 57
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -1953,7 +1990,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 59
+      "number": 58
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -1979,7 +2016,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 60
+      "number": 59
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -2012,7 +2049,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Poland",
-      "number": 61
+      "number": 60
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -2038,7 +2075,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 62
+      "number": 61
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -2064,7 +2101,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 63
+      "number": 62
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -2090,7 +2127,7 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 64
+      "number": 63
     },
     {
       "key": "15/11_06:00_queretaro_rayadosdemonterrey",
@@ -2116,7 +2153,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 65
+      "number": 64
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -2142,7 +2179,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 66
+      "number": 65
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -2168,7 +2205,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 67
+      "number": 66
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -2194,7 +2231,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 68
+      "number": 67
     },
     {
       "key": "15/11_10:00_india_newzealand",
@@ -2220,7 +2257,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 15/11] New Zealand vs India",
-      "number": 69
+      "number": 68
     },
     {
       "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
@@ -2246,7 +2283,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 70
+      "number": 69
     },
     {
       "key": "15/11_12:00_machidazelvia_visselkobe",
@@ -2272,7 +2309,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 71
+      "number": 70
     },
     {
       "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
@@ -2298,7 +2335,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 72
+      "number": 71
     },
     {
       "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
@@ -2324,7 +2361,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 73
+      "number": 72
     },
     {
       "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
@@ -2350,7 +2387,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 74
+      "number": 73
     },
     {
       "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
@@ -2376,7 +2413,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 75
+      "number": 74
     },
     {
       "key": "15/11_17:30_apollonkalamarias_kallithea",
@@ -2402,7 +2439,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 76
+      "number": 75
     },
     {
       "key": "15/11_18:00_cdtondela_farense",
@@ -2428,7 +2465,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 77
+      "number": 76
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -2461,7 +2498,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 78
+      "number": 77
     },
     {
       "key": "15/11_19:50_alsharjah_dubaiunited",
@@ -2487,7 +2524,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 79
+      "number": 78
     },
     {
       "key": "15/11_20:00_adceuta_tenerife",
@@ -2513,7 +2550,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 80
+      "number": 79
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -2539,7 +2576,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 81
+      "number": 80
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -2565,7 +2602,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 82
+      "number": 81
     },
     {
       "key": "15/11_22:15_granada_udlaspalmas",
@@ -2598,7 +2635,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 83
+      "number": 82
     },
     {
       "key": "15/11_22:30_alahli_ittihadkalba",
@@ -2624,7 +2661,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 84
+      "number": 83
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2650,7 +2687,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 85
+      "number": 84
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2676,7 +2713,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 86
+      "number": 85
     },
     {
       "key": "17/11_19:00_kyrgyzstan_vietnam",
@@ -2702,7 +2739,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 87
+      "number": 86
     }
   ],
   "source_groups": [
@@ -3584,6 +3621,41 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (us Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18288/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (es La 1) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18291/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (sa beIN Sport 3) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18292/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Serbia vs Germany (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18293/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:45 14/11] Netherlands vs Greece (us Fox Sports 1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18294/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
@@ -3608,6 +3680,34 @@
           "name": "⚽ [02:45 14/11] Netherlands vs Greece (sa beIN Sport 4) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18298/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (us Fubo) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18300/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (gb DAZN) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18301/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (es VIX) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18302/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (no Viaplay no) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18332/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
