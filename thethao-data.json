@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 02:14:56",
+  "updated_at": "2026-11-14 02:30:01",
   "live_events": [
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -65,7 +65,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -76,7 +76,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [02:30 14/11] Leganes vs Burgos",
+      "displayTitle": "🔴 [02:30 14/11] Leganes vs Burgos",
       "number": 3
     },
     {
@@ -118,13 +118,6 @@
         {
           "name": "⚽ [02:45 14/11] Serbia vs Germany (us Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18288/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -191,15 +184,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18295/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18297/index.m3u8",
+          "name": "⚽ [02:45 14/11] Netherlands vs Greece (nl NPO 3) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18296/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -207,6 +193,13 @@
         {
           "name": "⚽ [02:45 14/11] Netherlands vs Greece (sa beIN Sport 4) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18298/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Netherlands vs Greece (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18299/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -273,13 +266,6 @@
         {
           "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (us Fox Soccer Plus) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18321/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -358,13 +344,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (US Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18316/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (ch SRF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18317/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
@@ -372,22 +351,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18318/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (sa beIN Sport 6) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18319/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (no Viaplay no) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18339/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -421,20 +386,6 @@
         {
           "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (us Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18300/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18301/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18302/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -480,20 +431,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (us Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18310/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18311/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (no Viaplay no) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18336/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
@@ -529,20 +466,6 @@
         {
           "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (US Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18303/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (GB DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18304/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18305/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -588,13 +511,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (us Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18313/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18314/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
@@ -620,32 +536,6 @@
       "number": 13
     },
     {
-      "key": "14/11_02:45_bacmacedonia_scotland",
-      "c_home": "scotland",
-      "c_away": "bacmacedonia",
-      "homeTeam": "Scotland",
-      "awayTeam": "Bắc Macedonia",
-      "time": "02:45",
-      "date": "14/11",
-      "timestamp": 1794599100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia",
-      "number": 14
-    },
-    {
       "key": "14/11_02:45_hylap_netherlands",
       "c_home": "netherlands",
       "c_away": "hylap",
@@ -669,6 +559,32 @@
         }
       ],
       "displayTitle": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp",
+      "number": 14
+    },
+    {
+      "key": "14/11_02:45_bacmacedonia_scotland",
+      "c_home": "scotland",
+      "c_away": "bacmacedonia",
+      "homeTeam": "Scotland",
+      "awayTeam": "Bắc Macedonia",
+      "time": "02:45",
+      "date": "14/11",
+      "timestamp": 1794599100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia",
       "number": 15
     },
     {
@@ -689,20 +605,6 @@
         {
           "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (US DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18306/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (US Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18307/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18308/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -2903,6 +2805,13 @@
       "name": "🍧 Xôi Chè TV",
       "channels": [
         {
+          "name": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [02:45 14/11] Serbia vs Đức (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
@@ -2920,13 +2829,6 @@
           "name": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -3111,13 +3013,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Serbia vs Germany (es La 1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18291/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
@@ -3146,15 +3041,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18295/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Netherlands vs Greece (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18297/index.m3u8",
+          "name": "⚽ [02:45 14/11] Netherlands vs Greece (nl NPO 3) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18296/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3167,22 +3055,15 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [02:45 14/11] Netherlands vs Greece (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18299/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1118.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (us Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18300/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18301/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovakia vs Faroe Islands (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18302/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/773.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3202,20 +3083,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (GB DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18304/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18305/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (no Viaplay no) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18333/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
@@ -3225,20 +3092,6 @@
         {
           "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (US DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18306/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (US Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18307/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Liechtenstein vs Azerbaijan (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18308/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1107.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3265,20 +3118,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (us Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18310/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18311/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Luxembourg vs Estonia (no Viaplay no) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18336/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1102.png",
@@ -3288,13 +3127,6 @@
         {
           "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (gb DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18312/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Andorra vs Gibraltar (us Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18313/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1110.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3328,13 +3160,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (US Fubo) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18316/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (ch SRF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18317/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
@@ -3342,22 +3167,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18318/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (sa beIN Sport 6) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18319/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovenia vs Switzerland (no Viaplay no) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18339/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1091.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -3372,13 +3183,6 @@
         {
           "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (us Fox Soccer Plus) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18321/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
