@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 03:33:43",
+  "updated_at": "2026-11-14 03:48:50",
   "live_events": [
     {
       "key": "14/11_02:00_egypt_malawi",
@@ -121,13 +121,6 @@
         {
           "name": "⚽ [02:45 14/11] Serbia vs Germany (us Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18288/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
@@ -471,13 +464,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (GB DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18304/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18305/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
@@ -552,36 +538,6 @@
       "number": 11
     },
     {
-      "key": "14/11_02:45_bacmacedonia_scotland",
-      "c_home": "scotland",
-      "c_away": "bacmacedonia",
-      "homeTeam": "Scotland",
-      "awayTeam": "Bắc Macedonia",
-      "homeLogo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-      "awayLogo": "https://flagcdn.com/w160/mk.png",
-      "time": "02:45",
-      "date": "14/11",
-      "timestamp": 1794599100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "away_logo": "https://flagcdn.com/w160/mk.png",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "🔴 [02:45 14/11] Scotland vs Bắc Macedonia",
-      "number": 12
-    },
-    {
       "key": "14/11_02:45_hylap_netherlands",
       "c_home": "netherlands",
       "c_away": "hylap",
@@ -609,6 +565,36 @@
         }
       ],
       "displayTitle": "🔴 [02:45 14/11] Hà Lan vs Hy Lạp",
+      "number": 12
+    },
+    {
+      "key": "14/11_02:45_bacmacedonia_scotland",
+      "c_home": "scotland",
+      "c_away": "bacmacedonia",
+      "homeTeam": "Scotland",
+      "awayTeam": "Bắc Macedonia",
+      "homeLogo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+      "awayLogo": "https://flagcdn.com/w160/mk.png",
+      "time": "02:45",
+      "date": "14/11",
+      "timestamp": 1794599100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "away_logo": "https://flagcdn.com/w160/mk.png",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 14/11] Scotland vs Bắc Macedonia",
       "number": 13
     },
     {
@@ -2986,24 +2972,6 @@
       "name": "🍵 Xôi Chè TV",
       "channels": [
         {
-          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
-          "away_logo": "https://flagcdn.com/w160/mk.png",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/2_switzerland.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Hà Lan vs Hy Lạp (BLV Khô Cóc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
           "logo": "https://apiv3.apifootball.com/badges/10_netherlands.jpg",
@@ -3027,6 +2995,24 @@
           "logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/717_morocco.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/740_niger.jpg",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Scotland vs Bắc Macedonia (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/15_scotland.jpg",
+          "away_logo": "https://flagcdn.com/w160/mk.png",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 14/11] Slovenia vs Thụy Sĩ (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/696_slovenia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/2_switzerland.jpg",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -3248,13 +3234,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Serbia vs Germany (gb DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18289/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 14/11] Serbia vs Germany (de RTL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18290/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/14.png",
@@ -3348,13 +3327,6 @@
         {
           "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (US Fubo) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18303/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 14/11] Bulgaria vs Iceland (GB DAZN) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18304/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1103.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
