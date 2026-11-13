@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 05:30:22",
+  "updated_at": "2026-11-14 05:45:33",
   "live_events": [
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -15,7 +15,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -42,7 +42,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
+      "displayTitle": "🔴 [06:00 14/11] Argentina vs Uruguay",
       "number": 1
     },
     {
@@ -2587,13 +2587,6 @@
     {
       "name": "⚽ Film4k / Antsports",
       "channels": [
-        {
-          "name": "⚽ [03:10 14/11] France vs South Africa (gb ITV1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18324/index.m3u8",
-          "logo": "https://media.api-sports.io/rugby/teams/387.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
         {
           "name": "⚽ [06:00 14/11] Argentina vs Uruguay (us VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18340/index.m3u8",
