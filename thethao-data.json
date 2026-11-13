@@ -1,53 +1,6 @@
 {
-  "updated_at": "2026-11-13 20:55:13",
+  "updated_at": "2026-11-13 21:10:25",
   "live_events": [
-    {
-      "key": "13/11_19:00_paraguay_singapore",
-      "c_home": "singapore",
-      "c_away": "paraguay",
-      "homeTeam": "Singapore",
-      "awayTeam": "Paraguay",
-      "time": "19:00",
-      "date": "13/11",
-      "timestamp": 1794571200000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 13/11] Singapore vs Paraguay (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
-          "name": "⚽ [19:00 13/11] Singapore Vs Paraguay (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "19:00 13/11 ⚽ Singapore vs Paraguay (LÝ LÀNG LÁ) [geo]",
-          "url": "https://pull.digitalcdn.net/live/4acc0b62e5d44a978cbfacae6af9a68d/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwk9zqdyj/image/small",
-          "group": "💥 Phá Làng TV",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [19:00 13/11] Singapore vs Paraguay (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/483_singapore.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "🔴 [19:00 13/11] Singapore vs Paraguay",
-      "number": 1
-    },
     {
       "key": "13/11_19:00_kyrgyzstan_taiwan",
       "c_home": "taiwan",
@@ -72,6 +25,32 @@
         }
       ],
       "displayTitle": "🔴 [19:00 13/11] Đài Loan vs Kyrgyzstan",
+      "number": 1
+    },
+    {
+      "key": "13/11_19:00_paraguay_singapore",
+      "c_home": "singapore",
+      "c_away": "paraguay",
+      "homeTeam": "Singapore",
+      "awayTeam": "Paraguay",
+      "time": "19:00",
+      "date": "13/11",
+      "timestamp": 1794571200000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "19:00 13/11 ⚽ Singapore vs Paraguay (LÝ LÀNG LÁ) [geo]",
+          "url": "https://pull.digitalcdn.net/live/4acc0b62e5d44a978cbfacae6af9a68d/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/3glrw7hwk9zqdyj/image/small",
+          "group": "💥 Phá Làng TV",
+          "ref": ""
+        }
+      ],
+      "displayTitle": "🔴 [19:00 13/11] Singapore vs Paraguay",
       "number": 2
     },
     {
@@ -230,7 +209,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -241,7 +220,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [21:15 13/11] United Arab Emirates vs Honduras",
+      "displayTitle": "🔴 [21:15 13/11] United Arab Emirates vs Honduras",
       "number": 8
     },
     {
@@ -256,7 +235,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -267,7 +246,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [21:15 13/11] UAE vs Honduras",
+      "displayTitle": "🔴 [21:15 13/11] UAE vs Honduras",
       "number": 9
     },
     {
@@ -555,13 +534,6 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [23:30 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [23:30 13/11] Kuwait vs Syria",
@@ -919,7 +891,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es English) - Film4k",
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
           "group": "⚽ Film4k / Antsports",
@@ -1460,6 +1432,13 @@
           "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (us VIX) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18340/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/26.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [06:00 14/11] Argentina vs Uruguay",
@@ -2997,13 +2976,6 @@
       "name": "🍌 Chuối Chiên TV",
       "channels": [
         {
-          "name": "⚽ [19:00 13/11] Singapore vs Paraguay (BLV Chuối Sấy) - Chuối Chiên",
-          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
-          "logo": "https://media.chuoichientv.net/media/20260611_225909_8715fbcf.jpg",
-          "group": "🍌 Chuối Chiên TV",
-          "ref": "https://live.chuoichien.tv/"
-        },
-        {
           "name": "⚽ [20:00 13/11] Comoros vs Congo (BLV Chuối Lá) - Chuối Chiên",
           "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/",
           "logo": "https://media.chuoichientv.net/media/20260827_154410_d3be3da1.webp",
@@ -3106,13 +3078,6 @@
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
-        {
-          "name": "⚽ [19:00 13/11] Singapore Vs Paraguay (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
         {
           "name": "⚽ [20:00 13/11] Mozambique Vs Ethiopia (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -3705,23 +3670,9 @@
       "name": "🍧 Xôi Chè TV",
       "channels": [
         {
-          "name": "⚽ [19:00 13/11] Singapore vs Paraguay (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/483_singapore.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [21:15 13/11] UAE vs Honduras (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/650_uae.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [23:30 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -4249,7 +4200,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es English) - Film4k",
+          "name": "⚽ [02:45 14/11] Scotland vs FYR Macedonia (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18322/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1108.png",
           "group": "⚽ Film4k / Antsports",
@@ -4266,6 +4217,13 @@
           "name": "⚽ [03:10 14/11] France vs South Africa (gb ITV1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18324/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/387.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [06:00 14/11] Argentina vs Uruguay (us VIX) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18340/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/26.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         }
