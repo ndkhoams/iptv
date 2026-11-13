@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 15:05:10",
+  "updated_at": "2026-11-13 15:20:17",
   "live_events": [
     {
       "key": "13/11_15:00_deren_tuvazarganuud",
@@ -65,7 +65,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -83,7 +83,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
+      "displayTitle": "🔴 [15:30 13/11] Oakleigh Cannons vs Marconi Stallions",
       "number": 3
     },
     {
@@ -98,7 +98,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -123,7 +123,7 @@
           "ref": ""
         }
       ],
-      "displayTitle": "⚽ [15:30 13/11] Preston Lions vs Lions",
+      "displayTitle": "🔴 [15:30 13/11] Preston Lions vs Lions",
       "number": 4
     },
     {
@@ -1691,6 +1691,32 @@
       "number": 48
     },
     {
+      "key": "14/11_19:30_bruneidarussalam_thailand",
+      "c_home": "thailand",
+      "c_away": "bruneidarussalam",
+      "homeTeam": "Thailand",
+      "awayTeam": "Brunei Darussalam",
+      "time": "19:30",
+      "date": "14/11",
+      "timestamp": 1794659400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [19:30 14/11] Thailand Vs Brunei Darussalam (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [19:30 14/11] Thailand vs Brunei Darussalam",
+      "number": 49
+    },
+    {
       "key": "14/11_19:50_ajman_aldhafra",
       "c_home": "aldhafra",
       "c_away": "ajman",
@@ -1714,7 +1740,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 49
+      "number": 50
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -1740,7 +1766,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 50
+      "number": 51
     },
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -1758,6 +1784,13 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [21:00 14/11] Kosovo Vs Israel (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [21:00 14/11] Kosovo vs Israel (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
@@ -1766,7 +1799,33 @@
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
-      "number": 51
+      "number": 52
+    },
+    {
+      "key": "14/11_21:30_bangladesh_pakistan",
+      "c_home": "bangladesh",
+      "c_away": "pakistan",
+      "homeTeam": "Bangladesh",
+      "awayTeam": "Pakistan",
+      "time": "21:30",
+      "date": "14/11",
+      "timestamp": 1794666600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [21:30 14/11] Bangladesh Vs Pakistan (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [21:30 14/11] Bangladesh vs Pakistan",
+      "number": 53
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -1799,7 +1858,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 52
+      "number": 54
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -1825,7 +1884,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 53
+      "number": 55
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -1851,7 +1910,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 54
+      "number": 56
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -1877,7 +1936,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 55
+      "number": 57
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -1903,7 +1962,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 56
+      "number": 58
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -1929,7 +1988,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 57
+      "number": 59
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -1955,7 +2014,59 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 58
+      "number": 60
+    },
+    {
+      "key": "15/11_00:00_norway_wales",
+      "c_home": "norway",
+      "c_away": "wales",
+      "homeTeam": "Norway",
+      "awayTeam": "Wales",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [00:00 15/11] Norway vs Wales",
+      "number": 61
+    },
+    {
+      "key": "15/11_00:00_georgia_hungary",
+      "c_home": "georgia",
+      "c_away": "hungary",
+      "homeTeam": "Georgia",
+      "awayTeam": "Hungary",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:00 15/11] Georgia Vs Hungary (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [00:00 15/11] Georgia vs Hungary",
+      "number": 62
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -1981,7 +2092,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 59
+      "number": 63
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -2007,7 +2118,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Ba Lan",
-      "number": 60
+      "number": 64
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -2033,7 +2144,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 61
+      "number": 65
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -2059,7 +2170,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 62
+      "number": 66
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -2085,7 +2196,33 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 63
+      "number": 67
+    },
+    {
+      "key": "15/11_12:00_machidazelvia_visselkobe",
+      "c_home": "machidazelvia",
+      "c_away": "visselkobe",
+      "homeTeam": "Machida Zelvia",
+      "awayTeam": "Vissel Kobe",
+      "time": "12:00",
+      "date": "15/11",
+      "timestamp": 1794718800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
+      "number": 68
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -2111,7 +2248,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 64
+      "number": 69
     },
     {
       "key": "15/11_22:15_granada_laspalmas",
@@ -2137,7 +2274,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Las Palmas",
-      "number": 65
+      "number": 70
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2163,7 +2300,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 66
+      "number": 71
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2189,7 +2326,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 67
+      "number": 72
     }
   ],
   "source_groups": [
@@ -2615,6 +2752,13 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [19:30 14/11] Thailand Vs Brunei Darussalam (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [19:50 14/11] Al Dhafra Fc Vs Ajman (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2624,6 +2768,20 @@
         {
           "name": "⚽ [20:00 14/11] Real Valladolid Cf Vs Castellon (BLV Gà Siêu Mõm) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo Vs Israel (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:30 14/11] Bangladesh Vs Pakistan (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2659,6 +2817,27 @@
         {
           "name": "⚽ [23:00 14/11] Uganda Vs Botswana (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Georgia Vs Hungary (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
