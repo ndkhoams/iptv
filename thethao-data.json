@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 07:12:51",
+  "updated_at": "2026-11-13 07:28:02",
   "live_events": [
     {
       "key": "13/11_06:00_antiguaandbarbuda_trinidadandtobago",
@@ -184,6 +184,58 @@
       "number": 7
     },
     {
+      "key": "13/11_07:30_curacao_panama",
+      "c_home": "curacao",
+      "c_away": "panama",
+      "homeTeam": "Curacao",
+      "awayTeam": "Panama",
+      "time": "07:30",
+      "date": "13/11",
+      "timestamp": 1794529800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 13/11] Curacao Vs Panama (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 13/11] Curacao vs Panama",
+      "number": 8
+    },
+    {
+      "key": "13/11_07:30_detroitredwings_floridapanthers",
+      "c_home": "floridapanthers",
+      "c_away": "detroitredwings",
+      "homeTeam": "Florida Panthers",
+      "awayTeam": "Detroit Red Wings",
+      "time": "07:30",
+      "date": "13/11",
+      "timestamp": 1794529800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:30 13/11] Florida Panthers vs Detroit Red Wings (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18150/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/684.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [07:30 13/11] Florida Panthers vs Detroit Red Wings",
+      "number": 9
+    },
+    {
       "key": "13/11_07:00_philadelphia76ers_torontoraptors",
       "c_home": "philadelphia76ers",
       "c_away": "torontoraptors",
@@ -221,7 +273,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 13/11] Philadelphia 76ers vs Toronto Raptors",
-      "number": 8
+      "number": 10
     },
     {
       "key": "13/11_07:00_detroitpistons_washingtonwizards",
@@ -247,58 +299,6 @@
         }
       ],
       "displayTitle": "🏀 [07:00 13/11] Washington Wizards vs Detroit Pistons",
-      "number": 9
-    },
-    {
-      "key": "13/11_07:30_curacao_panama",
-      "c_home": "curacao",
-      "c_away": "panama",
-      "homeTeam": "Curacao",
-      "awayTeam": "Panama",
-      "time": "07:30",
-      "date": "13/11",
-      "timestamp": 1794529800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 13/11] Curacao Vs Panama (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 13/11] Curacao vs Panama",
-      "number": 10
-    },
-    {
-      "key": "13/11_07:30_detroitredwings_floridapanthers",
-      "c_home": "floridapanthers",
-      "c_away": "detroitredwings",
-      "homeTeam": "Florida Panthers",
-      "awayTeam": "Detroit Red Wings",
-      "time": "07:30",
-      "date": "13/11",
-      "timestamp": 1794529800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:30 13/11] Florida Panthers vs Detroit Red Wings (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18150/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/684.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [07:30 13/11] Florida Panthers vs Detroit Red Wings",
       "number": 11
     },
     {
@@ -785,13 +785,6 @@
           "logo": "https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small",
           "group": "💥 Phá Làng TV",
           "ref": ""
-        },
-        {
-          "name": "⚽ [21:00 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [21:00 13/11] Kuwait vs Syria",
@@ -1054,6 +1047,13 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:30 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [23:30 13/11] Kuwait vs Syria",
@@ -2660,13 +2660,6 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [21:00 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
-          "group": "🍧 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [21:45 13/11] Qatar vs Úc (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/538_qatar.jpg",
@@ -2684,6 +2677,13 @@
           "name": "⚽ [23:00 13/11] Tunisia vs Libya (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/719_tunisia.jpg",
+          "group": "🍧 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [23:30 13/11] Kuwait vs Syria (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/640_kuwait.jpg",
           "group": "🍧 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -3335,23 +3335,23 @@
     {
       "home_team": "Philadelphia 76ers",
       "away_team": "Toronto Raptors",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "12",
+      "away_score": "19",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:30 - 1st",
+      "detail": "5:26 - 1st",
       "date": "2026-11-13T00:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Detroit Pistons",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "32",
+      "away_score": "24",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/12 - 7:00 PM EST",
+      "detail": "3:00 - 1st",
       "date": "2026-11-13T00:00Z"
     },
     {
