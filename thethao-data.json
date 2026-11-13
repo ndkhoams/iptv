@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 09:30:35",
+  "updated_at": "2026-11-13 09:45:42",
   "live_events": [
     {
       "key": "13/11_07:30_detroitredwings_floridapanthers",
@@ -269,6 +269,32 @@
       "number": 10
     },
     {
+      "key": "13/11_10:00_losangeleskings_newyorkislanders",
+      "c_home": "losangeleskings",
+      "c_away": "newyorkislanders",
+      "homeTeam": "Los Angeles Kings",
+      "awayTeam": "New York Islanders",
+      "time": "10:00",
+      "date": "13/11",
+      "timestamp": 1794538800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [10:00 13/11] Los Angeles Kings vs New York Islanders (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18135/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/685.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [10:00 13/11] Los Angeles Kings vs New York Islanders",
+      "number": 11
+    },
+    {
       "key": "13/11_07:00_detroitpistons_washingtonwizards",
       "c_home": "washingtonwizards",
       "c_away": "detroitpistons",
@@ -292,7 +318,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 13/11] Washington Wizards vs Detroit Pistons",
-      "number": 11
+      "number": 12
     },
     {
       "key": "13/11_08:00_dallasmavericks_minnesotatimberwolves",
@@ -318,7 +344,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 13/11] Minnesota Timberwolves vs Dallas Mavericks",
-      "number": 12
+      "number": 13
     },
     {
       "key": "13/11_09:00_charlottehornets_phoenixsuns",
@@ -344,32 +370,6 @@
         }
       ],
       "displayTitle": "🏀 [09:00 13/11] Phoenix Suns vs Charlotte Hornets",
-      "number": 13
-    },
-    {
-      "key": "13/11_10:00_losangeleskings_newyorkislanders",
-      "c_home": "losangeleskings",
-      "c_away": "newyorkislanders",
-      "homeTeam": "Los Angeles Kings",
-      "awayTeam": "New York Islanders",
-      "time": "10:00",
-      "date": "13/11",
-      "timestamp": 1794538800000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:00 13/11] Los Angeles Kings vs New York Islanders (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18135/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/685.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [10:00 13/11] Los Angeles Kings vs New York Islanders",
       "number": 14
     },
     {
@@ -3293,55 +3293,6 @@
       "name": "⚽ Film4k / Antsports",
       "channels": [
         {
-          "name": "⚽ [07:00 13/11] Washington Wizards vs Detroit Pistons (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18062/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/161.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] Philadelphia 76ers vs Toronto Raptors (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18066/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/154.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] Boston Bruins vs Montreal Canadiens (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18123/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/673.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] Columbus Blue Jackets vs Tampa Bay Lightning (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18129/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/680.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] New Jersey Devils vs Washington Capitals (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18148/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/690.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] Ottawa Senators vs Colorado Avalanche (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18120/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/693.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [07:00 13/11] Toronto Maple Leafs vs Minnesota Wild (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18118/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/700.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [07:30 13/11] Florida Panthers vs Detroit Red Wings (us NHL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18150/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/684.png",
@@ -3415,6 +3366,48 @@
           "name": "⚽ [09:00 13/11] Utah Mammoth vs St. Louis Blues (us NHL) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18132/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/2483.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] Washington Wizards vs Detroit Pistons (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18062/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/161.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] Boston Bruins vs Montreal Canadiens (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18123/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/673.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] Columbus Blue Jackets vs Tampa Bay Lightning (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18129/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/680.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] New Jersey Devils vs Washington Capitals (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18148/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/690.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] Ottawa Senators vs Colorado Avalanche (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18120/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/693.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [07:00 13/11] Toronto Maple Leafs vs Minnesota Wild (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18118/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/700.png",
           "group": "⚽ Film4k / Antsports",
           "ref": "https://film4k.pl/"
         },
@@ -4072,34 +4065,34 @@
     {
       "home_team": "Washington Wizards",
       "away_team": "Detroit Pistons",
-      "home_score": "118",
-      "away_score": "117",
+      "home_score": "128",
+      "away_score": "124",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "25.7 - 4th",
+      "detail": "2:36 - OT",
       "date": "2026-11-13T00:00Z"
     },
     {
       "home_team": "Minnesota Timberwolves",
       "away_team": "Dallas Mavericks",
-      "home_score": "84",
-      "away_score": "56",
+      "home_score": "101",
+      "away_score": "69",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:28 - 3rd",
+      "detail": "25.2 - 3rd",
       "date": "2026-11-13T01:00Z"
     },
     {
       "home_team": "Phoenix Suns",
       "away_team": "Charlotte Hornets",
-      "home_score": "22",
-      "away_score": "18",
+      "home_score": "41",
+      "away_score": "29",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "3:12 - 1st",
+      "detail": "8:54 - 2nd",
       "date": "2026-11-13T02:00Z"
     }
   ],
