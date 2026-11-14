@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 02:23:57",
+  "updated_at": "2026-11-15 02:31:36",
   "live_events": [
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -54,6 +54,35 @@
       "number": 1
     },
     {
+      "key": "15/11_02:45_bosniaandherzegovina_sweden",
+      "c_home": "sweden",
+      "c_away": "bosniaandherzegovina",
+      "homeTeam": "Sweden",
+      "awayTeam": "Bosnia And Herzegovina",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "15/11",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 15/11] Sweden Vs Bosnia And Herzegovina (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 15/11] Sweden vs Bosnia And Herzegovina",
+      "number": 2
+    },
+    {
       "key": "15/11_02:45_poland_romania",
       "c_home": "romania",
       "c_away": "poland",
@@ -103,7 +132,65 @@
         }
       ],
       "displayTitle": "🔴 [02:45 15/11] Romania vs Poland",
-      "number": 2
+      "number": 3
+    },
+    {
+      "key": "15/11_02:45_austria_ireland",
+      "c_home": "austria",
+      "c_away": "ireland",
+      "homeTeam": "Austria",
+      "awayTeam": "Ireland",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "15/11",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 15/11] Austria Vs Ireland (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 15/11] Austria vs Ireland",
+      "number": 4
+    },
+    {
+      "key": "15/11_02:45_northernireland_ukraine",
+      "c_home": "northernireland",
+      "c_away": "ukraine",
+      "homeTeam": "Northern Ireland",
+      "awayTeam": "Ukraine",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "15/11",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 15/11] Northern Ireland Vs Ukraine (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [02:45 15/11] Northern Ireland vs Ukraine",
+      "number": 5
     },
     {
       "key": "15/11_02:45_ao_ireland",
@@ -147,93 +234,6 @@
         }
       ],
       "displayTitle": "🔴 [02:45 15/11] Áo vs Cộng hòa Ireland",
-      "number": 3
-    },
-    {
-      "key": "15/11_02:45_northernireland_ukraine",
-      "c_home": "northernireland",
-      "c_away": "ukraine",
-      "homeTeam": "Northern Ireland",
-      "awayTeam": "Ukraine",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Northern Ireland Vs Ukraine (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 4
-    },
-    {
-      "key": "15/11_02:45_bosniaandherzegovina_sweden",
-      "c_home": "sweden",
-      "c_away": "bosniaandherzegovina",
-      "homeTeam": "Sweden",
-      "awayTeam": "Bosnia And Herzegovina",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Sweden Vs Bosnia And Herzegovina (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 5
-    },
-    {
-      "key": "15/11_02:45_austria_ireland",
-      "c_home": "austria",
-      "c_away": "ireland",
-      "homeTeam": "Austria",
-      "awayTeam": "Ireland",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Austria Vs Ireland (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
       "number": 6
     },
     {
@@ -250,7 +250,7 @@
       "league": "NATIONS_LEAGUE",
       "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -264,7 +264,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
+      "displayTitle": "🔴 [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
       "number": 7
     },
     {
@@ -764,122 +764,6 @@
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
       "number": 23
-    },
-    {
-      "key": "15/11_00:30_thecitadel_vmi",
-      "c_home": "vmi",
-      "c_away": "thecitadel",
-      "homeTeam": "VMI",
-      "awayTeam": "The Citadel",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/66.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] VMI vs The Citadel",
-      "number": 24
-    },
-    {
-      "key": "15/11_00:30_clemson_georgiatech",
-      "c_home": "clemson",
-      "c_away": "georgiatech",
-      "homeTeam": "Clemson",
-      "awayTeam": "Georgia Tech",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] Clemson vs Georgia Tech (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18407/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/209.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] Clemson vs Georgia Tech",
-      "number": 25
-    },
-    {
-      "key": "15/11_00:30_nebraska_rutgers",
-      "c_home": "rutgers",
-      "c_away": "nebraska",
-      "homeTeam": "Rutgers",
-      "awayTeam": "Nebraska",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] Rutgers vs Nebraska (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18408/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/143.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] Rutgers vs Nebraska",
-      "number": 26
-    },
-    {
-      "key": "15/11_00:45_alabama_vanderbilt",
-      "c_home": "vanderbilt",
-      "c_away": "alabama",
-      "homeTeam": "Vanderbilt",
-      "awayTeam": "Alabama",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:45",
-      "date": "15/11",
-      "timestamp": 1794678300000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/60.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:45 15/11] Vanderbilt vs Alabama",
-      "number": 27
     }
   ],
   "source_groups": [
@@ -889,6 +773,38 @@
         {
           "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Sweden Vs Bosnia And Herzegovina (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Romania Vs Poland (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Austria Vs Ireland (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Northern Ireland Vs Ukraine (BLV Gà Siêu Nhí) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -923,38 +839,6 @@
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
           "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Northern Ireland Vs Ukraine (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Sweden Vs Bosnia And Herzegovina (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Romania Vs Poland (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Austria Vs Ireland (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1382,21 +1266,21 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -1751,22 +1635,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [00:30 15/11] Fleetwood Town vs Tranmere (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18172/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1336.png",
-          "competition": "League Two",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [00:30 15/11] Almeria vs FC Andorra (es HYPERMOTION 2) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18203/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/723.png",
-          "competition": "Segunda División",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [00:30 15/11] Mallorca vs Cordoba (es HYPERMOTION) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18204/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/798.png",
@@ -1802,6 +1670,14 @@
           "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/60.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 15/11] Charlotte vs East Carolina (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18410/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/52.png",
           "competition": "NCAA",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
@@ -1881,14 +1757,14 @@
         },
         {
           "name": "📺 TV360+ 3 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/200200/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMDIwMC9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njg4MTY3fQ.bpUrrCN1Z44Fe2RCovrqHcO6no-sEIvE5y9ygeSX6rC2-XNRfdirocNJQBkMBzwQn0r-fVa0RCS5G3wjRgDamg&screen=MHL&uid=294779473",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/200/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDYyNjAsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tcGQifQ.Lai7Z59-wrI9kZNW2r0kzC6DPtIFmFsozXZMPxOqHWM&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
-            "keyId": "8405a15e96b35497bde131a29e7fb67e",
-            "key": "adb30d908915cf14760880240961a5ed"
+            "keyId": "32025feb5d1f50fc9b9d3a83b1176670",
+            "key": "75789b2624c58c07385b5a37682c9efc"
           }
         },
         {
@@ -1935,7 +1811,7 @@
         },
         {
           "name": "📺 TV360+ 11 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY4ODE3OX0.LcsPhxUcnPetdn7ZkllIXBSGwiU55HzeJrLfvmQ6LO01yqt1S7FeFPaaEQw8GeIGucfdtTExICvvS5R_mq5kUw&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDcwNjI2OX0.SOC9dA1XBx0cJP5K0fGJwluQoU73Va1BSOvT7MhLq-xoA56c_rgbG-3NpNMgNrL6ImleQ6JBrMaXl1iixZrdLA&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
