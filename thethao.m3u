@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽ TRỰC TIẾP BÓNG ĐÁ",🔄 CẬP NHẬT: 01:37 15/11/2026 (136 LUỒNG)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽ TRỰC TIẾP BÓNG ĐÁ",🔄 CẬP NHẬT: 01:51 15/11/2026 (135 LUỒNG)
 http://127.0.0.1/refresh
 #EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="🐔 Gà Vàng / Tiếu Lâm",⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng
 #EXTVLCOPT:http-referrer=https://gavangtvttbdo.tv/
@@ -333,10 +333,6 @@ https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-j
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://film4k.pl/api/tv/ants/18504/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="🏉 [23:40 14/11] England vs Japan (gb ITV1) - Film4k" tvg-logo="https://media.api-sports.io/rugby/teams/386.png" group-title="🔴 LIVE EVENTS",🏉 [23:40 14/11] England vs Japan (gb ITV1) - Film4k
-#EXTVLCOPT:http-referrer=https://film4k.pl/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://film4k.pl/api/tv/ants/18327/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽ [00:00 15/11] Norway vs Wales (US Fox Sports 2) - Film4k" tvg-logo="https://film4k.pl/api/antsimg/football/teams/1090.png" group-title="🔴 LIVE EVENTS",⚽ [00:00 15/11] Norway vs Wales (US Fox Sports 2) - Film4k
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -469,6 +465,10 @@ https://film4k.pl/api/tv/ants/18203/index.m3u8
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://film4k.pl/api/tv/ants/18204/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k" tvg-logo="https://media.api-sports.io/american-football/teams/66.png" group-title="🔴 LIVE EVENTS",🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k
+#EXTVLCOPT:http-referrer=https://film4k.pl/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://film4k.pl/api/tv/ants/18406/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k" tvg-logo="https://img-evg1.tv360.vn/image1/2026/11/10/10/179428066163/612bf265b788_1280_720.png" group-title="🔴 LIVE EVENTS",⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -501,13 +501,6 @@ https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://rr2-ateme.tv360.vn/video1/2026/03/04/16/a9ebc237/9eb0ca/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA0LzE2L2E5ZWJjMjM3LzllYjBjYS9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc5NDY5NjE4MH0.EVjRMreTq_grsovzfb56MYSCe2jICBJIEPIfC1bBuIe6fAHPSgzAEAQyFuSv1Li33vH8npM9ANikTebk-S4S-g&uid=294779473
-#EXTINF:-1 tvg-id="" tvg-name="📺 TV360+ 1 (Trực tiếp) - TV360" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png" group-title="🔴 LIVE EVENTS",📺 TV360+ 1 (Trực tiếp) - TV360
-#EXTVLCOPT:http-referrer=https://film4k.pl/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62cd425595ba45b0a3f80290510308b4:2fc95e0a371cd0ba343bc1d120dd9713
-https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2ODUzODMsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.9d6wUau5ohqRc7WlSBZmB0m5YQPUtsfIgaDnKscdwH0&minrate=0&maxrate=12000000&uid=294779473
 #EXTINF:-1 tvg-id="" tvg-name="📺 TV360+ 2 (Trực tiếp) - TV360" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png" group-title="🔴 LIVE EVENTS",📺 TV360+ 2 (Trực tiếp) - TV360
 #EXTVLCOPT:http-referrer=https://film4k.pl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
