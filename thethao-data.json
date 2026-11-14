@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 22:44:47",
+  "updated_at": "2026-11-14 23:00:01",
   "live_events": [
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -7,8 +7,8 @@
       "c_away": "israel",
       "homeTeam": "Kosovo",
       "awayTeam": "Israel",
-      "homeLogo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "21:00",
       "date": "14/11",
       "timestamp": 1794664800000,
@@ -18,22 +18,6 @@
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
-        {
-          "name": "⚽ [21:00 14/11] Kosovo Vs Israel (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [21:00 14/11] Kosovo vs Israel (us Fox Soccer Plus) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18347/index.m3u8",
@@ -779,7 +763,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -790,7 +774,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
+      "displayTitle": "🔴 [23:00 14/11] Uganda vs Botswana",
       "number": 26
     },
     {
@@ -3176,8 +3160,8 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [21:00 14/11] Kosovo Vs Israel (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [22:00 14/11] Palestine Vs Ir Iran (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3185,13 +3169,6 @@
         {
           "name": "⚽ [21:30 14/11] Bangladesh Vs Pakistan (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [22:00 14/11] Palestine Vs Ir Iran (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3649,15 +3626,6 @@
     {
       "name": "🍵 Xôi Chè TV",
       "channels": [
-        {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/681_kosovo.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [22:00 14/11] Palestine vs Iran (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
