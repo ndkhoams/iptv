@@ -1,176 +1,57 @@
 {
-  "updated_at": "2026-11-15 02:22:01",
+  "updated_at": "2026-11-15 02:23:57",
   "live_events": [
     {
-      "key": "15/11_00:30_cordoba_rcdmallorca",
-      "c_home": "rcdmallorca",
-      "c_away": "cordoba",
-      "homeTeam": "Rcd Mallorca",
-      "awayTeam": "Cordoba",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
+      "key": "15/11_02:45_denmark_portugal",
+      "c_home": "portugal",
+      "c_away": "denmark",
+      "homeTeam": "Bồ Đào Nha",
+      "awayTeam": "Đan Mạch",
+      "homeLogo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+      "time": "02:45",
       "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [00:30 15/11] Rcd Mallorca Vs Cordoba (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
+          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [00:30 15/11] Mallorca vs Cordoba (es HYPERMOTION) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18204/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/798.png",
-          "competition": "Segunda División",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 1
-    },
-    {
-      "key": "15/11_00:30_almeria_andorra",
-      "c_home": "almeria",
-      "c_away": "andorra",
-      "homeTeam": "Almeria",
-      "awayTeam": "Andorra",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:30 15/11] Almeria Vs Andorra Cf (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [00:30 15/11] Almeria vs FC Andorra (es HYPERMOTION 2) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18203/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/723.png",
-          "competition": "Segunda División",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:30 15/11] Almeria vs Andorra",
-      "number": 2
-    },
-    {
-      "key": "15/11_00:30_fleetwoodtown_tranmere",
-      "c_home": "fleetwoodtown",
-      "c_away": "tranmere",
-      "homeTeam": "Fleetwood Town",
-      "awayTeam": "Tranmere",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "LEAGUE_TWO",
-      "leagueName": "League Two",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:30 15/11] Fleetwood Town vs Tranmere (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18172/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1336.png",
-          "competition": "League Two",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:30 15/11] Fleetwood Town vs Tranmere",
-      "number": 3
-    },
-    {
-      "key": "15/11_02:00_angola_southsudan",
-      "c_home": "angola",
-      "c_away": "southsudan",
-      "homeTeam": "Angola",
-      "awayTeam": "South Sudan",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:00",
-      "date": "15/11",
-      "timestamp": 1794682800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 15/11] Angola Vs South Sudan (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [02:00 15/11] Angola vs South Sudan",
-      "number": 4
-    },
-    {
-      "key": "15/11_02:00_algeria_togo",
-      "c_home": "algeria",
-      "c_away": "togo",
-      "homeTeam": "Algeria",
-      "awayTeam": "Togo",
-      "homeLogo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
-      "time": "02:00",
-      "date": "15/11",
-      "timestamp": 1794682800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 15/11] Algeria Vs Togo (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:00 15/11] Algeria vs Togo (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
-          "competition": "Africa Cup of Nations Qualification",
+          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzA1Nzk1fQ.ZNtr2zEshKBuaC1s-aMjV_oMXDkbphp_Zo9fG88Syg-MiS_l8s2xvXdzZ253vKFjpXmWqXcwjclMkLpNynsefw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428066163/612bf265b788_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "edfa094d8ac55cf98f5867128a926aa7",
+            "key": "0e10fa6099105e2e0a7ce1e34e9c0230"
+          }
         }
       ],
-      "displayTitle": "🔴 [02:00 15/11] Algeria vs Togo",
-      "number": 5
+      "displayTitle": "🔴 [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
+      "number": 1
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -212,7 +93,7 @@
           "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2OTI1ODYsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.o2jeNiz0alRaNAuUJbWVbwg5XxfJwyOrbpHgYPm3ifA&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428235857/84f4e64314b7_1280_720.png",
           "competition": "",
-          "group": "🔴 LIVE EVENTS",
+          "group": "F4K Sport",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
@@ -222,7 +103,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 15/11] Romania vs Poland",
-      "number": 6
+      "number": 2
     },
     {
       "key": "15/11_02:45_ao_ireland",
@@ -256,7 +137,7 @@
           "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
           "competition": "",
-          "group": "🔴 LIVE EVENTS",
+          "group": "F4K Sport",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
@@ -266,191 +147,7 @@
         }
       ],
       "displayTitle": "🔴 [02:45 15/11] Áo vs Cộng hòa Ireland",
-      "number": 7
-    },
-    {
-      "key": "15/11_00:30_thecitadel_vmi",
-      "c_home": "vmi",
-      "c_away": "thecitadel",
-      "homeTeam": "VMI",
-      "awayTeam": "The Citadel",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/66.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] VMI vs The Citadel",
-      "number": 8
-    },
-    {
-      "key": "15/11_00:30_clemson_georgiatech",
-      "c_home": "clemson",
-      "c_away": "georgiatech",
-      "homeTeam": "Clemson",
-      "awayTeam": "Georgia Tech",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] Clemson vs Georgia Tech (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18407/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/209.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] Clemson vs Georgia Tech",
-      "number": 9
-    },
-    {
-      "key": "15/11_00:30_nebraska_rutgers",
-      "c_home": "rutgers",
-      "c_away": "nebraska",
-      "homeTeam": "Rutgers",
-      "awayTeam": "Nebraska",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "15/11",
-      "timestamp": 1794677400000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:30 15/11] Rutgers vs Nebraska (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18408/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/143.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:30 15/11] Rutgers vs Nebraska",
-      "number": 10
-    },
-    {
-      "key": "15/11_00:45_alabama_vanderbilt",
-      "c_home": "vanderbilt",
-      "c_away": "alabama",
-      "homeTeam": "Vanderbilt",
-      "awayTeam": "Alabama",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:45",
-      "date": "15/11",
-      "timestamp": 1794678300000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/60.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:45 15/11] Vanderbilt vs Alabama",
-      "number": 11
-    },
-    {
-      "key": "15/11_06:30_chapecoense_vascodagamasafrj",
-      "c_home": "chapecoense",
-      "c_away": "vascodagamasafrj",
-      "homeTeam": "Chapecoense Sc",
-      "awayTeam": "Vasco Da Gama Saf Rj",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "06:30",
-      "date": "15/11",
-      "timestamp": 1794699000000,
-      "league": "SERIE_A",
-      "leagueName": "Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [06:30 15/11] Chapecoense Sc Vs Vasco Da Gama Saf Rj (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/5ad7bd885c64690f15f6971a2827190d.png",
-          "competition": "Brazilian Serie A",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 12
-    },
-    {
-      "key": "15/11_02:45_denmark_portugal",
-      "c_home": "portugal",
-      "c_away": "denmark",
-      "homeTeam": "Bồ Đào Nha",
-      "awayTeam": "Đan Mạch",
-      "homeLogo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 13
+      "number": 3
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -479,7 +176,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 14
+      "number": 4
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -508,7 +205,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 15
+      "number": 5
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -537,7 +234,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 16
+      "number": 6
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -568,7 +265,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 17
+      "number": 7
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -607,36 +304,36 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 18
+      "number": 8
     },
     {
-      "key": "15/11_06:00_queretaro_rayadosdemonterrey",
-      "c_home": "queretaro",
-      "c_away": "rayadosdemonterrey",
-      "homeTeam": "Queretaro",
-      "awayTeam": "Rayados De Monterrey",
+      "key": "15/11_06:30_chapecoense_vascodagamasafrj",
+      "c_home": "chapecoense",
+      "c_away": "vascodagamasafrj",
+      "homeTeam": "Chapecoense Sc",
+      "awayTeam": "Vasco Da Gama Saf Rj",
       "homeLogo": "",
       "awayLogo": "",
-      "time": "06:00",
+      "time": "06:30",
       "date": "15/11",
-      "timestamp": 1794697200000,
-      "league": "OTHER",
-      "leagueName": "Mexico Liga MX",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "timestamp": 1794699000000,
+      "league": "SERIE_A",
+      "leagueName": "Serie A",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [06:00 15/11] Queretaro Fc Vs Rayados De Monterrey (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",
-          "competition": "Mexico Liga MX",
+          "name": "⚽ [06:30 15/11] Chapecoense Sc Vs Vasco Da Gama Saf Rj (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5ad7bd885c64690f15f6971a2827190d.png",
+          "competition": "Brazilian Serie A",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 19
+      "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
+      "number": 9
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -665,7 +362,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 20
+      "number": 10
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -704,445 +401,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 21
-    },
-    {
-      "key": "15/11_10:00_atleticolapaz_piratas",
-      "c_home": "atleticolapaz",
-      "c_away": "piratas",
-      "homeTeam": "Atletico La Paz",
-      "awayTeam": "Piratas",
-      "homeLogo": "https://apiv3.apifootball.com/badges/25476_ca-la-paz.jpg",
-      "awayLogo": "https://xoiche.live/media/teams/logos/1794340684727317575_55c3dbaa.png",
-      "time": "10:00",
-      "date": "15/11",
-      "timestamp": 1794711600000,
-      "league": "OTHER",
-      "leagueName": "Liga de Expansión MX",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:00 15/11] Atletico La Paz vs Piratas (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/25476_ca-la-paz.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/25476_ca-la-paz.jpg",
-          "away_logo": "https://xoiche.live/media/teams/logos/1794340684727317575_55c3dbaa.png",
-          "competition": "Liga de Expansión MX",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [10:00 15/11] Atletico La Paz vs Piratas",
-      "number": 22
-    },
-    {
-      "key": "15/11_10:10_india_newzealand",
-      "c_home": "newzealand",
-      "c_away": "india",
-      "homeTeam": "New Zealand",
-      "awayTeam": "India",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "10:10",
-      "date": "15/11",
-      "timestamp": 1794712200000,
-      "league": "FRIENDLY",
-      "leagueName": "Friendly",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:10 15/11] New Zealand Vs India (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
-          "competition": "International Friendly",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [10:10 15/11] New Zealand vs India",
-      "number": 23
-    },
-    {
-      "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
-      "c_home": "hokkaidoconsadolesapporo",
-      "c_away": "sagantosu",
-      "homeTeam": "Hokkaido Consadole Sapporo",
-      "awayTeam": "Sagan Tosu",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "11:00",
-      "date": "15/11",
-      "timestamp": 1794715200000,
-      "league": "OTHER",
-      "leagueName": "Japanese J2 League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo Vs Sagan Tosu (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png",
-          "competition": "Japanese J2 League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 24
-    },
-    {
-      "key": "15/11_12:00_machidazelvia_visselkobe",
-      "c_home": "machidazelvia",
-      "c_away": "visselkobe",
-      "homeTeam": "Machida Zelvia",
-      "awayTeam": "Vissel Kobe",
-      "homeLogo": "https://apiv3.apifootball.com/badges/5085_machida-zelvia.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/383_vissel-kobe.jpg",
-      "time": "12:00",
-      "date": "15/11",
-      "timestamp": 1794718800000,
-      "league": "OTHER",
-      "leagueName": "J.League Yamazaki Biscuit Levain Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [12:00 15/11] Machida vs Vissel Kobe (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/5085_machida-zelvia.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/5085_machida-zelvia.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/383_vissel-kobe.jpg",
-          "competition": "J-League Cup",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 25
-    },
-    {
-      "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
-      "c_home": "kashimaantlers",
-      "c_away": "yokohamafmarinos",
-      "homeTeam": "Kashima Antlers",
-      "awayTeam": "Yokohama F Marinos",
-      "homeLogo": "https://apiv3.apifootball.com/badges/5053_kashima-antlers.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/387_yokohama-f.-marinos.jpg",
-      "time": "13:00",
-      "date": "15/11",
-      "timestamp": 1794722400000,
-      "league": "OTHER",
-      "leagueName": "J.League Yamazaki Biscuit Levain Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [13:00 15/11] Kashima Antlers Vs Yokohama F Marinos (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/5053_kashima-antlers.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/5053_kashima-antlers.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/387_yokohama-f.-marinos.jpg",
-          "competition": "J-League Cup",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 26
-    },
-    {
-      "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
-      "c_home": "cerezoosaka",
-      "c_away": "urawareddiamonds",
-      "homeTeam": "Cerezo Osaka",
-      "awayTeam": "Urawa Red Diamonds",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "13:00",
-      "date": "15/11",
-      "timestamp": 1794722400000,
-      "league": "OTHER",
-      "leagueName": "J.League Yamazaki Biscuit Levain Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [13:00 15/11] Cerezo Osaka Vs Urawa Red Diamonds (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 27
-    },
-    {
-      "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
-      "c_home": "guizhouguiyangathletic",
-      "c_away": "dingnanunited",
-      "homeTeam": "Guizhou Guiyang Athletic",
-      "awayTeam": "Dingnan United",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "14:00",
-      "date": "15/11",
-      "timestamp": 1794726000000,
-      "league": "LEAGUE_ONE",
-      "leagueName": "League One",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [14:00 15/11] Guizhou Guiyang Athletic Vs Dingnan United (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png",
-          "competition": "Chinese Football League 1",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 28
-    },
-    {
-      "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
-      "c_home": "kashiwareysol",
-      "c_away": "kawasakifrontale",
-      "homeTeam": "Kashiwa Reysol",
-      "awayTeam": "Kawasaki Frontale",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "15:00",
-      "date": "15/11",
-      "timestamp": 1794729600000,
-      "league": "OTHER",
-      "leagueName": "J.League Yamazaki Biscuit Levain Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [15:00 15/11] Kashiwa Reysol Vs Kawasaki Frontale (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 29
-    },
-    {
-      "key": "15/11_17:30_apollonkalamarias_kallithea",
-      "c_home": "apollonkalamarias",
-      "c_away": "kallithea",
-      "homeTeam": "Apollon Kalamarias",
-      "awayTeam": "Kallithea",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "17:30",
-      "date": "15/11",
-      "timestamp": 1794738600000,
-      "league": "LEAGUE_TWO",
-      "leagueName": "League Two",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:30 15/11] Apollon Kalamarias Fc Vs Kallithea (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/8ab3d9db4697bfbd52ef99f90ba57a29.png",
-          "competition": "Greek Super League 2",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 30
-    },
-    {
-      "key": "15/11_18:00_cdtondela_farense",
-      "c_home": "cdtondela",
-      "c_away": "farense",
-      "homeTeam": "Cd Tondela",
-      "awayTeam": "Sc Farense",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "18:00",
-      "date": "15/11",
-      "timestamp": 1794740400000,
-      "league": "OTHER",
-      "leagueName": "Liga Portugal 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:00 15/11] Cd Tondela Vs Sc Farense (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",
-          "competition": "Liga Portugal 2",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 31
-    },
-    {
-      "key": "15/11_18:30_spartakkostroma_ufa",
-      "c_home": "ufa",
-      "c_away": "spartakkostroma",
-      "homeTeam": "Ufa",
-      "awayTeam": "Spartak Kostroma",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "18:30",
-      "date": "15/11",
-      "timestamp": 1794742200000,
-      "league": "OTHER",
-      "leagueName": "Russian First League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:30 15/11] Fc Ufa Vs Spartak Kostroma (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/c3ca567177713d1924f670d62e5f9da9.png",
-          "competition": "Russian First League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [18:30 15/11] Ufa vs Spartak Kostroma",
-      "number": 32
-    },
-    {
-      "key": "15/11_19:00_kyrgyzstan_vietnam",
-      "c_home": "kyrgyzstan",
-      "c_away": "vietnam",
-      "homeTeam": "Kyrgyzstan",
-      "awayTeam": "Việt Nam",
-      "homeLogo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-      "awayLogo": "https://flagcdn.com/w160/vn.png",
-      "time": "19:00",
-      "date": "15/11",
-      "timestamp": 1794744000000,
-      "league": "FRIENDLY",
-      "leagueName": "Friendly",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 15/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
-          "competition": "International Friendly",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "away_logo": "https://flagcdn.com/w160/vn.png",
-          "competition": "Friendlies",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 33
-    },
-    {
-      "key": "15/11_19:50_alsharjah_dubaiunited",
-      "c_home": "dubaiunited",
-      "c_away": "alsharjah",
-      "homeTeam": "Dubai United",
-      "awayTeam": "Al Sharjah",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "19:50",
-      "date": "15/11",
-      "timestamp": 1794747000000,
-      "league": "OTHER",
-      "leagueName": "United Arab Emirates ADIB Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:50 15/11] Dubai United Vs Al Sharjah (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png",
-          "competition": "United Arab Emirates ADIB Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 34
-    },
-    {
-      "key": "15/11_20:00_adceuta_tenerife",
-      "c_home": "tenerife",
-      "c_away": "adceuta",
-      "homeTeam": "Tenerife",
-      "awayTeam": "Ad Ceuta",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "20:00",
-      "date": "15/11",
-      "timestamp": 1794747600000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 15/11] Tenerife Vs Ad Ceuta (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 35
+      "number": 11
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -1171,7 +430,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 36
+      "number": 12
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -1200,7 +459,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 37
+      "number": 13
     },
     {
       "key": "15/11_21:00_montenegro_sip",
@@ -1231,75 +490,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Síp vs Montenegro",
-      "number": 38
-    },
-    {
-      "key": "15/11_22:15_granada_udlaspalmas",
-      "c_home": "granada",
-      "c_away": "udlaspalmas",
-      "homeTeam": "Granada",
-      "awayTeam": "Ud Las Palmas",
-      "homeLogo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/7289_las-palmas.jpg",
-      "time": "22:15",
-      "date": "15/11",
-      "timestamp": 1794755700000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:15 15/11] Granada Cf Vs Ud Las Palmas (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [22:15 15/11] Granada CF vs Las Palmas (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/151_granada.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7289_las-palmas.jpg",
-          "competition": "Segunda División",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 39
-    },
-    {
-      "key": "15/11_22:30_alahli_ittihadkalba",
-      "c_home": "ittihadkalba",
-      "c_away": "alahli",
-      "homeTeam": "Ittihad Kalba",
-      "awayTeam": "Shabab Al Ahli",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "22:30",
-      "date": "15/11",
-      "timestamp": 1794756600000,
-      "league": "OTHER",
-      "leagueName": "United Arab Emirates ADIB Cup",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png",
-          "competition": "United Arab Emirates ADIB Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 40
+      "number": 14
     },
     {
       "key": "16/11_00:00_finland_sanmarino",
@@ -1328,7 +519,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Finland vs San Marino",
-      "number": 41
+      "number": 15
     },
     {
       "key": "16/11_00:00_albania_belarus",
@@ -1357,133 +548,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Belarus vs Albania",
-      "number": 42
-    },
-    {
-      "key": "16/11_00:30_cadiz_eibar",
-      "c_home": "eibar",
-      "c_away": "cadiz",
-      "homeTeam": "Eibar",
-      "awayTeam": "Cadiz",
-      "homeLogo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/7277_cadiz.jpg",
-      "time": "00:30",
-      "date": "16/11",
-      "timestamp": 1794763800000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:30 16/11] Eibar Vs Cadiz Cf (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [00:30 16/11] Eibar vs Cadiz CF (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7277_cadiz.jpg",
-          "competition": "Segunda División",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 43
-    },
-    {
-      "key": "16/11_00:30_eldense_sabadell",
-      "c_home": "eldense",
-      "c_away": "sabadell",
-      "homeTeam": "Eldense",
-      "awayTeam": "Sabadell",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:30",
-      "date": "16/11",
-      "timestamp": 1794763800000,
-      "league": "LALIGA_2",
-      "leagueName": "La Liga 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:30 16/11] Eldense Vs Sabadell (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [00:30 16/11] Eldense vs Sabadell",
-      "number": 44
-    },
-    {
-      "key": "16/11_01:00_gdchaves_leixoes",
-      "c_home": "leixoes",
-      "c_away": "gdchaves",
-      "homeTeam": "Leixoes",
-      "awayTeam": "Gd Chaves",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "01:00",
-      "date": "16/11",
-      "timestamp": 1794765600000,
-      "league": "OTHER",
-      "leagueName": "Liga Portugal 2",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [01:00 16/11] Leixoes Vs Gd Chaves (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",
-          "competition": "Liga Portugal 2",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [01:00 16/11] Leixoes vs Gd Chaves",
-      "number": 45
-    },
-    {
-      "key": "16/11_02:30_danubio_liverpooluru",
-      "c_home": "danubio",
-      "c_away": "liverpooluru",
-      "homeTeam": "Danubio",
-      "awayTeam": "Liverpool Uru",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:30",
-      "date": "16/11",
-      "timestamp": 1794771000000,
-      "league": "OTHER",
-      "leagueName": "Uruguay Primera Division",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:30 16/11] Danubio Fc Vs Liverpool Uru (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png",
-          "competition": "Uruguay Primera Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:30 16/11] Danubio vs Liverpool Uru",
-      "number": 46
+      "number": 16
     },
     {
       "key": "16/11_02:45_france_turkiye",
@@ -1512,7 +577,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] France vs Turkiye",
-      "number": 47
+      "number": 17
     },
     {
       "key": "16/11_02:45_belgium_italy",
@@ -1541,7 +606,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Belgium vs Italy",
-      "number": 48
+      "number": 18
     },
     {
       "key": "16/11_02:45_england_spain",
@@ -1570,7 +635,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Spain vs England",
-      "number": 49
+      "number": 19
     },
     {
       "key": "16/11_06:00_curacao_panama",
@@ -1599,336 +664,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 16/11] Panama vs Curacao",
-      "number": 50
-    },
-    {
-      "key": "16/11_06:00_penarol_sportingcp",
-      "c_home": "sportingcp",
-      "c_away": "penarol",
-      "homeTeam": "Defensor Sporting Montevideo",
-      "awayTeam": "Penarol",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "06:00",
-      "date": "16/11",
-      "timestamp": 1794783600000,
-      "league": "OTHER",
-      "leagueName": "Uruguay Primera Division",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [06:00 16/11] Defensor Sporting Montevideo Vs Ca Penarol (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png",
-          "competition": "Uruguay Primera Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [06:00 16/11] Defensor Sporting Montevideo vs Penarol",
-      "number": 51
-    },
-    {
-      "key": "16/11_07:00_mexico_sacramentorepublic",
-      "c_home": "mexico",
-      "c_away": "sacramentorepublic",
-      "homeTeam": "New Mexico United",
-      "awayTeam": "Sacramento Republic",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "07:00",
-      "date": "16/11",
-      "timestamp": 1794787200000,
-      "league": "EFL",
-      "leagueName": "EFL Championship",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [07:00 16/11] New Mexico United Vs Sacramento Republic Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",
-          "competition": "USL Championship",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [07:00 16/11] New Mexico United vs Sacramento Republic",
-      "number": 52
-    },
-    {
-      "key": "16/11_19:00_bor1919_semendrija1924",
-      "c_home": "bor1919",
-      "c_away": "semendrija1924",
-      "homeTeam": "Bor 1919",
-      "awayTeam": "Semendrija 1924",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "19:00",
-      "date": "16/11",
-      "timestamp": 1794830400000,
-      "league": "OTHER",
-      "leagueName": "Serbian Mozzart Bet Prva Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 16/11] Bor 1919 Vs Semendrija 1924 (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/eeff411759fcef3be14861e55069675c.png",
-          "competition": "Serbian Mozzart Bet Prva Liga",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [19:00 16/11] Bor 1919 vs Semendrija 1924",
-      "number": 53
-    },
-    {
-      "key": "16/11_19:00_graficarbeograd_vozdovacbeograd",
-      "c_home": "graficarbeograd",
-      "c_away": "vozdovacbeograd",
-      "homeTeam": "Graficar Beograd",
-      "awayTeam": "Vozdovac Beograd",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "19:00",
-      "date": "16/11",
-      "timestamp": 1794830400000,
-      "league": "OTHER",
-      "leagueName": "Serbian Mozzart Bet Prva Liga",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 16/11] Fk Graficar Beograd Vs Fk Vozdovac Beograd (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/eeff411759fcef3be14861e55069675c.png",
-          "competition": "Serbian Mozzart Bet Prva Liga",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [19:00 16/11] Graficar Beograd vs Vozdovac Beograd",
-      "number": 54
-    },
-    {
-      "key": "16/11_20:00_algeriau17_youth_egypt_youth",
-      "c_home": "algeriau17_youth",
-      "c_away": "egypt_youth",
-      "homeTeam": "Algeria U17",
-      "awayTeam": "Egypt U17",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "20:00",
-      "date": "16/11",
-      "timestamp": 1794834000000,
-      "league": "OTHER",
-      "leagueName": "U17 Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 16/11] Algeria U17 Vs Egypt U17 (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png",
-          "competition": "CAF U17 Championship",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 16/11] Algeria U17 vs Egypt U17",
-      "number": 55
-    },
-    {
-      "key": "16/11_20:00_cameroon_namibia",
-      "c_home": "namibia",
-      "c_away": "cameroon",
-      "homeTeam": "Namibia",
-      "awayTeam": "Cameroon",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "20:00",
-      "date": "16/11",
-      "timestamp": 1794834000000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 16/11] Namibia vs Cameroon",
-      "number": 56
-    },
-    {
-      "key": "16/11_20:00_senegal_sudan",
-      "c_home": "sudan",
-      "c_away": "senegal",
-      "homeTeam": "Sudan",
-      "awayTeam": "Senegal",
-      "homeLogo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
-      "time": "20:00",
-      "date": "16/11",
-      "timestamp": 1794834000000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
-          "competition": "Africa Cup of Nations Qualification",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 57
-    },
-    {
-      "key": "16/11_20:00_equatorialguinea_zimbabwe",
-      "c_home": "zimbabwe",
-      "c_away": "equatorialguinea",
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "Equatorial Guinea",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "20:00",
-      "date": "16/11",
-      "timestamp": 1794834000000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 16/11] Zimbabwe Vs Equatorial Guinea (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea",
-      "number": 58
-    },
-    {
-      "key": "16/11_20:00_morocco_youth_tunisiau17_youth",
-      "c_home": "tunisiau17_youth",
-      "c_away": "morocco_youth",
-      "homeTeam": "Tunisia U17",
-      "awayTeam": "Morocco U17",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "20:00",
-      "date": "16/11",
-      "timestamp": 1794834000000,
-      "league": "OTHER",
-      "leagueName": "U17 Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [20:00 16/11] Tunisia U17 Vs Morocco U17 (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png",
-          "competition": "CAF U17 Championship",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [20:00 16/11] Tunisia U17 vs Morocco U17",
-      "number": 59
-    },
-    {
-      "key": "16/11_21:00_italy_youth_switzerland_youth",
-      "c_home": "italy_youth",
-      "c_away": "switzerland_youth",
-      "homeTeam": "Italy U20",
-      "awayTeam": "Switzerland U20",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "21:00",
-      "date": "16/11",
-      "timestamp": 1794837600000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Trẻ / Giao hữu",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 16/11] Italy U20 Vs Switzerland U20 (BLV Gà Siêu Nhí) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png",
-          "competition": "Elite League U20",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [21:00 16/11] Italy U20 vs Switzerland U20",
-      "number": 60
-    },
-    {
-      "key": "16/11_21:00_czechiarepublicu20_youth_germany_youth",
-      "c_home": "czechiarepublicu20_youth",
-      "c_away": "germany_youth",
-      "homeTeam": "Czechia Republic U20",
-      "awayTeam": "Germany U20",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "21:00",
-      "date": "16/11",
-      "timestamp": 1794837600000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Trẻ / Giao hữu",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [21:00 16/11] Czechia Republic U20 Vs Germany U20 (BLV Gà Siêu Tốc) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png",
-          "competition": "Elite League U20",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [21:00 16/11] Czechia Republic U20 vs Germany U20",
-      "number": 61
+      "number": 20
     },
     {
       "key": "16/11_22:00_faroeislands_moldova",
@@ -1957,7 +693,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 62
+      "number": 21
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -1996,152 +732,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 63
-    },
-    {
-      "key": "16/11_22:00_felgueirasu23_youth_leixoesu23_youth",
-      "c_home": "felgueirasu23_youth",
-      "c_away": "leixoesu23_youth",
-      "homeTeam": "Felgueiras U23",
-      "awayTeam": "Leixoes U23",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "22:00",
-      "date": "16/11",
-      "timestamp": 1794841200000,
-      "league": "OTHER",
-      "leagueName": "U23 Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:00 16/11] Felgueiras U23 Vs Leixoes U23 (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",
-          "competition": "Portuguese U23 League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [22:00 16/11] Felgueiras U23 vs Leixoes U23",
-      "number": 64
-    },
-    {
-      "key": "16/11_22:00_ghana_somalia",
-      "c_home": "somalia",
-      "c_away": "ghana",
-      "homeTeam": "Somalia",
-      "awayTeam": "Ghana",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "22:00",
-      "date": "16/11",
-      "timestamp": 1794841200000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:00 16/11] Somalia Vs Ghana (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [22:00 16/11] Somalia vs Ghana",
-      "number": 65
-    },
-    {
-      "key": "16/11_23:00_england_youth_portugal_youth",
-      "c_home": "portugal_youth",
-      "c_away": "england_youth",
-      "homeTeam": "Portugal U20",
-      "awayTeam": "England U20",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "23:00",
-      "date": "16/11",
-      "timestamp": 1794844800000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Trẻ / Giao hữu",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 16/11] Portugal U20 Vs England U20 (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png",
-          "competition": "Elite League U20",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [23:00 16/11] Portugal U20 vs England U20",
-      "number": 66
-    },
-    {
-      "key": "16/11_23:00_eritrea_guinea",
-      "c_home": "eritrea",
-      "c_away": "guinea",
-      "homeTeam": "Eritrea",
-      "awayTeam": "Guinea",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "23:00",
-      "date": "16/11",
-      "timestamp": 1794844800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 16/11] Eritrea Vs Guinea (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [23:00 16/11] Eritrea vs Guinea",
-      "number": 67
-    },
-    {
-      "key": "16/11_23:00_benin_centralafricanrepublic",
-      "c_home": "centralafricanrepublic",
-      "c_away": "benin",
-      "homeTeam": "Central African Republic",
-      "awayTeam": "Benin",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "23:00",
-      "date": "16/11",
-      "timestamp": 1794844800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:00 16/11] Central African Republic Vs Benin (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [23:00 16/11] Central African Republic vs Benin",
-      "number": 68
+      "number": 22
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -2172,73 +763,137 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 69
+      "number": 23
     },
     {
-      "key": "17/11_19:00_kyrgyzstan_vietnam",
-      "c_home": "kyrgyzstan",
-      "c_away": "vietnam",
-      "homeTeam": "Kyrgyzstan",
-      "awayTeam": "Vietnam",
+      "key": "15/11_00:30_thecitadel_vmi",
+      "c_home": "vmi",
+      "c_away": "thecitadel",
+      "homeTeam": "VMI",
+      "awayTeam": "The Citadel",
       "homeLogo": "",
       "awayLogo": "",
-      "time": "19:00",
-      "date": "17/11",
-      "timestamp": 1794916800000,
-      "league": "FRIENDLY",
-      "leagueName": "Friendly",
+      "time": "00:30",
+      "date": "15/11",
+      "timestamp": 1794677400000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
-          "competition": "International Friendly",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
+          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/66.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 70
+      "displayTitle": "🏈 [00:30 15/11] VMI vs The Citadel",
+      "number": 24
     },
     {
-      "key": "17/11_22:30_saudiarabia_uzbekistan",
-      "c_home": "saudiarabia",
-      "c_away": "uzbekistan",
-      "homeTeam": "Ả Rập Xê Út",
-      "awayTeam": "Uzbekistan",
-      "homeLogo": "https://apiv3.apifootball.com/badges/647_saudi-arabia.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/646_uzbekistan.jpg",
-      "time": "22:30",
-      "date": "17/11",
-      "timestamp": 1794929400000,
-      "league": "OTHER",
-      "leagueName": "Friendlies",
+      "key": "15/11_00:30_clemson_georgiatech",
+      "c_home": "clemson",
+      "c_away": "georgiatech",
+      "homeTeam": "Clemson",
+      "awayTeam": "Georgia Tech",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:30",
+      "date": "15/11",
+      "timestamp": 1794677400000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [22:30 17/11] Ả Rập Xê Út vs Uzbekistan (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/647_saudi-arabia.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/647_saudi-arabia.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/646_uzbekistan.jpg",
-          "competition": "Friendlies",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
+          "name": "🏈 [00:30 15/11] Clemson vs Georgia Tech (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18407/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/209.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [22:30 17/11] Ả Rập Xê Út vs Uzbekistan",
-      "number": 71
+      "displayTitle": "🏈 [00:30 15/11] Clemson vs Georgia Tech",
+      "number": 25
+    },
+    {
+      "key": "15/11_00:30_nebraska_rutgers",
+      "c_home": "rutgers",
+      "c_away": "nebraska",
+      "homeTeam": "Rutgers",
+      "awayTeam": "Nebraska",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:30",
+      "date": "15/11",
+      "timestamp": 1794677400000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:30 15/11] Rutgers vs Nebraska (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18408/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/143.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:30 15/11] Rutgers vs Nebraska",
+      "number": 26
+    },
+    {
+      "key": "15/11_00:45_alabama_vanderbilt",
+      "c_home": "vanderbilt",
+      "c_away": "alabama",
+      "homeTeam": "Vanderbilt",
+      "awayTeam": "Alabama",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:45",
+      "date": "15/11",
+      "timestamp": 1794678300000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/60.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:45 15/11] Vanderbilt vs Alabama",
+      "number": 27
     }
   ],
   "source_groups": [
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
+        {
+          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
         {
           "name": "⚽ [02:00 15/11] Angola Vs South Sudan (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -2268,14 +923,6 @@
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
           "competition": "Spanish Segunda Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -2913,6 +1560,453 @@
           "competition": "Friendlies",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        }
+      ]
+    },
+    {
+      "name": "F4K Sport",
+      "channels": [
+        {
+          "name": "🏈 [00:00 15/11] Iowa State vs Cincinnati (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18381/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/151.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Long Island University vs Central Connecticut (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18382/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/76.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Miami vs Duke (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18383/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/123.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Ohio State vs Northwestern (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18384/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/107.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] SMU vs Wake Forest (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18386/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/190.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] NC State vs Syracuse (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18387/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/121.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Maryland vs Wisconsin (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18388/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/140.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] UConn vs James Madison (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18389/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/46.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] UAlbany vs Maine (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18390/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/730.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Sacred Heart vs Bryant (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18391/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/280.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Rhode Island vs Towson (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18392/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/256.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Monmouth vs Merrimack (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18393/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/267.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Brown vs Columbia (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18394/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/322.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Robert Morris vs Stonehill (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18396/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/224.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Wagner vs New Haven (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18397/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/219.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Morgan State vs Norfolk State (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18398/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/167.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Fordham vs Georgetown (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18399/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/257.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Holy Cross vs Villanova (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18400/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/223.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Marist vs Butler (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18401/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/278.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Dayton vs Davidson (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18402/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/277.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Morehead State vs Presbyterian (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18403/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/265.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Duquesne vs Mercyhurst (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18404/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/50.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:00 15/11] Yale vs Princeton (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18405/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/328.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:30 15/11] Fleetwood Town vs Tranmere (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18172/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1336.png",
+          "competition": "League Two",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:30 15/11] Almeria vs FC Andorra (es HYPERMOTION 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18203/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/723.png",
+          "competition": "Segunda División",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:30 15/11] Mallorca vs Cordoba (es HYPERMOTION) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18204/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/798.png",
+          "competition": "Segunda División",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/66.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:30 15/11] Clemson vs Georgia Tech (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18407/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/209.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:30 15/11] Rutgers vs Nebraska (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18408/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/143.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/60.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzA1Nzk1fQ.ZNtr2zEshKBuaC1s-aMjV_oMXDkbphp_Zo9fG88Syg-MiS_l8s2xvXdzZ253vKFjpXmWqXcwjclMkLpNynsefw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428066163/612bf265b788_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "edfa094d8ac55cf98f5867128a926aa7",
+            "key": "0e10fa6099105e2e0a7ce1e34e9c0230"
+          }
+        },
+        {
+          "name": "⚽ [02:35 15/11] Romania vs Ba Lan (TV360+ 7) - Film4k",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2OTI1ODYsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.o2jeNiz0alRaNAuUJbWVbwg5XxfJwyOrbpHgYPm3ifA&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428235857/84f4e64314b7_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "072f0a0d4eda40cbb04dfadf521a2b9f",
+            "key": "2fb11373b36e018573d3b07132df050e"
+          }
+        },
+        {
+          "name": "⚽ [02:35 15/11] Áo vs Cộng hòa Ireland (TV360+ 6) - Film4k",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
+        },
+        {
+          "name": "⚽ [08:00 12/11] Phim kinh điển (TV360) - Film4k",
+          "url": "https://rr2-ateme.tv360.vn/video1/2026/03/04/16/a9ebc237/9eb0ca/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA0LzE2L2E5ZWJjMjM3LzllYjBjYS9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc5NDY5NjE4MH0.EVjRMreTq_grsovzfb56MYSCe2jICBJIEPIfC1bBuIe6fAHPSgzAEAQyFuSv1Li33vH8npM9ANikTebk-S4S-g&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/17/1794566048165/1022640ca318_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 1 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDQ3NzgsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.LL2p7yRFSU3mCx8xsImbWz44J7EiP6-8geZCOa9GPIo&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "62cd425595ba45b0a3f80290510308b4",
+            "key": "2fc95e0a371cd0ba343bc1d120dd9713"
+          }
+        },
+        {
+          "name": "📺 TV360+ 2 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njk1NDI3fQ.fUE2EfbH8dD23eHIInusNc3Bx0gQJU9xos_sv0W4HJ95Tvo-T48W-cAvnj0Ek64cCyL8Hw5x_dYA8aD2t_T1AA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "2c24f672f7715433a83953e74ae564b1",
+            "key": "10a63f9f2ccd81dfc4a05263c2fd1575"
+          }
+        },
+        {
+          "name": "📺 TV360+ 3 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/200200/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMDIwMC9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njg4MTY3fQ.bpUrrCN1Z44Fe2RCovrqHcO6no-sEIvE5y9ygeSX6rC2-XNRfdirocNJQBkMBzwQn0r-fVa0RCS5G3wjRgDamg&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "8405a15e96b35497bde131a29e7fb67e",
+            "key": "adb30d908915cf14760880240961a5ed"
+          }
+        },
+        {
+          "name": "📺 TV360+ 4 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzAxNzg3fQ.2X2WO78BacSf1CQptkvOo3zZJm3lLLx6rNZ3vOZ1W7q6R-Gm7ZNo0l-UoBA_zdY5pJmPL-z-I5SXe9RIOSwPSw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "f6ae18fbe05a596da5c9ea312d3257e2",
+            "key": "9e1eda8e6c4405c3751300309eb5822c"
+          }
+        },
+        {
+          "name": "📺 TV360+ 8 (Trực tiếp) - TV360",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2OTYxODYsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.CSKcEYIKjkoQMRNEdVsI7eFGP1ILqXh_R4h8Wz1xdwA&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "72a793a108f04d68858f2075616b6b98",
+            "key": "76650cf89c991b0d26e9c50de2087891"
+          }
+        },
+        {
+          "name": "📺 TV360+ 9 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/379/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDcwMTIzMn0.Y7hXlZT12rjY2dajerHiaCnGlmAgq4VTwwhGy5-y6X49WbAEidFcr_-18bQU4NzZ_EM-KZiCnhokevzR6W9aOA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY5NjE4OX0.E3MTdgL-efN10ga3QygaZP6q-LmRG7P27Wghyd1xbQWk7NAmZh0omqlZZsgkEpVraerXKzMGLDxwO8kW34SNFA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 11 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY4ODE3OX0.LcsPhxUcnPetdn7ZkllIXBSGwiU55HzeJrLfvmQ6LO01yqt1S7FeFPaaEQw8GeIGucfdtTExICvvS5R_mq5kUw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 TV360+ 12 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/465465/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2NTQ2NS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njk2MTg5fQ.s1duxq3bx899SKEXVxQ27tE91NzacHoMkHE_hrqLUisVC874V7-LX-PlMkin4yO7oDIdrUXQZdJFeWvW3DDiAQ&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "5a5dd595f9ae5299b5003e0d4e3e98f5",
+            "key": "d9023b3b15ecbcc8115a49f576ed0799"
+          }
+        },
+        {
+          "name": "📺 TV360+ 13 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njk2MTg5fQ.WJbtwdUu4Wuqa6DAL6cqRvVu4dtbwrdC-p8VpcEPHQdo14FHMxv5I0xg2PtxHGdbtK1W-JX6bYJUF9sBtJun5Q&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "41ce0eac12eb58f69607df0d2eaff649",
+            "key": "68c1d283bdd53500336f0db4900e2170"
+          }
+        },
+        {
+          "name": "📺 TV360+ 14 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/472472/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MjQ3Mi9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njk2MTg5fQ.uxCMguD5pbjYYkpeHgRoWnQzNVa2IpXLKC7kmcwBQIiUkJLflHkacw2iAocqZEBC79PE9GaeBJUNVcjAIfbDOQ&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "807890b3dba7517b90e568e8be4ddaa4",
+            "key": "bb89427403116b132f9fbb34cd616347"
+          }
+        },
+        {
+          "name": "📺 TV360+ 15 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/473473/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MzQ3My9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzAyMTQ3fQ.WHjL_NB0SN45R-YavDJo_MUfwTWYAX3jJmDxWN-XPnUTcGJNpNwPJKYPGKJ3aLRC7eW1V6ISiGs0M7nXULbQnA&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "fa4033841a70511c84a7fe7e0daf1a6a",
+            "key": "237d5bce065aa40fc4c8839cd8827cd2"
+          }
+        },
+        {
+          "name": "📺 TV360 (Trực tiếp) - TV360",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY5NjE4OX0.__-LzyXx0q93VHyhxDTCQTzF3Lkz-HBWR87q-LkYO5GS_Tj7WCamhfsIcTDHeqpZ5I7hfMizz95eUxP3QTKVWw&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
+          "name": "📺 Livestream 01 (Trực tiếp) - TV360",
+          "url": "https://livestream-evg8.tv360.vn/YFfsRZEicRgsBEagP8uqWA/1794760989/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/14/1794555156822/96350250891c_480_270.png",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
         }
       ]
     }
