@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 18:12:46",
+  "updated_at": "2026-11-14 18:27:58",
   "live_events": [
     {
       "key": "14/11_17:15_brazil_japan",
@@ -52,7 +52,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -63,7 +63,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [18:35 14/11] China U19 vs Tajikistan U19",
+      "displayTitle": "🔴 [18:35 14/11] China U19 vs Tajikistan U19",
       "number": 2
     },
     {
@@ -80,7 +80,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -91,8 +91,63 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [18:40 14/11] Italy vs Argentina",
+      "displayTitle": "🔴 [18:40 14/11] Italy vs Argentina",
       "number": 3
+    },
+    {
+      "key": "14/11_19:00_qatar_youth_vietnam_youth",
+      "c_home": "vietnam_youth",
+      "c_away": "qatar_youth",
+      "homeTeam": "U23 Việt Nam",
+      "awayTeam": "Qatar U23",
+      "homeLogo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+      "time": "19:00",
+      "date": "14/11",
+      "timestamp": 1794657600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [18:30 14/11] U23 Việt Nam vs U23 Qatar (TV360) - Film4k",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2MDM2MH0.ynk4KikSO3eRCIcKLAYs3HcmLAki0BPMh13sRzzlTKFlv4cJWv4LiWXML094yTGPPsfw4IkJQKpjddoQiUMdMQ&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212628974/58a34c99e396_1280_720.jpg",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        }
+      ],
+      "displayTitle": "🔴 [19:00 14/11] U23 Việt Nam vs Qatar U23",
+      "number": 4
     },
     {
       "key": "14/11_18:50_kyrgyzstan_taiwan",
@@ -122,7 +177,7 @@
         }
       ],
       "displayTitle": "⚽ [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan",
-      "number": 4
+      "number": 5
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -159,61 +214,6 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Trung Quốc vs Malaysia",
-      "number": 5
-    },
-    {
-      "key": "14/11_19:00_qatar_youth_vietnam_youth",
-      "c_home": "vietnam_youth",
-      "c_away": "qatar_youth",
-      "homeTeam": "U23 Việt Nam",
-      "awayTeam": "Qatar U23",
-      "homeLogo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
-      "time": "19:00",
-      "date": "14/11",
-      "timestamp": 1794657600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [18:30 14/11] U23 Việt Nam vs U23 Qatar (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2MDM2MH0.ynk4KikSO3eRCIcKLAYs3HcmLAki0BPMh13sRzzlTKFlv4cJWv4LiWXML094yTGPPsfw4IkJQKpjddoQiUMdMQ&screen=MHL&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212628974/58a34c99e396_1280_720.jpg",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/",
-          "dash": false,
-          "clearKey": null
-        }
-      ],
-      "displayTitle": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23",
       "number": 6
     },
     {
@@ -1399,7 +1399,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1629,7 +1629,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2036,7 +2036,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2250,7 +2250,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [19:00 15/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [19:00 15/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2466,7 +2466,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2671,7 +2671,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:45 16/11] France Vs Turkiye (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [02:45 16/11] France Vs Turkiye (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2727,7 +2727,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:45 16/11] Spain Vs England (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 16/11] Spain Vs England (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2923,7 +2923,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -2951,7 +2951,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3296,7 +3296,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3333,7 +3333,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3410,7 +3410,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [00:00 15/11] Norway Vs Wales (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3452,7 +3452,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 15/11] Portugal Vs Denmark (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3529,7 +3529,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [12:00 15/11] Machida Zelvia Vs Vissel Kobe (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3578,7 +3578,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [19:00 15/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [19:00 15/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3620,7 +3620,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3669,7 +3669,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 16/11] France Vs Turkiye (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [02:45 16/11] France Vs Turkiye (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3683,7 +3683,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 16/11] Spain Vs England (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 16/11] Spain Vs England (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3732,14 +3732,14 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -3823,7 +3823,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Gáy) - Gà Vàng",
+          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Gáy + Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -4381,7 +4381,7 @@
         },
         {
           "name": "📺 TV360+ 2 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjU4Mzg2fQ.VfiIww6Qe7ScwQMBYiJ-QvVkC1DG5jrY7DkUYjTS5defNnSWiZyLt2vdiOspJKNu7jEXNPhyoO9yWAnv4gm7KQ&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njc3MjI5fQ.OjV7exC1DeVJL7ur6KGGq_SIieU6Z69FNZd-QiguPT_0O3_8eb_aNRDFrM9b-jgcmEWyAhZ6FcMlRJ8dZLJgmg&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
