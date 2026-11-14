@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:23:11",
+  "updated_at": "2026-11-14 11:38:11",
   "live_events": [
     {
       "key": "14/11_10:00_portlandstate_southernutah",
@@ -3373,13 +3373,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [09:00 14/11] Vancouver Canucks vs New York Rangers (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18111/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/701.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [09:30 14/11] San Antonio Spurs vs Golden State Warriors (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18080/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/158.png",
@@ -3418,6 +3411,13 @@
           "name": "⚽ [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder (us NBA) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18105/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/144.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [09:00 14/11] Vancouver Canucks vs New York Rangers (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18111/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/701.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
@@ -4232,34 +4232,34 @@
     {
       "home_team": "San Antonio Spurs",
       "away_team": "Golden State Warriors",
-      "home_score": "82",
-      "away_score": "47",
+      "home_score": "97",
+      "away_score": "60",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "5:27 - 3rd",
+      "detail": "11:47 - 4th",
       "date": "2026-11-14T02:30Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Portland Trail Blazers",
-      "home_score": "53",
-      "away_score": "64",
+      "home_score": "68",
+      "away_score": "77",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "6:41 - 3rd",
       "date": "2026-11-14T03:00Z"
     },
     {
       "home_team": "LA Clippers",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "43",
-      "away_score": "36",
+      "home_score": "55",
+      "away_score": "40",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:57 - 2nd",
+      "detail": "2:54 - 2nd",
       "date": "2026-11-14T03:30Z"
     }
   ],
