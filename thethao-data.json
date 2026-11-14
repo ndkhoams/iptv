@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 18:43:17",
+  "updated_at": "2026-11-14 18:58:07",
   "live_events": [
     {
       "key": "14/11_17:15_brazil_japan",
@@ -168,7 +168,7 @@
         },
         {
           "name": "⚽ [18:30 14/11] U23 Việt Nam vs U23 Qatar (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2MDM2MH0.ynk4KikSO3eRCIcKLAYs3HcmLAki0BPMh13sRzzlTKFlv4cJWv4LiWXML094yTGPPsfw4IkJQKpjddoQiUMdMQ&screen=MHL&uid=294779473",
+          "url": "https://tr-netcdn.tv360.vn/netcdn-live/479/output/index.m3u8?timestamp=1794678369&wmkid=0&token=f97ce7ec4f391e8d2f5b83dee9a7eec8&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212628974/58a34c99e396_1280_720.jpg",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -193,7 +193,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -213,7 +213,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [19:00 14/11] Trung Quốc vs Malaysia",
+      "displayTitle": "🔴 [19:00 14/11] Trung Quốc vs Malaysia",
       "number": 6
     },
     {
@@ -1436,15 +1436,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [00:00 15/11] Norway vs Wales (es English) - Film4k",
+          "name": "⚽ [00:00 15/11] Norway vs Wales (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18354/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [00:00 15/11] Norway vs Wales (no TV 2) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18355/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
@@ -3835,6 +3828,15 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://flagcdn.com/w160/cn.png",
+          "home_logo": "https://flagcdn.com/w160/cn.png",
+          "away_logo": "https://flagcdn.com/w160/my.png",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
@@ -3849,15 +3851,6 @@
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://flagcdn.com/w160/cn.png",
-          "home_logo": "https://flagcdn.com/w160/cn.png",
-          "away_logo": "https://flagcdn.com/w160/my.png",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -4285,22 +4278,15 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [00:00 15/11] Norway vs Wales (es English) - Film4k",
+          "name": "⚽ [00:00 15/11] Norway vs Wales (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18354/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [00:00 15/11] Norway vs Wales (no TV 2) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18355/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [18:30 14/11] U23 Việt Nam vs U23 Qatar (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2MDM2MH0.ynk4KikSO3eRCIcKLAYs3HcmLAki0BPMh13sRzzlTKFlv4cJWv4LiWXML094yTGPPsfw4IkJQKpjddoQiUMdMQ&screen=MHL&uid=294779473",
+          "url": "https://tr-netcdn.tv360.vn/netcdn-live/479/output/index.m3u8?timestamp=1794678369&wmkid=0&token=f97ce7ec4f391e8d2f5b83dee9a7eec8&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212628974/58a34c99e396_1280_720.jpg",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
