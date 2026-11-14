@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 02:46:47",
+  "updated_at": "2026-11-15 02:49:25",
   "live_events": [
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -54,13 +54,13 @@
       "number": 1
     },
     {
-      "key": "15/11_02:45_bosniaandherzegovina_sweden",
+      "key": "15/11_02:45_bosnia_sweden",
       "c_home": "sweden",
-      "c_away": "bosniaandherzegovina",
-      "homeTeam": "Sweden",
+      "c_away": "bosnia",
+      "homeTeam": "Thụy Điển",
       "awayTeam": "Bosnia And Herzegovina",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -77,9 +77,19 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "🔴 [02:45 15/11] Sweden vs Bosnia And Herzegovina",
+      "displayTitle": "🔴 [02:45 15/11] Thụy Điển vs Bosnia And Herzegovina",
       "number": 2
     },
     {
@@ -139,9 +149,9 @@
       "c_home": "austria",
       "c_away": "ireland",
       "homeTeam": "Austria",
-      "awayTeam": "Ireland",
-      "homeLogo": "",
-      "awayLogo": "",
+      "awayTeam": "Cộng hòa Ireland",
+      "homeLogo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -158,14 +168,37 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:35 15/11] Áo vs Cộng hòa Ireland (TV360+ 6) - Film4k",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
         }
       ],
-      "displayTitle": "🔴 [02:45 15/11] Austria vs Ireland",
+      "displayTitle": "🔴 [02:45 15/11] Austria vs Cộng hòa Ireland",
       "number": 4
     },
     {
-      "key": "15/11_02:45_northernireland_ukraine",
-      "c_home": "northernireland",
+      "key": "15/11_02:45_ireland_ukraine",
+      "c_home": "ireland",
       "c_away": "ukraine",
       "homeTeam": "Northern Ireland",
       "awayTeam": "Ukraine",
@@ -193,81 +226,6 @@
       "number": 5
     },
     {
-      "key": "15/11_02:45_ao_ireland",
-      "c_home": "ao",
-      "c_away": "ireland",
-      "homeTeam": "Áo",
-      "awayTeam": "Cộng hòa Ireland",
-      "homeLogo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:35 15/11] Áo vs Cộng hòa Ireland (TV360+ 6) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
-          "competition": "",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
-            "key": "6c06f96a6296d05442466d5b09e58192"
-          }
-        }
-      ],
-      "displayTitle": "🔴 [02:45 15/11] Áo vs Cộng hòa Ireland",
-      "number": 6
-    },
-    {
-      "key": "15/11_02:45_bosniaherzegovina_sweden",
-      "c_home": "sweden",
-      "c_away": "bosniaherzegovina",
-      "homeTeam": "Thụy Điển",
-      "awayTeam": "Bosnia & Herzegovina",
-      "homeLogo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "🔴 [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 7
-    },
-    {
       "key": "15/11_04:30_haiti_usa",
       "c_home": "haiti",
       "c_away": "usa",
@@ -278,8 +236,8 @@
       "time": "04:30",
       "date": "15/11",
       "timestamp": 1794691800000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": false,
       "isCompleted": false,
@@ -304,40 +262,11 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 8
+      "number": 6
     },
     {
-      "key": "15/11_06:30_chapecoense_vascodagamasafrj",
-      "c_home": "chapecoense",
-      "c_away": "vascodagamasafrj",
-      "homeTeam": "Chapecoense Sc",
-      "awayTeam": "Vasco Da Gama Saf Rj",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "06:30",
-      "date": "15/11",
-      "timestamp": 1794699000000,
-      "league": "SERIE_A",
-      "leagueName": "Serie A",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_seriea",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [06:30 15/11] Chapecoense Sc Vs Vasco Da Gama Saf Rj (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/5ad7bd885c64690f15f6971a2827190d.png",
-          "competition": "Brazilian Serie A",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 9
-    },
-    {
-      "key": "15/11_07:00_belize_saintvincentandthegrenadines",
-      "c_home": "saintvincentandthegrenadines",
+      "key": "15/11_07:00_belize_saintvincent",
+      "c_home": "saintvincent",
       "c_away": "belize",
       "homeTeam": "Saint Vincent And The Grenadines",
       "awayTeam": "Belize",
@@ -346,8 +275,8 @@
       "time": "07:00",
       "date": "15/11",
       "timestamp": 1794700800000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": false,
       "isCompleted": false,
@@ -362,7 +291,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 10
+      "number": 7
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -375,8 +304,8 @@
       "time": "08:00",
       "date": "15/11",
       "timestamp": 1794704400000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": false,
       "isCompleted": false,
@@ -401,7 +330,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 11
+      "number": 8
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -430,16 +359,16 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 12
+      "number": 9
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
       "c_home": "cyprus",
       "c_away": "montenegro",
-      "homeTeam": "Cyprus",
+      "homeTeam": "Síp",
       "awayTeam": "Montenegro",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/697_cyprus.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/693_montenegro.jpg",
       "time": "21:00",
       "date": "15/11",
       "timestamp": 1794751200000,
@@ -456,28 +385,7 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 13
-    },
-    {
-      "key": "15/11_21:00_montenegro_sip",
-      "c_home": "sip",
-      "c_away": "montenegro",
-      "homeTeam": "Síp",
-      "awayTeam": "Montenegro",
-      "homeLogo": "https://apiv3.apifootball.com/badges/697_cyprus.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/693_montenegro.jpg",
-      "time": "21:00",
-      "date": "15/11",
-      "timestamp": 1794751200000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
+        },
         {
           "name": "⚽ [21:00 15/11] Síp vs Montenegro (BLV Tam Mao) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
@@ -490,7 +398,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Síp vs Montenegro",
-      "number": 14
+      "number": 10
     },
     {
       "key": "16/11_00:00_finland_sanmarino",
@@ -519,7 +427,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Finland vs San Marino",
-      "number": 15
+      "number": 11
     },
     {
       "key": "16/11_00:00_albania_belarus",
@@ -548,7 +456,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Belarus vs Albania",
-      "number": 16
+      "number": 12
     },
     {
       "key": "16/11_02:45_france_turkiye",
@@ -577,7 +485,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] France vs Turkiye",
-      "number": 17
+      "number": 13
     },
     {
       "key": "16/11_02:45_belgium_italy",
@@ -606,7 +514,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Belgium vs Italy",
-      "number": 18
+      "number": 14
     },
     {
       "key": "16/11_02:45_england_spain",
@@ -635,7 +543,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Spain vs England",
-      "number": 19
+      "number": 15
     },
     {
       "key": "16/11_06:00_curacao_panama",
@@ -648,8 +556,8 @@
       "time": "06:00",
       "date": "16/11",
       "timestamp": 1794783600000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": false,
       "isCompleted": false,
@@ -664,11 +572,11 @@
         }
       ],
       "displayTitle": "⚽ [06:00 16/11] Panama vs Curacao",
-      "number": 20
+      "number": 16
     },
     {
-      "key": "16/11_22:00_faroeislands_moldova",
-      "c_home": "faroeislands",
+      "key": "16/11_22:00_faroe_moldova",
+      "c_home": "faroe",
       "c_away": "moldova",
       "homeTeam": "Faroe Islands",
       "awayTeam": "Moldova",
@@ -693,7 +601,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 21
+      "number": 17
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -732,7 +640,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 22
+      "number": 18
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -763,7 +671,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 23
+      "number": 19
     }
   ],
   "source_groups": [
