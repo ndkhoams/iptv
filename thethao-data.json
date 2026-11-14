@@ -1,35 +1,6 @@
 {
-  "updated_at": "2026-11-15 01:37:54",
+  "updated_at": "2026-11-15 01:51:56",
   "live_events": [
-    {
-      "key": "14/11_23:40_england_japan",
-      "c_home": "england",
-      "c_away": "japan",
-      "homeTeam": "England",
-      "awayTeam": "Japan",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "23:40",
-      "date": "14/11",
-      "timestamp": 1794674400000,
-      "league": "RUGBY",
-      "leagueName": "Rugby",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏉 [23:40 14/11] England vs Japan (gb ITV1) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18327/index.m3u8",
-          "logo": "https://media.api-sports.io/rugby/teams/386.png",
-          "competition": "Nations Championship",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [23:40 14/11] England vs Japan",
-      "number": 1
-    },
     {
       "key": "15/11_00:00_norway_wales",
       "c_home": "norway",
@@ -112,7 +83,7 @@
         }
       ],
       "displayTitle": "🔴 [00:00 15/11] Norway vs Xứ Wales",
-      "number": 2
+      "number": 1
     },
     {
       "key": "15/11_00:00_georgia_hungary",
@@ -175,674 +146,7 @@
         }
       ],
       "displayTitle": "🔴 [00:00 15/11] Georgia vs Hungary",
-      "number": 3
-    },
-    {
-      "key": "15/11_00:00_cincinnati_iowastate",
-      "c_home": "iowastate",
-      "c_away": "cincinnati",
-      "homeTeam": "Iowa State",
-      "awayTeam": "Cincinnati",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Iowa State vs Cincinnati (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18381/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/151.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Iowa State vs Cincinnati",
-      "number": 4
-    },
-    {
-      "key": "15/11_00:00_centralconnecticut_longislanduniversity",
-      "c_home": "longislanduniversity",
-      "c_away": "centralconnecticut",
-      "homeTeam": "Long Island University",
-      "awayTeam": "Central Connecticut",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Long Island University vs Central Connecticut (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18382/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/76.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Long Island University vs Central Connecticut",
-      "number": 5
-    },
-    {
-      "key": "15/11_00:00_duke_intermiami",
-      "c_home": "intermiami",
-      "c_away": "duke",
-      "homeTeam": "Miami",
-      "awayTeam": "Duke",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Miami vs Duke (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18383/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/123.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Miami vs Duke",
-      "number": 6
-    },
-    {
-      "key": "15/11_00:00_northwestern_ohiostate",
-      "c_home": "ohiostate",
-      "c_away": "northwestern",
-      "homeTeam": "Ohio State",
-      "awayTeam": "Northwestern",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Ohio State vs Northwestern (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18384/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/107.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Ohio State vs Northwestern",
-      "number": 7
-    },
-    {
-      "key": "15/11_00:00_smu_wakeforest",
-      "c_home": "smu",
-      "c_away": "wakeforest",
-      "homeTeam": "SMU",
-      "awayTeam": "Wake Forest",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] SMU vs Wake Forest (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18386/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/190.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] SMU vs Wake Forest",
-      "number": 8
-    },
-    {
-      "key": "15/11_00:00_ncstate_syracuse",
-      "c_home": "ncstate",
-      "c_away": "syracuse",
-      "homeTeam": "NC State",
-      "awayTeam": "Syracuse",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] NC State vs Syracuse (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18387/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/121.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] NC State vs Syracuse",
-      "number": 9
-    },
-    {
-      "key": "15/11_00:00_maryland_wisconsin",
-      "c_home": "maryland",
-      "c_away": "wisconsin",
-      "homeTeam": "Maryland",
-      "awayTeam": "Wisconsin",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Maryland vs Wisconsin (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18388/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/140.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Maryland vs Wisconsin",
-      "number": 10
-    },
-    {
-      "key": "15/11_00:00_jamesmadison_uconn",
-      "c_home": "uconn",
-      "c_away": "jamesmadison",
-      "homeTeam": "UConn",
-      "awayTeam": "James Madison",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] UConn vs James Madison (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18389/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/46.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] UConn vs James Madison",
-      "number": 11
-    },
-    {
-      "key": "15/11_00:00_maine_ualbany",
-      "c_home": "ualbany",
-      "c_away": "maine",
-      "homeTeam": "UAlbany",
-      "awayTeam": "Maine",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] UAlbany vs Maine (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18390/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/730.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] UAlbany vs Maine",
-      "number": 12
-    },
-    {
-      "key": "15/11_00:00_bryant_sacredheart",
-      "c_home": "sacredheart",
-      "c_away": "bryant",
-      "homeTeam": "Sacred Heart",
-      "awayTeam": "Bryant",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Sacred Heart vs Bryant (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18391/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/280.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Sacred Heart vs Bryant",
-      "number": 13
-    },
-    {
-      "key": "15/11_00:00_rhodeisland_towson",
-      "c_home": "rhodeisland",
-      "c_away": "towson",
-      "homeTeam": "Rhode Island",
-      "awayTeam": "Towson",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Rhode Island vs Towson (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18392/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/256.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Rhode Island vs Towson",
-      "number": 14
-    },
-    {
-      "key": "15/11_00:00_merrimack_monmouth",
-      "c_home": "monmouth",
-      "c_away": "merrimack",
-      "homeTeam": "Monmouth",
-      "awayTeam": "Merrimack",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Monmouth vs Merrimack (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18393/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/267.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Monmouth vs Merrimack",
-      "number": 15
-    },
-    {
-      "key": "15/11_00:00_brown_columbia",
-      "c_home": "brown",
-      "c_away": "columbia",
-      "homeTeam": "Brown",
-      "awayTeam": "Columbia",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Brown vs Columbia (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18394/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/322.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Brown vs Columbia",
-      "number": 16
-    },
-    {
-      "key": "15/11_00:00_robertmorris_stonehill",
-      "c_home": "robertmorris",
-      "c_away": "stonehill",
-      "homeTeam": "Robert Morris",
-      "awayTeam": "Stonehill",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Robert Morris vs Stonehill (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18396/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/224.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Robert Morris vs Stonehill",
-      "number": 17
-    },
-    {
-      "key": "15/11_00:00_newhaven_wagner",
-      "c_home": "wagner",
-      "c_away": "newhaven",
-      "homeTeam": "Wagner",
-      "awayTeam": "New Haven",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Wagner vs New Haven (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18397/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/219.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Wagner vs New Haven",
-      "number": 18
-    },
-    {
-      "key": "15/11_00:00_morganstate_norfolkstate",
-      "c_home": "morganstate",
-      "c_away": "norfolkstate",
-      "homeTeam": "Morgan State",
-      "awayTeam": "Norfolk State",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Morgan State vs Norfolk State (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18398/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/167.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Morgan State vs Norfolk State",
-      "number": 19
-    },
-    {
-      "key": "15/11_00:00_fordham_georgetown",
-      "c_home": "fordham",
-      "c_away": "georgetown",
-      "homeTeam": "Fordham",
-      "awayTeam": "Georgetown",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Fordham vs Georgetown (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18399/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/257.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Fordham vs Georgetown",
-      "number": 20
-    },
-    {
-      "key": "15/11_00:00_holycross_villanova",
-      "c_home": "holycross",
-      "c_away": "villanova",
-      "homeTeam": "Holy Cross",
-      "awayTeam": "Villanova",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Holy Cross vs Villanova (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18400/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/223.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Holy Cross vs Villanova",
-      "number": 21
-    },
-    {
-      "key": "15/11_00:00_butler_marist",
-      "c_home": "marist",
-      "c_away": "butler",
-      "homeTeam": "Marist",
-      "awayTeam": "Butler",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Marist vs Butler (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18401/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/278.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Marist vs Butler",
-      "number": 22
-    },
-    {
-      "key": "15/11_00:00_davidson_dayton",
-      "c_home": "dayton",
-      "c_away": "davidson",
-      "homeTeam": "Dayton",
-      "awayTeam": "Davidson",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Dayton vs Davidson (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18402/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/277.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Dayton vs Davidson",
-      "number": 23
-    },
-    {
-      "key": "15/11_00:00_moreheadstate_presbyterian",
-      "c_home": "moreheadstate",
-      "c_away": "presbyterian",
-      "homeTeam": "Morehead State",
-      "awayTeam": "Presbyterian",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Morehead State vs Presbyterian (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18403/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/265.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Morehead State vs Presbyterian",
-      "number": 24
-    },
-    {
-      "key": "15/11_00:00_duquesne_mercyhurst",
-      "c_home": "duquesne",
-      "c_away": "mercyhurst",
-      "homeTeam": "Duquesne",
-      "awayTeam": "Mercyhurst",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Duquesne vs Mercyhurst (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18404/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/50.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Duquesne vs Mercyhurst",
-      "number": 25
-    },
-    {
-      "key": "15/11_00:00_princeton_yale",
-      "c_home": "yale",
-      "c_away": "princeton",
-      "homeTeam": "Yale",
-      "awayTeam": "Princeton",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "OTHER",
-      "leagueName": "NCAA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Yale vs Princeton (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18405/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/328.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 15/11] Yale vs Princeton",
-      "number": 26
+      "number": 2
     },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
@@ -879,7 +183,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 27
+      "number": 3
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -916,7 +220,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Almeria vs Andorra",
-      "number": 28
+      "number": 4
     },
     {
       "key": "15/11_00:30_fleetwoodtown_tranmere",
@@ -945,7 +249,771 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Fleetwood Town vs Tranmere",
+      "number": 5
+    },
+    {
+      "key": "15/11_02:00_angola_southsudan",
+      "c_home": "angola",
+      "c_away": "southsudan",
+      "homeTeam": "Angola",
+      "awayTeam": "South Sudan",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:00",
+      "date": "15/11",
+      "timestamp": 1794682800000,
+      "league": "OTHER",
+      "leagueName": "CAF Africa Cup of Nations",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 15/11] Angola Vs South Sudan (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 15/11] Angola vs South Sudan",
+      "number": 6
+    },
+    {
+      "key": "15/11_02:00_algeria_togo",
+      "c_home": "algeria",
+      "c_away": "togo",
+      "homeTeam": "Algeria",
+      "awayTeam": "Togo",
+      "homeLogo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
+      "time": "02:00",
+      "date": "15/11",
+      "timestamp": 1794682800000,
+      "league": "OTHER",
+      "leagueName": "CAF Africa Cup of Nations",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 15/11] Algeria Vs Togo (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:00 15/11] Algeria vs Togo (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
+          "competition": "Africa Cup of Nations Qualification",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "🔴 [02:00 15/11] Algeria vs Togo",
+      "number": 7
+    },
+    {
+      "key": "15/11_00:00_cincinnati_iowastate",
+      "c_home": "iowastate",
+      "c_away": "cincinnati",
+      "homeTeam": "Iowa State",
+      "awayTeam": "Cincinnati",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Iowa State vs Cincinnati (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18381/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/151.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Iowa State vs Cincinnati",
+      "number": 8
+    },
+    {
+      "key": "15/11_00:00_centralconnecticut_longislanduniversity",
+      "c_home": "longislanduniversity",
+      "c_away": "centralconnecticut",
+      "homeTeam": "Long Island University",
+      "awayTeam": "Central Connecticut",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Long Island University vs Central Connecticut (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18382/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/76.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Long Island University vs Central Connecticut",
+      "number": 9
+    },
+    {
+      "key": "15/11_00:00_duke_intermiami",
+      "c_home": "intermiami",
+      "c_away": "duke",
+      "homeTeam": "Miami",
+      "awayTeam": "Duke",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Miami vs Duke (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18383/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/123.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Miami vs Duke",
+      "number": 10
+    },
+    {
+      "key": "15/11_00:00_northwestern_ohiostate",
+      "c_home": "ohiostate",
+      "c_away": "northwestern",
+      "homeTeam": "Ohio State",
+      "awayTeam": "Northwestern",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Ohio State vs Northwestern (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18384/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/107.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Ohio State vs Northwestern",
+      "number": 11
+    },
+    {
+      "key": "15/11_00:00_smu_wakeforest",
+      "c_home": "smu",
+      "c_away": "wakeforest",
+      "homeTeam": "SMU",
+      "awayTeam": "Wake Forest",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] SMU vs Wake Forest (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18386/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/190.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] SMU vs Wake Forest",
+      "number": 12
+    },
+    {
+      "key": "15/11_00:00_ncstate_syracuse",
+      "c_home": "ncstate",
+      "c_away": "syracuse",
+      "homeTeam": "NC State",
+      "awayTeam": "Syracuse",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] NC State vs Syracuse (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18387/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/121.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] NC State vs Syracuse",
+      "number": 13
+    },
+    {
+      "key": "15/11_00:00_maryland_wisconsin",
+      "c_home": "maryland",
+      "c_away": "wisconsin",
+      "homeTeam": "Maryland",
+      "awayTeam": "Wisconsin",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Maryland vs Wisconsin (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18388/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/140.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Maryland vs Wisconsin",
+      "number": 14
+    },
+    {
+      "key": "15/11_00:00_jamesmadison_uconn",
+      "c_home": "uconn",
+      "c_away": "jamesmadison",
+      "homeTeam": "UConn",
+      "awayTeam": "James Madison",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] UConn vs James Madison (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18389/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/46.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] UConn vs James Madison",
+      "number": 15
+    },
+    {
+      "key": "15/11_00:00_maine_ualbany",
+      "c_home": "ualbany",
+      "c_away": "maine",
+      "homeTeam": "UAlbany",
+      "awayTeam": "Maine",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] UAlbany vs Maine (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18390/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/730.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] UAlbany vs Maine",
+      "number": 16
+    },
+    {
+      "key": "15/11_00:00_bryant_sacredheart",
+      "c_home": "sacredheart",
+      "c_away": "bryant",
+      "homeTeam": "Sacred Heart",
+      "awayTeam": "Bryant",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Sacred Heart vs Bryant (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18391/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/280.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Sacred Heart vs Bryant",
+      "number": 17
+    },
+    {
+      "key": "15/11_00:00_rhodeisland_towson",
+      "c_home": "rhodeisland",
+      "c_away": "towson",
+      "homeTeam": "Rhode Island",
+      "awayTeam": "Towson",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Rhode Island vs Towson (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18392/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/256.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Rhode Island vs Towson",
+      "number": 18
+    },
+    {
+      "key": "15/11_00:00_merrimack_monmouth",
+      "c_home": "monmouth",
+      "c_away": "merrimack",
+      "homeTeam": "Monmouth",
+      "awayTeam": "Merrimack",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Monmouth vs Merrimack (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18393/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/267.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Monmouth vs Merrimack",
+      "number": 19
+    },
+    {
+      "key": "15/11_00:00_brown_columbia",
+      "c_home": "brown",
+      "c_away": "columbia",
+      "homeTeam": "Brown",
+      "awayTeam": "Columbia",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Brown vs Columbia (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18394/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/322.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Brown vs Columbia",
+      "number": 20
+    },
+    {
+      "key": "15/11_00:00_robertmorris_stonehill",
+      "c_home": "robertmorris",
+      "c_away": "stonehill",
+      "homeTeam": "Robert Morris",
+      "awayTeam": "Stonehill",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Robert Morris vs Stonehill (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18396/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/224.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Robert Morris vs Stonehill",
+      "number": 21
+    },
+    {
+      "key": "15/11_00:00_newhaven_wagner",
+      "c_home": "wagner",
+      "c_away": "newhaven",
+      "homeTeam": "Wagner",
+      "awayTeam": "New Haven",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Wagner vs New Haven (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18397/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/219.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Wagner vs New Haven",
+      "number": 22
+    },
+    {
+      "key": "15/11_00:00_morganstate_norfolkstate",
+      "c_home": "morganstate",
+      "c_away": "norfolkstate",
+      "homeTeam": "Morgan State",
+      "awayTeam": "Norfolk State",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Morgan State vs Norfolk State (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18398/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/167.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Morgan State vs Norfolk State",
+      "number": 23
+    },
+    {
+      "key": "15/11_00:00_fordham_georgetown",
+      "c_home": "fordham",
+      "c_away": "georgetown",
+      "homeTeam": "Fordham",
+      "awayTeam": "Georgetown",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Fordham vs Georgetown (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18399/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/257.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Fordham vs Georgetown",
+      "number": 24
+    },
+    {
+      "key": "15/11_00:00_holycross_villanova",
+      "c_home": "holycross",
+      "c_away": "villanova",
+      "homeTeam": "Holy Cross",
+      "awayTeam": "Villanova",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Holy Cross vs Villanova (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18400/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/223.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Holy Cross vs Villanova",
+      "number": 25
+    },
+    {
+      "key": "15/11_00:00_butler_marist",
+      "c_home": "marist",
+      "c_away": "butler",
+      "homeTeam": "Marist",
+      "awayTeam": "Butler",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Marist vs Butler (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18401/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/278.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Marist vs Butler",
+      "number": 26
+    },
+    {
+      "key": "15/11_00:00_davidson_dayton",
+      "c_home": "dayton",
+      "c_away": "davidson",
+      "homeTeam": "Dayton",
+      "awayTeam": "Davidson",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Dayton vs Davidson (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18402/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/277.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Dayton vs Davidson",
+      "number": 27
+    },
+    {
+      "key": "15/11_00:00_moreheadstate_presbyterian",
+      "c_home": "moreheadstate",
+      "c_away": "presbyterian",
+      "homeTeam": "Morehead State",
+      "awayTeam": "Presbyterian",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Morehead State vs Presbyterian (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18403/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/265.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Morehead State vs Presbyterian",
+      "number": 28
+    },
+    {
+      "key": "15/11_00:00_duquesne_mercyhurst",
+      "c_home": "duquesne",
+      "c_away": "mercyhurst",
+      "homeTeam": "Duquesne",
+      "awayTeam": "Mercyhurst",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Duquesne vs Mercyhurst (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18404/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/50.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Duquesne vs Mercyhurst",
       "number": 29
+    },
+    {
+      "key": "15/11_00:00_princeton_yale",
+      "c_home": "yale",
+      "c_away": "princeton",
+      "homeTeam": "Yale",
+      "awayTeam": "Princeton",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:00",
+      "date": "15/11",
+      "timestamp": 1794675600000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:00 15/11] Yale vs Princeton (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18405/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/328.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:00 15/11] Yale vs Princeton",
+      "number": 30
+    },
+    {
+      "key": "15/11_00:30_thecitadel_vmi",
+      "c_home": "vmi",
+      "c_away": "thecitadel",
+      "homeTeam": "VMI",
+      "awayTeam": "The Citadel",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:30",
+      "date": "15/11",
+      "timestamp": 1794677400000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/66.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:30 15/11] VMI vs The Citadel",
+      "number": 31
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -974,74 +1042,6 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 30
-    },
-    {
-      "key": "15/11_02:00_angola_southsudan",
-      "c_home": "angola",
-      "c_away": "southsudan",
-      "homeTeam": "Angola",
-      "awayTeam": "South Sudan",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:00",
-      "date": "15/11",
-      "timestamp": 1794682800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 15/11] Angola Vs South Sudan (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [02:00 15/11] Angola vs South Sudan",
-      "number": 31
-    },
-    {
-      "key": "15/11_02:00_algeria_togo",
-      "c_home": "algeria",
-      "c_away": "togo",
-      "homeTeam": "Algeria",
-      "awayTeam": "Togo",
-      "homeLogo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
-      "time": "02:00",
-      "date": "15/11",
-      "timestamp": 1794682800000,
-      "league": "OTHER",
-      "leagueName": "CAF Africa Cup of Nations",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:00 15/11] Algeria Vs Togo (BLV Gà Siêu Mõm) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:00 15/11] Algeria vs Togo (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/734_algeria.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/633_togo.jpg",
-          "competition": "Africa Cup of Nations Qualification",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        }
-      ],
-      "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
       "number": 32
     },
     {
