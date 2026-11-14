@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 14:02:01",
+  "updated_at": "2026-11-14 14:15:57",
   "live_events": [
     {
       "key": "14/11_13:00_bahrain_yemen",
@@ -43,7 +43,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -54,7 +54,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [14:30 14/11] Vietnam U19 vs South Korea U19",
+      "displayTitle": "🔴 [14:30 14/11] Vietnam U19 vs South Korea U19",
       "number": 2
     },
     {
@@ -957,6 +957,34 @@
       "number": 30
     },
     {
+      "key": "14/11_22:00_afcwimbledon_blackpool",
+      "c_home": "afcwimbledon",
+      "c_away": "blackpool",
+      "homeTeam": "AFC Wimbledon",
+      "awayTeam": "Blackpool",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "22:00",
+      "date": "14/11",
+      "timestamp": 1794668400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 14/11] AFC Wimbledon vs Blackpool (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18190/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1333.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 14/11] AFC Wimbledon vs Blackpool",
+      "number": 31
+    },
+    {
       "key": "14/11_22:00_bromley_nottscounty",
       "c_home": "bromley",
       "c_away": "nottscounty",
@@ -982,7 +1010,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Bromley vs Notts County",
-      "number": 31
+      "number": 32
     },
     {
       "key": "14/11_22:00_doncaster_leytonorient",
@@ -1010,7 +1038,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Doncaster vs Leyton Orient",
-      "number": 32
+      "number": 33
     },
     {
       "key": "14/11_22:00_bradford_leicester",
@@ -1038,7 +1066,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Leicester vs Bradford",
-      "number": 33
+      "number": 34
     },
     {
       "key": "14/11_22:00_cambridgeunited_luton",
@@ -1066,7 +1094,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Luton vs Cambridge United",
-      "number": 34
+      "number": 35
     },
     {
       "key": "14/11_22:00_burtonalbion_miltonkeynesdons",
@@ -1094,7 +1122,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Milton Keynes Dons vs Burton Albion",
-      "number": 35
+      "number": 36
     },
     {
       "key": "14/11_22:00_oxfordunited_peterborough",
@@ -1122,7 +1150,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Peterborough vs Oxford United",
-      "number": 36
+      "number": 37
     },
     {
       "key": "14/11_22:00_plymouth_sheffieldwednesday",
@@ -1150,7 +1178,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Sheffield Wednesday vs Plymouth",
-      "number": 37
+      "number": 38
     },
     {
       "key": "14/11_22:00_mansfieldtown_stevenage",
@@ -1178,7 +1206,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Stevenage vs Mansfield Town",
-      "number": 38
+      "number": 39
     },
     {
       "key": "14/11_22:00_reading_stockportcounty",
@@ -1206,7 +1234,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Stockport County vs Reading",
-      "number": 39
+      "number": 40
     },
     {
       "key": "14/11_22:00_barnsley_wigan",
@@ -1234,7 +1262,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Wigan vs Barnsley",
-      "number": 40
+      "number": 41
     },
     {
       "key": "14/11_22:00_huddersfield_wycombe",
@@ -1262,7 +1290,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Wycombe vs Huddersfield",
-      "number": 41
+      "number": 42
     },
     {
       "key": "14/11_22:15_realsociedad_sportingcp",
@@ -1297,7 +1325,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Sporting Gijon",
-      "number": 42
+      "number": 43
     },
     {
       "key": "14/11_22:15_gijon_realsociedad",
@@ -1327,7 +1355,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 14/11] Real Sociedad B vs Gijon",
-      "number": 43
+      "number": 44
     },
     {
       "key": "14/11_22:30_alnasrdubai_alwasl",
@@ -1355,7 +1383,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Al Wasl Sc vs Al Nasr Dubai",
-      "number": 44
+      "number": 45
     },
     {
       "key": "14/11_22:30_alain_hatta",
@@ -1383,7 +1411,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] Hatta vs Al Ain",
-      "number": 45
+      "number": 46
     },
     {
       "key": "14/11_22:30_emmen_nacbreda",
@@ -1413,7 +1441,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 14/11] NAC Breda vs Emmen",
-      "number": 46
+      "number": 47
     },
     {
       "key": "14/11_23:00_botswana_uganda",
@@ -1441,7 +1469,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 14/11] Uganda vs Botswana",
-      "number": 47
+      "number": 48
     },
     {
       "key": "14/11_23:40_england_japan",
@@ -1469,7 +1497,7 @@
         }
       ],
       "displayTitle": "⚽ [23:40 14/11] England vs Japan",
-      "number": 48
+      "number": 49
     },
     {
       "key": "14/11_23:50_norway_xuwales",
@@ -1502,7 +1530,7 @@
         }
       ],
       "displayTitle": "⚽ [23:50 14/11] Na Uy vs Xứ Wales",
-      "number": 49
+      "number": 50
     },
     {
       "key": "15/11_00:00_norway_wales",
@@ -1536,10 +1564,45 @@
           "away_logo": "https://apiv3.apifootball.com/badges/4_wales.jpg",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (US Fox Sports 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18351/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (GB BBC 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18352/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (de DAZN 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18353/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (es English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18354/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (no TV 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18355/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Norway vs Xứ Wales",
-      "number": 50
+      "number": 51
     },
     {
       "key": "15/11_00:00_georgia_hungary",
@@ -1576,7 +1639,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 15/11] Georgia vs Hungary",
-      "number": 51
+      "number": 52
     },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
@@ -1604,7 +1667,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 52
+      "number": 53
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -1632,7 +1695,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 15/11] Almeria vs Andorra",
-      "number": 53
+      "number": 54
     },
     {
       "key": "15/11_02:00_angola_southsudan",
@@ -1660,7 +1723,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Angola vs South Sudan",
-      "number": 54
+      "number": 55
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -1697,7 +1760,7 @@
         }
       ],
       "displayTitle": "⚽ [02:00 15/11] Algeria vs Togo",
-      "number": 55
+      "number": 56
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -1746,7 +1809,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 56
+      "number": 57
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -1774,7 +1837,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 57
+      "number": 58
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -1802,7 +1865,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 58
+      "number": 59
     },
     {
       "key": "15/11_02:45_poland_romania",
@@ -1839,7 +1902,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Romania vs Poland",
-      "number": 59
+      "number": 60
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -1867,7 +1930,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 60
+      "number": 61
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -1897,7 +1960,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 61
+      "number": 62
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -1927,7 +1990,7 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 62
+      "number": 63
     },
     {
       "key": "15/11_06:00_queretaro_rayadosdemonterrey",
@@ -1955,7 +2018,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 63
+      "number": 64
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -1983,7 +2046,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 64
+      "number": 65
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -2011,7 +2074,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 65
+      "number": 66
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -2048,7 +2111,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 66
+      "number": 67
     },
     {
       "key": "15/11_10:00_india_newzealand",
@@ -2076,7 +2139,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 15/11] New Zealand vs India",
-      "number": 67
+      "number": 68
     },
     {
       "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
@@ -2104,7 +2167,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 68
+      "number": 69
     },
     {
       "key": "15/11_12:00_machidazelvia_visselkobe",
@@ -2141,7 +2204,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 69
+      "number": 70
     },
     {
       "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
@@ -2178,7 +2241,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 70
+      "number": 71
     },
     {
       "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
@@ -2206,7 +2269,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 71
+      "number": 72
     },
     {
       "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
@@ -2234,7 +2297,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 72
+      "number": 73
     },
     {
       "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
@@ -2262,7 +2325,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 73
+      "number": 74
     },
     {
       "key": "15/11_17:30_apollonkalamarias_kallithea",
@@ -2290,7 +2353,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 74
+      "number": 75
     },
     {
       "key": "15/11_18:00_cdtondela_farense",
@@ -2318,7 +2381,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 75
+      "number": 76
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -2355,7 +2418,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 76
+      "number": 77
     },
     {
       "key": "15/11_19:50_alsharjah_dubaiunited",
@@ -2383,7 +2446,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 77
+      "number": 78
     },
     {
       "key": "15/11_20:00_adceuta_tenerife",
@@ -2411,7 +2474,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 78
+      "number": 79
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -2439,7 +2502,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 79
+      "number": 80
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -2467,7 +2530,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 80
+      "number": 81
     },
     {
       "key": "15/11_21:00_montenegro_sip",
@@ -2497,7 +2560,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Síp vs Montenegro",
-      "number": 81
+      "number": 82
     },
     {
       "key": "15/11_22:15_granada_udlaspalmas",
@@ -2534,7 +2597,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 82
+      "number": 83
     },
     {
       "key": "15/11_22:30_alahli_ittihadkalba",
@@ -2562,7 +2625,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 83
+      "number": 84
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2592,7 +2655,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 84
+      "number": 85
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2622,7 +2685,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 85
+      "number": 86
     },
     {
       "key": "17/11_19:00_kyrgyzstan_vietnam",
@@ -2650,34 +2713,6 @@
         }
       ],
       "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 86
-    },
-    {
-      "key": "14/11_22:00_afcwimbledon_blackpool",
-      "c_home": "afcwimbledon",
-      "c_away": "blackpool",
-      "homeTeam": "AFC Wimbledon",
-      "awayTeam": "Blackpool",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "22:00",
-      "date": "14/11",
-      "timestamp": 1794668400000,
-      "league": "TENNIS",
-      "leagueName": "🎾 Tennis ATP / Grand Slam",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_tennis",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [22:00 14/11] AFC Wimbledon vs Blackpool (gb Sky Sports) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18190/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1333.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🎾 [22:00 14/11] AFC Wimbledon vs Blackpool",
       "number": 87
     }
   ],
@@ -3280,13 +3315,6 @@
       "name": "🔴 Live Events (Film4k)",
       "channels": [
         {
-          "name": "⚽ [10:15 14/11] Colorado vs Houston (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18344/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/104.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [18:40 14/11] Italy vs Argentina (gb ITV1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18325/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/389.png",
@@ -3500,6 +3528,41 @@
           "name": "⚽ [23:40 14/11] England vs Japan (gb ITV1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18327/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/386.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (US Fox Sports 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18351/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (GB BBC 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18352/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (de DAZN 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18353/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (es English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18354/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 15/11] Norway vs Wales (no TV 2) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18355/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1090.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
