@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 08:33:40",
+  "updated_at": "2026-11-14 08:49:04",
   "live_events": [
     {
       "key": "14/11_07:00_chile_colombia",
@@ -151,6 +151,90 @@
       "number": 5
     },
     {
+      "key": "14/11_09:00_canada_guatemala",
+      "c_home": "guatemala",
+      "c_away": "canada",
+      "homeTeam": "Guatemala",
+      "awayTeam": "Canada",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "09:00",
+      "date": "14/11",
+      "timestamp": 1794621600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [09:00 14/11] Guatemala Vs Canada (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [09:00 14/11] Guatemala vs Canada",
+      "number": 6
+    },
+    {
+      "key": "14/11_09:00_illinois_ucla",
+      "c_home": "ucla",
+      "c_away": "illinois",
+      "homeTeam": "UCLA",
+      "awayTeam": "Illinois",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "09:00",
+      "date": "14/11",
+      "timestamp": 1794621600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [09:00 14/11] UCLA vs Illinois (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18342/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/153.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [09:00 14/11] UCLA vs Illinois",
+      "number": 7
+    },
+    {
+      "key": "14/11_09:00_rangers_vancouvercanucks",
+      "c_home": "vancouvercanucks",
+      "c_away": "rangers",
+      "homeTeam": "Vancouver Canucks",
+      "awayTeam": "New York Rangers",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "09:00",
+      "date": "14/11",
+      "timestamp": 1794621600000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [09:00 14/11] Vancouver Canucks vs New York Rangers (us NHL) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18111/index.m3u8",
+          "logo": "https://media.api-sports.io/hockey/teams/701.png",
+          "group": "⚽ Film4k / Antsports",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [09:00 14/11] Vancouver Canucks vs New York Rangers",
+      "number": 8
+    },
+    {
       "key": "14/11_07:00_indianapacers_newyorkknicks",
       "c_home": "indianapacers",
       "c_away": "newyorkknicks",
@@ -176,7 +260,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 14/11] Indiana Pacers vs New York Knicks",
-      "number": 6
+      "number": 9
     },
     {
       "key": "14/11_07:00_milwaukeebucks_orlandomagic",
@@ -204,7 +288,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 14/11] Orlando Magic vs Milwaukee Bucks",
-      "number": 7
+      "number": 10
     },
     {
       "key": "14/11_08:00_atlantahawks_chicagobulls",
@@ -232,7 +316,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] Chicago Bulls vs Atlanta Hawks",
-      "number": 8
+      "number": 11
     },
     {
       "key": "14/11_08:00_clevelandcavaliers_intermiami",
@@ -260,7 +344,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] Miami Heat vs Cleveland Cavaliers",
-      "number": 9
+      "number": 12
     },
     {
       "key": "14/11_08:00_memphisgrizzlies_neworleanspelicans",
@@ -288,7 +372,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] New Orleans Pelicans vs Memphis Grizzlies",
-      "number": 10
+      "number": 13
     },
     {
       "key": "14/11_08:30_houstonrockets_utahjazz",
@@ -316,90 +400,6 @@
         }
       ],
       "displayTitle": "🏀 [08:30 14/11] Houston Rockets vs Utah Jazz",
-      "number": 11
-    },
-    {
-      "key": "14/11_09:00_canada_guatemala",
-      "c_home": "guatemala",
-      "c_away": "canada",
-      "homeTeam": "Guatemala",
-      "awayTeam": "Canada",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "09:00",
-      "date": "14/11",
-      "timestamp": 1794621600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [09:00 14/11] Guatemala Vs Canada (BLV Gà Siêu Son) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [09:00 14/11] Guatemala vs Canada",
-      "number": 12
-    },
-    {
-      "key": "14/11_09:00_illinois_ucla",
-      "c_home": "ucla",
-      "c_away": "illinois",
-      "homeTeam": "UCLA",
-      "awayTeam": "Illinois",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "09:00",
-      "date": "14/11",
-      "timestamp": 1794621600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [09:00 14/11] UCLA vs Illinois (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18342/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/153.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [09:00 14/11] UCLA vs Illinois",
-      "number": 13
-    },
-    {
-      "key": "14/11_09:00_rangers_vancouvercanucks",
-      "c_home": "vancouvercanucks",
-      "c_away": "rangers",
-      "homeTeam": "Vancouver Canucks",
-      "awayTeam": "New York Rangers",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "09:00",
-      "date": "14/11",
-      "timestamp": 1794621600000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [09:00 14/11] Vancouver Canucks vs New York Rangers (us NHL) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18111/index.m3u8",
-          "logo": "https://media.api-sports.io/hockey/teams/701.png",
-          "group": "⚽ Film4k / Antsports",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [09:00 14/11] Vancouver Canucks vs New York Rangers",
       "number": 14
     },
     {
@@ -3550,7 +3550,7 @@
       "channels": [
         {
           "name": "⚽ [18:30 14/11] U23 Việt Nam vs U23 Qatar (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyNDE4Nn0.ZBHZ_4PmKUFuxJdWxzTVwUogJePmWUMd5S4IvQj8dudaFIAEAFvEU7TalEpL_i0mOHKxg1Oil3mP9WDo9bLvag&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY0MjE4Nn0.a4e7lmliC6tig7PigCWvSGAao5lPxKogk-qsY951kb5PwBPWyhVr6XHoiwbjXC9Xu5YRkapXUPSwi-hQ5ufyTA&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212628974/58a34c99e396_1280_720.jpg",
           "group": "⚽ Sự Kiện Trực Tiếp / TV360",
           "ref": "https://film4k.pl/",
@@ -3568,7 +3568,7 @@
         },
         {
           "name": "⚽ [15:00 14/11] U23 Thái Lan vs U23 Singapore (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyNDE4Nn0.ZBHZ_4PmKUFuxJdWxzTVwUogJePmWUMd5S4IvQj8dudaFIAEAFvEU7TalEpL_i0mOHKxg1Oil3mP9WDo9bLvag&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY0MjE4Nn0.a4e7lmliC6tig7PigCWvSGAao5lPxKogk-qsY951kb5PwBPWyhVr6XHoiwbjXC9Xu5YRkapXUPSwi-hQ5ufyTA&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212501300/6086d1800585_1280_720.jpg",
           "group": "⚽ Sự Kiện Trực Tiếp / TV360",
           "ref": "https://film4k.pl/",
@@ -4125,67 +4125,67 @@
     {
       "home_team": "Indiana Pacers",
       "away_team": "New York Knicks",
-      "home_score": "61",
-      "away_score": "49",
+      "home_score": "76",
+      "away_score": "67",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "10:58 - 3rd",
+      "detail": "5:33 - 3rd",
       "date": "2026-11-14T00:00Z"
     },
     {
       "home_team": "Orlando Magic",
       "away_team": "Milwaukee Bucks",
-      "home_score": "65",
-      "away_score": "53",
+      "home_score": "82",
+      "away_score": "69",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:07 - 3rd",
+      "detail": "47.5 - 3rd",
       "date": "2026-11-14T00:00Z"
     },
     {
       "home_team": "Miami Heat",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "20",
-      "away_score": "20",
+      "home_score": "43",
+      "away_score": "39",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:30 - 1st",
+      "detail": "8:07 - 2nd",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "Chicago Bulls",
       "away_team": "Atlanta Hawks",
-      "home_score": "31",
-      "away_score": "22",
+      "home_score": "46",
+      "away_score": "33",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "45.9 - 1st",
+      "detail": "6:52 - 2nd",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Memphis Grizzlies",
-      "home_score": "23",
-      "away_score": "29",
+      "home_score": "33",
+      "away_score": "42",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:49 - 1st",
+      "detail": "8:50 - 2nd",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Utah Jazz",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "11",
+      "away_score": "6",
       "league": "NBA",
-      "state": "pre",
+      "state": "in",
       "is_completed": false,
-      "detail": "11/13 - 8:30 PM EST",
+      "detail": "8:21 - 1st",
       "date": "2026-11-14T01:30Z"
     },
     {
