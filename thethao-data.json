@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 04:08:52",
+  "updated_at": "2026-11-15 04:23:57",
   "live_events": [
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -311,7 +311,7 @@
       "league": "CONCACAF_NL",
       "leagueName": "CONCACAF Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -333,7 +333,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
+      "displayTitle": "🔴 [04:30 15/11] Haiti vs Mỹ",
       "number": 6
     },
     {
@@ -1399,30 +1399,6 @@
       "name": "F4K Sport",
       "channels": [
         {
-          "name": "🏈 [00:30 15/11] VMI vs The Citadel (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18406/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/66.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "🏈 [00:30 15/11] Clemson vs Georgia Tech (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18407/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/209.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/60.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "🏈 [01:00 15/11] Charlotte vs East Carolina (us NCAAF) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18410/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/52.png",
@@ -1439,33 +1415,9 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "🏈 [01:00 15/11] Cornell vs Dartmouth (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18415/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/326.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "🏈 [01:00 15/11] Pennsylvania vs Harvard (us NCAAF) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18416/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/324.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "🏈 [01:00 15/11] Colgate vs Lafayette (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18420/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/192.png",
-          "competition": "NCAA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "🏈 [01:00 15/11] Furman vs Chattanooga (us NCAAF) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18422/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/211.png",
           "competition": "NCAA",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
@@ -1619,6 +1571,46 @@
           "url": "https://film4k.pl/api/tv/ants/18328/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/388.png",
           "competition": "Nations Championship",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [03:30 15/11] Georgia vs Missouri (us NCAAF) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18452/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/109.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [03:30 15/11] West Virginia vs Kansas (us NCAAF) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18474/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/64.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [03:30 15/11] Indiana vs USC (us NCAAF) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18455/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/103.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [03:30 15/11] Oregon vs Michigan (us NCAAF) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18456/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/110.png",
+          "competition": "NCAA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [03:30 15/11] Virginia vs California (us NCAAF) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18457/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/147.png",
+          "competition": "NCAA",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
         },
