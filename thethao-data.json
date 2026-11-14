@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 09:55:25",
+  "updated_at": "2026-11-14 10:06:55",
   "live_events": [
     {
       "key": "14/11_08:00_bolivia_peru",
@@ -198,6 +198,34 @@
       "number": 7
     },
     {
+      "key": "14/11_10:15_colorado_houston",
+      "c_home": "colorado",
+      "c_away": "houston",
+      "homeTeam": "Colorado",
+      "awayTeam": "Houston",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "10:15",
+      "date": "14/11",
+      "timestamp": 1794626100000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [10:15 14/11] Colorado vs Houston (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18344/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/104.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🔴 [10:15 14/11] Colorado vs Houston",
+      "number": 8
+    },
+    {
       "key": "14/11_08:00_atlantahawks_chicagobulls",
       "c_home": "chicagobulls",
       "c_away": "atlantahawks",
@@ -223,7 +251,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] Chicago Bulls vs Atlanta Hawks",
-      "number": 8
+      "number": 9
     },
     {
       "key": "14/11_08:00_clevelandcavaliers_intermiami",
@@ -251,7 +279,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] Miami Heat vs Cleveland Cavaliers",
-      "number": 9
+      "number": 10
     },
     {
       "key": "14/11_08:00_memphisgrizzlies_neworleanspelicans",
@@ -279,7 +307,7 @@
         }
       ],
       "displayTitle": "🏀 [08:00 14/11] New Orleans Pelicans vs Memphis Grizzlies",
-      "number": 10
+      "number": 11
     },
     {
       "key": "14/11_08:30_houstonrockets_utahjazz",
@@ -307,7 +335,7 @@
         }
       ],
       "displayTitle": "🏀 [08:30 14/11] Houston Rockets vs Utah Jazz",
-      "number": 11
+      "number": 12
     },
     {
       "key": "14/11_09:30_goldenstatewarriors_tottenham",
@@ -335,7 +363,7 @@
         }
       ],
       "displayTitle": "🏀 [09:30 14/11] San Antonio Spurs vs Golden State Warriors",
-      "number": 12
+      "number": 13
     },
     {
       "key": "14/11_10:00_portlandtrailblazers_sacramentokings",
@@ -363,34 +391,6 @@
         }
       ],
       "displayTitle": "🏀 [10:00 14/11] Sacramento Kings vs Portland Trail Blazers",
-      "number": 13
-    },
-    {
-      "key": "14/11_10:15_colorado_houston",
-      "c_home": "colorado",
-      "c_away": "houston",
-      "homeTeam": "Colorado",
-      "awayTeam": "Houston",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "10:15",
-      "date": "14/11",
-      "timestamp": 1794626100000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:15 14/11] Colorado vs Houston (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18344/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/104.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "⚽ [10:15 14/11] Colorado vs Houston",
       "number": 14
     },
     {
@@ -448,7 +448,7 @@
         },
         {
           "name": "📺 TV360+ 4 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI4NTUxfQ.c13--y33Jl25_EJ_JusRNF_Hb1KIh4jLiW-4AXGTHrQL7FjG3JWEEGvGoFb_2fI3WkEMZWK7Y5SwFu4sQQAmlA&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjQ3MTYwfQ.tMN-KkIKbtvwMD59f21TVrtwnqf0674H7FftKRmLXCZ2PtaZvFds0-CddwKZW3gdYcIi5ATNAuK_lXvA-0Pmbw&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -1082,6 +1082,34 @@
           "away_logo": "https://apiv3.apifootball.com/badges/690_israel.jpg",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (us Fox Soccer Plus) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18347/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18348/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18349/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18350/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
@@ -1651,7 +1679,7 @@
       "sources": [
         {
           "name": "⚽ [23:50 14/11] Na Uy vs Xứ Wales (TV360+ 6) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjg3MDEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.2n61iA-SS6QLXy4oGRRU0DLxxNxe05pNC8ipdSAuFGc&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NDY4NTEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.aTo1lwtbodNBnLeF3fxJeT1cvRRNZCNPah_t59FeFQ0&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/09/179427910645/2bd23d8562d7_1280_720.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -3513,6 +3541,34 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (us Fox Soccer Plus) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18347/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18348/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es English) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18349/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (no TV2 Sport) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18350/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [21:10 14/11] Wales vs New Zealand (gb ITV1) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18326/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/391.png",
@@ -3634,7 +3690,7 @@
         },
         {
           "name": "⚽ [23:50 14/11] Na Uy vs Xứ Wales (TV360+ 6) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2Mjg3MDEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.2n61iA-SS6QLXy4oGRRU0DLxxNxe05pNC8ipdSAuFGc&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NDY4NTEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.aTo1lwtbodNBnLeF3fxJeT1cvRRNZCNPah_t59FeFQ0&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/09/179427910645/2bd23d8562d7_1280_720.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -3694,7 +3750,7 @@
         },
         {
           "name": "📺 TV360+ 4 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjI4NTUxfQ.c13--y33Jl25_EJ_JusRNF_Hb1KIh4jLiW-4AXGTHrQL7FjG3JWEEGvGoFb_2fI3WkEMZWK7Y5SwFu4sQQAmlA&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjQ3MTYwfQ.tMN-KkIKbtvwMD59f21TVrtwnqf0674H7FftKRmLXCZ2PtaZvFds0-CddwKZW3gdYcIi5ATNAuK_lXvA-0Pmbw&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -3802,74 +3858,6 @@
           "ref": "https://film4k.pl/",
           "dash": false,
           "clearKey": null
-        }
-      ]
-    },
-    {
-      "name": "⚽ Thể Thao Quốc Tế",
-      "channels": [
-        {
-          "name": "🏎️ [24/7] Sky Sport F1 HD - Đua xe Công thức 1",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc",
-          "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🎾 [24/7] Sky Sport Tennis HD - Quần vợt ATP / WTA",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8",
-          "logo": "https://e0.365dm.com/24/01/2048x1152/skysports-sky-sports-tennis_6437040.jpg",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🏆 [24/7] TNT Sports 1 HD - Cúp C1 / Ngoại Hạng Anh",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES",
-          "logo": "https://media.info/l/o/1/1539.1690027797.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🏆 [24/7] TNT Sports 2 HD - Đua xe MotoGP / UFC",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1091517&extension=ts&play_token=zKzxFKTNmb",
-          "logo": "https://media.info/l/o/1/1540.1690027877.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🏆 [24/7] TNT Sports 3 HD - Thể thao trực tiếp",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894979&extension=ts&play_token=RLLwKaJKqY",
-          "logo": "https://media.info/l/o/5/5712.1690027954.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🏆 [24/7] TNT Sports 4 HD - Thể thao trực tiếp",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894980&extension=ts&play_token=4ofwEIdTU4",
-          "logo": "https://media.info/l/o/1/1491.1690027975.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🚴 [24/7] Eurosport 1 HD - Thể thao & Tennis Grand Slam",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "🚴 [24/7] Eurosport 2 HD - Thể thao & Đua xe",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
-        },
-        {
-          "name": "⚽ [24/7] Canal+ Sport HD - Thể thao Châu Âu",
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",
-          "group": "⚽ Thể Thao Quốc Tế",
-          "ref": ""
         }
       ]
     }
@@ -4263,56 +4251,56 @@
     {
       "home_team": "Miami Heat",
       "away_team": "Cleveland Cavaliers",
-      "home_score": "89",
-      "away_score": "87",
+      "home_score": "102",
+      "away_score": "93",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:02 - 3rd",
+      "detail": "9:28 - 4th",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "Chicago Bulls",
       "away_team": "Atlanta Hawks",
-      "home_score": "94",
-      "away_score": "85",
+      "home_score": "99",
+      "away_score": "95",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:49 - 4th",
+      "detail": "6:17 - 4th",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "New Orleans Pelicans",
       "away_team": "Memphis Grizzlies",
-      "home_score": "81",
-      "away_score": "95",
+      "home_score": "88",
+      "away_score": "107",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:50 - 3rd",
+      "detail": "10:58 - 4th",
       "date": "2026-11-14T01:00Z"
     },
     {
       "home_team": "Houston Rockets",
       "away_team": "Utah Jazz",
-      "home_score": "63",
-      "away_score": "53",
+      "home_score": "69",
+      "away_score": "63",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "Halftime",
+      "detail": "9:05 - 3rd",
       "date": "2026-11-14T01:30Z"
     },
     {
       "home_team": "San Antonio Spurs",
       "away_team": "Golden State Warriors",
-      "home_score": "18",
-      "away_score": "0",
+      "home_score": "28",
+      "away_score": "8",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "7:31 - 1st",
+      "detail": "3:05 - 1st",
       "date": "2026-11-14T02:30Z"
     },
     {
