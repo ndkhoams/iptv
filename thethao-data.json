@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 18:27:58",
+  "updated_at": "2026-11-14 18:43:17",
   "live_events": [
     {
       "key": "14/11_17:15_brazil_japan",
@@ -95,6 +95,36 @@
       "number": 3
     },
     {
+      "key": "14/11_18:50_kyrgyzstan_taiwan",
+      "c_home": "taiwan",
+      "c_away": "kyrgyzstan",
+      "homeTeam": "Đài Bắc Trung Hoa",
+      "awayTeam": "Kyrgyzstan",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "18:50",
+      "date": "14/11",
+      "timestamp": 1794657000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan (TV360+ 9) - Film4k",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/379/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2NDU1MX0.c3ME8X7VnjxgvUMV6lMbiDqm4ipdqhN4lD95u_TrMZWP_YuUIu6-JRk2TD5SC7vrj3pBzWiaOUYKA-VmvGTmsQ&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/09/1794192000357/f61f98f4e87c_1280_720.jpg",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        }
+      ],
+      "displayTitle": "🔴 [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan",
+      "number": 4
+    },
+    {
       "key": "14/11_19:00_qatar_youth_vietnam_youth",
       "c_home": "vietnam_youth",
       "c_away": "qatar_youth",
@@ -147,36 +177,6 @@
         }
       ],
       "displayTitle": "🔴 [19:00 14/11] U23 Việt Nam vs Qatar U23",
-      "number": 4
-    },
-    {
-      "key": "14/11_18:50_kyrgyzstan_taiwan",
-      "c_home": "taiwan",
-      "c_away": "kyrgyzstan",
-      "homeTeam": "Đài Bắc Trung Hoa",
-      "awayTeam": "Kyrgyzstan",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "18:50",
-      "date": "14/11",
-      "timestamp": 1794657000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan (TV360+ 9) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/379/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY2NDU1MX0.c3ME8X7VnjxgvUMV6lMbiDqm4ipdqhN4lD95u_TrMZWP_YuUIu6-JRk2TD5SC7vrj3pBzWiaOUYKA-VmvGTmsQ&screen=MHL&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/09/1794192000357/f61f98f4e87c_1280_720.jpg",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/",
-          "dash": false,
-          "clearKey": null
-        }
-      ],
-      "displayTitle": "⚽ [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan",
       "number": 5
     },
     {
@@ -300,7 +300,7 @@
       "sources": [
         {
           "name": "🎵 [19:45 14/11] Sự Kiện: Y - Fest Cà Mau, 19 giờ 45 phút, ngày 14/11, Kênh Livestream 01 (TV360) - Film4k",
-          "url": "https://livestream-evg8.tv360.vn/Vt3ACHBS3pmEYEFWxxs3bA/1794724215/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "url": "https://livestream-evg8.tv360.vn/MOOVsUzAgoJ5EMKayVLqUg/1794742929/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794394522412/4d090f8bd623_1280_720.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -445,14 +445,14 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb English) - Film4k",
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18348/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es English) - Film4k",
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18349/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
           "group": "🔴 Live Events (Film4k)",
@@ -1617,8 +1617,8 @@
       "c_away": "denmark",
       "homeTeam": "Bồ Đào Nha",
       "awayTeam": "Đan Mạch",
-      "homeLogo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "15/11",
       "timestamp": 1794685500000,
@@ -1634,15 +1634,6 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k",
@@ -3312,6 +3303,13 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
+          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [17:15 14/11] Japan Vs Brazil (BLV Gà Ô Long) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -3328,13 +3326,6 @@
         {
           "name": "⚽ [19:00 14/11] China Vs Malaysia (BLV Gà Siêu Son) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [19:00 14/11] Vietnam U23 Vs Qatar U23 (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -3844,15 +3835,6 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
-          "logo": "https://flagcdn.com/w160/cn.png",
-          "home_logo": "https://flagcdn.com/w160/cn.png",
-          "away_logo": "https://flagcdn.com/w160/my.png",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23 (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
@@ -3867,6 +3849,15 @@
           "logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/9458_vietnam-u23.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/9472_qatar-u23.jpg",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
+          "logo": "https://flagcdn.com/w160/cn.png",
+          "home_logo": "https://flagcdn.com/w160/cn.png",
+          "away_logo": "https://flagcdn.com/w160/my.png",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -3957,15 +3948,6 @@
           "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -4086,14 +4068,14 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb English) - Film4k",
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (gb DAZN) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18348/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es English) - Film4k",
+          "name": "⚽ [21:00 14/11] Kosovo vs Israel (es VIX) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18349/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1111.png",
           "group": "🔴 Live Events (Film4k)",
@@ -4327,7 +4309,7 @@
         },
         {
           "name": "🎵 [19:45 14/11] Sự Kiện: Y - Fest Cà Mau, 19 giờ 45 phút, ngày 14/11, Kênh Livestream 01 (TV360) - Film4k",
-          "url": "https://livestream-evg8.tv360.vn/Vt3ACHBS3pmEYEFWxxs3bA/1794724215/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "url": "https://livestream-evg8.tv360.vn/MOOVsUzAgoJ5EMKayVLqUg/1794742929/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794394522412/4d090f8bd623_1280_720.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -4429,7 +4411,7 @@
         },
         {
           "name": "📺 TV360+ 8 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NTk0MjcsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.OWEX0hSjrT1yOpzmFxYOHmyR9CA_VKNqAoUWCNetLIE&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NzgxNDEsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.k6_yiaKLrAdR-HDAl4mIyTEvR4yhMB5nXUczHCRacA0&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -4441,7 +4423,7 @@
         },
         {
           "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY1OTQzM30._WKxhpmBxy2tJNXp5Xn2u6egcsLqUbCfw9N8dYveb-z1ozmbHjHV_3lZizPOV7tJCtVs8D1_F7NMzvxVr53i9g&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY3ODE0N30.uzELCG-G1CibG2LEwPSVad43ylEcdYWiPiPWZDCfDUcLuWf4GnfMUO6SdamK-jfanRHO9wklRwvtcOynqbjDoQ&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -4459,19 +4441,19 @@
         },
         {
           "name": "📺 TV360+ 12 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/465/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NTk0MzMsInVyaSI6Ii9icGstdHYvNDY1L291dHB1dC9pbmRleC5tcGQifQ.A2OcWTblnQyN8A5bXf72QaOReAWS3dzH22ufHoSRd0o&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/465465/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2NTQ2NS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njc4MTUwfQ.fmO9UHG-dv9Vi1WWzWOMHtwK-eCZOhjPJkIkhUw9XC9DU9zXukIgirz0qVjzSbAPJStBJhondO1Fi1_onJqU4Q&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
-            "keyId": "6db5c5c963365f6fafa1a23b8a06bd67",
-            "key": "1a0727fcea62de4e4471ebb0aaaec628"
+            "keyId": "5a5dd595f9ae5299b5003e0d4e3e98f5",
+            "key": "d9023b3b15ecbcc8115a49f576ed0799"
           }
         },
         {
           "name": "📺 TV360+ 13 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NjU5NDM5fQ.DDRSJxaVKvpYojtoI6J1842iwME6g--DiejjGABI8TWQQveTSQHYPIR4cpoWYJFV0ipNI0FJSiqHIKhXTK0wQQ&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njc4MTUzfQ.8HaQqPqxpbnELtJNr2IL8FcG0V-RTiX46KNWyHcXwJvwCIc1rZNFnp-GF4GIPpsCHFQJRfm5bmQAwMk1d-bkng&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
@@ -4483,14 +4465,14 @@
         },
         {
           "name": "📺 TV360+ 14 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/472/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2NTk0NDIsInVyaSI6Ii9icGstdHYvNDcyL291dHB1dC9pbmRleC5tcGQifQ.fAg7h4SLfQLAxAuNXag3oHY8FuOt5sORzUD_-FLyV9M&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/472472/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MjQ3Mi9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njc4MTU2fQ.r5jqaALcS1jRrrhzYT7nqWAo0MeWcdAow-CJAQbSFwdpH3RWko8d1ok5ar_d9xGmanXb8JPMFX3dNc5M7NM63Q&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
-            "keyId": "e57b008cedba5d12a192e66152bb61ca",
-            "key": "a4b58d543b1c042f8b399f268040b623"
+            "keyId": "807890b3dba7517b90e568e8be4ddaa4",
+            "key": "bb89427403116b132f9fbb34cd616347"
           }
         },
         {
@@ -4507,7 +4489,7 @@
         },
         {
           "name": "📺 TV360 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY1OTQ0NX0.TsSCTsExob0x5RaICt0n2fmN0bd2LS4ZnAYgVhSlvvZ8ydmJ7mU2pVx7rmfmaqOd8rYQoDchfE_6aL1iLJ42qQ&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDY3ODE2Mn0.Nn5S18hh6UuoW7dz0aS9BSX4N1tuVoTXTCoRGdID0BsCihdeS8VuUPzhyzAJc2s6piZyTVl8d3aZddKdg4Xpag&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/",
