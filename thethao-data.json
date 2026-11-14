@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-11-15 02:06:55",
+  "updated_at": "2026-11-15 02:22:01",
   "live_events": [
-    {
-      "key": "14/11_23:50_norway_xuwales",
-      "c_home": "norway",
-      "c_away": "xuwales",
-      "homeTeam": "Na Uy",
-      "awayTeam": "Xứ Wales",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "23:50",
-      "date": "14/11",
-      "timestamp": 1794675000000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [23:50 14/11] Na Uy vs Xứ Wales (TV360+ 6) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/09/179427910645/2bd23d8562d7_1280_720.png",
-          "competition": "",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
-            "key": "6c06f96a6296d05442466d5b09e58192"
-          }
-        }
-      ],
-      "displayTitle": "🔴 [23:50 14/11] Na Uy vs Xứ Wales",
-      "number": 1
-    },
     {
       "key": "15/11_00:30_cordoba_rcdmallorca",
       "c_home": "rcdmallorca",
@@ -70,7 +36,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Rcd Mallorca vs Cordoba",
-      "number": 2
+      "number": 1
     },
     {
       "key": "15/11_00:30_almeria_andorra",
@@ -107,7 +73,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Almeria vs Andorra",
-      "number": 3
+      "number": 2
     },
     {
       "key": "15/11_00:30_fleetwoodtown_tranmere",
@@ -136,7 +102,7 @@
         }
       ],
       "displayTitle": "🔴 [00:30 15/11] Fleetwood Town vs Tranmere",
-      "number": 4
+      "number": 3
     },
     {
       "key": "15/11_02:00_angola_southsudan",
@@ -165,7 +131,7 @@
         }
       ],
       "displayTitle": "🔴 [02:00 15/11] Angola vs South Sudan",
-      "number": 5
+      "number": 4
     },
     {
       "key": "15/11_02:00_algeria_togo",
@@ -204,674 +170,103 @@
         }
       ],
       "displayTitle": "🔴 [02:00 15/11] Algeria vs Togo",
+      "number": 5
+    },
+    {
+      "key": "15/11_02:45_poland_romania",
+      "c_home": "romania",
+      "c_away": "poland",
+      "homeTeam": "Romania",
+      "awayTeam": "Poland",
+      "homeLogo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
+      "time": "02:45",
+      "date": "15/11",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 15/11] Romania Vs Poland (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 15/11] Romania vs Ba Lan (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:35 15/11] Romania vs Ba Lan (TV360+ 7) - Film4k",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2OTI1ODYsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.o2jeNiz0alRaNAuUJbWVbwg5XxfJwyOrbpHgYPm3ifA&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428235857/84f4e64314b7_1280_720.png",
+          "competition": "",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "072f0a0d4eda40cbb04dfadf521a2b9f",
+            "key": "2fb11373b36e018573d3b07132df050e"
+          }
+        }
+      ],
+      "displayTitle": "🔴 [02:45 15/11] Romania vs Poland",
       "number": 6
     },
     {
-      "key": "15/11_00:00_cincinnati_iowastate",
-      "c_home": "iowastate",
-      "c_away": "cincinnati",
-      "homeTeam": "Iowa State",
-      "awayTeam": "Cincinnati",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
+      "key": "15/11_02:45_ao_ireland",
+      "c_home": "ao",
+      "c_away": "ireland",
+      "homeTeam": "Áo",
+      "awayTeam": "Cộng hòa Ireland",
+      "homeLogo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
+      "time": "02:45",
       "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
+      "timestamp": 1794685500000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
       "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
-          "name": "🏈 [00:00 15/11] Iowa State vs Cincinnati (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18381/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/151.png",
-          "competition": "NCAA",
+          "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:35 15/11] Áo vs Cộng hòa Ireland (TV360+ 6) - Film4k",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
+          "competition": "",
           "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
         }
       ],
-      "displayTitle": "🏈 [00:00 15/11] Iowa State vs Cincinnati",
+      "displayTitle": "🔴 [02:45 15/11] Áo vs Cộng hòa Ireland",
       "number": 7
-    },
-    {
-      "key": "15/11_00:00_centralconnecticut_longislanduniversity",
-      "c_home": "longislanduniversity",
-      "c_away": "centralconnecticut",
-      "homeTeam": "Long Island University",
-      "awayTeam": "Central Connecticut",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Long Island University vs Central Connecticut (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18382/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/76.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Long Island University vs Central Connecticut",
-      "number": 8
-    },
-    {
-      "key": "15/11_00:00_duke_intermiami",
-      "c_home": "intermiami",
-      "c_away": "duke",
-      "homeTeam": "Miami",
-      "awayTeam": "Duke",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Miami vs Duke (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18383/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/123.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Miami vs Duke",
-      "number": 9
-    },
-    {
-      "key": "15/11_00:00_northwestern_ohiostate",
-      "c_home": "ohiostate",
-      "c_away": "northwestern",
-      "homeTeam": "Ohio State",
-      "awayTeam": "Northwestern",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Ohio State vs Northwestern (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18384/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/107.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Ohio State vs Northwestern",
-      "number": 10
-    },
-    {
-      "key": "15/11_00:00_smu_wakeforest",
-      "c_home": "smu",
-      "c_away": "wakeforest",
-      "homeTeam": "SMU",
-      "awayTeam": "Wake Forest",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] SMU vs Wake Forest (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18386/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/190.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] SMU vs Wake Forest",
-      "number": 11
-    },
-    {
-      "key": "15/11_00:00_ncstate_syracuse",
-      "c_home": "ncstate",
-      "c_away": "syracuse",
-      "homeTeam": "NC State",
-      "awayTeam": "Syracuse",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] NC State vs Syracuse (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18387/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/121.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] NC State vs Syracuse",
-      "number": 12
-    },
-    {
-      "key": "15/11_00:00_maryland_wisconsin",
-      "c_home": "maryland",
-      "c_away": "wisconsin",
-      "homeTeam": "Maryland",
-      "awayTeam": "Wisconsin",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Maryland vs Wisconsin (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18388/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/140.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Maryland vs Wisconsin",
-      "number": 13
-    },
-    {
-      "key": "15/11_00:00_jamesmadison_uconn",
-      "c_home": "uconn",
-      "c_away": "jamesmadison",
-      "homeTeam": "UConn",
-      "awayTeam": "James Madison",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] UConn vs James Madison (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18389/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/46.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] UConn vs James Madison",
-      "number": 14
-    },
-    {
-      "key": "15/11_00:00_maine_ualbany",
-      "c_home": "ualbany",
-      "c_away": "maine",
-      "homeTeam": "UAlbany",
-      "awayTeam": "Maine",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] UAlbany vs Maine (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18390/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/730.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] UAlbany vs Maine",
-      "number": 15
-    },
-    {
-      "key": "15/11_00:00_bryant_sacredheart",
-      "c_home": "sacredheart",
-      "c_away": "bryant",
-      "homeTeam": "Sacred Heart",
-      "awayTeam": "Bryant",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Sacred Heart vs Bryant (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18391/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/280.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Sacred Heart vs Bryant",
-      "number": 16
-    },
-    {
-      "key": "15/11_00:00_rhodeisland_towson",
-      "c_home": "rhodeisland",
-      "c_away": "towson",
-      "homeTeam": "Rhode Island",
-      "awayTeam": "Towson",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Rhode Island vs Towson (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18392/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/256.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Rhode Island vs Towson",
-      "number": 17
-    },
-    {
-      "key": "15/11_00:00_merrimack_monmouth",
-      "c_home": "monmouth",
-      "c_away": "merrimack",
-      "homeTeam": "Monmouth",
-      "awayTeam": "Merrimack",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Monmouth vs Merrimack (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18393/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/267.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Monmouth vs Merrimack",
-      "number": 18
-    },
-    {
-      "key": "15/11_00:00_brown_columbia",
-      "c_home": "brown",
-      "c_away": "columbia",
-      "homeTeam": "Brown",
-      "awayTeam": "Columbia",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Brown vs Columbia (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18394/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/322.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Brown vs Columbia",
-      "number": 19
-    },
-    {
-      "key": "15/11_00:00_robertmorris_stonehill",
-      "c_home": "robertmorris",
-      "c_away": "stonehill",
-      "homeTeam": "Robert Morris",
-      "awayTeam": "Stonehill",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Robert Morris vs Stonehill (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18396/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/224.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Robert Morris vs Stonehill",
-      "number": 20
-    },
-    {
-      "key": "15/11_00:00_newhaven_wagner",
-      "c_home": "wagner",
-      "c_away": "newhaven",
-      "homeTeam": "Wagner",
-      "awayTeam": "New Haven",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Wagner vs New Haven (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18397/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/219.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Wagner vs New Haven",
-      "number": 21
-    },
-    {
-      "key": "15/11_00:00_morganstate_norfolkstate",
-      "c_home": "morganstate",
-      "c_away": "norfolkstate",
-      "homeTeam": "Morgan State",
-      "awayTeam": "Norfolk State",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Morgan State vs Norfolk State (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18398/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/167.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Morgan State vs Norfolk State",
-      "number": 22
-    },
-    {
-      "key": "15/11_00:00_fordham_georgetown",
-      "c_home": "fordham",
-      "c_away": "georgetown",
-      "homeTeam": "Fordham",
-      "awayTeam": "Georgetown",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Fordham vs Georgetown (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18399/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/257.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Fordham vs Georgetown",
-      "number": 23
-    },
-    {
-      "key": "15/11_00:00_holycross_villanova",
-      "c_home": "holycross",
-      "c_away": "villanova",
-      "homeTeam": "Holy Cross",
-      "awayTeam": "Villanova",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Holy Cross vs Villanova (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18400/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/223.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Holy Cross vs Villanova",
-      "number": 24
-    },
-    {
-      "key": "15/11_00:00_butler_marist",
-      "c_home": "marist",
-      "c_away": "butler",
-      "homeTeam": "Marist",
-      "awayTeam": "Butler",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Marist vs Butler (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18401/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/278.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Marist vs Butler",
-      "number": 25
-    },
-    {
-      "key": "15/11_00:00_davidson_dayton",
-      "c_home": "dayton",
-      "c_away": "davidson",
-      "homeTeam": "Dayton",
-      "awayTeam": "Davidson",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Dayton vs Davidson (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18402/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/277.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Dayton vs Davidson",
-      "number": 26
-    },
-    {
-      "key": "15/11_00:00_moreheadstate_presbyterian",
-      "c_home": "moreheadstate",
-      "c_away": "presbyterian",
-      "homeTeam": "Morehead State",
-      "awayTeam": "Presbyterian",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Morehead State vs Presbyterian (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18403/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/265.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Morehead State vs Presbyterian",
-      "number": 27
-    },
-    {
-      "key": "15/11_00:00_duquesne_mercyhurst",
-      "c_home": "duquesne",
-      "c_away": "mercyhurst",
-      "homeTeam": "Duquesne",
-      "awayTeam": "Mercyhurst",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Duquesne vs Mercyhurst (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18404/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/50.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Duquesne vs Mercyhurst",
-      "number": 28
-    },
-    {
-      "key": "15/11_00:00_princeton_yale",
-      "c_home": "yale",
-      "c_away": "princeton",
-      "homeTeam": "Yale",
-      "awayTeam": "Princeton",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "00:00",
-      "date": "15/11",
-      "timestamp": 1794675600000,
-      "league": "NCAAF",
-      "leagueName": "NCAA Football",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏈 [00:00 15/11] Yale vs Princeton (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18405/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/328.png",
-          "competition": "NCAA",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏈 [00:00 15/11] Yale vs Princeton",
-      "number": 29
     },
     {
       "key": "15/11_00:30_thecitadel_vmi",
@@ -900,7 +295,7 @@
         }
       ],
       "displayTitle": "🏈 [00:30 15/11] VMI vs The Citadel",
-      "number": 30
+      "number": 8
     },
     {
       "key": "15/11_00:30_clemson_georgiatech",
@@ -929,7 +324,7 @@
         }
       ],
       "displayTitle": "🏈 [00:30 15/11] Clemson vs Georgia Tech",
-      "number": 31
+      "number": 9
     },
     {
       "key": "15/11_00:30_nebraska_rutgers",
@@ -958,7 +353,36 @@
         }
       ],
       "displayTitle": "🏈 [00:30 15/11] Rutgers vs Nebraska",
-      "number": 32
+      "number": 10
+    },
+    {
+      "key": "15/11_00:45_alabama_vanderbilt",
+      "c_home": "vanderbilt",
+      "c_away": "alabama",
+      "homeTeam": "Vanderbilt",
+      "awayTeam": "Alabama",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "00:45",
+      "date": "15/11",
+      "timestamp": 1794678300000,
+      "league": "NCAAF",
+      "leagueName": "NCAA Football",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏈 [00:45 15/11] Vanderbilt vs Alabama (us NCAAF) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18409/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/60.png",
+          "competition": "NCAA",
+          "group": "🔴 LIVE EVENTS",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏈 [00:45 15/11] Vanderbilt vs Alabama",
+      "number": 11
     },
     {
       "key": "15/11_06:30_chapecoense_vascodagamasafrj",
@@ -987,7 +411,7 @@
         }
       ],
       "displayTitle": "⚽ [06:30 15/11] Chapecoense Sc vs Vasco Da Gama Saf Rj",
-      "number": 33
+      "number": 12
     },
     {
       "key": "15/11_02:45_denmark_portugal",
@@ -1023,23 +447,10 @@
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:35 15/11] Bồ Đào Nha vs Đan Mạch (TV360+ 5) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0Njg3MTg2fQ.GF5oCr_qqUqZSXL2M3mHfH1zdjO4KcVgzE5bfS69J2ncTdg-qtDrDKE4gHQsUuQGpJQaMFV6fNnSSJgGLoav_g&screen=MHL&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428066163/612bf265b788_1280_720.png",
-          "competition": "",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "edfa094d8ac55cf98f5867128a926aa7",
-            "key": "0e10fa6099105e2e0a7ce1e34e9c0230"
-          }
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch",
-      "number": 34
+      "number": 13
     },
     {
       "key": "15/11_02:45_northernireland_ukraine",
@@ -1068,7 +479,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Northern Ireland vs Ukraine",
-      "number": 35
+      "number": 14
     },
     {
       "key": "15/11_02:45_bosniaandherzegovina_sweden",
@@ -1097,59 +508,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Sweden vs Bosnia And Herzegovina",
-      "number": 36
-    },
-    {
-      "key": "15/11_02:45_poland_romania",
-      "c_home": "romania",
-      "c_away": "poland",
-      "homeTeam": "Romania",
-      "awayTeam": "Poland",
-      "homeLogo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Romania Vs Poland (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Romania vs Ba Lan (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/702_romania.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/18_poland.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:35 15/11] Romania vs Ba Lan (TV360+ 7) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ2OTI1ODYsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.o2jeNiz0alRaNAuUJbWVbwg5XxfJwyOrbpHgYPm3ifA&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/179428235857/84f4e64314b7_1280_720.png",
-          "competition": "",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "072f0a0d4eda40cbb04dfadf521a2b9f",
-            "key": "2fb11373b36e018573d3b07132df050e"
-          }
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Romania vs Poland",
-      "number": 37
+      "number": 15
     },
     {
       "key": "15/11_02:45_austria_ireland",
@@ -1178,51 +537,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Austria vs Ireland",
-      "number": 38
-    },
-    {
-      "key": "15/11_02:45_ao_ireland",
-      "c_home": "ao",
-      "c_away": "ireland",
-      "homeTeam": "Áo",
-      "awayTeam": "Cộng hòa Ireland",
-      "homeLogo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
-      "time": "02:45",
-      "date": "15/11",
-      "timestamp": 1794685500000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/677_republic-of-ireland.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:35 15/11] Áo vs Cộng hòa Ireland (TV360+ 6) - Film4k",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MDE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.tlI8u0nUmt03X6kaN_ktfSWjAcSG-oaAdAtBzbevs0M&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/10/10/1794281564350/519826e0432a_1280_720.png",
-          "competition": "",
-          "group": "🔴 LIVE EVENTS",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
-            "key": "6c06f96a6296d05442466d5b09e58192"
-          }
-        }
-      ],
-      "displayTitle": "⚽ [02:45 15/11] Áo vs Cộng hòa Ireland",
-      "number": 39
+      "number": 16
     },
     {
       "key": "15/11_02:45_bosniaherzegovina_sweden",
@@ -1253,7 +568,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 15/11] Thụy Điển vs Bosnia & Herzegovina",
-      "number": 40
+      "number": 17
     },
     {
       "key": "15/11_04:30_haiti_usa",
@@ -1273,6 +588,14 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [04:30 15/11] Haiti Vs Usa (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [04:30 15/11] Haiti vs Mỹ (BLV Khô Cay) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/515_haiti.jpg",
@@ -1284,7 +607,7 @@
         }
       ],
       "displayTitle": "⚽ [04:30 15/11] Haiti vs Mỹ",
-      "number": 41
+      "number": 18
     },
     {
       "key": "15/11_06:00_queretaro_rayadosdemonterrey",
@@ -1313,7 +636,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 15/11] Queretaro vs Rayados De Monterrey",
-      "number": 42
+      "number": 19
     },
     {
       "key": "15/11_07:00_belize_saintvincentandthegrenadines",
@@ -1342,7 +665,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 15/11] Saint Vincent And The Grenadines vs Belize",
-      "number": 43
+      "number": 20
     },
     {
       "key": "15/11_08:00_jamaica_mexico",
@@ -1381,7 +704,7 @@
         }
       ],
       "displayTitle": "⚽ [08:00 15/11] Jamaica vs Mexico",
-      "number": 44
+      "number": 21
     },
     {
       "key": "15/11_10:00_atleticolapaz_piratas",
@@ -1412,7 +735,7 @@
         }
       ],
       "displayTitle": "⚽ [10:00 15/11] Atletico La Paz vs Piratas",
-      "number": 45
+      "number": 22
     },
     {
       "key": "15/11_10:10_india_newzealand",
@@ -1441,7 +764,7 @@
         }
       ],
       "displayTitle": "⚽ [10:10 15/11] New Zealand vs India",
-      "number": 46
+      "number": 23
     },
     {
       "key": "15/11_11:00_hokkaidoconsadolesapporo_sagantosu",
@@ -1470,7 +793,7 @@
         }
       ],
       "displayTitle": "⚽ [11:00 15/11] Hokkaido Consadole Sapporo vs Sagan Tosu",
-      "number": 47
+      "number": 24
     },
     {
       "key": "15/11_12:00_machidazelvia_visselkobe",
@@ -1509,7 +832,7 @@
         }
       ],
       "displayTitle": "⚽ [12:00 15/11] Machida Zelvia vs Vissel Kobe",
-      "number": 48
+      "number": 25
     },
     {
       "key": "15/11_13:00_kashimaantlers_yokohamafmarinos",
@@ -1548,7 +871,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Kashima Antlers vs Yokohama F Marinos",
-      "number": 49
+      "number": 26
     },
     {
       "key": "15/11_13:00_cerezoosaka_urawareddiamonds",
@@ -1577,7 +900,7 @@
         }
       ],
       "displayTitle": "⚽ [13:00 15/11] Cerezo Osaka vs Urawa Red Diamonds",
-      "number": 50
+      "number": 27
     },
     {
       "key": "15/11_14:00_dingnanunited_guizhouguiyangathletic",
@@ -1606,7 +929,7 @@
         }
       ],
       "displayTitle": "⚽ [14:00 15/11] Guizhou Guiyang Athletic vs Dingnan United",
-      "number": 51
+      "number": 28
     },
     {
       "key": "15/11_15:00_kashiwareysol_kawasakifrontale",
@@ -1635,7 +958,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 15/11] Kashiwa Reysol vs Kawasaki Frontale",
-      "number": 52
+      "number": 29
     },
     {
       "key": "15/11_17:30_apollonkalamarias_kallithea",
@@ -1664,7 +987,7 @@
         }
       ],
       "displayTitle": "⚽ [17:30 15/11] Apollon Kalamarias vs Kallithea",
-      "number": 53
+      "number": 30
     },
     {
       "key": "15/11_18:00_cdtondela_farense",
@@ -1693,7 +1016,7 @@
         }
       ],
       "displayTitle": "⚽ [18:00 15/11] Cd Tondela vs Sc Farense",
-      "number": 54
+      "number": 31
     },
     {
       "key": "15/11_18:30_spartakkostroma_ufa",
@@ -1722,7 +1045,7 @@
         }
       ],
       "displayTitle": "⚽ [18:30 15/11] Ufa vs Spartak Kostroma",
-      "number": 55
+      "number": 32
     },
     {
       "key": "15/11_19:00_kyrgyzstan_vietnam",
@@ -1761,7 +1084,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam",
-      "number": 56
+      "number": 33
     },
     {
       "key": "15/11_19:50_alsharjah_dubaiunited",
@@ -1790,7 +1113,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 15/11] Dubai United vs Al Sharjah",
-      "number": 57
+      "number": 34
     },
     {
       "key": "15/11_20:00_adceuta_tenerife",
@@ -1819,7 +1142,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 15/11] Tenerife vs Ad Ceuta",
-      "number": 58
+      "number": 35
     },
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -1848,7 +1171,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Latvia vs Armenia",
-      "number": 59
+      "number": 36
     },
     {
       "key": "15/11_21:00_cyprus_montenegro",
@@ -1877,7 +1200,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Cyprus vs Montenegro",
-      "number": 60
+      "number": 37
     },
     {
       "key": "15/11_21:00_montenegro_sip",
@@ -1908,7 +1231,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 15/11] Síp vs Montenegro",
-      "number": 61
+      "number": 38
     },
     {
       "key": "15/11_22:15_granada_udlaspalmas",
@@ -1947,7 +1270,7 @@
         }
       ],
       "displayTitle": "⚽ [22:15 15/11] Granada vs Ud Las Palmas",
-      "number": 62
+      "number": 39
     },
     {
       "key": "15/11_22:30_alahli_ittihadkalba",
@@ -1976,7 +1299,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 15/11] Ittihad Kalba vs Shabab Al Ahli",
-      "number": 63
+      "number": 40
     },
     {
       "key": "16/11_00:00_finland_sanmarino",
@@ -2005,7 +1328,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Finland vs San Marino",
-      "number": 64
+      "number": 41
     },
     {
       "key": "16/11_00:00_albania_belarus",
@@ -2034,7 +1357,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 16/11] Belarus vs Albania",
-      "number": 65
+      "number": 42
     },
     {
       "key": "16/11_00:30_cadiz_eibar",
@@ -2073,7 +1396,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eibar vs Cadiz",
-      "number": 66
+      "number": 43
     },
     {
       "key": "16/11_00:30_eldense_sabadell",
@@ -2102,7 +1425,7 @@
         }
       ],
       "displayTitle": "⚽ [00:30 16/11] Eldense vs Sabadell",
-      "number": 67
+      "number": 44
     },
     {
       "key": "16/11_01:00_gdchaves_leixoes",
@@ -2131,7 +1454,7 @@
         }
       ],
       "displayTitle": "⚽ [01:00 16/11] Leixoes vs Gd Chaves",
-      "number": 68
+      "number": 45
     },
     {
       "key": "16/11_02:30_danubio_liverpooluru",
@@ -2160,7 +1483,7 @@
         }
       ],
       "displayTitle": "⚽ [02:30 16/11] Danubio vs Liverpool Uru",
-      "number": 69
+      "number": 46
     },
     {
       "key": "16/11_02:45_france_turkiye",
@@ -2189,7 +1512,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] France vs Turkiye",
-      "number": 70
+      "number": 47
     },
     {
       "key": "16/11_02:45_belgium_italy",
@@ -2218,7 +1541,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Belgium vs Italy",
-      "number": 71
+      "number": 48
     },
     {
       "key": "16/11_02:45_england_spain",
@@ -2247,7 +1570,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Spain vs England",
-      "number": 72
+      "number": 49
     },
     {
       "key": "16/11_06:00_curacao_panama",
@@ -2276,7 +1599,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 16/11] Panama vs Curacao",
-      "number": 73
+      "number": 50
     },
     {
       "key": "16/11_06:00_penarol_sportingcp",
@@ -2305,7 +1628,7 @@
         }
       ],
       "displayTitle": "⚽ [06:00 16/11] Defensor Sporting Montevideo vs Penarol",
-      "number": 74
+      "number": 51
     },
     {
       "key": "16/11_07:00_mexico_sacramentorepublic",
@@ -2334,7 +1657,7 @@
         }
       ],
       "displayTitle": "⚽ [07:00 16/11] New Mexico United vs Sacramento Republic",
-      "number": 75
+      "number": 52
     },
     {
       "key": "16/11_19:00_bor1919_semendrija1924",
@@ -2363,7 +1686,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 16/11] Bor 1919 vs Semendrija 1924",
-      "number": 76
+      "number": 53
     },
     {
       "key": "16/11_19:00_graficarbeograd_vozdovacbeograd",
@@ -2392,7 +1715,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 16/11] Graficar Beograd vs Vozdovac Beograd",
-      "number": 77
+      "number": 54
     },
     {
       "key": "16/11_20:00_algeriau17_youth_egypt_youth",
@@ -2421,7 +1744,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Algeria U17 vs Egypt U17",
-      "number": 78
+      "number": 55
     },
     {
       "key": "16/11_20:00_cameroon_namibia",
@@ -2450,7 +1773,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Namibia vs Cameroon",
-      "number": 79
+      "number": 56
     },
     {
       "key": "16/11_20:00_senegal_sudan",
@@ -2489,7 +1812,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Sudan vs Senegal",
-      "number": 80
+      "number": 57
     },
     {
       "key": "16/11_20:00_equatorialguinea_zimbabwe",
@@ -2518,7 +1841,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea",
-      "number": 81
+      "number": 58
     },
     {
       "key": "16/11_20:00_morocco_youth_tunisiau17_youth",
@@ -2547,7 +1870,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 16/11] Tunisia U17 vs Morocco U17",
-      "number": 82
+      "number": 59
     },
     {
       "key": "16/11_21:00_italy_youth_switzerland_youth",
@@ -2576,7 +1899,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 16/11] Italy U20 vs Switzerland U20",
-      "number": 83
+      "number": 60
     },
     {
       "key": "16/11_21:00_czechiarepublicu20_youth_germany_youth",
@@ -2605,7 +1928,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 16/11] Czechia Republic U20 vs Germany U20",
-      "number": 84
+      "number": 61
     },
     {
       "key": "16/11_22:00_faroeislands_moldova",
@@ -2634,7 +1957,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 85
+      "number": 62
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -2673,7 +1996,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 86
+      "number": 63
     },
     {
       "key": "16/11_22:00_felgueirasu23_youth_leixoesu23_youth",
@@ -2702,7 +2025,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Felgueiras U23 vs Leixoes U23",
-      "number": 87
+      "number": 64
     },
     {
       "key": "16/11_22:00_ghana_somalia",
@@ -2731,7 +2054,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Somalia vs Ghana",
-      "number": 88
+      "number": 65
     },
     {
       "key": "16/11_23:00_england_youth_portugal_youth",
@@ -2760,7 +2083,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 16/11] Portugal U20 vs England U20",
-      "number": 89
+      "number": 66
     },
     {
       "key": "16/11_23:00_eritrea_guinea",
@@ -2789,7 +2112,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 16/11] Eritrea vs Guinea",
-      "number": 90
+      "number": 67
     },
     {
       "key": "16/11_23:00_benin_centralafricanrepublic",
@@ -2818,7 +2141,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 16/11] Central African Republic vs Benin",
-      "number": 91
+      "number": 68
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -2849,7 +2172,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 92
+      "number": 69
     },
     {
       "key": "17/11_19:00_kyrgyzstan_vietnam",
@@ -2878,7 +2201,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 17/11] Kyrgyzstan vs Vietnam",
-      "number": 93
+      "number": 70
     },
     {
       "key": "17/11_22:30_saudiarabia_uzbekistan",
@@ -2909,7 +2232,7 @@
         }
       ],
       "displayTitle": "⚽ [22:30 17/11] Ả Rập Xê Út vs Uzbekistan",
-      "number": 94
+      "number": 71
     }
   ],
   "source_groups": [
@@ -2985,6 +2308,14 @@
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
           "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [04:30 15/11] Haiti Vs Usa (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -3404,6 +2735,16 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
+          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [02:45 15/11] Áo vs Ireland (BLV Khô Chè) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/9_austria.jpg",
@@ -3429,16 +2770,6 @@
           "logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/17_sweden.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/685_bosnia-herzegovina.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [02:45 15/11] Bồ Đào Nha vs Đan Mạch (BLV Khô Cóc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_22ba35ebaa/index.m3u8?token=rnGiAKd7Ef-B1Q39PpqAGJSIrNI8dj2Sz-3IRtLMfUs",
-          "logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/23_portugal.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
