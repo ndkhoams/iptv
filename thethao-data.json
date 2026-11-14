@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:38:11",
+  "updated_at": "2026-11-14 11:53:50",
   "live_events": [
     {
       "key": "14/11_10:00_portlandstate_southernutah",
@@ -86,90 +86,6 @@
       "number": 3
     },
     {
-      "key": "14/11_09:30_goldenstatewarriors_tottenham",
-      "c_home": "tottenham",
-      "c_away": "goldenstatewarriors",
-      "homeTeam": "San Antonio Spurs",
-      "awayTeam": "Golden State Warriors",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "09:30",
-      "date": "14/11",
-      "timestamp": 1794623400000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [09:30 14/11] San Antonio Spurs vs Golden State Warriors (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18080/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/158.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [09:30 14/11] San Antonio Spurs vs Golden State Warriors",
-      "number": 4
-    },
-    {
-      "key": "14/11_10:00_portlandtrailblazers_sacramentokings",
-      "c_home": "sacramentokings",
-      "c_away": "portlandtrailblazers",
-      "homeTeam": "Sacramento Kings",
-      "awayTeam": "Portland Trail Blazers",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "10:00",
-      "date": "14/11",
-      "timestamp": 1794625200000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:00 14/11] Sacramento Kings vs Portland Trail Blazers (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18090/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/157.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [10:00 14/11] Sacramento Kings vs Portland Trail Blazers",
-      "number": 5
-    },
-    {
-      "key": "14/11_10:30_losangelesclippers_oklahomacitythunder",
-      "c_home": "losangelesclippers",
-      "c_away": "oklahomacitythunder",
-      "homeTeam": "Los Angeles Clippers",
-      "awayTeam": "Oklahoma City Thunder",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "10:30",
-      "date": "14/11",
-      "timestamp": 1794627000000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18105/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/144.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder",
-      "number": 6
-    },
-    {
       "key": "14/11_LIVE_tv360_tv3601",
       "c_home": "tv3601",
       "c_away": "tv360",
@@ -183,7 +99,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -334,7 +250,91 @@
           "clearKey": null
         }
       ],
-      "displayTitle": "⚽ [LIVE 14/11] TV360+ 1 vs TV360",
+      "displayTitle": "🔴 [LIVE 14/11] TV360+ 1 vs TV360",
+      "number": 4
+    },
+    {
+      "key": "14/11_09:30_goldenstatewarriors_tottenham",
+      "c_home": "tottenham",
+      "c_away": "goldenstatewarriors",
+      "homeTeam": "San Antonio Spurs",
+      "awayTeam": "Golden State Warriors",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "09:30",
+      "date": "14/11",
+      "timestamp": 1794623400000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [09:30 14/11] San Antonio Spurs vs Golden State Warriors (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18080/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/158.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [09:30 14/11] San Antonio Spurs vs Golden State Warriors",
+      "number": 5
+    },
+    {
+      "key": "14/11_10:00_portlandtrailblazers_sacramentokings",
+      "c_home": "sacramentokings",
+      "c_away": "portlandtrailblazers",
+      "homeTeam": "Sacramento Kings",
+      "awayTeam": "Portland Trail Blazers",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "10:00",
+      "date": "14/11",
+      "timestamp": 1794625200000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [10:00 14/11] Sacramento Kings vs Portland Trail Blazers (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18090/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/157.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [10:00 14/11] Sacramento Kings vs Portland Trail Blazers",
+      "number": 6
+    },
+    {
+      "key": "14/11_10:30_losangelesclippers_oklahomacitythunder",
+      "c_home": "losangelesclippers",
+      "c_away": "oklahomacitythunder",
+      "homeTeam": "Los Angeles Clippers",
+      "awayTeam": "Oklahoma City Thunder",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "10:30",
+      "date": "14/11",
+      "timestamp": 1794627000000,
+      "league": "NBA",
+      "leagueName": "🏀 Bóng rổ NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder (us NBA) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18105/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/144.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder",
       "number": 7
     },
     {
@@ -543,8 +543,8 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [18:35 14/11] China U19 Vs Tajikistan U19 (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [18:35 14/11] China U19 Vs Tajikistan U19 (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -2834,8 +2834,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [18:35 14/11] China U19 Vs Tajikistan U19 (BLV Gà Siêu Bệu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [18:35 14/11] China U19 Vs Tajikistan U19 (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
@@ -4232,34 +4232,34 @@
     {
       "home_team": "San Antonio Spurs",
       "away_team": "Golden State Warriors",
-      "home_score": "97",
-      "away_score": "60",
+      "home_score": "115",
+      "away_score": "79",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "11:47 - 4th",
+      "detail": "3:36 - 4th",
       "date": "2026-11-14T02:30Z"
     },
     {
       "home_team": "Sacramento Kings",
       "away_team": "Portland Trail Blazers",
-      "home_score": "68",
-      "away_score": "77",
+      "home_score": "78",
+      "away_score": "90",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "6:41 - 3rd",
+      "detail": "45.7 - 3rd",
       "date": "2026-11-14T03:00Z"
     },
     {
       "home_team": "LA Clippers",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "55",
-      "away_score": "40",
+      "home_score": "57",
+      "away_score": "44",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2:54 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-14T03:30Z"
     }
   ],
