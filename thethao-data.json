@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-14 19:14:00",
+  "updated_at": "2026-11-14 19:29:10",
   "live_events": [
     {
       "key": "14/11_17:15_brazil_japan",
       "c_home": "japan",
       "c_away": "brazil",
-      "homeTeam": "Nhật Bản",
+      "homeTeam": "Japan",
       "awayTeam": "Brazil",
-      "homeLogo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "17:15",
       "date": "14/11",
       "timestamp": 1794651300000,
@@ -24,18 +24,9 @@
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [17:15 14/11] Nhật Bản vs Brazil (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "🔴 [17:15 14/11] Nhật Bản vs Brazil",
+      "displayTitle": "🔴 [17:15 14/11] Japan vs Brazil",
       "number": 1
     },
     {
@@ -230,7 +221,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -250,7 +241,7 @@
           "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [19:30 14/11] Thái Lan vs Brunei Darussalam",
+      "displayTitle": "🔴 [19:30 14/11] Thái Lan vs Brunei Darussalam",
       "number": 7
     },
     {
@@ -267,7 +258,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -278,7 +269,7 @@
           "ref": "https://film4k.pl/"
         }
       ],
-      "displayTitle": "⚽ [19:30 14/11] Exeter City vs Cheltenham",
+      "displayTitle": "🔴 [19:30 14/11] Exeter City vs Cheltenham",
       "number": 8
     },
     {
@@ -3818,15 +3809,6 @@
     {
       "name": "🍵 Xôi Chè TV",
       "channels": [
-        {
-          "name": "⚽ [17:15 14/11] Nhật Bản vs Brazil (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/531_brazil.jpg",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
         {
           "name": "⚽ [19:00 14/11] Trung Quốc vs Malaysia (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
