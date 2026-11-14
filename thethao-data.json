@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 07:32:08",
+  "updated_at": "2026-11-14 07:47:36",
   "live_events": [
     {
       "key": "14/11_06:00_argentina_uruguay",
@@ -139,6 +139,34 @@
       "number": 4
     },
     {
+      "key": "14/11_08:00_bolivia_peru",
+      "c_home": "peru",
+      "c_away": "bolivia",
+      "homeTeam": "Peru",
+      "awayTeam": "Bolivia",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "08:00",
+      "date": "14/11",
+      "timestamp": 1794618000000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 14/11] Peru Vs Bolivia (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "🔴 [08:00 14/11] Peru vs Bolivia",
+      "number": 5
+    },
+    {
       "key": "14/11_07:00_indianapacers_newyorkknicks",
       "c_home": "indianapacers",
       "c_away": "newyorkknicks",
@@ -164,7 +192,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 14/11] Indiana Pacers vs New York Knicks",
-      "number": 5
+      "number": 6
     },
     {
       "key": "14/11_07:00_milwaukeebucks_orlandomagic",
@@ -192,34 +220,6 @@
         }
       ],
       "displayTitle": "🏀 [07:00 14/11] Orlando Magic vs Milwaukee Bucks",
-      "number": 6
-    },
-    {
-      "key": "14/11_08:00_bolivia_peru",
-      "c_home": "peru",
-      "c_away": "bolivia",
-      "homeTeam": "Peru",
-      "awayTeam": "Bolivia",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "08:00",
-      "date": "14/11",
-      "timestamp": 1794618000000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [08:00 14/11] Peru Vs Bolivia (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "⚽ [08:00 14/11] Peru vs Bolivia",
       "number": 7
     },
     {
@@ -2750,18 +2750,18 @@
           "clearKey": null
         },
         {
-          "name": "⚽ [15:00 14/11] U23 Thái Lan vs U23 Singapore (TV360) - Film4k",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyNDE4Nn0.ZBHZ_4PmKUFuxJdWxzTVwUogJePmWUMd5S4IvQj8dudaFIAEAFvEU7TalEpL_i0mOHKxg1Oil3mP9WDo9bLvag&screen=MHL&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212501300/6086d1800585_1280_720.jpg",
+          "name": "⚽ [19:45 14/11] Y vs Fest Cà Mau (TV360) - Film4k",
+          "url": "https://livestream-evg8.tv360.vn/ImbDAKL3ytyPcLGUZLDIRg/1794687189/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794394522412/4d090f8bd623_1280_720.png",
           "group": "⚽ Sự Kiện Trực Tiếp / TV360",
           "ref": "https://film4k.pl/",
           "dash": false,
           "clearKey": null
         },
         {
-          "name": "⚽ [19:45 14/11] Y vs Fest Cà Mau (TV360) - Film4k",
-          "url": "https://livestream-evg8.tv360.vn/ImbDAKL3ytyPcLGUZLDIRg/1794687189/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794394522412/4d090f8bd623_1280_720.png",
+          "name": "⚽ [15:00 14/11] U23 Thái Lan vs U23 Singapore (TV360) - Film4k",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDYyNDE4Nn0.ZBHZ_4PmKUFuxJdWxzTVwUogJePmWUMd5S4IvQj8dudaFIAEAFvEU7TalEpL_i0mOHKxg1Oil3mP9WDo9bLvag&screen=MHL&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/15/1794212501300/6086d1800585_1280_720.jpg",
           "group": "⚽ Sự Kiện Trực Tiếp / TV360",
           "ref": "https://film4k.pl/",
           "dash": false,
@@ -3317,23 +3317,23 @@
     {
       "home_team": "Indiana Pacers",
       "away_team": "New York Knicks",
-      "home_score": "24",
-      "away_score": "23",
+      "home_score": "31",
+      "away_score": "31",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:41 - 1st",
+      "detail": "9:53 - 2nd",
       "date": "2026-11-14T00:00Z"
     },
     {
       "home_team": "Orlando Magic",
       "away_team": "Milwaukee Bucks",
-      "home_score": "19",
-      "away_score": "14",
+      "home_score": "34",
+      "away_score": "17",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "1:31 - 1st",
+      "detail": "8:39 - 2nd",
       "date": "2026-11-14T00:00Z"
     },
     {
