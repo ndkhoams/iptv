@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 14:30:57",
+  "updated_at": "2026-11-14 14:46:04",
   "live_events": [
     {
       "key": "14/11_13:00_bahrain_yemen",
@@ -30,34 +30,6 @@
       "number": 1
     },
     {
-      "key": "14/11_14:30_korea_youth_vietnam_youth",
-      "c_home": "vietnam_youth",
-      "c_away": "korea_youth",
-      "homeTeam": "Vietnam U19",
-      "awayTeam": "South Korea U19",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "14:30",
-      "date": "14/11",
-      "timestamp": 1794641400000,
-      "league": "OTHER",
-      "leagueName": "🌐 Trực tiếp",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [14:30 14/11] Vietnam U19 Vs South Korea U19 (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        }
-      ],
-      "displayTitle": "🔴 [14:30 14/11] Vietnam U19 vs South Korea U19",
-      "number": 2
-    },
-    {
       "key": "14/11_15:00_singapore_youth_thailand_youth",
       "c_home": "thailand_youth",
       "c_away": "singapore_youth",
@@ -71,7 +43,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -91,8 +63,8 @@
           "clearKey": null
         }
       ],
-      "displayTitle": "⚽ [15:00 14/11] U23 Thái Lan vs Singapore U23",
-      "number": 3
+      "displayTitle": "🔴 [15:00 14/11] U23 Thái Lan vs Singapore U23",
+      "number": 2
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -120,6 +92,34 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
+      "number": 3
+    },
+    {
+      "key": "14/11_16:00_bhutan_india",
+      "c_home": "india",
+      "c_away": "bhutan",
+      "homeTeam": "India",
+      "awayTeam": "Bhutan",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "16:00",
+      "date": "14/11",
+      "timestamp": 1794646800000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [16:00 14/11] India Vs Bhutan (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [16:00 14/11] India vs Bhutan",
       "number": 4
     },
     {
@@ -2728,13 +2728,6 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [14:30 14/11] Vietnam U19 Vs South Korea U19 (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
           "name": "⚽ [15:00 14/11] Thailand U23 Vs Singapore U23 (BLV Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
@@ -2744,6 +2737,13 @@
         {
           "name": "⚽ [15:30 14/11] Bayswater City Vs Sydney Olympic (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [16:00 14/11] India Vs Bhutan (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
