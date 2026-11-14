@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-11-14 12:45:07",
+  "updated_at": "2026-11-14 13:00:52",
   "live_events": [
-    {
-      "key": "14/11_10:30_losangelesclippers_oklahomacitythunder",
-      "c_home": "losangelesclippers",
-      "c_away": "oklahomacitythunder",
-      "homeTeam": "Los Angeles Clippers",
-      "awayTeam": "Oklahoma City Thunder",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "10:30",
-      "date": "14/11",
-      "timestamp": 1794627000000,
-      "league": "NBA",
-      "leagueName": "🏀 Bóng rổ NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder (us NBA) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18105/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/144.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🏀 [10:30 14/11] Los Angeles Clippers vs Oklahoma City Thunder",
-      "number": 1
-    },
     {
       "key": "14/11_13:00_bahrain_yemen",
       "c_home": "bahrain",
@@ -43,7 +15,7 @@
       "league": "OTHER",
       "leagueName": "🌐 Trực tiếp",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -54,8 +26,8 @@
           "ref": "https://gavangtvttbdo.tv/"
         }
       ],
-      "displayTitle": "⚽ [13:00 14/11] Bahrain vs Yemen",
-      "number": 2
+      "displayTitle": "🔴 [13:00 14/11] Bahrain vs Yemen",
+      "number": 1
     },
     {
       "key": "14/11_14:30_korea_youth_vietnam_youth",
@@ -83,7 +55,7 @@
         }
       ],
       "displayTitle": "⚽ [14:30 14/11] Vietnam U19 vs South Korea U19",
-      "number": 3
+      "number": 2
     },
     {
       "key": "14/11_15:00_singapore_youth_thailand_youth",
@@ -120,7 +92,7 @@
         }
       ],
       "displayTitle": "⚽ [15:00 14/11] U23 Thái Lan vs Singapore U23",
-      "number": 4
+      "number": 3
     },
     {
       "key": "14/11_15:30_bayswatercity_sydneyolympic",
@@ -148,7 +120,7 @@
         }
       ],
       "displayTitle": "⚽ [15:30 14/11] Bayswater City vs Sydney Olympic",
-      "number": 5
+      "number": 4
     },
     {
       "key": "14/11_16:00_oman_tajikistan",
@@ -178,7 +150,7 @@
         }
       ],
       "displayTitle": "⚽ [16:00 14/11] Oman vs Tajikistan",
-      "number": 6
+      "number": 5
     },
     {
       "key": "14/11_17:15_brazil_japan",
@@ -215,7 +187,7 @@
         }
       ],
       "displayTitle": "⚽ [17:15 14/11] Nhật Bản vs Brazil",
-      "number": 7
+      "number": 6
     },
     {
       "key": "14/11_18:35_china_youth_tajikistanu19_youth",
@@ -243,7 +215,7 @@
         }
       ],
       "displayTitle": "⚽ [18:35 14/11] China U19 vs Tajikistan U19",
-      "number": 8
+      "number": 7
     },
     {
       "key": "14/11_18:40_argentina_italy",
@@ -271,7 +243,7 @@
         }
       ],
       "displayTitle": "⚽ [18:40 14/11] Italy vs Argentina",
-      "number": 9
+      "number": 8
     },
     {
       "key": "14/11_18:50_kyrgyzstan_taiwan",
@@ -301,7 +273,7 @@
         }
       ],
       "displayTitle": "⚽ [18:50 14/11] Đài Bắc Trung Hoa vs Kyrgyzstan",
-      "number": 10
+      "number": 9
     },
     {
       "key": "14/11_19:00_china_malaysia",
@@ -338,7 +310,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] Trung Quốc vs Malaysia",
-      "number": 11
+      "number": 10
     },
     {
       "key": "14/11_19:00_qatar_youth_vietnam_youth",
@@ -393,7 +365,7 @@
         }
       ],
       "displayTitle": "⚽ [19:00 14/11] U23 Việt Nam vs Qatar U23",
-      "number": 12
+      "number": 11
     },
     {
       "key": "14/11_19:30_bruneidarussalam_thailand",
@@ -421,7 +393,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 14/11] Thailand vs Brunei Darussalam",
-      "number": 13
+      "number": 12
     },
     {
       "key": "14/11_19:30_cheltenham_exetercity",
@@ -449,7 +421,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 14/11] Exeter City vs Cheltenham",
-      "number": 14
+      "number": 13
     },
     {
       "key": "14/11_19:45_festcamau_italy",
@@ -479,7 +451,7 @@
         }
       ],
       "displayTitle": "⚽ [19:45 14/11] Y vs Fest Cà Mau",
-      "number": 15
+      "number": 14
     },
     {
       "key": "14/11_19:50_ajman_aldhafra",
@@ -507,7 +479,7 @@
         }
       ],
       "displayTitle": "⚽ [19:50 14/11] Al Dhafra vs Ajman",
-      "number": 16
+      "number": 15
     },
     {
       "key": "14/11_20:00_castellon_valladolid",
@@ -544,7 +516,7 @@
         }
       ],
       "displayTitle": "⚽ [20:00 14/11] Real Valladolid vs Castellon",
-      "number": 17
+      "number": 16
     },
     {
       "key": "14/11_21:00_israel_kosovo",
@@ -609,7 +581,7 @@
         }
       ],
       "displayTitle": "⚽ [21:00 14/11] Kosovo vs Israel",
-      "number": 18
+      "number": 17
     },
     {
       "key": "14/11_21:10_newzealand_wales",
@@ -637,7 +609,7 @@
         }
       ],
       "displayTitle": "⚽ [21:10 14/11] Wales vs New Zealand",
-      "number": 19
+      "number": 18
     },
     {
       "key": "14/11_21:30_bangladesh_pakistan",
@@ -665,7 +637,7 @@
         }
       ],
       "displayTitle": "⚽ [21:30 14/11] Bangladesh vs Pakistan",
-      "number": 20
+      "number": 19
     },
     {
       "key": "14/11_22:00_iran_palestine",
@@ -702,7 +674,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Palestine vs Ir Iran",
-      "number": 21
+      "number": 20
     },
     {
       "key": "14/11_22:00_bristolrovers_chesterfield",
@@ -730,7 +702,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Bristol Rovers vs Chesterfield",
-      "number": 22
+      "number": 21
     },
     {
       "key": "14/11_22:00_colchester_gillingham",
@@ -758,7 +730,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Colchester vs Gillingham",
-      "number": 23
+      "number": 22
     },
     {
       "key": "14/11_22:00_crewe_newportcounty",
@@ -786,7 +758,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Crewe vs Newport County",
-      "number": 24
+      "number": 23
     },
     {
       "key": "14/11_22:00_accringtonst_portvale",
@@ -814,7 +786,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Port Vale vs Accrington ST",
-      "number": 25
+      "number": 24
     },
     {
       "key": "14/11_22:00_rochdale_york",
@@ -842,7 +814,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Rochdale vs York",
-      "number": 26
+      "number": 25
     },
     {
       "key": "14/11_22:00_crawleytown_rotherham",
@@ -870,7 +842,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Rotherham vs Crawley Town",
-      "number": 27
+      "number": 26
     },
     {
       "key": "14/11_22:00_northampton_salfordcity",
@@ -898,7 +870,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Salford City vs Northampton",
-      "number": 28
+      "number": 27
     },
     {
       "key": "14/11_22:00_oldham_shrewsbury",
@@ -926,7 +898,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Shrewsbury vs Oldham",
-      "number": 29
+      "number": 28
     },
     {
       "key": "14/11_22:00_grimsby_swindontown",
@@ -954,7 +926,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Swindon Town vs Grimsby",
-      "number": 30
+      "number": 29
     },
     {
       "key": "14/11_22:00_barnet_walsall",
@@ -982,7 +954,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Walsall vs Barnet",
-      "number": 31
+      "number": 30
     },
     {
       "key": "14/11_22:00_bromley_nottscounty",
@@ -1010,7 +982,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Bromley vs Notts County",
-      "number": 32
+      "number": 31
     },
     {
       "key": "14/11_22:00_doncaster_leytonorient",
@@ -1038,7 +1010,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Doncaster vs Leyton Orient",
-      "number": 33
+      "number": 32
     },
     {
       "key": "14/11_22:00_bradford_leicester",
@@ -1066,7 +1038,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Leicester vs Bradford",
-      "number": 34
+      "number": 33
     },
     {
       "key": "14/11_22:00_cambridgeunited_luton",
@@ -1094,7 +1066,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Luton vs Cambridge United",
-      "number": 35
+      "number": 34
     },
     {
       "key": "14/11_22:00_burtonalbion_miltonkeynesdons",
@@ -1122,7 +1094,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Milton Keynes Dons vs Burton Albion",
-      "number": 36
+      "number": 35
     },
     {
       "key": "14/11_22:00_oxfordunited_peterborough",
@@ -1150,7 +1122,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Peterborough vs Oxford United",
-      "number": 37
+      "number": 36
     },
     {
       "key": "14/11_22:00_plymouth_sheffieldwednesday",
@@ -1178,7 +1150,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Sheffield Wednesday vs Plymouth",
-      "number": 38
+      "number": 37
     },
     {
       "key": "14/11_22:00_mansfieldtown_stevenage",
@@ -1206,7 +1178,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Stevenage vs Mansfield Town",
-      "number": 39
+      "number": 38
     },
     {
       "key": "14/11_22:00_reading_stockportcounty",
@@ -1234,6 +1206,34 @@
         }
       ],
       "displayTitle": "⚽ [22:00 14/11] Stockport County vs Reading",
+      "number": 39
+    },
+    {
+      "key": "14/11_22:00_barnsley_wigan",
+      "c_home": "wigan",
+      "c_away": "barnsley",
+      "homeTeam": "Wigan",
+      "awayTeam": "Barnsley",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "22:00",
+      "date": "14/11",
+      "timestamp": 1794668400000,
+      "league": "OTHER",
+      "leagueName": "🌐 Trực tiếp",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [22:00 14/11] Wigan vs Barnsley (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18200/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/61.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "⚽ [22:00 14/11] Wigan vs Barnsley",
       "number": 40
     },
     {
@@ -3217,13 +3217,6 @@
       "name": "🔴 Live Events (Film4k)",
       "channels": [
         {
-          "name": "⚽ [09:00 14/11] UCLA vs Illinois (us NCAAF) - Film4k",
-          "url": "https://film4k.pl/api/tv/ants/18342/index.m3u8",
-          "logo": "https://media.api-sports.io/american-football/teams/153.png",
-          "group": "🔴 Live Events (Film4k)",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [10:00 14/11] Portland State vs Southern Utah (us NCAAF) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18343/index.m3u8",
           "logo": "https://media.api-sports.io/american-football/teams/91.png",
@@ -3437,6 +3430,13 @@
           "name": "⚽ [22:00 14/11] Stockport County vs Reading (gb Sky Sports) - Film4k",
           "url": "https://film4k.pl/api/tv/ants/18199/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/4686.png",
+          "group": "🔴 Live Events (Film4k)",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [22:00 14/11] Wigan vs Barnsley (gb Sky Sports) - Film4k",
+          "url": "https://film4k.pl/api/tv/ants/18200/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/61.png",
           "group": "🔴 Live Events (Film4k)",
           "ref": "https://film4k.pl/"
         },
@@ -3984,12 +3984,12 @@
     {
       "home_team": "LA Clippers",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "96",
-      "away_score": "100",
+      "home_score": "113",
+      "away_score": "112",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "5:38 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-14T03:30Z"
     }
   ],
@@ -5281,8 +5281,8 @@
         "teamName": "Oklahoma City Thunder",
         "shortName": "Thunder",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-        "played": 12,
-        "gd": "8T-4B",
+        "played": 13,
+        "gd": "8T-5B",
         "points": 8
       },
       {
@@ -5422,20 +5422,20 @@
       },
       {
         "rank": 26,
+        "teamName": "LA Clippers",
+        "shortName": "Clippers",
+        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+        "played": 11,
+        "gd": "3T-8B",
+        "points": 3
+      },
+      {
+        "rank": 27,
         "teamName": "Chicago Bulls",
         "shortName": "Bulls",
         "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
         "played": 11,
         "gd": "2T-9B",
-        "points": 2
-      },
-      {
-        "rank": 27,
-        "teamName": "LA Clippers",
-        "shortName": "Clippers",
-        "logoUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-        "played": 10,
-        "gd": "2T-8B",
         "points": 2
       },
       {
