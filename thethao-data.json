@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 14:42:47",
+  "updated_at": "2026-11-15 14:58:12",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -755,6 +755,35 @@
       ],
       "displayTitle": "🏀 [05:00 16/11] Utah Jazz vs San Antonio Spurs",
       "number": 17
+    },
+    {
+      "key": "16/11_06:00_bostonceltics_dallasmavericks",
+      "c_home": "bostonceltics",
+      "c_away": "dallasmavericks",
+      "homeTeam": "Boston Celtics",
+      "awayTeam": "Dallas Mavericks",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "06:00",
+      "date": "16/11",
+      "timestamp": 1794783600000,
+      "league": "NBA",
+      "leagueName": "NBA",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks (us NBA) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18071/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png",
+          "competition": "NBA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        }
+      ],
+      "displayTitle": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks",
+      "number": 18
     }
   ],
   "source_groups": [
@@ -1562,6 +1591,14 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks (us NBA) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18071/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png",
+          "competition": "NBA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "⚽ [02:35 16/11] Tây Ban Nha vs Anh (TV360+ 4) - F4K Sport",
           "url": "https://rr1-ateme.tv360.vn/live/eds/201201/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMTIwMS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzM4MTkyfQ.iNXrNZKsrE3cdfD18nNbp5X3Zy0xwDqLh0_AStA7grG3D-Y-yxq7mqWRbXkkmOdUdy33vb0qKAhoekzaR2ZElw&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794391988817/0c0b441240c4_1280_720.png",
@@ -1615,7 +1652,7 @@
         },
         {
           "name": "⚽ [08:00 12/11] Phim kinh điển (TV360) - F4K Sport",
-          "url": "https://rr2-ateme.tv360.vn/video1/2018/08/21/09/d1394331/12c9d5/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDE4LzA4LzIxLzA5L2QxMzk0MzMxLzEyYzlkNS9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc5NDczMjY2MH0.pas1I38XmHNZC_Q1iX7TCi5Wp3Jngzrx_B4mDQ0xY-QZO957yNYjzLBTP5zjUf5N4_WPpkqSVbuMAZhA4LlLiQ&uid=294779473",
+          "url": "https://vod-evg16.tv360.vn/_a-uCrjsWgdLnTFkCoseoA/1794740100/video1/2026/05/24/21/5e593975/30b693/h264/master.m3u8?uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/17/1794566048165/1022640ca318_1280_720.png",
           "competition": "",
           "group": "F4K Sport",
@@ -1637,14 +1674,14 @@
         },
         {
           "name": "📺 TV360+ 2 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/199/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MzI2ODEsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tcGQifQ._qwFad_gsPiZezCDuXqMp7N55nNaDTGyRhjhIkKYsQc&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/199199/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OTE5OS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzUxMDM1fQ.FOj_sd4K7A1KG1r_wUOCz4p6z3s3UED1_XbXP2NqqlcGJ6OxRSdw6_ojs2h6H9CdLKSAQ1UGuqYiuIgFr9k4mQ&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
-            "keyId": "c17f1b571e985f15817351163763bf64",
-            "key": "61951ba946496cbfeede334b54a182f8"
+            "keyId": "2c24f672f7715433a83953e74ae564b1",
+            "key": "10a63f9f2ccd81dfc4a05263c2fd1575"
           }
         },
         {
@@ -1661,7 +1698,7 @@
         },
         {
           "name": "📺 TV360+ 8 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MzIzODEsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.dddUOZiMCn0D7TvKXcWcr7MqlEz99rI52jJyd44tnmo&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3NTEwNDEsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.OlROunbk6SdBCHFqmowGPc1tV43UqRz3X_MmGILHx9s&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1682,7 +1719,7 @@
         },
         {
           "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDczMjY4N30.Bwwz18K014FCMClGu9ap3B4IPW0pxsxHtNDNy5yfXbbYXF0Z1IFo7_U9BV1vm-TT0WT2klcKLVYVwPgPbMosgw&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDc1MTA0N30.L6399PEoIsMKcsRtr4fGTX5ucxjNtfPFuXN8GDWjZCYLkAl8WekPqgXBlPGWLnlgzEw3SCLpoeWOmVnoPcdMXQ&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1700,7 +1737,7 @@
         },
         {
           "name": "📺 TV360+ 12 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/465465/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2NTQ2NS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzMyMzgxfQ.wBS-5vMtDbLGoU3ZDwOSwMN2Urh77rrcIhnM2dMK1ejW0xagUxZyMH_GmBJ8_q1aw3kwFWyANaRfV3AKyiU9sg&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/465465/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2NTQ2NS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzUxMDUwfQ.jMMJOi1WAQf967_R9pPxonxe2K-1KcC27Y-JX9An_AOSI8NTZFTh63hO1rkyF_EOqXmYoq-NXy039nJqk8sB3A&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1712,7 +1749,7 @@
         },
         {
           "name": "📺 TV360+ 13 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzMyMzgxfQ.susDavZ1qFpkUISKw3c0l7N_SfqdzbudGo50_AnBmXRAV22Nvnewq-KhItrFSUP_Z5EMMPa-1YCXJ5kvTZk_hA&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/471471/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MTQ3MS9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzUxMDUzfQ.Ho0vT1k2ypUFBM5sMtRD_mUP_YKpC_iiaRg8fGtxNOkbxe9b0tkzwAb2MhPlNMJSAh77eNJipEkZfV55_zubsA&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1724,14 +1761,14 @@
         },
         {
           "name": "📺 TV360+ 14 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/472/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MzIzODEsInVyaSI6Ii9icGstdHYvNDcyL291dHB1dC9pbmRleC5tcGQifQ.-pPX6ebtbhyklL5KeX1fXRdD_z75ZNyWYG4daMzJDUQ&minrate=0&maxrate=12000000&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/472472/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3MjQ3Mi9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0NzUxMDU2fQ.XNQ4cOgtRQ5K1bzVFTOt5Gc3bcQOtQ6-S7ePFQkK94rR46vi6YIWPRNyM-bzIlffyzbRHQcsvYTK3nImGsvXbQ&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
           "dash": true,
           "clearKey": {
-            "keyId": "e57b008cedba5d12a192e66152bb61ca",
-            "key": "a4b58d543b1c042f8b399f268040b623"
+            "keyId": "807890b3dba7517b90e568e8be4ddaa4",
+            "key": "bb89427403116b132f9fbb34cd616347"
           }
         },
         {
@@ -1748,7 +1785,7 @@
         },
         {
           "name": "📺 TV360 (Trực tiếp) - TV360",
-          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDczMjY5M30.hT5LBef3mfOKTxNpiJDnzCty-8UBW9xQs_zWc0Ugxu5womTpVsitD6VcnqtNZBOjsMOQTb3-wPe5rGsytATYHg&screen=MHL&uid=294779473",
+          "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDc1MTA1OX0.ESMroww0Q0SyDKiZj2OtAc9oY18EDwbFfXIOSvrjZDtdBrW86gJ86w-LrDYtql-bHT0KaGPShbuOPoAeOBBIkw&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1757,7 +1794,7 @@
         },
         {
           "name": "📺 Livestream 01 (Trực tiếp) - TV360",
-          "url": "https://livestream-evg8.tv360.vn/EquD1VJ3O2pv3QrhpXEn6Q/1794797184/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+          "url": "https://livestream-evg8.tv360.vn/NZ5vrrWBCf0nkfSPFkF6cQ/1794815862/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/13/14/1794555156822/96350250891c_480_270.png",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/",
@@ -1770,152 +1807,152 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV KAN) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=cd5b7d5a6f33182f59034bb95acf0f03&txTime=6af9b6b0",
-          "logo": "https://sta.vnres.co/file/common/20260930/a352002c4e633530ce9c667ce8bfef75.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV LUCAS) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794732128-0-0-3efdef10497b65cd92c4981924a10df0",
-          "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794732128-0-0-e70dd210a84e7f9cce45a96488ac1bda",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV RÔSI) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=05c7492b1e325ef21c8d05a582c7603a&txTime=6af9b6b0",
-          "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794732128-0-0-8aa5f0034f5b8963100d54d355335e0b",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794732128-0-0-fcb3523b4589993c8ccc24bb6f3dfa12",
-          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794732128-0-0-d05cbfffd182a131233c1d78efec078d",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794732128-0-0-a73453b6f18c8aa6c55aaa3b2c1f0e7b",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794732128-0-0-835055c3bcf0665bf3e4979c0839435f",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794733028-0-0-8d20b500c2892d66abce70f4e02eb416",
           "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV MESSI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794732128-0-0-efc83bad24c64370eff44cd29b51ea6f",
-          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794732128-0-0-665dee63f53330287b419c40743fa3d8",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV PIRLO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=a6d38e0bc467c351cefe26b1af37d167&txTime=6af9b6b0",
-          "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794733028-0-0-fc7ab1208d69e57f80acbb59a1333c25",
+          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV VOI) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=bb1e4371ea0892d60ee3970f074efcea&txTime=6af9b6b0",
+          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=d777e64ff8316e04ebb453f72a49be36&txTime=6af9ba34",
           "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV BÒ TƯƠI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794732128-0-0-b6116a708827ac6ac423475e9c381816",
-          "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
+          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794733028-0-0-663e51e2fad7aefb728e65068a5d3478",
+          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV KAN) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e22cdc1fafce849f8f96cee16fe5a736&txTime=6af9ba34",
+          "logo": "https://sta.vnres.co/file/common/20260930/a352002c4e633530ce9c667ce8bfef75.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV MESSI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794733028-0-0-b8d59b22c4d9b59cad0fbd4616e46f89",
+          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794733028-0-0-59f062193b7ec1b105ccee84957c2380",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794733028-0-0-55b77821ccd7fefa4976dfffa30f31c2",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV RÔSI) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=86adbf4bb67e3bbc5dcc1f6fce3e8a76&txTime=6af9ba34",
+          "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV PIRLO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=71f74fee13c68e826a598d2a85c9de5c&txTime=6af9ba34",
+          "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794733028-0-0-bd22e7d702fc0faa52ba40c396f06b9d",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794733028-0-0-37c83331484e06633d25044189acb4af",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV LUCAS) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794733028-0-0-21fe8c2341c1665031e908ef919fa571",
+          "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV ALEX) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794732128-0-0-b90201a79b46ac824d12b8c9cc307e3b",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794733028-0-0-f6a628bd0be02048d3c668d0217352d2",
           "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV LOKA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794732128-0-0-5d89747151962a65a242c32d130dd44c",
-          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV HẢI THANH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794732128-0-0-ab9d9e0f8084418251d9aa922b571936",
-          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV CACAO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794732128-0-0-c385021b750882c1896e88c7144b658d",
+          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794733028-0-0-9217bba62a4312670bca6b20759d8d89",
           "logo": "https://sta.vnres.co/file/common/20261001/a63d3fbef5118a362136852e80f77992.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Kashima Antlers vs Yokohama F. Marinos (BLV HẢI THANH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794733028-0-0-bbcc246fade1ed94c50aac55890d09a1",
+          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV LOKA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794733028-0-0-d92abf6217433dad703b4b1a89049bed",
+          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV BÒ TƯƠI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794733028-0-0-bf5a450944fea9fe09c78fee5830fb50",
+          "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Brisbane Bullets vs Tasmania JackJumpers (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794732128-0-0-72e5aca5735ed0a949261ddf3874a24a",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794733028-0-0-3ea5d0592ff1f11f277185325c0c6a44",
           "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
           "competition": "NBL",
           "group": "🐿️ SocoLive",
@@ -1923,39 +1960,39 @@
         },
         {
           "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794732128-0-0-2b90ef0dc35626cadbe9dca31e6f56d6",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794733028-0-0-8c07764b8b1d076f348f51a94a393d28",
           "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c42d4ad80c20f7b6e642bf175841decf&txTime=6af9b6b0",
-          "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794732128-0-0-12365f828d4b5ff6c88fbd013b718218",
-          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-          "competition": "KBL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794732128-0-0-6581ed95fed64757401e870042ad9db1",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794733028-0-0-509c4f47f0b3568775957629f6c80bbf",
           "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794733028-0-0-b727fbc495ed0efec961634015a86367",
+          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+          "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f14a46be1507df70ad6ec0fc485c9276&txTime=6af9ba34",
+          "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Brisbane Bullets vs Tasmania JackJumpers (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794732133-0-0-1285f5d5dbd2a3b5e495384635fdb6e8",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794733028-0-0-1498087c5864e6a53134845332a57571",
           "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
           "competition": "NBL",
           "group": "🐿️ SocoLive",
