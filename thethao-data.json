@@ -1,6 +1,109 @@
 {
-  "updated_at": "2026-11-15 23:49:18",
+  "updated_at": "2026-11-16 00:04:46",
   "live_events": [
+    {
+      "key": "16/11_00:00_albania_belarus",
+      "c_home": "belarus",
+      "c_away": "albania",
+      "homeTeam": "Belarus",
+      "awayTeam": "Albania",
+      "homeLogo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
+      "time": "00:00",
+      "date": "16/11",
+      "timestamp": 1794762000000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [00:00 16/11] Belarus Vs Albania (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (us Fox Soccer Plus) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18515/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1100.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (es VIX) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18517/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/1100.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV A BỆU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794765788-0-0-c8e5abee04ebccdcb3f0420add75751a",
+          "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV PIRLO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=96a7dac630f7a5b1d6e99e805416affa&txTime=6afa3a2c",
+          "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV SAO LA) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=3cce7619f4b9d52cf783c4fe132f2cff&txTime=6afa3a2c",
+          "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV CURRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794765788-0-0-33ddeda03b5b481780effd94be6fa99d",
+          "logo": "https://sta.vnres.co/file/common/20261116/3d535a264e2434d521299a894e5408de.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV HẢI THANH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794765848-0-0-f90db54b0c5ac7380a6cca19f7887210",
+          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV NHỊ CA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794765848-0-0-54377e5761487d32536def6702279cf8",
+          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        }
+      ],
+      "displayTitle": "🔴 [00:00 16/11] Belarus vs Albania",
+      "number": 1
+    },
     {
       "key": "16/11_00:00_finland_sanmarino",
       "c_home": "finland",
@@ -59,64 +162,57 @@
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794765788-0-0-db1e0743ea666a837d31e441a4cd3c01",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794765788-0-0-a62a9e4a68c619287e47496ac404c290",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LOGAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794765788-0-0-ede11289900f815a25a573d98e48c199",
+          "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LUCAS) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794765788-0-0-92c9b14727fe1c2158654cceee56f1cd",
+          "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LÃO LÂM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794765788-0-0-ef4935c06ccd6de7e99a3886e4d6fe4e",
+          "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV VOI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794765848-0-0-b98ec8954876a6aa7097013d179a3126",
+          "logo": "https://sta.vnres.co/file/common/20261116/5f3d473bffc4be5224cac142df29346b.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
         }
       ],
       "displayTitle": "🔴 [00:00 16/11] Finland vs San Marino",
-      "number": 1
-    },
-    {
-      "key": "16/11_00:00_albania_belarus",
-      "c_home": "belarus",
-      "c_away": "albania",
-      "homeTeam": "Belarus",
-      "awayTeam": "Albania",
-      "homeLogo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
-      "time": "00:00",
-      "date": "16/11",
-      "timestamp": 1794762000000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [00:00 16/11] Belarus Vs Albania (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
-          "name": "⚽ [00:00 16/11] Belarus vs Albania (us Fox Soccer Plus) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18515/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1100.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [00:00 16/11] Belarus vs Albania (es VIX) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18517/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1100.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        }
-      ],
-      "displayTitle": "🔴 [00:00 16/11] Belarus vs Albania",
       "number": 2
     },
     {
@@ -369,8 +465,8 @@
       "c_away": "czech",
       "homeTeam": "Croatia",
       "awayTeam": "Czech Republic",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
       "time": "02:45",
       "date": "16/11",
       "timestamp": 1794771900000,
@@ -380,6 +476,16 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
         {
           "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (us Fox Soccer Plus) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18534/index.m3u8",
@@ -1210,18 +1316,10 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png",
-          "competition": "United Arab Emirates ADIB Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [22:15 15/11] Granada Cf Vs Ud Las Palmas (BLV Gà Siêu Péo) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
-          "competition": "Spanish Segunda Division",
+          "name": "⚽ [00:00 16/11] Belarus Vs Albania (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1234,10 +1332,18 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [00:00 16/11] Belarus Vs Albania (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
+          "name": "⚽ [22:30 15/11] Ittihad Kalba Fc Vs Shabab Al Ahli (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png",
+          "competition": "United Arab Emirates ADIB Cup",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [22:15 15/11] Granada Cf Vs Ud Las Palmas (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png",
+          "competition": "Spanish Segunda Division",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1310,14 +1416,6 @@
           "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png",
           "competition": "Uruguay Primera Division",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [07:00 16/11] New Mexico United Vs Sacramento Republic Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",
-          "competition": "USL Championship",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1542,6 +1640,14 @@
           "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
           "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [07:00 17/11] New Mexico United Vs Sacramento Republic Fc (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",
+          "competition": "USL Championship",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1773,16 +1879,6 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [00:30 16/11] Eibar vs Cadiz CF (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
@@ -1793,11 +1889,31 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [02:45 16/11] Bỉ vs Ý (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/6_belgium.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/6_belgium.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/3_italy.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -2560,306 +2676,258 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Granada CF vs UD Las Palmas (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794764888-0-0-f43866fe043c144c53a4a315d17612cb",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Al-Jazira(UAE) vs Baniyas Club (BLV TRÀ ĐÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794764888-0-0-b0244a063529497b247605df033e5a1e",
-          "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Nurnberg Women vs Koln Women (BLV KENCHU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794764888-0-0-0e2c0945da619cc22ba249fb5dc21ac7",
-          "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
-          "competition": "GER WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Penafiel vs Lusitania FC (BLV MP3) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=1a1d49544a7f26780b4b1ffcfb5627ea&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Granada CF vs UD Las Palmas (BLV CÔNG CHẤT) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=2ba39daef1b54a432c165cb7a176e3fc&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Al-Jazira(UAE) vs Baniyas Club (BLV BOSS) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794764888-0-0-894cfcb3b581bbf8030eb94e295a382d",
-          "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BÒ TƯƠI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794764888-0-0-ffb752fd15c5e0fa529fb9cc6379d635",
-          "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BÉO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ccf7e84a175c9dcf78083eedd82e5da3&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Granada CF vs UD Las Palmas (BLV A MÂN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794764888-0-0-05dc5080f837a49405d11d85cae58759",
-          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794764888-0-0-38512e0a8d385a69ffbe81100d82eb22",
-          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BẢY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794764888-0-0-c1ee14469584c54a91c7b6d14f4bc30b",
-          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Granada CF vs UD Las Palmas (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794764888-0-0-3c930b351e7eb15a072d3099bb6dbf6c",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794764888-0-0-10a68d76b294851e870f2000e840cccf",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794764888-0-0-37efa29be4e96d691a1a6cc90e7fcf37",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Belarus vs Albania (BLV SAO LA) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ef781c9ef11b243bded3008bf0845d47&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Belarus vs Albania (BLV A BỆU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794764888-0-0-327b6bc42ced6fb1277a546765498552",
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV A BỆU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794765788-0-0-c8e5abee04ebccdcb3f0420add75751a",
           "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV LOGAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794764888-0-0-fb8883f1b435b1805c4e16a87e101a73",
-          "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Belarus vs Albania (BLV HẢI THANH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794764888-0-0-839e184d86ecb672f7edb916e67d76ce",
-          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Belarus vs Albania (BLV CURRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794764888-0-0-4da9bec514c9a616376bbaa465f3fdef",
-          "logo": "https://sta.vnres.co/file/common/20261116/3d535a264e2434d521299a894e5408de.jpg",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Belarus vs Albania (BLV PIRLO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=6b1199773e1b3b6e4e13fea8d996fb3d&txTime=6afa36a8",
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV PIRLO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=96a7dac630f7a5b1d6e99e805416affa&txTime=6afa3a2c",
           "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV LUCAS) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794764888-0-0-7d9b811d526223a50baeab01f3fa8655",
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794765788-0-0-db1e0743ea666a837d31e441a4cd3c01",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794765788-0-0-a62a9e4a68c619287e47496ac404c290",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LOGAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794765788-0-0-ede11289900f815a25a573d98e48c199",
+          "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LUCAS) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794765788-0-0-92c9b14727fe1c2158654cceee56f1cd",
           "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV VOI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794764888-0-0-44529a5cebbc5beb10debf317304af3f",
-          "logo": "https://sta.vnres.co/file/common/20261116/5f3d473bffc4be5224cac142df29346b.png",
-          "competition": "UEFA NL",
+          "name": "⚽ [LIVE 16/11] Granada CF vs UD Las Palmas (BLV TẠ BIÊN GIỚI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794765788-0-0-ec9c3300eebfcb4ceaf99b0778e3be0e",
+          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Finland vs San Marino (BLV LÃO LÂM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794764888-0-0-c2c506100779f82053f120e48b1d2302",
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV LÃO LÂM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794765788-0-0-ef4935c06ccd6de7e99a3886e4d6fe4e",
           "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Arsenal Women vs London City Lionesses Women (BLV A WIN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794764888-0-0-a0a43b263b9ff266fc95eb44a6d5167a",
+          "name": "⚽ [LIVE 16/11] Granada CF vs UD Las Palmas (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794765788-0-0-4ce2666e129b05f6d298e6f1951789b5",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV SAO LA) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=3cce7619f4b9d52cf783c4fe132f2cff&txTime=6afa3a2c",
+          "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV CURRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794765788-0-0-33ddeda03b5b481780effd94be6fa99d",
+          "logo": "https://sta.vnres.co/file/common/20261116/3d535a264e2434d521299a894e5408de.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV NGƯỜI CÁ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794765788-0-0-e95bb997bfeedb3d5d8670f475553641",
+          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794765788-0-0-c52115ee1d8edf74c15a669147109294",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Granada CF vs UD Las Palmas (BLV CÔNG CHẤT) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=650c31a6e3482b3bc606b6e8e0073ebd&txTime=6afa3a2c",
+          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Granada CF vs UD Las Palmas (BLV A MÂN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794765788-0-0-b7f09159cd6688b5a1e98e46e185be51",
+          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BÉO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=054f4ebbe0c04197f4dabb1b6ccacf58&txTime=6afa3a68",
+          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV HẢI THANH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794765848-0-0-f90db54b0c5ac7380a6cca19f7887210",
+          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV XUÂN SON) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=93a59007f1502f0a2ec9797615c914b6&txTime=6afa3a68",
+          "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Arsenal Women vs London City Lionesses Women (BLV A WIN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794765848-0-0-c8673fdb380cbc46dd374d0421a734ed",
           "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
           "competition": "ENG WSL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] RB Leipzig Women vs Eintracht Frankfurt Women (BLV ĐỖ TÚ TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794764888-0-0-71e07ff4026f74525f9358494275db91",
-          "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
-          "competition": "GER WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Penafiel vs Lusitania FC (BLV 5 LỬA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1794764888-0-0-aceeb615f5285d43e1ae1b62aa764a6d",
+          "name": "⚽ [LIVE 16/11] Penafiel vs Lusitania FC (BLV 5 LỬA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1794765848-0-0-3371a313c3860511e586169253a83c54",
           "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
           "competition": "POR D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [22:30 15/11] Al-Jazira(UAE) vs Baniyas Club (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=82bdad915abd9fb408131c78d92fc0ae&txTime=6afa36a8",
+          "name": "⚽ [22:30 16/11] Al-Jazira(UAE) vs Baniyas Club (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=a800171405a84f6067d6f7edc1120c00&txTime=6afa3a68",
           "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Nurnberg Women vs Koln Women (BLV RYO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=cb3fcf7ad7163476eb496c0ffee213e2&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20260928/5f69ae469bdad805c99d02052617d937.png",
-          "competition": "GER WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Arsenal Women vs London City Lionesses Women (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794764888-0-0-c712a3fbd860fb2c772b6b3faa2750e7",
+          "name": "⚽ [LIVE 16/11] Arsenal Women vs London City Lionesses Women (BLV A TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794765848-0-0-3d036527917be66fb1abaaf6e6c78e0c",
           "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
           "competition": "ENG WSL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "🏀 [LIVE 15/11] Manchester Basketball vs Bristol Flyers (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794764888-0-0-51e632e0091638ab8dad4e90e01eb5ad",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "SLB",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Al-Jazira(UAE) vs Baniyas Club (BLV QUỐC KHÁNH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794764888-0-0-9a1ab41ef99f3760f068f36a04f05378",
+          "name": "⚽ [LIVE 16/11] Al-Jazira(UAE) vs Baniyas Club (BLV QUỐC KHÁNH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794765848-0-0-0bca537df9ba7c1b46cc4d86cb2bffd4",
           "logo": "https://sta.vnres.co/file/common/20261022/110d1ff464d53729fa1afc1904891a38.jpg",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Metalac Gornji Milanovac vs FK Napredak Krusevac (BLV REDBULL) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794764888-0-0-762de2a971161440d4a49dcdb59bb029",
-          "logo": "https://sta.vnres.co/file/common/20261031/6106c385532b3759581cc70e19003623.jpg",
-          "competition": "SER D2",
+          "name": "⚽ [LIVE 16/11] Penafiel vs Lusitania FC (BLV MP3) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=848f68c645f949ec8349007055acf58c&txTime=6afa3a68",
+          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
+          "competition": "POR D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Backa Topola vs Jedinstvo UB (BLV GIÓ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=e739b16957721c3431a243a18d16df3e&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
-          "competition": "SER D2",
+          "name": "⚽ [LIVE 16/11] Ittihad Kalba FC vs Shabab Al Ahli (BLV BÒ TƯƠI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794765848-0-0-97781b1c4c118617f0b6e861dffc3d41",
+          "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
+          "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] RB Leipzig Women vs Eintracht Frankfurt Women (BLV NHỊ CA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794764888-0-0-327dd3821d0954d0843580eac2154cdb",
-          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
-          "competition": "GER WD1",
+          "name": "⚽ [LIVE 16/11] Al-Jazira(UAE) vs Baniyas Club (BLV TRÀ ĐÁ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794765848-0-0-c2064026c04e98bc21dc851df5d0a6ad",
+          "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
+          "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "🏀 [LIVE 15/11] Manchester Basketball vs Bristol Flyers (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794764888-0-0-b598d64440e6cf908d5c32a50425417e",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "SLB",
+          "name": "⚽ [LIVE 16/11] Finland vs San Marino (BLV VOI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794765848-0-0-b98ec8954876a6aa7097013d179a3126",
+          "logo": "https://sta.vnres.co/file/common/20261116/5f3d473bffc4be5224cac142df29346b.png",
+          "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Backa Topola vs Jedinstvo UB (BLV XUÂN SON) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e61f9528cfa68c2c229aa25c946780ce&txTime=6afa36a8",
-          "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
-          "competition": "SER D2",
+          "name": "⚽ [LIVE 16/11] Al-Jazira(UAE) vs Baniyas Club (BLV BOSS) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794765848-0-0-441ebead00c2a41d02836215cfa6a3b8",
+          "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
+          "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Metalac Gornji Milanovac vs FK Napredak Krusevac (BLV PEANUT) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794764888-0-0-8876f7053c4672bd684867774df06f45",
-          "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Eibar vs Cadiz CF (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794764899-0-0-10c07b2b3e6c87c8271cf4424f68baeb",
+          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794765848-0-0-285763eab1aceea73f020a9d182c2b75",
           "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
           "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV SẾU ĐẦU ĐỎ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794765848-0-0-58fca6c51d1ef9bbf662c5a7264b5896",
+          "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV KENCHU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794765848-0-0-e20d649ec34224c1911dd94d255a5c60",
+          "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belarus vs Albania (BLV NHỊ CA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794765848-0-0-54377e5761487d32536def6702279cf8",
+          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
+          "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
