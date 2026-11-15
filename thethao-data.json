@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 18:58:07",
+  "updated_at": "2026-11-15 19:13:45",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -267,8 +267,8 @@
       "c_away": "turkey",
       "homeTeam": "France",
       "awayTeam": "Turkey",
-      "homeLogo": "https://apiv3.apifootball.com/badges/22_france.jpg",
-      "awayLogo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+      "homeLogo": "",
+      "awayLogo": "",
       "time": "02:45",
       "date": "16/11",
       "timestamp": 1794771900000,
@@ -285,16 +285,6 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Pháp vs Thổ Nhĩ Kỳ (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
-          "competition": "UEFA Nations League",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [02:35 16/11] Pháp vs Thổ Nhĩ Kỳ (TV360+ 6) - F4K Sport",
@@ -449,6 +439,16 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [02:45 16/11] Tây Ban Nha vs Anh (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/16_england.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [02:45 16/11] Spain vs England (GB ITV1) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18531/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
@@ -531,7 +531,15 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es English) - F4K Sport",
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb DAZN) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18535/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
@@ -539,8 +547,16 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb English) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (se Viaplay se) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18546/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (no Viaplay no) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18547/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -1949,16 +1965,6 @@
       "name": "🍵 Xôi Chè TV",
       "channels": [
         {
-          "name": "⚽ [19:00 15/11] Kyrgyzstan vs Việt Nam (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/346_kyrgyz-republic.jpg",
-          "away_logo": "https://flagcdn.com/w160/vn.png",
-          "competition": "Friendlies",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [20:00 15/11] Tenerife vs Ceuta (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7273_tenerife.jpg",
@@ -2049,18 +2055,18 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [02:45 16/11] Pháp vs Thổ Nhĩ Kỳ (BLV Lương Khô) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+          "name": "⚽ [02:45 16/11] Tây Ban Nha vs Anh (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/16_england.jpg",
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [02:45 16/11] Tây Ban Nha vs Anh (BLV Tam Mao) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "name": "⚽ [02:45 16/11] Tây Ban Nha vs Anh (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/19_spain.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/16_england.jpg",
@@ -2230,6 +2236,22 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "🏈 [21:30 15/11] Detroit Lions vs New England Patriots (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18548/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/7.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [21:30 15/11] Detroit Lions vs New England Patriots (US NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18549/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/7.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
           "name": "🏉 [22:10 15/11] Scotland vs Australia (gb ITV1) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18329/index.m3u8",
           "logo": "https://media.api-sports.io/rugby/teams/390.png",
@@ -2314,6 +2336,118 @@
           "url": "https://film4k.pl/api/tv/ants/18209/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9692.png",
           "competition": "Segunda División",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Atlanta Falcons vs Kansas City Chiefs (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18550/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/8.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Atlanta Falcons vs Kansas City Chiefs (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18551/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/8.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Cleveland Browns vs Houston Texans (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18552/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/9.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Cleveland Browns vs Houston Texans (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18553/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/9.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Green Bay Packers vs Minnesota Vikings (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18554/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/15.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Green Bay Packers vs Minnesota Vikings (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18555/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/15.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Tennessee Titans vs Jacksonville Jaguars (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18556/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/6.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Tennessee Titans vs Jacksonville Jaguars (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18557/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/6.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Indianapolis Colts vs Miami Dolphins (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18558/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/21.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] Indianapolis Colts vs Miami Dolphins (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18559/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/21.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] New Orleans Saints vs Carolina Panthers (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18560/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/27.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] New Orleans Saints vs Carolina Panthers (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18561/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/27.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] New York Jets vs Buffalo Bills (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18562/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/13.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [01:00 16/11] New York Jets vs Buffalo Bills (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18563/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/13.png",
+          "competition": "NFL",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
         },
@@ -2422,7 +2556,15 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es English) - F4K Sport",
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb DAZN) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18535/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
@@ -2430,8 +2572,16 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb English) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (se Viaplay se) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18546/index.m3u8",
+          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
+          "competition": "UEFA Nations League",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (no Viaplay no) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18547/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -2442,6 +2592,54 @@
           "url": "https://film4k.pl/api/tv/ants/18078/index.m3u8",
           "logo": "https://media.api-sports.io/basketball/teams/155.png",
           "competition": "NBA",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:05 16/11] Las Vegas Raiders vs Seattle Seahawks (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18564/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/1.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:05 16/11] Las Vegas Raiders vs Seattle Seahawks (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18565/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/1.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:05 16/11] Arizona Cardinals vs Los Angeles Rams (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18566/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/11.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:05 16/11] Arizona Cardinals vs Los Angeles Rams (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18567/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/11.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:25 16/11] Dallas Cowboys vs San Francisco 49ers (us NFL) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18568/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/29.png",
+          "competition": "NFL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏈 [04:25 16/11] Dallas Cowboys vs San Francisco 49ers (us NFL 1) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18569/index.m3u8",
+          "logo": "https://media.api-sports.io/american-football/teams/29.png",
+          "competition": "NFL",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
         },
@@ -2687,112 +2885,120 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CÒ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794747428-0-0-8efbe690625bd230c893e31c7d32aafc",
-          "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV LÃO LÂM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794747428-0-0-31fd0171177590680669a8ab26e249ef",
-          "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794747428-0-0-117264d1c396b5782780b245ac9f60bd",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CURRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794747428-0-0-2892b2d95d1d3540b66e5d50237b65a1",
-          "logo": "https://sta.vnres.co/file/common/20261115/d9716664db1f67c1a226ed795478649b.png",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Sassuolo Women vs Ternana Women (BLV KENCHU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794747428-0-0-06aedab715be982a7867d907c9289024",
-          "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
-          "competition": "ITA WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV BÉO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7c0a2dbb58eaef74ad06b7465a5838af&txTime=6af9f274",
-          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV SAO LA) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c810db096bd667b99e9b6f8a33823da9&txTime=6af9f274",
-          "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CUỘI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794747428-0-0-ba9e8366c6fa2f13a839d9e0621b0b04",
-          "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Sassuolo Women vs Ternana Women (BLV ANH TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794747428-0-0-dfb679ac4c08dd124d3354517c75a4a9",
-          "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
-          "competition": "ITA WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FC Ufa vs Spartak Kostroma (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794747428-0-0-43bc641930f3a959209e58db56c4b5ca",
-          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
-          "competition": "RUS D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794747428-0-0-a05307e55b1cf8a4250f66c5cacf7062",
-          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
-          "competition": "POR D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV TAP) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794747428-0-0-b276f73bbcc0814385a64705933310f5",
-          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
-          "competition": "POR D2",
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV A MÂN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794748388-0-0-db19645163cd2efe2b894d9eca3850b1",
+          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+          "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] FC Ufa vs Spartak Kostroma (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7ae2b07efa2fe3b8f5153af08085c9cb&txTime=6af9f274",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=9c92894761be2492cbe41760bc8c58d4&txTime=6af9f634",
           "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
           "competition": "RUS D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Sassuolo Women vs Ternana Women (BLV ANH TÀI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794748388-0-0-de17b08f3ef97dcdba3e70ad75973304",
+          "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
+          "competition": "ITA WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CÒ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794748388-0-0-4643187d0fdd8775c70901886b17a8ec",
+          "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CUỘI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794748388-0-0-7e612cfd68699eec1895336a38ab8400",
+          "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Sassuolo Women vs Ternana Women (BLV KENCHU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794748388-0-0-a07c8a8c6cd1fcf1c202293959a19237",
+          "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
+          "competition": "ITA WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794748388-0-0-0a198e77a1654f403202ec8eed03ce5e",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV LÃO LÂM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794748388-0-0-a6cd9185f0ec13e57f8e25c5dcc0ed4d",
+          "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV CURRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794748388-0-0-5ee9504a103ad887ba9f03f9377ad030",
+          "logo": "https://sta.vnres.co/file/common/20261115/d9716664db1f67c1a226ed795478649b.png",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FC Ufa vs Spartak Kostroma (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794748388-0-0-5ef86f7144e4900e966b2499b951ac00",
+          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+          "competition": "RUS D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV TAP) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794748388-0-0-e5483f77f2ba1a2f4fb627c141d2d8dd",
+          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Amarante vs FC Felgueiras (BLV SAO LA) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c6a534b12ffe1b5b0fc19373d3276db8&txTime=6af9f634",
+          "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] CD Tondela vs SC Farense (BLV NGƯỜI CÁ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794748388-0-0-4f2c8aa148e9534eaf3719eaa4a10049",
+          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV BÉO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5ab429dc11a4be249ea7a51e2b7cdc5c&txTime=6af9f634",
+          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] FK Vrsac vs FK Javor Ivanjica (BLV BẢY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794747428-0-0-3a4148041a5074fa021b9e91f8564cb6",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794748388-0-0-80d75b43d52a343dd49b2d88a7591c99",
           "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
@@ -2800,7 +3006,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Slavia Prague ERA NBK vs USK Prague (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794747428-0-0-a4f202ed3fb6d907544e09b856655ccb",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794748388-0-0-9a08c6bfd699a270c761940ab1af1ef3",
           "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
           "competition": "CZBL",
           "group": "🐿️ SocoLive",
@@ -2808,7 +3014,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] FK Vrsac vs FK Javor Ivanjica (BLV NHỊ CA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794747428-0-0-3581a3a34dce35070ec1962a4af51731",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794748388-0-0-2160bcb3f4c2f69f28d696e3d4117387",
           "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
