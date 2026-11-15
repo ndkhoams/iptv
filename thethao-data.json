@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:13:02",
+  "updated_at": "2026-11-15 15:28:12",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -627,6 +627,14 @@
       "isCompleted": false,
       "sources": [
         {
+          "name": "⚽ [00:00 17/11] Iceland Vs Luxembourg (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [00:00 17/11] Iceland vs Luxembourg (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/704_iceland.jpg",
@@ -639,6 +647,35 @@
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
       "number": 13
+    },
+    {
+      "key": "17/11_03:00_cuba_grenada",
+      "c_home": "cuba",
+      "c_away": "grenada",
+      "homeTeam": "Cuba",
+      "awayTeam": "Grenada",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "03:00",
+      "date": "17/11",
+      "timestamp": 1794859200000,
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [03:00 17/11] Cuba Vs Grenada (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [03:00 17/11] Cuba vs Grenada",
+      "number": 14
     },
     {
       "key": "16/11_01:00_indianapacers_philadelphia76ers",
@@ -667,7 +704,7 @@
         }
       ],
       "displayTitle": "🏀 [01:00 16/11] Philadelphia 76ers vs Indiana Pacers",
-      "number": 14
+      "number": 15
     },
     {
       "key": "16/11_04:00_losangeleslakers_phoenixsuns",
@@ -696,7 +733,7 @@
         }
       ],
       "displayTitle": "🏀 [04:00 16/11] Phoenix Suns vs Los Angeles Lakers",
-      "number": 15
+      "number": 16
     },
     {
       "key": "16/11_04:30_charlottehornets_losangelesclippers",
@@ -725,7 +762,7 @@
         }
       ],
       "displayTitle": "🏀 [04:30 16/11] Los Angeles Clippers vs Charlotte Hornets",
-      "number": 16
+      "number": 17
     },
     {
       "key": "16/11_05:00_tottenham_utahjazz",
@@ -754,7 +791,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 16/11] Utah Jazz vs San Antonio Spurs",
-      "number": 17
+      "number": 18
     },
     {
       "key": "16/11_06:00_bostonceltics_dallasmavericks",
@@ -783,7 +820,7 @@
         }
       ],
       "displayTitle": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks",
-      "number": 18
+      "number": 19
     }
   ],
   "source_groups": [
@@ -791,16 +828,8 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
-          "name": "⚽ [13:00 15/11] Kashima Antlers Vs Yokohama F Marinos (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [13:00 15/11] Cerezo Osaka Vs Urawa Red Diamonds (BLV Gà Siêu Ngố) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "name": "⚽ [15:00 15/11] Kashiwa Reysol Vs Kawasaki Frontale (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
           "competition": "J.League Yamazaki Biscuit Levain Cup",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -811,14 +840,6 @@
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png",
           "competition": "Chinese Football League 1",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [15:00 15/11] Kashiwa Reysol Vs Kawasaki Frontale (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
-          "competition": "J.League Yamazaki Biscuit Levain Cup",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1151,8 +1172,48 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [00:00 17/11] Iceland Vs Luxembourg (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [03:00 17/11] Cuba Vs Grenada (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 17/11] Qatar Vs South Korea (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 17/11] Kenya Vs South Africa (BLV Gà Siêu Bệu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/289650.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:15 17/11] Iraq Vs Ir Iran (BLV Gà Siêu Ngố) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
           "competition": "International Friendly",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1797,72 +1858,8 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794733928-0-0-c23903c9ff067522eb3645cc35dddf1c",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "KBL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794733928-0-0-2659c7fe22516c03dac478306674bb2c",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794733928-0-0-e8f874160ba586855d56721ab1946317",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=229fd1d965499625b35ff476f912f329&txTime=6af9bdb8",
-          "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794733928-0-0-beef9ca989052b5a2ea22f7cb78cb50a",
-          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794733928-0-0-3577bb6fbd4d49640345d21be278769b",
-          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794733928-0-0-e29be3ab5691657f5fd87b9d4ef1a149",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Cerezo Osaka vs Urawa Red Diamonds (BLV VOI) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=0efa63aecadfa8a6f071c3499bfe6fc2&txTime=6af9bd28",
-          "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794733928-0-0-7efed66f3b17042642567a8b80207413",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794734828-0-0-a14409a443cd46db5ce076c34f139278",
           "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
@@ -1870,41 +1867,81 @@
         },
         {
           "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794733928-0-0-c0b1283f49a23accdf3d7fe049a8ae1c",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794734828-0-0-3665f1a2fe04e6b500fdacd23bfb7434",
           "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Brisbane Bullets vs Tasmania JackJumpers (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794733928-0-0-50af337827b7f08fb3fc5d176c3f0043",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "NBL",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794734828-0-0-85c0793ad078d1c614fa58f6115a74d2",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794733928-0-0-0942ced518602b38f5400dd7162d2bd9",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794734828-0-0-65ce333aadf84400c82c1bb34045d8c1",
+          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794733928-0-0-d6e1d2c084da82ddb91e538ec622e2e9",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794734828-0-0-45d61f157762a2f89132cc4d607877e7",
           "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Brisbane Bullets vs Tasmania JackJumpers (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794733928-0-0-17ffaca9b95aea3b9fef3929c7a6816e",
-          "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
-          "competition": "NBL",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794734828-0-0-b96deacaf67fa9752b2d674747972661",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794734828-0-0-c281a8ae9c5e86616f4e401a24a9cd3f",
+          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=d313863c6f64e83e84f9d0043527204d&txTime=6af9c13c",
+          "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794734828-0-0-0fb92eb62e1ecafbea5fa7f6d235821e",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794734828-0-0-e1d2eddaea62874699934538fc3c6439",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794734828-0-0-0b72a7d2df321add83672080d8c149c1",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
