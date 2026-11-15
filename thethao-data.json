@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 16:30:09",
+  "updated_at": "2026-11-15 16:45:09",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -194,8 +194,8 @@
       "c_away": "albania",
       "homeTeam": "Belarus",
       "awayTeam": "Albania",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
       "time": "00:00",
       "date": "16/11",
       "timestamp": 1794762000000,
@@ -212,6 +212,16 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         },
         {
           "name": "⚽ [00:00 16/11] Belarus vs Albania (us Fox Soccer Plus) - F4K Sport",
@@ -1967,6 +1977,16 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [00:00 16/11] Belarus vs Albania (BLV Khô Cay) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/687_belarus.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/699_albania.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [00:30 16/11] Eibar vs Cadiz CF (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/7278_eibar.jpg",
@@ -2601,114 +2621,146 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794738548-0-0-51d055ffba0ce2d6a6d4b27fcb485e39",
-          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV BÉO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=317c2e61dc841e1214f24dd5d141a690&txTime=6af9cfc4",
-          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
-          "competition": "RUS D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794738548-0-0-4399e05412a58bd387712f84c5583e78",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794738548-0-0-74821c5122594f1ea0ea90bd89eb50cc",
-          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
-          "competition": "KBL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794738548-0-0-c929c5cdff4318a7b61dd24deabade40",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794738548-0-0-7e2eb625e57d7996f45cc3f1b8402b0b",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794738548-0-0-22c7d2df664e25092a4a86e113b5f899",
-          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794738548-0-0-1e026a0f8bff145587c819d4b599dd56",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794738548-0-0-ffc4e3539d6359d7148840fb94e7aeeb",
-          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV LION) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794738548-0-0-1dcbec8e21b3b7e4cdba4e685c277017",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794739448-0-0-f64f337d8db7b1e46bd1078530fd354d",
           "logo": "https://sta.vnres.co/file/common/20260925/7f64e70c9355c65f708ddcb88099d6de.png",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV TYPN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794739448-0-0-5a9b909c584b9fa7f796e8609b982174",
+          "logo": "https://sta.vnres.co/file/common/20261110/40827a4a943fa3e134a3f71d0052882a.png",
+          "competition": "RUS D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794739448-0-0-bdaccbdbf0dd06ce5f8bb9050a036ea2",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794739448-0-0-6dcce31a57908f60b5997f33c110099c",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV RAMBO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=649a34c93bbc2104fb7ab65477ba75e6&txTime=6af9cfc4",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8e24ac5eb0f8781cdb48a91b8a95b22b&txTime=6af9d348",
           "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794739448-0-0-4d1741708d3dc87320632ac7c22e1bbf",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794739448-0-0-53c11e0e12159390433593df1ff6d6ba",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV BÚN ĐẬU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1794739448-0-0-c75fd3ab288c7712f765e9319286a231",
+          "logo": "https://sta.vnres.co/file/common/20261002/8b16a006caa18f017772695acecfdfcb.jpg",
+          "competition": "RUS D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794739448-0-0-1c191ed50122bd3b10d79763a016e0cd",
+          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794739448-0-0-1d11c241366831612f931e77134b8af5",
+          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV BÉO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=392d07e47ced3ea6dc4e2dad3a59e0ef&txTime=6af9d348",
+          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+          "competition": "RUS D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794739448-0-0-e6211ef47d97cfc12474fe64e52b0511",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV VIP) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=333617f5d6495355c357b6bfa9ae5440&txTime=6af9cfc4",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9fbbe5505fb32dd26971e1deeaa01373&txTime=6af9d348",
           "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794738548-0-0-8b58934e252bd5d422149d6acef7b0cd",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794739396-0-0-743b2b61784d8ccecac5154c795dc8c3",
+          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794738548-0-0-530f19fc293dc20aa316785b5f1ba235",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794739361-0-0-7ebd86d4b8594c9e623eda8468e13af8",
           "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
           "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Esenler Erokspor vs Bahcesehir Kol. (BLV BRIAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794739448-0-0-af09dc091845f06843397c83810ac081",
+          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
+          "competition": "Super Ligi",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Esenler Erokspor vs Bahcesehir Kol. (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794739458-0-0-98fcc9375da7eb8e1e5758e6895877d2",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "Super Ligi",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV YONE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794739448-0-0-f16f2ed46f69d5e8e00221f2f6233c95",
+          "logo": "https://sta.vnres.co/file/common/20260924/a91b676f0c0421c21f0736714a9a8ecd.jpg",
+          "competition": "RUS D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
