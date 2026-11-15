@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:59:10",
+  "updated_at": "2026-11-15 16:14:13",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -242,40 +242,6 @@
       "number": 4
     },
     {
-      "key": "16/11_02:35_france_turkey",
-      "c_home": "france",
-      "c_away": "turkey",
-      "homeTeam": "Pháp",
-      "awayTeam": "Thổ Nhĩ Kỳ",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "02:35",
-      "date": "16/11",
-      "timestamp": 1794771300000,
-      "league": "NATIONS_LEAGUE",
-      "leagueName": "UEFA Nations League",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [02:35 16/11] Pháp vs Thổ Nhĩ Kỳ (TV360+ 6) - F4K Sport",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MzgxOTgsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.kHNVCfgGMKS_o-sbY-TQH90rB3wPj18NfETPLT2b48I&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794391438513/b001da916ea8_1280_720.png",
-          "competition": "",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/",
-          "dash": true,
-          "clearKey": {
-            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
-            "key": "6c06f96a6296d05442466d5b09e58192"
-          }
-        }
-      ],
-      "displayTitle": "⚽ [02:35 16/11] Pháp vs Thổ Nhĩ Kỳ",
-      "number": 5
-    },
-    {
       "key": "16/11_02:45_france_turkiye",
       "c_home": "france",
       "c_away": "turkiye",
@@ -302,7 +268,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] France vs Turkiye",
-      "number": 6
+      "number": 5
     },
     {
       "key": "16/11_02:45_belgium_italy",
@@ -386,7 +352,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Bỉ vs Italy",
-      "number": 7
+      "number": 6
     },
     {
       "key": "16/11_02:45_england_spain",
@@ -452,7 +418,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Tây Ban Nha vs England",
-      "number": 8
+      "number": 7
     },
     {
       "key": "16/11_02:45_croatia_czech",
@@ -520,6 +486,50 @@
         }
       ],
       "displayTitle": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc",
+      "number": 8
+    },
+    {
+      "key": "16/11_02:45_france_turkey",
+      "c_home": "france",
+      "c_away": "turkey",
+      "homeTeam": "Pháp",
+      "awayTeam": "Thổ Nhĩ Kỳ",
+      "homeLogo": "https://apiv3.apifootball.com/badges/22_france.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+      "time": "02:45",
+      "date": "16/11",
+      "timestamp": 1794771900000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 16/11] Pháp vs Thổ Nhĩ Kỳ (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:35 16/11] Pháp vs Thổ Nhĩ Kỳ (TV360+ 6) - F4K Sport",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3MzgxOTgsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.kHNVCfgGMKS_o-sbY-TQH90rB3wPj18NfETPLT2b48I&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794391438513/b001da916ea8_1280_720.png",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": true,
+          "clearKey": {
+            "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
+            "key": "6c06f96a6296d05442466d5b09e58192"
+          }
+        }
+      ],
+      "displayTitle": "⚽ [02:45 16/11] Pháp vs Thổ Nhĩ Kỳ",
       "number": 9
     },
     {
@@ -664,8 +674,8 @@
       "c_away": "bulgaria",
       "homeTeam": "Estonia",
       "awayTeam": "Bulgaria",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/688_estonia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/683_bulgaria.jpg",
       "time": "00:00",
       "date": "17/11",
       "timestamp": 1794848400000,
@@ -682,6 +692,16 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [00:00 17/11] Estonia vs Bulgaria (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/688_estonia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/688_estonia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/683_bulgaria.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Estonia vs Bulgaria",
@@ -836,10 +856,10 @@
       "key": "17/11_02:45_greece_serbia",
       "c_home": "greece",
       "c_away": "serbia",
-      "homeTeam": "Greece",
+      "homeTeam": "Hy Lạp",
       "awayTeam": "Serbia",
-      "homeLogo": "",
-      "awayLogo": "",
+      "homeLogo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
       "time": "02:45",
       "date": "17/11",
       "timestamp": 1794858300000,
@@ -856,9 +876,19 @@
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 17/11] Hy Lạp vs Serbia (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
         }
       ],
-      "displayTitle": "⚽ [02:45 17/11] Greece vs Serbia",
+      "displayTitle": "⚽ [02:45 17/11] Hy Lạp vs Serbia",
       "number": 20
     },
     {
@@ -1065,6 +1095,37 @@
       "number": 27
     },
     {
+      "key": "18/11_02:45_denmark_norway",
+      "c_home": "denmark",
+      "c_away": "norway",
+      "homeTeam": "Đan Mạch",
+      "awayTeam": "Na Uy",
+      "homeLogo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/692_norway.jpg",
+      "time": "02:45",
+      "date": "18/11",
+      "timestamp": 1794944700000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 18/11] Đan Mạch vs Na Uy (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/692_norway.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 18/11] Đan Mạch vs Na Uy",
+      "number": 28
+    },
+    {
       "key": "16/11_01:00_indianapacers_philadelphia76ers",
       "c_home": "philadelphia76ers",
       "c_away": "indianapacers",
@@ -1091,7 +1152,7 @@
         }
       ],
       "displayTitle": "🏀 [01:00 16/11] Philadelphia 76ers vs Indiana Pacers",
-      "number": 28
+      "number": 29
     },
     {
       "key": "16/11_04:00_losangeleslakers_phoenixsuns",
@@ -1120,7 +1181,7 @@
         }
       ],
       "displayTitle": "🏀 [04:00 16/11] Phoenix Suns vs Los Angeles Lakers",
-      "number": 29
+      "number": 30
     },
     {
       "key": "16/11_04:30_charlottehornets_losangelesclippers",
@@ -1149,7 +1210,7 @@
         }
       ],
       "displayTitle": "🏀 [04:30 16/11] Los Angeles Clippers vs Charlotte Hornets",
-      "number": 30
+      "number": 31
     },
     {
       "key": "16/11_05:00_tottenham_utahjazz",
@@ -1178,7 +1239,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 16/11] Utah Jazz vs San Antonio Spurs",
-      "number": 31
+      "number": 32
     },
     {
       "key": "16/11_06:00_bostonceltics_dallasmavericks",
@@ -1207,7 +1268,7 @@
         }
       ],
       "displayTitle": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks",
-      "number": 32
+      "number": 33
     }
   ],
   "source_groups": [
@@ -1219,14 +1280,6 @@
           "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/63b206d5f5874d2a4195def13023baa8.png",
           "competition": "J.League Yamazaki Biscuit Levain Cup",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [14:00 15/11] Guizhou Guiyang Athletic Vs Dingnan United (BLV Gà Siêu Tồ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png",
-          "competition": "Chinese Football League 1",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1944,6 +1997,16 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [02:45 16/11] Pháp vs Thổ Nhĩ Kỳ (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/22_france.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/1_turkiye.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Khô Mật) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
@@ -1974,6 +2037,16 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [00:00 17/11] Estonia vs Bulgaria (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/688_estonia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/688_estonia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/683_bulgaria.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [00:00 17/11] Iceland vs Luxembourg (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/704_iceland.jpg",
@@ -1984,11 +2057,51 @@
           "ref": "https://xoiche.live/"
         },
         {
+          "name": "⚽ [02:45 17/11] Hy Lạp vs Serbia (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/679_greece.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/675_serbia.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [20:10 17/11] Nhật Bản vs Paraguay (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/537_paraguay.jpg",
+          "competition": "Friendlies",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
           "name": "⚽ [22:30 17/11] Ả Rập Xê Út vs Uzbekistan (BLV Khô Cá) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/647_saudi-arabia.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/647_saudi-arabia.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/646_uzbekistan.jpg",
+          "competition": "Friendlies",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 18/11] Đan Mạch vs Na Uy (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/7_denmark.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/692_norway.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [06:00 18/11] Argentina vs Costa Rica (BLV Lương Khô) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/536_argentina.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/516_costa-rica.jpg",
           "competition": "Friendlies",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -2488,122 +2601,114 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794736688-0-0-824a0ecef73be11f2ec1a2a37e95ff27",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e0d29ddcb3f9b20533b3f4fc8eb7cb8d&txTime=6af9c880",
-          "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794736688-0-0-a51c16eef697d641fefb7ff97c9d47a0",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "KBL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794736688-0-0-7e80c06c7640665738178d3cfe37fe86",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV RAMBO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4c69a490c2361411f3ce15b8188b2410&txTime=6af9c880",
-          "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794736688-0-0-36b27c7e08677462a60c43cf570bb204",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794736688-0-0-9a1f5f5216268136b0b803034a989a18",
-          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794736688-0-0-4d60c95448edc8467d07533d02e7dad3",
-          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
-          "competition": "JLC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794736688-0-0-39ee2f64cf3ee862d3fed1863171eeb1",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794736688-0-0-1eee8343fa83edf65a5c09ac7c55dd6f",
-          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV LION) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794736688-0-0-69a16fd92bcaf89ab65c0b1120e5e09c",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794737588-0-0-9d0bc88880819bb7ac1762fdb29b922e",
           "logo": "https://sta.vnres.co/file/common/20260925/7f64e70c9355c65f708ddcb88099d6de.png",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV RAMBO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4b563b3d5b22c6525e315b7b724ac3f5&txTime=6af9cc04",
+          "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] FK Chelyabinsk vs Veles Moscow (BLV BÉO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=522c27c1e403501d68b08b66b7fc285a&txTime=6af9cc04",
+          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+          "competition": "RUS D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794737588-0-0-74211e4f56b6616d144aa613f0917fe3",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794737588-0-0-f2ca1fda759557d9a642923fbebccfc5",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794737588-0-0-d5a659f24d4e2d4b3ee0142b8fbed175",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794737588-0-0-040b6dbe21efb37761dce1a6c4836395",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794737588-0-0-44a75b076a75fc383a19419c0d6b6eae",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794737588-0-0-6a6e03a7b890edfb7b7109320bb23ae3",
+          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794737588-0-0-8406ff8bb8ff462b837fe7ecfc9050fc",
+          "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
+          "competition": "JLC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV VIP) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=dbce30800a96fdb805738ea26196822c&txTime=6af9cc04",
+          "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794736688-0-0-c03e8465bdce95ba638d2a3e4378f255",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794737588-0-0-4978c81c578f4d86c8b582c003eb99e9",
           "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794736688-0-0-214deb3efe4be51cf0fc25234ec8aaf7",
-          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-          "competition": "KBL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794736688-0-0-c777a50155786994f451a28820231176",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794737588-0-0-c5624f650ab786592de2b4726ff45402",
           "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV VIP) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4d32d9f3d6422827eeb36785b291f155&txTime=6af9c880",
-          "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
-          "competition": "JPN D3",
+          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794737588-0-0-e6eb1f7d10729b99315cb884453294f1",
+          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+          "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
