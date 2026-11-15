@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 02:07:12",
+  "updated_at": "2026-11-16 02:22:02",
   "live_events": [
     {
       "key": "16/11_02:45_france_turkey",
@@ -15,7 +15,7 @@
       "league": "NATIONS_LEAGUE",
       "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -48,9 +48,25 @@
             "keyId": "3b0f9e1892864641aa17f02b2e7b0b2d",
             "key": "6c06f96a6296d05442466d5b09e58192"
           }
+        },
+        {
+          "name": "⚽ [LIVE 16/11] France vs Turkiye (BLV CÔNG CHẤT) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a3561d0ce37bd7e1022cf869b4f303e1&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] France vs Turkiye (BLV VOI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794774068-0-0-c0e18cd5677b80b812d8bfd9d8f20059",
+          "logo": "https://sta.vnres.co/file/common/20261116/5f3d473bffc4be5224cac142df29346b.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
         }
       ],
-      "displayTitle": "⚽ [02:45 16/11] France vs Turkey",
+      "displayTitle": "🔴 [02:45 16/11] France vs Turkey",
       "number": 1
     },
     {
@@ -67,7 +83,7 @@
       "league": "NATIONS_LEAGUE",
       "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -121,22 +137,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Belgium vs Italy (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18544/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Belgium vs Italy (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18545/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:35 16/11] Bỉ vs Italy (TV360+ 5) - F4K Sport",
           "url": "https://fo-hlc.tv360.vn/bpk-tv/367/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ3OTA4NTEsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tcGQifQ.d7myEcg2bk_b5p-JlJ-7WMJ1hN1D-IX4pmmgVFNJLg4&minrate=0&maxrate=12000000&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794391231629/3f672ce3b7fc_1280_720.png",
@@ -148,9 +148,25 @@
             "keyId": "ad06f4610c564dc78f5955b71fa85fe8",
             "key": "0ebfe0ecc37ddb67b2bc9580e1b8fbed"
           }
+        },
+        {
+          "name": "⚽ [02:45 16/11] Belgium vs Italy (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=aa6c7b393a05b8f3fa6356a953b72364&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belgium vs Italy (BLV MP3) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=25c15a117c68d6e6416a360ea69b9adf&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
         }
       ],
-      "displayTitle": "⚽ [02:45 16/11] Belgium vs Italy",
+      "displayTitle": "🔴 [02:45 16/11] Belgium vs Italy",
       "number": 2
     },
     {
@@ -167,7 +183,7 @@
       "league": "NATIONS_LEAGUE",
       "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
@@ -197,32 +213,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Spain vs England (gb DAZN) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18532/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 16/11] Spain vs England (es La 1) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18533/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Spain vs England (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18542/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Spain vs England (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18543/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -242,8 +234,16 @@
           }
         },
         {
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV CURRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794774068-0-0-e49c049ca80027d1c07e62346869b6ca",
+          "logo": "https://sta.vnres.co/file/common/20261116/0bb5af2bbcff40c399d2de2c7697eec8.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV LOGAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794773168-0-0-18811ac6de96656a8d6be2b3b83a13c7",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794774068-0-0-7ebdd8f9afd6b583984f787cbc096efc",
           "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -251,7 +251,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794773168-0-0-ae8e17344a3df2344f61ce16763b6f82",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794774068-0-0-1c405f6eaf6c7d3149d2b09dc56ca180",
           "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -259,14 +259,30 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794773168-0-0-57db708262429eef00e6011f00184206",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794774068-0-0-6db9cb01c76302ee496bea50189328de",
           "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV MESSI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794774068-0-0-075002d1426c6704471ec33c6ee9c3ed",
+          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV A BỆU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794774068-0-0-f4db884d80d6f3e80138a44cf0c9595c",
+          "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
       ],
-      "displayTitle": "⚽ [02:45 16/11] Spain vs England",
+      "displayTitle": "🔴 [02:45 16/11] Spain vs England",
       "number": 3
     },
     {
@@ -283,9 +299,17 @@
       "league": "NATIONS_LEAGUE",
       "leagueName": "UEFA Nations League",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [02:45 16/11] Croatia Vs Czechia (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
         {
           "name": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc (BLV Xôi Gấc) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
@@ -305,32 +329,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb DAZN) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18535/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18546/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18547/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -351,14 +351,46 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794773168-0-0-729eb640d043eeb82c42a74e09c60082",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794774068-0-0-0bb2d8fdaf4cf958237fabe0b7af1011",
           "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV GIÓ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=24f9894a26a1a494ed80c2f11de3511c&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794774068-0-0-ecddd90d70d411213af6eb1ef60399f3",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV QUỐC KHÁNH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794774068-0-0-5d08e7aa8a96c821b53e7bab122cedae",
+          "logo": "https://sta.vnres.co/file/common/20261022/110d1ff464d53729fa1afc1904891a38.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV NHỊ CA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794774068-0-0-3fd58749abfbdd2a2ae4b0ea029c6355",
+          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
       ],
-      "displayTitle": "⚽ [02:45 16/11] Croatia vs Czech Republic",
+      "displayTitle": "🔴 [02:45 16/11] Croatia vs Czech Republic",
       "number": 4
     },
     {
@@ -981,7 +1013,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Philadelphia 76ers vs Indiana Pacers (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d0789c65a91d26d05c532253d4c0fd8&txTime=6afa5700",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5fc7fa60ebac782cb3c8594d1f7fc3be&txTime=6afa5a84",
           "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
@@ -1192,6 +1224,14 @@
         {
           "name": "⚽ [02:45 16/11] Spain Vs England (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia Vs Czechia (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1974,32 +2014,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Belgium vs Italy (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18544/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Belgium vs Italy (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18545/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/1.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 16/11] Spain vs England (GB ITV1) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18531/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Spain vs England (gb DAZN) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18532/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -2014,22 +2030,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Spain vs England (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18542/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Spain vs England (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18543/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/9.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (us Fox Soccer Plus) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18534/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
@@ -2038,32 +2038,8 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (gb DAZN) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18536/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18535/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (se Viaplay se) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18546/index.m3u8",
-          "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
-          "competition": "UEFA Nations League",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (no Viaplay no) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18547/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/3.png",
           "competition": "UEFA Nations League",
           "group": "F4K Sport",
@@ -2366,48 +2342,48 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794773168-0-0-729eb640d043eeb82c42a74e09c60082",
-          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV CURRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794774068-0-0-e49c049ca80027d1c07e62346869b6ca",
+          "logo": "https://sta.vnres.co/file/common/20261116/0bb5af2bbcff40c399d2de2c7697eec8.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Arsenal Women vs London City Lionesses Women (BLV A WIN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794773168-0-0-3723942fbe5096932c3d305016f7da1b",
-          "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
-          "competition": "ENG WSL",
+          "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV REDBULL) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794774068-0-0-46601383e530dd26ad5db6fb7236575b",
+          "logo": "https://sta.vnres.co/file/common/20261031/6106c385532b3759581cc70e19003623.jpg",
+          "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Philadelphia 76ers vs Indiana Pacers (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d0789c65a91d26d05c532253d4c0fd8&txTime=6afa5700",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "NBA",
+          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV XUÂN SON) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=3fb6473f3a7569282328edf497fbf998&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794774068-0-0-e651f0ece63392b092c5a6734c67cc90",
+          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+          "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV LOGAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794773168-0-0-18811ac6de96656a8d6be2b3b83a13c7",
+          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1794774068-0-0-7ebdd8f9afd6b583984f787cbc096efc",
           "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV SẾU ĐẦU ĐỎ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794773168-0-0-a98446cd57e71fb08e9772b0667cc687",
-          "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794773168-0-0-ae8e17344a3df2344f61ce16763b6f82",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794774068-0-0-1c405f6eaf6c7d3149d2b09dc56ca180",
           "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -2415,49 +2391,137 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Spain vs England (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794773168-0-0-57db708262429eef00e6011f00184206",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794774068-0-0-6db9cb01c76302ee496bea50189328de",
           "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794773168-0-0-070da671dcf23c809e94ebc30a6577e9",
-          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
-          "competition": "SPA D2",
+          "name": "⚽ [LIVE 16/11] France vs Turkiye (BLV CÔNG CHẤT) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a3561d0ce37bd7e1022cf869b4f303e1&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
+          "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV XUÂN SON) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4c081d2346e070429bb04bae7f832918&txTime=6afa5700",
-          "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
-          "competition": "SPA D2",
+          "name": "⚽ [02:45 16/11] Belgium vs Italy (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=aa6c7b393a05b8f3fa6356a953b72364&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV MESSI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794774068-0-0-075002d1426c6704471ec33c6ee9c3ed",
+          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Spain vs England (BLV A BỆU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794774068-0-0-f4db884d80d6f3e80138a44cf0c9595c",
+          "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
+          "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] Eibar vs Cadiz CF (BLV KENCHU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794773168-0-0-3dcc8cfd6bb4f1b7845e8ce96f06b0b2",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794774068-0-0-9e3e64f0911ddb162eb4c562c084a5a1",
           "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
           "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Philadelphia 76ers vs Indiana Pacers (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5fc7fa60ebac782cb3c8594d1f7fc3be&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "NBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV RYO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=eefb1438ccd3852b357ac261ec717553&txTime=6afa5700",
+          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=69d5abac9e824d66c1b7971275c9e520&txTime=6afa5a84",
           "logo": "https://sta.vnres.co/file/common/20260928/5f69ae469bdad805c99d02052617d937.png",
           "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV REDBULL) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794773168-0-0-d75c0b31c4fcc920de41b1e7d1ca1aa1",
-          "logo": "https://sta.vnres.co/file/common/20261031/6106c385532b3759581cc70e19003623.jpg",
+          "name": "⚽ [LIVE 16/11] Eldense vs Sabadell (BLV SẾU ĐẦU ĐỎ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794774068-0-0-659c9a06c31961563b4d7df5c7016d3c",
+          "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
           "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Arsenal Women vs London City Lionesses Women (BLV A WIN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794774068-0-0-e08dffba041ace9b9a57021be468c558",
+          "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
+          "competition": "ENG WSL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV A TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794774068-0-0-0bb2d8fdaf4cf958237fabe0b7af1011",
+          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV GIÓ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=24f9894a26a1a494ed80c2f11de3511c&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] France vs Turkiye (BLV VOI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794774068-0-0-c0e18cd5677b80b812d8bfd9d8f20059",
+          "logo": "https://sta.vnres.co/file/common/20261116/5f3d473bffc4be5224cac142df29346b.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Belgium vs Italy (BLV MP3) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=25c15a117c68d6e6416a360ea69b9adf&txTime=6afa5a84",
+          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794774068-0-0-ecddd90d70d411213af6eb1ef60399f3",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV QUỐC KHÁNH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794774068-0-0-5d08e7aa8a96c821b53e7bab122cedae",
+          "logo": "https://sta.vnres.co/file/common/20261022/110d1ff464d53729fa1afc1904891a38.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Croatia vs Czechia (BLV NHỊ CA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794774068-0-0-3fd58749abfbdd2a2ae4b0ea029c6355",
+          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
+          "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
@@ -2721,12 +2785,12 @@
     {
       "home_team": "Philadelphia 76ers",
       "away_team": "Indiana Pacers",
-      "home_score": "56",
+      "home_score": "58",
       "away_score": "57",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "2.7 - 2nd",
+      "detail": "Halftime",
       "date": "2026-11-15T18:00Z"
     },
     {
