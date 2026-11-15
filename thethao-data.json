@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 21:16:03",
+  "updated_at": "2026-11-15 21:31:21",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -1368,6 +1368,22 @@
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
         {
+          "name": "⚽ [21:00 15/11] Latvia Vs Armenia (BLV Gà Siêu Kiêu) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:00 15/11] Cyprus Vs Montenegro (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [19:50 15/11] Dubai United Vs Al Sharjah (BLV Gà Siêu Péo) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png",
@@ -1396,22 +1412,6 @@
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/a808c778b477ba6dd32d5290b9d133cc.png",
           "competition": "Netherlands Eerste Divisie",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [21:00 15/11] Latvia Vs Armenia (BLV Gà Siêu Kiêu) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [21:00 15/11] Cyprus Vs Montenegro (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
-          "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -2892,80 +2892,64 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e25caa0ff19616ccfb8e542f868ff950&txTime=6afa12cc",
-          "logo": "https://sta.vnres.co/file/common/20261115/76c4ab444b3fa4cefe94a53136a31a66.png",
-          "competition": "UEFA NL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794755708-0-0-5f08acb8370746526fb93f7c63d9dc21",
-          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV A BỆU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794755708-0-0-e7668b7919b3cc21a36f61ea22c4fd70",
-          "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
-          "competition": "HOL D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV A MÂN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794755708-0-0-407c16d71761ee0ae062272ca05fb871",
-          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV TOMIA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794755708-0-0-014380e00c4e58b4883ea41d4261a471",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794756608-0-0-2e31d53a8440f014eae34bced83d81cb",
           "logo": "https://sta.vnres.co/file/common/20260930/5aa7f6299a4734f2756322a13c09e2fe.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794755708-0-0-35ec70534707637a9c247c81d8056691",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794755708-0-0-0c9c7f7d792f17c9075b715227bda592",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794756608-0-0-36573a120bf41d8ae3c725663d16ae2f",
           "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794755708-0-0-4663c06a26b8369fd2ebb3043f72f1a4",
-          "logo": "https://sta.vnres.co/file/common/20261115/f91a2bf099530fd24bfa2a51c9828fca.jpg",
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV TAP) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794756608-0-0-a564f9134c90729b16090d0dfd12c995",
+          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
           "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794755708-0-0-1141cd00edab554d26f02257c0c9d98a",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794756608-0-0-665698ff0ce300ab47f2777b80d29181",
           "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e2cc422f26c9d99743f487f92e73bbe9&txTime=6afa1650",
+          "logo": "https://sta.vnres.co/file/common/20261115/76c4ab444b3fa4cefe94a53136a31a66.png",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794756608-0-0-56714c08bfc21a494f74163919f14d4f",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV A MÂN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794756608-0-0-78d3fa708aea3fea143f956cc8c83fe4",
+          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV TYPN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794755708-0-0-6ca842037b963dfb754e0f27c221f9fd",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794756608-0-0-7ccc4dc3386cb04d2580f9fc37e3a3dd",
           "logo": "https://sta.vnres.co/file/common/20261110/40827a4a943fa3e134a3f71d0052882a.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -2973,39 +2957,39 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV MESSI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794755708-0-0-36278c9b343a3ce0a83f85ed2149a80b",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794756608-0-0-c169aebb974ec1937e233e56a73da783",
           "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV TAP) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794755708-0-0-b2861364fb7c5f94837b048f6f14e495",
-          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
-          "competition": "SPA D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV HẢI THANH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794755708-0-0-b65a74540e278fc0ae540a271c92736b",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794756608-0-0-b5b7586687ede7c3d2ce424411c461b0",
           "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV RÔSI) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d788c57a9260332ad7c6550661f9f0de&txTime=6afa12cc",
-          "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
-          "competition": "HOL D2",
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV HEHE) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794756608-0-0-6573faa9e87b6d77814f7d7fcc5069af",
+          "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
+          "competition": "SPA D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Tenerife vs AD Ceuta (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794756608-0-0-36ced9b2b811299ee002ed8615e793cd",
+          "logo": "https://sta.vnres.co/file/common/20261115/f91a2bf099530fd24bfa2a51c9828fca.jpg",
+          "competition": "SPA D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV SAO LA) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=284f34113053803c55d27bbcc1dfd025&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=fc9f123e6df848bb651916ccc681e5b0&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20261005/2b72a0469f61591dc16676f4ff5d1c78.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -3013,7 +2997,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Cyprus vs Montenegro (BLV CUỘI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794755708-0-0-8c2ee68b57c70a975ba3c6beed492b44",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794756608-0-0-fe305954a071b8ce80da3b10d7db35d9",
           "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -3021,7 +3005,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV PIRLO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=82701ff21e87bbd5d5f639adce4df7a4&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=afbaa104df4b75d8075d63eea489e760&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
@@ -3029,79 +3013,87 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV LUCAS) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794755708-0-0-dbd36a7e62cc14d2a53187f60d606bae",
+          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794756608-0-0-850806bec6614aa4fa2e3aa5fba96185",
           "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV A PÁO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794755708-0-0-4c829d745bad797c20f8c1702dcf288d",
-          "logo": "https://sta.vnres.co/file/common/20261107/5283b79a3e240c79610caa3f26ab0a86.jpg",
-          "competition": "HOL D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV CURRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794755708-0-0-3a27d2e64bb1f7be507ccd91bc752f9a",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794756608-0-0-b666205a5491dfecc416fa8ee5fb3dff",
           "logo": "https://sta.vnres.co/file/common/20261115/b34069f702eca2d5ec28976dd38b464f.png",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV LOKA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794755708-0-0-1c86e5fed6a435df102d6bed88ffbd67",
-          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
+          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV RÔSI) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f5921b120465818d344c54b0c00934d7&txTime=6afa1650",
+          "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
           "competition": "HOL D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV BÉO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c344071f63089c4f0d24cab105cc3fd3&txTime=6afa12cc",
-          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] FC Sochi vs Shinnik Yaroslavl (BLV VOI) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=2d3c394a1935a15d9a8516503c3613c3&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=a1b117f427c2de53cd36b8ebb86e7c13&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
           "competition": "RUS D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV BÉO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1d4b8e7a39c08f5bb849eb7cf8e183e2&txTime=6afa1650",
+          "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV A BỆU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794756608-0-0-fe205b475bab910815ca5748d9e7d7c9",
+          "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
+          "competition": "HOL D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Latvia vs Armenia (BLV CÒ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794755708-0-0-f448a9f53bed583283f4ce4978e52d9f",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794756608-0-0-45860fe790c0685364ae570314d768e4",
           "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV A PÁO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794756608-0-0-29682032a77af09b79a494e64372b252",
+          "logo": "https://sta.vnres.co/file/common/20261107/5283b79a3e240c79610caa3f26ab0a86.jpg",
+          "competition": "HOL D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] MVV Maastricht vs Vitesse Arnhem (BLV LOKA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794756608-0-0-e0f363be84a4991aaf9a72451ded8b63",
+          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
+          "competition": "HOL D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [19:50 15/11] Dubai United vs Al-Sharjah (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=fb92583f278f48274cc97ddc18d63c62&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=58c7a8c0da0c9619d330f410ec5814ff&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] West Ham United Women vs Charlton Women (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794755708-0-0-a734bd3f289f5fd34494ba40df381a55",
-          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
-          "competition": "ENG WSL",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Aston Villa Women vs Birmingham Women (BLV ANH TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794755708-0-0-811991ce71de813784e38015e0d5bec6",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794756608-0-0-c3874e3d01052ee19ecf853de91e4f4e",
           "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
           "competition": "ENG WSL",
           "group": "🐿️ SocoLive",
@@ -3109,7 +3101,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Portimonense SC vs Academica Coimbra (BLV RAMBO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e67f7260b7e4921ec7d2aa5364d1e14e&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=88c0d97aacc0a2d1a7d8e84a50e7d394&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
           "competition": "POR D2",
           "group": "🐿️ SocoLive",
@@ -3117,15 +3109,31 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Dubai United vs Al-Sharjah (BLV QUỐC KHÁNH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794755708-0-0-0cf5ae7998c428b74c6c44b166eae662",
+          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794756608-0-0-3a38f183f51117d40126aa5cccd838cb",
           "logo": "https://sta.vnres.co/file/common/20261022/110d1ff464d53729fa1afc1904891a38.jpg",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] West Ham United Women vs Charlton Women (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794756608-0-0-f5f8b71d79d663f6d84457b3120bf6a0",
+          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+          "competition": "ENG WSL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Dubai United vs Al-Sharjah (BLV MP3) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=7edeb1eddc174857639fc2f54a338c2d&txTime=6afa1650",
+          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
+          "competition": "UAE EC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV GIÓ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=41e7fd803a9490b819133e673293fe8c&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c68f87f23853e2ff46a60a893e33a2e2&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
@@ -3133,7 +3141,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] West Ham United Women vs Charlton Women (BLV XO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=8693ce37f706f1f6d59582a5eb0c4939&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a9766c92be29e4555b7ba1429c94c845&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
           "competition": "ENG WSL",
           "group": "🐿️ SocoLive",
@@ -3141,39 +3149,31 @@
         },
         {
           "name": "⚽ [LIVE 15/11] FC Sochi vs Shinnik Yaroslavl (BLV A TINH) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=45a37c134309c4aa16b8b35206a28ee9&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=5352f97d60390e6868514c9b53a6c142&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
           "competition": "RUS D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Dubai United vs Al-Sharjah (BLV MP3) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=7b8091eac450c093dab46d63242950b1&txTime=6afa12cc",
-          "logo": "https://sta.vnres.co/file/common/20261114/425c1c4d5d6cffee96cf78a1b1071d35.png",
-          "competition": "UAE EC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Beroe Stara Zagora vs Vihren Sandanski (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794755708-0-0-535f89869dd1fae8946750d3a22cae16",
-          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
-          "competition": "BUL D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 15/11] Aston Villa Women vs Birmingham Women (BLV VINFAST) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794755708-0-0-8a0bf81a2172ca8ea3dd2cada48a5210",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794756608-0-0-9dde28c4867377497d937ca4bf9a7b0a",
           "logo": "https://sta.vnres.co/file/common/20261105/d7bbfd8440fc2b23e06f9de4ee686ac6.jpg",
           "competition": "ENG WSL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] Portimonense SC vs Academica Coimbra (BLV SẾU ĐẦU ĐỎ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794756608-0-0-f7a87c961a89cf44712697fc7af0831f",
+          "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
+          "competition": "POR D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] Al Wahda(UAE) vs Khor Fakkan SSC (BLV RYO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=ac9be29c6d7252fd6f2f93d16d40623e&txTime=6afa12cc",
+          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=ee56e3d8a20fc6abf2f4754dbfd4d1f0&txTime=6afa1650",
           "logo": "https://sta.vnres.co/file/common/20260928/5f69ae469bdad805c99d02052617d937.png",
           "competition": "UAE EC",
           "group": "🐿️ SocoLive",
@@ -3181,17 +3181,65 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Beroe Stara Zagora vs Vihren Sandanski (BLV TRÀ ĐÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794755708-0-0-dc28671d2dfa7a7621d24fc1bd0d9e93",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794756608-0-0-0e467439b50bfcb3c143208eb1576b61",
           "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
           "competition": "BUL D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Portimonense SC vs Academica Coimbra (BLV SẾU ĐẦU ĐỎ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794755708-0-0-56fca0ba902530fe05e52ab162254480",
-          "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
-          "competition": "POR D2",
+          "name": "⚽ [LIVE 15/11] Beroe Stara Zagora vs Vihren Sandanski (BLV A TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794756608-0-0-dfc802af2b959e2a9baf93e955ca32c7",
+          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
+          "competition": "BUL D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Nurnberg Women vs Koln Women (BLV KENCHU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794756608-0-0-0e69057939acb5a1a04e0c1e3a0bbcc0",
+          "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
+          "competition": "GER WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Backa Topola vs Jedinstvo UB (BLV XUÂN SON) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c0bfff0f59d0ba8c57eae1b2fcb5d3a3&txTime=6afa1650",
+          "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] RB Leipzig Women vs Eintracht Frankfurt Women (BLV NHỊ CA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1794756608-0-0-bb0f475ba026b53eeef526fad21a91ae",
+          "logo": "https://sta.vnres.co/file/common/20261108/b7e05d79fe04e3753ab130c6c4f57881.jpg",
+          "competition": "GER WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "🏀 [LIVE 15/11] Manchester Basketball vs Bristol Flyers (BLV ZERO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794756608-0-0-779001cc557e3bb7ec772469411e1d33",
+          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
+          "competition": "SLB",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Metalac Gornji Milanovac vs FK Napredak Krusevac (BLV PEANUT) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794756608-0-0-75e1056f33a82c21f42a53cfc543ff29",
+          "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] RB Leipzig Women vs Eintracht Frankfurt Women (BLV ĐỖ TÚ TÀI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794756608-0-0-bf34e508de3a61ae08dde768c944798c",
+          "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
+          "competition": "GER WD1",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
