@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:43:59",
+  "updated_at": "2026-11-15 15:59:10",
   "live_events": [
     {
       "key": "15/11_21:00_armenia_latvia",
@@ -459,9 +459,9 @@
       "c_home": "croatia",
       "c_away": "czech",
       "homeTeam": "Croatia",
-      "awayTeam": "Cộng hòa Séc",
-      "homeLogo": "",
-      "awayLogo": "",
+      "awayTeam": "Cộng Hòa Séc",
+      "homeLogo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
       "time": "02:45",
       "date": "16/11",
       "timestamp": 1794771900000,
@@ -471,6 +471,16 @@
       "isOngoing": false,
       "isCompleted": false,
       "sources": [
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
         {
           "name": "⚽ [02:45 16/11] Croatia vs Czech Republic (us Fox Soccer Plus) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18534/index.m3u8",
@@ -509,7 +519,7 @@
           }
         }
       ],
-      "displayTitle": "⚽ [02:45 16/11] Croatia vs Cộng hòa Séc",
+      "displayTitle": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc",
       "number": 9
     },
     {
@@ -736,6 +746,35 @@
       "number": 16
     },
     {
+      "key": "17/11_02:00_guyana_puertorico",
+      "c_home": "guyana",
+      "c_away": "puertorico",
+      "homeTeam": "Guyana",
+      "awayTeam": "Puerto Rico",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:00",
+      "date": "17/11",
+      "timestamp": 1794855600000,
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:00 17/11] Guyana Vs Puerto Rico (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:00 17/11] Guyana vs Puerto Rico",
+      "number": 17
+    },
+    {
       "key": "17/11_02:45_gibraltar_malta",
       "c_home": "gibraltar",
       "c_away": "malta",
@@ -762,7 +801,123 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Gibraltar vs Malta",
-      "number": 17
+      "number": 18
+    },
+    {
+      "key": "17/11_02:45_germany_netherlands",
+      "c_home": "germany",
+      "c_away": "netherlands",
+      "homeTeam": "Germany",
+      "awayTeam": "Netherlands",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "17/11",
+      "timestamp": 1794858300000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 17/11] Germany vs Netherlands",
+      "number": 19
+    },
+    {
+      "key": "17/11_02:45_greece_serbia",
+      "c_home": "greece",
+      "c_away": "serbia",
+      "homeTeam": "Greece",
+      "awayTeam": "Serbia",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "17/11",
+      "timestamp": 1794858300000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 17/11] Greece Vs Serbia (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 17/11] Greece vs Serbia",
+      "number": 20
+    },
+    {
+      "key": "17/11_02:45_scotland_switzerland",
+      "c_home": "switzerland",
+      "c_away": "scotland",
+      "homeTeam": "Switzerland",
+      "awayTeam": "Scotland",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "17/11",
+      "timestamp": 1794858300000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 17/11] Switzerland Vs Scotland (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 17/11] Switzerland vs Scotland",
+      "number": 21
+    },
+    {
+      "key": "17/11_02:45_macedonia_slovenia",
+      "c_home": "macedonia",
+      "c_away": "slovenia",
+      "homeTeam": "North Macedonia",
+      "awayTeam": "Slovenia",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "02:45",
+      "date": "17/11",
+      "timestamp": 1794858300000,
+      "league": "NATIONS_LEAGUE",
+      "leagueName": "UEFA Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [02:45 17/11] North Macedonia Vs Slovenia (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [02:45 17/11] North Macedonia vs Slovenia",
+      "number": 22
     },
     {
       "key": "17/11_03:00_cuba_grenada",
@@ -791,7 +946,36 @@
         }
       ],
       "displayTitle": "⚽ [03:00 17/11] Cuba vs Grenada",
-      "number": 18
+      "number": 23
+    },
+    {
+      "key": "17/11_07:00_aruba_martinique",
+      "c_home": "martinique",
+      "c_away": "aruba",
+      "homeTeam": "Martinique",
+      "awayTeam": "Aruba",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "07:00",
+      "date": "17/11",
+      "timestamp": 1794873600000,
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [07:00 17/11] Martinique Vs Aruba (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [07:00 17/11] Martinique vs Aruba",
+      "number": 24
     },
     {
       "key": "17/11_07:00_antiguaandbarbuda_trinidadandtobago",
@@ -820,7 +1004,36 @@
         }
       ],
       "displayTitle": "⚽ [07:00 17/11] Trinidad And Tobago vs Antigua And Barbuda",
-      "number": 19
+      "number": 25
+    },
+    {
+      "key": "17/11_08:00_canada_guatemala",
+      "c_home": "canada",
+      "c_away": "guatemala",
+      "homeTeam": "Canada",
+      "awayTeam": "Guatemala",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "08:00",
+      "date": "17/11",
+      "timestamp": 1794877200000,
+      "league": "CONCACAF_NL",
+      "leagueName": "CONCACAF Nations League",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": false,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [08:00 17/11] Canada Vs Guatemala (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        }
+      ],
+      "displayTitle": "⚽ [08:00 17/11] Canada vs Guatemala",
+      "number": 26
     },
     {
       "key": "17/11_23:00_russia_venezuela",
@@ -849,7 +1062,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 17/11] Russia vs Venezuela",
-      "number": 20
+      "number": 27
     },
     {
       "key": "16/11_01:00_indianapacers_philadelphia76ers",
@@ -878,7 +1091,7 @@
         }
       ],
       "displayTitle": "🏀 [01:00 16/11] Philadelphia 76ers vs Indiana Pacers",
-      "number": 21
+      "number": 28
     },
     {
       "key": "16/11_04:00_losangeleslakers_phoenixsuns",
@@ -907,7 +1120,7 @@
         }
       ],
       "displayTitle": "🏀 [04:00 16/11] Phoenix Suns vs Los Angeles Lakers",
-      "number": 22
+      "number": 29
     },
     {
       "key": "16/11_04:30_charlottehornets_losangelesclippers",
@@ -936,7 +1149,7 @@
         }
       ],
       "displayTitle": "🏀 [04:30 16/11] Los Angeles Clippers vs Charlotte Hornets",
-      "number": 23
+      "number": 30
     },
     {
       "key": "16/11_05:00_tottenham_utahjazz",
@@ -965,7 +1178,7 @@
         }
       ],
       "displayTitle": "🏀 [05:00 16/11] Utah Jazz vs San Antonio Spurs",
-      "number": 24
+      "number": 31
     },
     {
       "key": "16/11_06:00_bostonceltics_dallasmavericks",
@@ -994,7 +1207,7 @@
         }
       ],
       "displayTitle": "🏀 [06:00 16/11] Boston Celtics vs Dallas Mavericks",
-      "number": 25
+      "number": 32
     }
   ],
   "source_groups": [
@@ -1378,8 +1591,48 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [02:00 17/11] Guyana Vs Puerto Rico (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [02:45 17/11] Gibraltar Vs Malta (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 17/11] Greece Vs Serbia (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 17/11] Switzerland Vs Scotland (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
+          "competition": "UEFA Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [02:45 17/11] North Macedonia Vs Slovenia (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png",
           "competition": "UEFA Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1394,10 +1647,66 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [07:00 17/11] Martinique Vs Aruba (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [07:00 17/11] Trinidad And Tobago Vs Antigua And Barbuda (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
           "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [08:00 17/11] Canada Vs Guatemala (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [12:30 17/11] Tahiti Vs Cook Islands (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [13:00 17/11] Yemen Vs Malaysia (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png",
+          "competition": "CFA Team China International Tournament",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [13:30 17/11] Tajikistan U19 Vs Vietnam U19 (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/9094b320d7a7e099aa582e802c594276.png",
+          "competition": "Panda Cup",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [17:00 17/11] Singapore Vs Brazil (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [19:00 17/11] China Vs Bahrain (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png",
+          "competition": "CFA Team China International Tournament",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1418,6 +1727,14 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [20:00 17/11] Tanzania Vs Nigeria (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [20:00 17/11] Kuwait Vs Honduras (BLV Gà Siêu Kiêu) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/741294.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
@@ -1426,8 +1743,40 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [20:00 17/11] Lebanon Vs Palestine (BLV Gà Siêu Tốc) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/307240.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:10 17/11] Japan Vs Paraguay (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [21:00 17/11] Qatar Vs South Korea (BLV Gà Siêu Ngố) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [21:10 17/11] United Arab Emirates Vs Syria (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [22:30 17/11] Saudi Arabia Vs Uzbekistan (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
           "competition": "International Friendly",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1446,6 +1795,30 @@
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
           "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 17/11] Togo Vs Algeria (BLV Gà Siêu Péo) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/303098.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 17/11] Libya Vs Tunisia (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [23:00 17/11] Jordan Vs Australia (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1556,6 +1929,16 @@
           "logo": "https://apiv3.apifootball.com/badges/6_belgium.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/6_belgium.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/3_italy.jpg",
+          "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [02:45 16/11] Croatia vs Cộng Hòa Séc (BLV Tam Mao) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/14_croatia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/13_czechia.jpg",
           "competition": "UEFA Nations League",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -2105,16 +2488,16 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794735788-0-0-68e447c9e09185d8b177cbd9f209c007",
-          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
-          "competition": "JPN D3",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794736688-0-0-824a0ecef73be11f2ec1a2a37e95ff27",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=97136ae6f2ade14bb83321582e5306ea&txTime=6af9c4fc",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e0d29ddcb3f9b20533b3f4fc8eb7cb8d&txTime=6af9c880",
           "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
@@ -2122,39 +2505,31 @@
         },
         {
           "name": "⚽ [LIVE 15/11] LG Sakers vs Suwon KT (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794735788-0-0-3d07abbd00fe7c7fc696110c3d2834b6",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794736688-0-0-a51c16eef697d641fefb7ff97c9d47a0",
           "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV LION) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794735788-0-0-bedc410d1c10075b06b41e244ea0bdb9",
-          "logo": "https://sta.vnres.co/file/common/20260925/7f64e70c9355c65f708ddcb88099d6de.png",
-          "competition": "JPN D3",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794735788-0-0-c27b869600a655d6b0cdab80ff2c0111",
-          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794736688-0-0-7e80c06c7640665738178d3cfe37fe86",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794735788-0-0-2281bf64baa18b8f3faa724f55d26a2f",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV RAMBO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4c69a490c2361411f3ce15b8188b2410&txTime=6af9c880",
+          "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV HEHE) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794735788-0-0-dd186875af5d942b5ee0f857fc191f4b",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794736688-0-0-36b27c7e08677462a60c43cf570bb204",
           "logo": "https://sta.vnres.co/file/common/20261109/34b1d734ca5063400c8ee21bc5638f46.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
@@ -2162,47 +2537,63 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794735788-0-0-3a7bfa1dcae57e91779395a9e9f022b0",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794736688-0-0-9a1f5f5216268136b0b803034a989a18",
           "logo": "https://sta.vnres.co/file/common/20261115/28e11b54f80a268fec5cc7dc475ee335.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794735788-0-0-e6f48ad85e67aa63bb9bb24b2b0dddf5",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794736688-0-0-4d60c95448edc8467d07533d02e7dad3",
+          "logo": "https://sta.vnres.co/file/common/20261115/025e16e0f95a452d0e2565ab9546c5f5.jpg",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794735788-0-0-23b57d571e9b0d0f84d32029fd156ea6",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "JLC",
+          "name": "⚽ [LIVE 15/11] FC Ryukyu Okinawa vs Kochi United (BLV TẠ BIÊN GIỚI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794736688-0-0-39ee2f64cf3ee862d3fed1863171eeb1",
+          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794735788-0-0-e2a723e8db48243beae7e6b56984a2b6",
-          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-          "competition": "KBL",
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV BẢY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794736688-0-0-1eee8343fa83edf65a5c09ac7c55dd6f",
+          "logo": "https://sta.vnres.co/file/common/20261106/f26e7fa26c0409958b3f3ebac3befe71.jpg",
+          "competition": "JPN D3",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV LION) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794736688-0-0-69a16fd92bcaf89ab65c0b1120e5e09c",
+          "logo": "https://sta.vnres.co/file/common/20260925/7f64e70c9355c65f708ddcb88099d6de.png",
+          "competition": "JPN D3",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 15/11] Kashiwa Reysol vs Kawasaki Frontale (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794735788-0-0-144fe8790674ad4b5967adc83ddce5be",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794736688-0-0-c03e8465bdce95ba638d2a3e4378f255",
           "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
           "competition": "JLC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV A CHÈ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794736688-0-0-214deb3efe4be51cf0fc25234ec8aaf7",
+          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+          "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 15/11] KCC Egis vs KoGas (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794735788-0-0-8b72bcb3c4f0cf300023f7a9d09aacf0",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794736688-0-0-c777a50155786994f451a28820231176",
           "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "KBL",
           "group": "🐿️ SocoLive",
@@ -2210,7 +2601,7 @@
         },
         {
           "name": "⚽ [LIVE 15/11] Reilac Shiga FC vs FC Osaka (BLV VIP) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=133f9dc9453add72767fed1d07f2cbf9&txTime=6af9c4fc",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4d32d9f3d6422827eeb36785b291f155&txTime=6af9c880",
           "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
           "competition": "JPN D3",
           "group": "🐿️ SocoLive",
