@@ -5,6 +5,8 @@ https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 #EXTINF:-1 tvg-id="vtv3" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="VTV", VTV3
 https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.imgur.com/p9bWxfm.png" group-title="VTV", VIETNAM TODAY
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTINF:-1 tvg-id="vtv4" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="VTV", VTV4
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv5" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png" group-title="VTV", VTV5
@@ -23,41 +25,39 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8/free/master.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9/free/master.m3u8
 #EXTINF:-1 tvg-id="vtv10" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="VTV", VTV10
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
-#EXTINF:-1 tvg-id="vtv1" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="VTV", VTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:-1 tvg-id="vtv2" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="VTV", VTV2
-https://vmttv.dpdns.org/tv360/?id=vtv2
-#EXTINF:-1 tvg-id="vtv3" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="VTV", VTV3
-https://vmttv.dpdns.org/tv360/?id=vtv3
-#EXTINF:-1 tvg-id="vtv4" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="VTV", VTV4
-https://vmttv.dpdns.org/tv360/?id=vtv4
-#EXTINF:-1 tvg-id="vtv5" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png" group-title="VTV", VTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-id="vtv5tnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="VTV", VTV5 TNB
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5tn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="VTV", VTV5 TN
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
-#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png" group-title="VTV", VTV6
-https://vmttv.dpdns.org/tv360/?id=vtv6
-#EXTINF:-1 tvg-id="vtv7" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png" group-title="VTV", VTV7
-https://vmttv.dpdns.org/tv360/?id=vtv7
-#EXTINF:-1 tvg-id="vtv8" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="VTV", VTV8
-https://vmttv.dpdns.org/tv360/?id=vtv8
-#EXTINF:-1 tvg-id="vtv9" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png" group-title="VTV", VTV9
-https://vmttv.dpdns.org/tv360/?id=vtv9
-#EXTINF:-1 tvg-id="vtv10" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="VTV", VTV10
-https://vmttv.dpdns.org/tv360/?id=vtv10
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.imgur.com/p9bWxfm.png" group-title="Thiết Yếu", VIETNAM TODAY
-https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.imgur.com/p9bWxfm.png" group-title="Thiết Yếu", VIETNAM TODAY
-https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:-1 tvg-id="antvth" tvg-logo="https://i.imgur.com/nOb4rPT.png" group-title="Thiết Yếu", ANTV - TH CÔNG AN NHÂN DÂN
+#EXTINF:-1 tvg-id="antvth" tvg-logo="https://i.imgur.com/nOb4rPT.png" group-title="VTV", ANTV - TH CÔNG AN NHÂN DÂN
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="qpvnth" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="Thiết Yếu", QPVN - TH QUỐC PHÒNG VIỆT NAM
+#EXTINF:-1 tvg-id="qpvnth" tvg-logo="https://i.imgur.com/UIGZw0y.png" group-title="VTV", QPVN - TH QUỐC PHÒNG VIỆT NAM
 https://qpvn.vn/live/qpvn/master.m3u8
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" group-title="Thiết Yếu", ANTV
+#EXTINF:-1 tvg-id="vtv1" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="VTV backup", VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="vtv2" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="VTV backup", VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="vtv3" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="VTV backup", VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.imgur.com/p9bWxfm.png" group-title="VTV backup", VIETNAM TODAY
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="vtv4" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="VTV backup", VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="vtv5" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png" group-title="VTV backup", VTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="vtv5tnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="VTV backup", VTV5 TNB
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="vtv5tn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="VTV backup", VTV5 TN
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png" group-title="VTV backup", VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png" group-title="VTV backup", VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="VTV backup", VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="vtv9" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png" group-title="VTV backup", VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="vtv10" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="VTV backup", VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png" group-title="VTV backup", ANTV
 https://freem3u.xyz/api/live/play.m3u8?vid=20
-#EXTINF:-1 tvg-id="qpvn" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" group-title="Thiết Yếu", QPVN
+#EXTINF:-1 tvg-id="qpvn" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" group-title="VTV backup", QPVN
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-logo="https://tqm-mos.com/img/logo/TV360C1.png" group-title="Thể Thao TV360", TV360 C1 Châu Âu
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
