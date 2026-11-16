@@ -1,64 +1,6 @@
 {
-  "updated_at": "2026-11-16 19:37:11",
+  "updated_at": "2026-11-16 19:52:17",
   "live_events": [
-    {
-      "key": "16/11_17:25_southunited_unitedstars",
-      "c_home": "unitedstars",
-      "c_away": "southunited",
-      "homeTeam": "United Stars",
-      "awayTeam": "South United",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "17:25",
-      "date": "16/11",
-      "timestamp": 1794824700000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:25 16/11] FC United Stars vs South United (BLV LÃM LÀNG) [geo] - Phá Làng TV",
-          "url": "https://pull1.digitalcdn.net/live/2cb79bfa43b747cf9765ca87cdbc2379/index.m3u8",
-          "logo": "https://imgts.sportpulseapiz.com/football/team/x7lm7phpzl8m2wd/image/small",
-          "competition": "",
-          "group": "⚡ Phá Làng TV",
-          "ref": "https://tqm-mos.com/"
-        }
-      ],
-      "displayTitle": "🔴 [17:25 16/11] United Stars vs South United",
-      "number": 1
-    },
-    {
-      "key": "16/11_17:30_chernigiv_lokomotivkyiv",
-      "c_home": "chernigiv",
-      "c_away": "lokomotivkyiv",
-      "homeTeam": "Chernigiv",
-      "awayTeam": "Lokomotiv Kyiv",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "17:30",
-      "date": "16/11",
-      "timestamp": 1794825000000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "⚽ [17:30 16/11] Chernigiv FC vs Lokomotiv Kyiv (BLV NGƯỜI THỎ) [hls] - S8 TV",
-          "url": "https://hls.lauthaitv.cc/live/cherni-kyiv-ukr1st/index.m3u8",
-          "logo": "https://s8tvkc.top/wp-json/s8-image/32c9a193-5305-4afd-9dae-d166e69f46a0",
-          "competition": "",
-          "group": "⚡ S8 TV",
-          "ref": "https://tqm-mos.com/"
-        }
-      ],
-      "displayTitle": "🔴 [17:30 16/11] Chernigiv vs Lokomotiv Kyiv",
-      "number": 2
-    },
     {
       "key": "16/11_18:00_uzbekistan_youth_venezuelau20_youth",
       "c_home": "uzbekistan_youth",
@@ -94,7 +36,7 @@
         }
       ],
       "displayTitle": "🔴 [18:00 16/11] Uzbekistan U20 vs Venezuela U23",
-      "number": 3
+      "number": 1
     },
     {
       "key": "16/11_18:00_bosnia_youth_montenegro_youth",
@@ -123,7 +65,7 @@
         }
       ],
       "displayTitle": "🔴 [18:00 16/11] Montenegro U21 vs Bosnia and Herzegovina U21",
-      "number": 4
+      "number": 2
     },
     {
       "key": "16/11_19:00_bor1919_semendrija1924",
@@ -160,7 +102,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Bor 1919 vs Semendrija 1924 33 Tv",
-      "number": 5
+      "number": 3
     },
     {
       "key": "16/11_19:00_graficarbeograd_vozdovacbeograd",
@@ -197,7 +139,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Graficar Beograd vs Vozdovac Beograd 33 Tv",
-      "number": 6
+      "number": 4
     },
     {
       "key": "16/11_19:00_apszakynthos_marko",
@@ -226,7 +168,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Marko vs A.p.s. Zakynthos",
-      "number": 7
+      "number": 5
     },
     {
       "key": "16/11_19:00_bor1919_semendria1924",
@@ -263,7 +205,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Bor 1919 vs Semendria 1924",
-      "number": 8
+      "number": 6
     },
     {
       "key": "16/11_19:00_caulacbobongdavozdovac_graficarbeograd",
@@ -300,7 +242,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Graficar Beograd vs Cau Lac Bo Bong Da Vozdovac",
-      "number": 9
+      "number": 7
     },
     {
       "key": "16/11_19:45_olympiakospiraeusb_panioniosgss",
@@ -321,7 +263,7 @@
       "sources": [
         {
           "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2bd1c00d72e93807c24786f4b8ca3e64&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=98f5c5b8ee0130ade10d0c2d22677c03&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -329,7 +271,433 @@
         }
       ],
       "displayTitle": "🔴 [19:45 16/11] Panionios G.s.s. vs Olympiakos Piraeus B",
+      "number": 8
+    },
+    {
+      "key": "16/11_20:00_cameroon_namibia",
+      "c_home": "namibia",
+      "c_away": "cameroon",
+      "homeTeam": "Namibia",
+      "awayTeam": "Cameroon",
+      "homeLogo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/530_cameroon.jpg",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "CAF Africa Cup of Nations",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Khô Chè) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/530_cameroon.jpg",
+          "competition": "Africa Cup of Nations Qualification",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Nguyễn Nhạc) - Vua Sân Cỏ TV",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-13.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/247c0a953f3a082b83443b3dfccedffb.png",
+          "competition": "",
+          "group": "⚡ Vua Sân Cỏ TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Chuối Lửa) [FHD] [hls] - Chuối Chiên TV",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8",
+          "logo": "https://media.chuoichientv.net/media/uploads/20250623_134303_b3f7dbb4.png",
+          "competition": "",
+          "group": "⚡ Chuối Chiên TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV NGƯỜI THỎ) [hls] - S8 TV",
+          "url": "https://hls.lauthaitv.cc/live/nami-came-cafafcon/index.m3u8",
+          "logo": "https://s8tvkc.top/wp-json/s8-image/9f2b06e9-ee65-4f6d-b1d6-26b8639dbdf4",
+          "competition": "",
+          "group": "⚡ S8 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Bút Chì) [hls] - Sao Kê TV",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5802.png",
+          "competition": "",
+          "group": "⚡ Sao Kê TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Gà Siêu Phệ + Gà Siêu Quỷ) [hls] - Gà Vàng 33 TV",
+          "url": "https://live2.zktsva.app/live/304565.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/247c0a953f3a082b83443b3dfccedffb.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 33 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV HỔ VẰN) [hls] - Cola TV",
+          "url": "https://live05.wecile.app/live/07428422.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/247c0a953f3a082b83443b3dfccedffb.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV HỔ VẰN) [hls 2] - Cola TV",
+          "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/247c0a953f3a082b83443b3dfccedffb.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Súp Lơ) [hls] - Gà Vàng 24h TV",
+          "url": "https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8",
+          "logo": "https://img.thesports.com/football/team/247c0a953f3a082b83443b3dfccedffb.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 24h TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Namibia vs Cameroon (BLV Unknown) [geo] - Phá Làng TV",
+          "url": "https://pull1.digitalcdn.net/live/d377417e31414eee93fd8a5a97cfe468/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/6ypq3nh0l4omd7o/image/small",
+          "competition": "",
+          "group": "⚡ Phá Làng TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Namibia vs Cameroon",
+      "number": 9
+    },
+    {
+      "key": "16/11_20:00_senegal_sudan",
+      "c_home": "sudan",
+      "c_away": "senegal",
+      "homeTeam": "Sudan",
+      "awayTeam": "Senegal",
+      "homeLogo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+      "awayLogo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "CAF Africa Cup of Nations",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/629_sudan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/720_senegal.jpg",
+          "competition": "Africa Cup of Nations Qualification",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Lê Hoàn) - Vua Sân Cỏ TV",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-5.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/a23156abfd4a114c35b930b836064e8b.png",
+          "competition": "",
+          "group": "⚡ Vua Sân Cỏ TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Trốc Tru) [FHD] [hls] - Chuối Chiên TV",
+          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+          "logo": "https://media.chuoichientv.net/media/uploads/20250623_132801_2de225c1.png",
+          "competition": "",
+          "group": "⚡ Chuối Chiên TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV NGƯỜI RÂM) [hls] - S8 TV",
+          "url": "https://hls.lauthaitv.cc/live/sud-sen-cafafcon/index.m3u8",
+          "logo": "https://s8tvkc.top/wp-json/s8-image/8fa5701f-9f34-4d0f-b50e-ee6f9b456ec0",
+          "competition": "",
+          "group": "⚡ S8 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Ricky) [hls] - Sao Kê TV",
+          "url": "https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8",
+          "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5805.png",
+          "competition": "",
+          "group": "⚡ Sao Kê TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Gà Siêu Gáy) [hls] - Gà Vàng 33 TV",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 33 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV REVIVE) [hls] - Cola TV",
+          "url": "https://live05.wecile.app/live/33982309.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV REVIVE) [hls 2] - Cola TV",
+          "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/a23156abfd4a114c35b930b836064e8b.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV Cris) [hls] - Gà Vàng 24h TV",
+          "url": "https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "logo": "https://img.thesports.com/football/team/a23156abfd4a114c35b930b836064e8b.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 24h TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan vs Senegal (BLV LÝ LÀNG LÁ) [geo] - Phá Làng TV",
+          "url": "https://pull1.digitalcdn.net/live/a66c577a44b048c899c0ce40f8eab8db/index.m3u8",
+          "logo": "https://imgts.sportpulseapiz.com/football/team/gx7lm7phy96m2wd/image/small",
+          "competition": "",
+          "group": "⚡ Phá Làng TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Sudan vs Senegal",
       "number": 10
+    },
+    {
+      "key": "16/11_20:00_equatorialguinea_zimbabwe",
+      "c_home": "zimbabwe",
+      "c_away": "equatorialguinea",
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "Equatorial Guinea 24h Tv",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "CAF Africa Cup of Nations",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe Vs Equatorial Guinea (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea (BLV Huyền Diệp) - Vua Sân Cỏ TV",
+          "url": "https://wncdnhls-global.losartang.org/live/vsc-channel-4.m3u8",
+          "logo": "https://global-cdn.cdnx.tech/football/team/85040c47172a95869f1a82c180ae7701.png",
+          "competition": "",
+          "group": "⚡ Vua Sân Cỏ TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea (BLV Chuối Chao) [FHD] [hls] - Chuối Chiên TV",
+          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+          "logo": "https://media.chuoichientv.net/media/uploads/20250623_132803_57bcecf2.png",
+          "competition": "",
+          "group": "⚡ Chuối Chiên TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea (BLV Gà Ô Long) [hls] - Gà Vàng 33 TV",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/85040c47172a95869f1a82c180ae7701.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 33 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Equatorial Guinea (BLV Đoàn Dự) [hls] - Gà Vàng 24h TV",
+          "url": "https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8",
+          "logo": "https://img.thesports.com/football/team/85040c47172a95869f1a82c180ae7701.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 24h TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Zimbabwe vs Equatorial Guinea 24h Tv",
+      "number": 11
+    },
+    {
+      "key": "16/11_20:00_algeriau17_youth_egypt_youth",
+      "c_home": "algeriau17_youth",
+      "c_away": "egypt_youth",
+      "homeTeam": "Algeria U17",
+      "awayTeam": "Egypt U17",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "U17 Quốc tế",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Algeria U17 Vs Egypt U17 (BLV Gà Siêu Mõm) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png",
+          "competition": "CAF U17 Championship",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Algeria U17 vs Egypt U17 (BLV Gà Siêu Mõm) [hls] - Gà Vàng 33 TV",
+          "url": "https://live2.zktsva.app/live/300523.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 33 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Algeria U17 vs Ai Cập U17 (BLV AQUA) [hls] - Cola TV",
+          "url": "https://live05.wecile.app/live/18812304.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Algeria U17 vs Ai Cập U17 (BLV AQUA) [hls 2] - Cola TV",
+          "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/c0f3a9cc8c0672341632498cdfb3fff9.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Algeria U17 vs Egypt U17",
+      "number": 12
+    },
+    {
+      "key": "16/11_20:00_morocco_youth_tunisiau17_youth",
+      "c_home": "tunisiau17_youth",
+      "c_away": "morocco_youth",
+      "homeTeam": "Tunisia U17",
+      "awayTeam": "Morocco U17",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "U17 Quốc tế",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Tunisia U17 Vs Morocco U17 (BLV Gà Siêu Tồ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png",
+          "competition": "CAF U17 Championship",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Tunisia U17 vs Morocco U17 (BLV Gà Siêu Tồ) [hls] - Gà Vàng 33 TV",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png",
+          "competition": "",
+          "group": "⚡ Gà Vàng 33 TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Tunisia U17 vs Ma Rốc U17 (BLV SODA) [hls] - Cola TV",
+          "url": "https://live05.wecile.app/live/02456966.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Tunisia U17 vs Ma Rốc U17 (BLV SODA) [hls 2] - Cola TV",
+          "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Tunisia U17 vs Morocco U17",
+      "number": 13
+    },
+    {
+      "key": "16/11_20:00_guineaxichdao_zimbabwe",
+      "c_home": "zimbabwe",
+      "c_away": "guineaxichdao",
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "Guinea Xich Dao",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "20:00",
+      "date": "16/11",
+      "timestamp": 1794834000000,
+      "league": "OTHER",
+      "leagueName": "Bóng đá Quốc tế",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Guinea Xích đạo (BLV MOUNTAIN DEW) [hls] - Cola TV",
+          "url": "https://live05.wecile.app/live/87547578.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/85040c47172a95869f1a82c180ae7701.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe vs Guinea Xích đạo (BLV MOUNTAIN DEW) [hls 2] - Cola TV",
+          "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+          "logo": "https://img.cltvap.cc/football/team/85040c47172a95869f1a82c180ae7701.png!w80",
+          "competition": "",
+          "group": "⚡ Cola TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [20:00 16/11] Zimbabwe vs Guinea Xich Dao",
+      "number": 14
     },
     {
       "key": "16/11_22:00_faroe_moldova",
@@ -438,7 +806,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 11
+      "number": 15
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -484,7 +852,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (gb English) - F4K Sport",
+          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (gb DAZN) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18579/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1095.png",
           "competition": "UEFA Nations League",
@@ -492,7 +860,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (es English) - F4K Sport",
+          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18580/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1095.png",
           "competition": "UEFA Nations League",
@@ -573,7 +941,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 12
+      "number": 16
     },
     {
       "key": "16/11_22:00_kazakhstan_slovenia",
@@ -602,7 +970,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovenia",
-      "number": 13
+      "number": 17
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -689,7 +1057,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 14
+      "number": 18
     },
     {
       "key": "17/11_00:00_bulgaria_estonia",
@@ -784,7 +1152,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Estonia vs Bulgaria",
-      "number": 15
+      "number": 19
     },
     {
       "key": "17/11_00:00_liechtenstein_lithuania",
@@ -855,7 +1223,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Lithuania vs Liechtenstein",
-      "number": 16
+      "number": 20
     },
     {
       "key": "17/11_02:45_gibraltar_malta",
@@ -908,7 +1276,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Gibraltar vs Malta",
-      "number": 17
+      "number": 21
     },
     {
       "key": "17/11_02:45_germany_netherlands",
@@ -928,7 +1296,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/b50b5a3c2d3d414c9ec7aaf6f4340682.png",
           "competition": "UEFA Nations League",
@@ -1032,7 +1400,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Germany vs Netherlands",
-      "number": 18
+      "number": 22
     },
     {
       "key": "17/11_02:45_greece_serbia",
@@ -1116,7 +1484,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Greece vs Serbia",
-      "number": 19
+      "number": 23
     },
     {
       "key": "17/11_02:45_scotland_switzerland",
@@ -1224,7 +1592,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Switzerland vs Scotland",
-      "number": 20
+      "number": 24
     },
     {
       "key": "17/11_02:45_macedonia_slovenia",
@@ -1295,7 +1663,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] North Macedonia vs Slovenia",
-      "number": 21
+      "number": 25
     },
     {
       "key": "17/11_19:30_tajikistan_thailand",
@@ -1324,7 +1692,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 17/11] Thailand vs Tajikistan",
-      "number": 22
+      "number": 26
     },
     {
       "key": "17/11_23:00_russia_venezuela",
@@ -1353,7 +1721,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 17/11] Russia vs Venezuela",
-      "number": 23
+      "number": 27
     },
     {
       "key": "18/11_02:45_denmark_norway",
@@ -1392,7 +1760,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Denmark vs Norway",
-      "number": 24
+      "number": 28
     },
     {
       "key": "18/11_02:45_portugal_wales",
@@ -1412,7 +1780,7 @@
       "isCompleted": false,
       "sources": [
         {
-          "name": "⚽ [02:45 18/11] Wales Vs Portugal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 18/11] Wales Vs Portugal (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/b50b5a3c2d3d414c9ec7aaf6f4340682.png",
           "competition": "UEFA Nations League",
@@ -1421,7 +1789,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Wales vs Portugal",
-      "number": 25
+      "number": 29
     },
     {
       "key": "18/11_02:45_georgia_ukraine",
@@ -1450,7 +1818,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ukraine vs Georgia",
-      "number": 26
+      "number": 30
     },
     {
       "key": "18/11_02:45_hungary_ireland",
@@ -1489,7 +1857,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Hungary vs Ireland",
-      "number": 27
+      "number": 31
     },
     {
       "key": "18/11_02:45_austria_israel",
@@ -1518,7 +1886,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Israel vs Austria",
-      "number": 28
+      "number": 32
     },
     {
       "key": "18/11_02:45_ireland_kosovo",
@@ -1547,7 +1915,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ireland vs Kosovo",
-      "number": 29
+      "number": 33
     },
     {
       "key": "18/11_02:45_poland_sweden",
@@ -1576,7 +1944,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Poland vs Sweden",
-      "number": 30
+      "number": 34
     },
     {
       "key": "18/11_02:45_bosnia_romania",
@@ -1607,13 +1975,37 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Bosnia and Herzegovina vs Romania",
-      "number": 31
+      "number": 35
     }
   ],
   "source_groups": [
     {
       "name": "🐔 Gà Vàng / Tiếu Lâm",
       "channels": [
+        {
+          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Quỷ) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [20:00 16/11] Zimbabwe Vs Equatorial Guinea (BLV Gà Ô Long) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
+          "competition": "CAF Africa Cup of Nations",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
         {
           "name": "⚽ [19:00 16/11] Bor 1919 Vs Semendrija 1924 (BLV Gà Siêu Nhí) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/301263.m3u8|Referer=https://gavangtvttbdo.tv/",
@@ -1635,30 +2027,6 @@
           "url": "https://live2.zktsva.app/live/300523.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png",
           "competition": "CAF U17 Championship",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [20:00 16/11] Namibia Vs Cameroon (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [20:00 16/11] Sudan Vs Senegal (BLV Gà Siêu Gáy) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/294335.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
-          "group": "🐔 Gà Vàng / Tiếu Lâm",
-          "ref": "https://gavangtvttbdo.tv/"
-        },
-        {
-          "name": "⚽ [20:00 16/11] Zimbabwe Vs Equatorial Guinea (BLV Gà Ô Long) - Gà Vàng",
-          "url": "https://live2.zktsva.app/live/432017.m3u8|Referer=https://gavangtvttbdo.tv/",
-          "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
-          "competition": "CAF Africa Cup of Nations",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -1799,7 +2167,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 17/11] Germany Vs Netherlands (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/b50b5a3c2d3d414c9ec7aaf6f4340682.png",
           "competition": "UEFA Nations League",
@@ -1911,7 +2279,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [19:00 17/11] Kyrgyzstan Vs Vietnam (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
           "competition": "International Friendly",
@@ -1999,7 +2367,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [23:00 17/11] Libya Vs Tunisia (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [23:00 17/11] Libya Vs Tunisia (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png",
           "competition": "CAF Africa Cup of Nations",
@@ -2071,7 +2439,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [02:45 18/11] Wales Vs Portugal (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [02:45 18/11] Wales Vs Portugal (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/b50b5a3c2d3d414c9ec7aaf6f4340682.png",
           "competition": "UEFA Nations League",
@@ -2135,7 +2503,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [06:00 18/11] Argentina Vs Costa Rica (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [06:00 18/11] Argentina Vs Costa Rica (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
           "competition": "International Friendly",
@@ -2191,7 +2559,7 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
-          "name": "⚽ [18:30 18/11] Tampines Rovers Fc Vs Ratchaburi Fc (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
+          "name": "⚽ [18:30 18/11] Tampines Rovers Fc Vs Ratchaburi Fc (BLV Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",
           "competition": "Asean Club Championship Shopee Cup",
@@ -2257,6 +2625,16 @@
           "logo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/615_namibia.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/530_cameroon.jpg",
+          "competition": "Africa Cup of Nations Qualification",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [20:00 17/11] South Sudan vs Angola (BLV Xôi Gấc) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/616_south-sudan.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/616_south-sudan.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/729_angola.jpg",
           "competition": "Africa Cup of Nations Qualification",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
@@ -2382,16 +2760,6 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [20:00 17/11] South Sudan vs Angola (BLV Xôi Gấc) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/616_south-sudan.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/616_south-sudan.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/729_angola.jpg",
-          "competition": "Africa Cup of Nations Qualification",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [20:10 17/11] Nhật Bản vs Paraguay (BLV Lương Khô) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/540_japan.jpg",
@@ -2495,7 +2863,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (gb English) - F4K Sport",
+          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (gb DAZN) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18579/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1095.png",
           "competition": "UEFA Nations League",
@@ -2503,7 +2871,7 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (es English) - F4K Sport",
+          "name": "⚽ [22:00 16/11] Kazakhstan vs Slovakia (es VIX) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18580/index.m3u8",
           "logo": "https://film4k.pl/api/antsimg/football/teams/1095.png",
           "competition": "UEFA Nations League",
@@ -2966,24 +3334,32 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794836108-0-0-3350695f6774c49de482a1d82ce59933",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV MESSI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794837068-0-0-dafde7da87a2c60d31e9ffa33695f75e",
+          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV COCA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794836108-0-0-99167c3db5eb1dbbd558f1a4aa9de387",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794837068-0-0-7f2ba2d070eff3b00b4aead790cd2365",
           "logo": "https://sta.vnres.co/file/common/20261115/e45f762d8a8d0177e1e33be6f3156b4a.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=98f5c5b8ee0130ade10d0c2d22677c03&txTime=6afb509c",
+          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
+          "competition": "GRE D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV KAN) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=909f8ddf1ebd427f82350d4225de5b6d&txTime=6afb4cdc",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8adda6ae75f2d7daf613a31804ac47a0&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20260930/a352002c4e633530ce9c667ce8bfef75.png",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
@@ -2991,79 +3367,71 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV ALEX) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794836108-0-0-a384156c35fbb68f592d1c16dc7d7ab4",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794837068-0-0-edafaeec2dc8584afad45e6d728fdb4c",
           "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV MESSI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794836108-0-0-2d00440a974fbc2ea5d35f73c17968a3",
-          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794836108-0-0-2426362bab2075608b45c4a3b5ee18aa",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=668048db2e854c01c17e949179f84bfb&txTime=6afb4cdc",
-          "logo": "https://sta.vnres.co/file/common/20261116/1bf5a3722202a81a78cbcac5025426ce.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV CÔNG CHẤT) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ce8a6de4158fc746afecd7350714225e&txTime=6afb4cdc",
-          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV CÒ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794836108-0-0-9a53fc4721c67e2a26cc6ec0f1363b9d",
-          "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794836108-0-0-db3d8870b8109692363919a0b341688f",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794837068-0-0-e22f6c2575d2b33768c2f3ddfbdf0fa3",
           "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794836108-0-0-c94638e59557f3f6931d5976f15ef3ff",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794837068-0-0-696cf0668dde362c135b0f2fdfbcb13a",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV A MÂN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794836168-0-0-938cbf52bbb2bf1abab84ab131347772",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794837068-0-0-c13c7de130a898ce1e44a992fe4c9e8b",
           "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TẠ BIÊN GIỚI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794837068-0-0-ce731b38fb77ed7c1074944ee87418bb",
+          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV CÔNG CHẤT) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8df20acebecbe8646d9ce5767dae466d&txTime=6afb509c",
+          "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aabcfcf38b6c340929220605cb52d60f&txTime=6afb509c",
+          "logo": "https://sta.vnres.co/file/common/20261116/1bf5a3722202a81a78cbcac5025426ce.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794837068-0-0-168881ec3c6b92e42fd17614e2666501",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794836108-0-0-13bb9500b7b00b5e3d031609e34403b3",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794837068-0-0-abeaddfe1bd25910180c835da9d0e237",
           "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
@@ -3071,7 +3439,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TYPN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794836168-0-0-7c75a16364d471f1a61b186219d6e7ed",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794837068-0-0-365fee6f06fce6966b8c197043473161",
           "logo": "https://sta.vnres.co/file/common/20261110/40827a4a943fa3e134a3f71d0052882a.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3079,7 +3447,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV XUÂN SON) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7e422c5c6cb841d7e024f2a33c8f232c&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d64e07839c11660c5d56cc4e3eab2acb&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3087,7 +3455,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV LOKA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794836168-0-0-a33d005b0a840cb1e0e1a33ae615e255",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794837068-0-0-ecf7c7cc6c75ee4b83080a7f090bd2ee",
           "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3095,15 +3463,23 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0c35570ed2fef60787ea1ad8f04e002e&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=02f08f03c1a9e6fed5f61e58c109d6cf&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Shanxi Xing Rui W vs Hefei W (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794837068-0-0-8f11730fa98384b223a619b56b349b50",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "WCBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ANH TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794836168-0-0-4ba35f0b421459fa0e35b25d80a39298",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794837068-0-0-3239500f9a7ddf45b6be71eef1b9b6de",
           "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
@@ -3111,31 +3487,15 @@
         },
         {
           "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV WUKONG) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794836168-0-0-05dc988d16bb55cddf557f95fd517daa",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794837068-0-0-b4a2c78b8ac68297aa46fc50fc36c615",
           "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Shanxi Xing Rui W vs Hefei W (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794836168-0-0-2421989a6a9458646ba55335843fa26e",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "WCBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ASHAHI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794836168-0-0-200cd3e529d0336d74d354cad5acfdba",
-          "logo": "https://sta.vnres.co/file/common/20261004/9216daa6a451e0195c32ed32619ee7dc.jpg",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV XO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=2b53ec0b5363ba2be8dc2cd27eacb591&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=84feb716dd52a4f859f336c3b7187fff&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -3143,87 +3503,95 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794836168-0-0-f500f2659cd3df0c33f16e9442ad4a7b",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794837068-0-0-bc322069a4c40101141a07ce355e6e39",
           "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ASHAHI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794837068-0-0-4e158703d3fc1ad87345c6dd0a9d69f8",
+          "logo": "https://sta.vnres.co/file/common/20261004/9216daa6a451e0195c32ed32619ee7dc.jpg",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV TRÀ ĐÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794836168-0-0-057bdff31611bb2e758bdba231a52972",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794837068-0-0-4fea9d0f82bbdcaac1fd9656cbb6cb1d",
           "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794836168-0-0-06428867ee4bda9e1947f69e4e9e142f",
-          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2bd1c00d72e93807c24786f4b8ca3e64&txTime=6afb4d18",
-          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
-          "competition": "GRE D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV ĐỖ TÚ TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794836168-0-0-c4d393d58e6d80ab85b7b77ab909d9cf",
-          "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV BÒ TƯƠI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794836168-0-0-6c2075ddf62aa071299e031bd6169e75",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794837068-0-0-bd9fe54b7fafaae889c80c203221d62f",
           "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c661820ed43c8fab5f366209d4dcc6fa&txTime=6afb4d18",
-          "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
-          "competition": "Tường thuật",
+          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794837068-0-0-04916254b476625a5a080c42179f090e",
+          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+          "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=85b2f894ad9c5446dd044fce1f99f740&txTime=6afb4d18",
-          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
-          "competition": "Tường thuật",
+          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV ĐỖ TÚ TÀI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794837068-0-0-2ca8189d9ca63b51f0d5c3eb4daffaea",
+          "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV REDBULL) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794837068-0-0-8b243f5e34fd44c6b35596c4e93492a4",
+          "logo": "https://sta.vnres.co/file/common/20261031/6106c385532b3759581cc70e19003623.jpg",
+          "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9095dc76f9d004fcff8545ca1cc28930&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dc0455ce2b7ce1aba64cb8b129512077&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=2f94e592c2742b81f546ae5367c483a1&txTime=6afb509c",
+          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=4f58a5699b92d7fd23fe617c7baeea21&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2d626f6523edee83a4a24eb833f9741f&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=7d9cb533e72554c45a7f0ee538a11eb7&txTime=6afb509c",
+          "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=f9519bde360b93b88e7c19ce6c52fd85&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=28486c4739bd3857d487e983a2fcc092&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -3231,7 +3599,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=61ae438436b9272036f2879802125fb8&txTime=6afb4d18",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=524eaa75ba685bb346676470cd25c820&txTime=6afb509c",
           "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
