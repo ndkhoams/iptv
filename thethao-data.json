@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 08:44:44",
+  "updated_at": "2026-11-16 08:59:59",
   "live_events": [
     {
       "key": "16/11_22:00_faroe_moldova",
@@ -971,43 +971,6 @@
       "number": 20
     },
     {
-      "key": "16/11_06:00_newyorkknicks_torontoraptors",
-      "c_home": "torontoraptors",
-      "c_away": "newyorkknicks",
-      "homeTeam": "Toronto Raptors",
-      "awayTeam": "New York Knicks",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "06:00",
-      "date": "16/11",
-      "timestamp": 1794783600000,
-      "league": "NBA",
-      "leagueName": "NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏀 [06:00 16/11] Toronto Raptors vs New York Knicks (us NBA) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18067/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/159.png",
-          "competition": "NBA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Toronto Raptors vs New York Knicks (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794797048-0-0-8ba94027aa6b0c5b58974ea2afc60df9",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        }
-      ],
-      "displayTitle": "🏀 [06:00 16/11] Toronto Raptors vs New York Knicks",
-      "number": 21
-    },
-    {
       "key": "16/11_07:00_houstonrockets_washingtonwizards",
       "c_home": "washingtonwizards",
       "c_away": "houstonrockets",
@@ -1034,7 +997,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Washington Wizards vs Houston Rockets (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794797048-0-0-148de440023188c2334cd808cf6605ca",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794797948-0-0-73f2a2efafa0996ce8835f226d5908ef",
           "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
@@ -1042,7 +1005,7 @@
         }
       ],
       "displayTitle": "🏀 [07:00 16/11] Washington Wizards vs Houston Rockets",
-      "number": 22
+      "number": 21
     },
     {
       "key": "16/11_08:00_atlantahawks_milwaukeebucks",
@@ -1070,24 +1033,24 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV BRIAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794797048-0-0-221b0c4b88736846216f01e5c897d8b9",
-          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
+          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV HENRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794797948-0-0-4bddf583353b012d902e5907885e3502",
+          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794797048-0-0-e25fed5f617223cafa229399e644aa01",
-          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
+          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV BRIAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794797948-0-0-2971ebbdeb110505c31f32fd5b008e4f",
+          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         }
       ],
       "displayTitle": "🏀 [08:00 16/11] Milwaukee Bucks vs Atlanta Hawks",
-      "number": 23
+      "number": 22
     },
     {
       "key": "16/11_09:00_oklahomacitythunder_sacramentokings",
@@ -1103,12 +1066,12 @@
       "league": "NBA",
       "leagueName": "NBA",
       "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": false,
+      "isOngoing": true,
       "isCompleted": false,
       "sources": [
         {
           "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794797048-0-0-50521a21d30f99cfe7b0e47c1947851d",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794797948-0-0-2aa2d4edd9306f72adf2b906e0e35826",
           "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
@@ -1116,7 +1079,7 @@
         }
       ],
       "displayTitle": "🏀 [09:00 16/11] Sacramento Kings vs Oklahoma City Thunder",
-      "number": 24
+      "number": 23
     }
   ],
   "source_groups": [
@@ -2301,120 +2264,120 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV CUỘI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794797048-0-0-545f95f6db54b058e215062a1b8184f4",
-          "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ENZO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794797048-0-0-f28962dcca0af39b1ee588950e0d18a9",
-          "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794797048-0-0-8b9f1589535120c947f5f71ad15252c4",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Deportes Quindio vs Real Cartagena (BLV JINWOO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794797048-0-0-02accf13d70757c56cf4688120439599",
-          "logo": "https://sta.vnres.co/file/common/20261116/12995c79c2ef5d59c5f1eb49d49eb1b0.png",
-          "competition": "COL D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794797048-0-0-66fb9f544c23a274d39fc47a89013f8e",
-          "logo": "https://sta.vnres.co/file/common/20261116/acf50e1c27d97fec9b2ce3bbd2188c41.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Deportes Quindio vs Real Cartagena (BLV VINFAST) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794797048-0-0-dd6d0f4669888fa121371118628d0388",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794797948-0-0-95e1dddee6ed1eddf1fa1690507dc6e1",
           "logo": "https://sta.vnres.co/file/common/20261105/d7bbfd8440fc2b23e06f9de4ee686ac6.jpg",
           "competition": "COL D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV TAP) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794797048-0-0-f01e85a9776065b8f98b9931daee02f0",
-          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794797948-0-0-43f0075da8382ceda8d97d56759f1dbd",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
           "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV BRIAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794797048-0-0-221b0c4b88736846216f01e5c897d8b9",
-          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Washington Wizards vs Houston Rockets (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794797048-0-0-148de440023188c2334cd808cf6605ca",
-          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV COCA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794797048-0-0-084273dc60bf34374a1d4f985f1160b6",
-          "logo": "https://sta.vnres.co/file/common/20261115/e45f762d8a8d0177e1e33be6f3156b4a.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV HENRY) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794797048-0-0-e25fed5f617223cafa229399e644aa01",
-          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Toronto Raptors vs New York Knicks (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794797048-0-0-8ba94027aa6b0c5b58974ea2afc60df9",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "NBA",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] Deportes Quindio vs Real Cartagena (BLV HUCK) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794797048-0-0-caa29a350ea92481cd696e43bd989756",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794797948-0-0-2ea5c82fe19a6065abbc1094ceede8cb",
           "logo": "https://sta.vnres.co/file/common/20261009/92a8fcacc2a1fc05c8f139e677f3b11b.jpg",
           "competition": "COL D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ENZO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794797948-0-0-f473a54f0b94d63436cf124f2f0b4a6e",
+          "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV HENRY) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1794797948-0-0-4bddf583353b012d902e5907885e3502",
+          "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
+          "competition": "NBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Deportes Quindio vs Real Cartagena (BLV JINWOO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1794797948-0-0-4afec400a475d5290def1130bccdecbe",
+          "logo": "https://sta.vnres.co/file/common/20261116/12995c79c2ef5d59c5f1eb49d49eb1b0.png",
+          "competition": "COL D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV CUỘI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794797948-0-0-b2a40e04ff0619f87388bcef35cb44b5",
+          "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794797948-0-0-a70ce450bdff04115fd529daa0441130",
+          "logo": "https://sta.vnres.co/file/common/20261116/acf50e1c27d97fec9b2ce3bbd2188c41.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV TAP) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794797948-0-0-b911cfc3d813792edc411dbfae3d51af",
+          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV COCA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794797948-0-0-7868db065e3f3f27a16d562ddef02301",
+          "logo": "https://sta.vnres.co/file/common/20261115/e45f762d8a8d0177e1e33be6f3156b4a.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Toronto Raptors vs New York Knicks (BLV ZERO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794797948-0-0-9b33d4278cffff84a22a2c26c9445490",
+          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
+          "competition": "NBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Washington Wizards vs Houston Rockets (BLV A CHÈ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794797948-0-0-73f2a2efafa0996ce8835f226d5908ef",
+          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+          "competition": "NBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Deportes Quindio vs Real Cartagena (BLV SẾU ĐẦU ĐỎ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794797048-0-0-8e611222f63e8fc95a5fed105efc1cac",
+          "url": "https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1794797948-0-0-4ef4686e3501e3c75deac2b36c19cf2f",
           "logo": "https://sta.vnres.co/file/common/20261004/13267c0853ef192c3aa74db8f5027e16.jpg",
           "competition": "COL D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV BRIAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794797948-0-0-2971ebbdeb110505c31f32fd5b008e4f",
+          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
+          "competition": "NBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794797048-0-0-50521a21d30f99cfe7b0e47c1947851d",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794797948-0-0-2aa2d4edd9306f72adf2b906e0e35826",
           "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
           "competition": "NBA",
           "group": "🐿️ SocoLive",
@@ -2422,7 +2385,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=72f22ea0f42dcea46e7f6fdcfedb0541&txTime=6afab448",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=df79aaa5deadb5c367332bbd12ed16f3&txTime=6afab7cc",
           "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2743,34 +2706,34 @@
     {
       "home_team": "Toronto Raptors",
       "away_team": "New York Knicks",
-      "home_score": "104",
-      "away_score": "106",
+      "home_score": "108",
+      "away_score": "112",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "1:03 - OT",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final/OT",
       "date": "2026-11-15T23:00Z"
     },
     {
       "home_team": "Washington Wizards",
       "away_team": "Houston Rockets",
-      "home_score": "75",
-      "away_score": "102",
+      "home_score": "85",
+      "away_score": "119",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "3:25 - 3rd",
+      "detail": "23.2 - 3rd",
       "date": "2026-11-16T00:00Z"
     },
     {
       "home_team": "Milwaukee Bucks",
       "away_team": "Atlanta Hawks",
-      "home_score": "43",
-      "away_score": "28",
+      "home_score": "51",
+      "away_score": "47",
       "league": "NBA",
       "state": "in",
       "is_completed": false,
-      "detail": "9:04 - 2nd",
+      "detail": "1:54 - 2nd",
       "date": "2026-11-16T01:00Z"
     },
     {
