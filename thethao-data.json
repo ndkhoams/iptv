@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:17:04",
+  "updated_at": "2026-11-16 11:32:07",
   "live_events": [
     {
       "key": "16/11_22:00_faroe_moldova",
@@ -979,51 +979,6 @@
       ],
       "displayTitle": "⚽ [02:45 18/11] Denmark vs Norway",
       "number": 20
-    },
-    {
-      "key": "16/11_09:00_oklahomacitythunder_sacramentokings",
-      "c_home": "sacramentokings",
-      "c_away": "oklahomacitythunder",
-      "homeTeam": "Sacramento Kings",
-      "awayTeam": "Oklahoma City Thunder",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "09:00",
-      "date": "16/11",
-      "timestamp": 1794794400000,
-      "league": "NBA",
-      "leagueName": "NBA",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_league_nba",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏀 [09:00 16/11] Sacramento Kings vs Oklahoma City Thunder (us NBA) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18091/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/157.png",
-          "competition": "NBA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794806168-0-0-e61fea6b765aa09e6b125daa6d0592b0",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794806168-0-0-bf6e96199ed0e32afd23f8a0aacd5a1b",
-          "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        }
-      ],
-      "displayTitle": "🏀 [09:00 16/11] Sacramento Kings vs Oklahoma City Thunder",
-      "number": 21
     }
   ],
   "source_groups": [
@@ -1701,14 +1656,6 @@
           "ref": "https://film4k.pl/"
         },
         {
-          "name": "🏀 [09:00 16/11] Sacramento Kings vs Oklahoma City Thunder (us NBA) - F4K Sport",
-          "url": "https://film4k.pl/api/tv/ants/18091/index.m3u8",
-          "logo": "https://media.api-sports.io/basketball/teams/157.png",
-          "competition": "NBA",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/"
-        },
-        {
           "name": "🏒 [09:00 16/11] San Jose Sharks vs Nashville Predators (us NHL) - F4K Sport",
           "url": "https://film4k.pl/api/tv/ants/18116/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/697.png",
@@ -1721,6 +1668,14 @@
           "url": "https://film4k.pl/api/tv/ants/18112/index.m3u8",
           "logo": "https://media.api-sports.io/hockey/teams/702.png",
           "competition": "NHL",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/"
+        },
+        {
+          "name": "🏀 [09:00 16/11] Sacramento Kings vs Oklahoma City Thunder (us NBA) - F4K Sport",
+          "url": "https://film4k.pl/api/tv/ants/18091/index.m3u8",
+          "logo": "https://media.api-sports.io/basketball/teams/157.png",
+          "competition": "NBA",
           "group": "F4K Sport",
           "ref": "https://film4k.pl/"
         },
@@ -2205,95 +2160,87 @@
       "channels": [
         {
           "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV RICKHANTER) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c48bfbe8fcf03c4f09319c1981cfeb23&txTime=6afad7e8",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=1067efff512bfbfe712e8bd5ed47f4e5&txTime=6afadb6c",
           "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
           "competition": "MEX WD1",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Milwaukee Bucks vs Atlanta Hawks (BLV BRIAN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794806168-0-0-5eb0370e9bedb28a371f9e2aeda3e6a4",
-          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV ZERO) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794806168-0-0-e61fea6b765aa09e6b125daa6d0592b0",
-          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794806168-0-0-1bbd420aba7a0e07a7728cca202819d4",
-          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV TOMIA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794806168-0-0-6114a9494cdedd5a3719c7805c2e9903",
-          "logo": "https://sta.vnres.co/file/common/20260930/5aa7f6299a4734f2756322a13c09e2fe.png",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sacramento Kings vs Oklahoma City Thunder (BLV CHAN SENA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794806168-0-0-bf6e96199ed0e32afd23f8a0aacd5a1b",
-          "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
-          "competition": "NBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV ZIZOU) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794806168-0-0-fc92949f87bcff179aed68c2674985bc",
-          "logo": "https://sta.vnres.co/file/common/20261116/acf50e1c27d97fec9b2ce3bbd2188c41.jpg",
-          "competition": "MEX WD1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794806168-0-0-330d37fa16e8495058db24f24a5c4561",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1794807068-0-0-d604d33e9652891d104f443dea246325",
           "logo": "https://sta.vnres.co/file/common/20261116/31bdad6c2b415e2bcf11309ca9eb47a9.png",
           "competition": "MEX WD1",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV TOMIA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1794807068-0-0-898cf7918d59d4805bdad117408844ea",
+          "logo": "https://sta.vnres.co/file/common/20260930/5aa7f6299a4734f2756322a13c09e2fe.png",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] TESTLIVE (BLV BRIAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794806999-0-0-9261820a1c5eec3159aa05ee692da741",
+          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
+          "competition": "",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV A MÂN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794806168-0-0-6042336b3794475508c2b2ddac62dabd",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794807068-0-0-bfe000f5e2cf4d2c8fbe82f4e35323bb",
           "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
           "competition": "MEX WD1",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=aec8b0db445f63cfe819b6a9bf244616&txTime=6afad7e8",
-          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
-          "competition": "Tường thuật",
+          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV ZIZOU) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794807068-0-0-cf4152a23c7c1110b8eaf533915e1ed4",
+          "logo": "https://sta.vnres.co/file/common/20261116/acf50e1c27d97fec9b2ce3bbd2188c41.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Toluca Women vs Club America Women (BLV TẠ BIÊN GIỚI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794807068-0-0-9d7465847c23621115667b87f7704a0d",
+          "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
+          "competition": "MEX WD1",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7773cfe140fae193cf2f28c6ce58de1f&txTime=6afad7e8",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=95c70227b5bacdd9775ae9d8df1dbb20&txTime=6afadb6c",
           "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=fdb81cdca5c16bce18b9ea464303e2cb&txTime=6afadb6c",
+          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=0a21b6bf93fc3c46bd017fe6eb64c5e5&txTime=6afadb6c",
+          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=7a2168f7f258591f95bfa2d6674004d6&txTime=6afad7e8",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=bab855f0de8bb9f9f3413fb75a9de3ea&txTime=6afadb6c",
           "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2301,7 +2248,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=8f0766377475eeb2e1e69c2a588000ea&txTime=6afad7e8",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=5d1115af7a4991efbe8a47aa857eace9&txTime=6afadb6c",
           "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2309,16 +2256,8 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3aab960ee8487cc0e469806261ab6b43&txTime=6afad7e8",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ea247858dc697baa4a661ccc678d84b9&txTime=6afadb6c",
           "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
-          "competition": "Tường thuật",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=403438e56a498da0fd313f16574106ab&txTime=6afad7e8",
-          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
@@ -2671,12 +2610,12 @@
     {
       "home_team": "Sacramento Kings",
       "away_team": "Oklahoma City Thunder",
-      "home_score": "99",
-      "away_score": "122",
+      "home_score": "103",
+      "away_score": "125",
       "league": "NBA",
-      "state": "in",
-      "is_completed": false,
-      "detail": "2:37 - 4th",
+      "state": "post",
+      "is_completed": true,
+      "detail": "Final",
       "date": "2026-11-16T02:00Z"
     }
   ]
