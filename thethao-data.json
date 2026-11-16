@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 16:18:23",
+  "updated_at": "2026-11-16 16:33:32",
   "live_events": [
     {
       "key": "16/11_16:00_inhuletspetrove_probiyhorodenka",
@@ -2448,6 +2448,16 @@
           "ref": "https://film4k.pl/"
         },
         {
+          "name": "⚽ [18:20 17/11] Kyrgyzstan vs Việt Nam (TV360+ 9) - F4K Sport",
+          "url": "https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ4MzIyNjYsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0._OcFBFtrnEQRmF9oO0ehtA6FGeOcGt4xtwxkHTA6OXg&minrate=0&maxrate=12000000&uid=294779473",
+          "logo": "https://img-evg1.tv360.vn/image1/2026/11/09/09/1794192636324/be5dc26007ec_1280_720.jpg",
+          "competition": "",
+          "group": "F4K Sport",
+          "ref": "https://film4k.pl/",
+          "dash": false,
+          "clearKey": null
+        },
+        {
           "name": "⚽ [02:35 17/11] Đức vs Hà Lan (TV360+ 5) - F4K Sport",
           "url": "https://rr1-ateme.tv360.vn/live/eds/367367/DASH_DRM_MHL_2s_event/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2NzM2Ny9EQVNIX0RSTV9NSExfMnNfZXZlbnQvIiwiZXhwIjoxNzk0ODMyMjIxfQ.31Fv-gGUndt9PaValoOBVXHzDLp4ajUyGsnbyBX19-AdspmINNstfezjTZAHLGrG_KgkqGhMo3oyRC9qAAZ4tA&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/11/11/17/1794393627541/a286f459872b_1280_720.png",
@@ -2557,15 +2567,6 @@
           }
         },
         {
-          "name": "📺 TV360+ 9 (Trực tiếp) - TV360",
-          "url": "https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTQ4MzIyNjYsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0._OcFBFtrnEQRmF9oO0ehtA6FGeOcGt4xtwxkHTA6OXg&minrate=0&maxrate=12000000&uid=294779473",
-          "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",
-          "group": "F4K Sport",
-          "ref": "https://film4k.pl/",
-          "dash": false,
-          "clearKey": null
-        },
-        {
           "name": "📺 TV360+ 10 (Trực tiếp) - TV360",
           "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NDgzMjI2OX0.Z0jmoQghaG7_UXjHHCFTGv0DefWhUA6AyyLFuwkT5kfdqaVnkFt1WFWt9_VT1vYsvOBrkTx73voIZ9Gsp2jpwQ&screen=MHL&uid=294779473",
           "logo": "https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
@@ -2655,49 +2656,81 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
+          "name": "⚽ [LIVE 16/11] Seoul Knights vs Mobis Phoebus (BLV CHAN SENA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1794825128-0-0-63a60aff673babc7e9081c8d32822ffc",
+          "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
+          "competition": "KBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Hiroshima D. vs Altiri Chiba (BLV A CHÈ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794825128-0-0-52c1b3f526d11df374404d1f39b020de",
+          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+          "competition": "JB1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Hana Bank W vs Woori WON W (BLV BRIAN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1794825128-0-0-34ffd0cc94800308075ef1375cdf09db",
+          "logo": "https://sta.vnres.co/file/common/20261012/c2d57a4efab80fb560f4867910dadbf7.jpg",
+          "competition": "WKBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Hana Bank W vs Woori WON W (BLV ZERO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794825128-0-0-5f6bbc41e13d7149fcf2f0889fe3dafb",
+          "logo": "https://sta.vnres.co/file/common/20261107/6a918eae054d1080f2ee99f4fa1a8da6.jpg",
+          "competition": "WKBL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=34230eb6b449f3c08add26e973069998&txTime=6afb1e74",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=cff99d364647bdb413f6a58992886317&txTime=6afb21f8",
           "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=f426f80de2e20a1958562bae16dd5330&txTime=6afb1e74",
-          "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
-          "competition": "Tường thuật",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=aa92ae7c5a2210b0f3983265d0aa9236&txTime=6afb1e74",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=22f86b8f07f15489f391bb7622af94e5&txTime=6afb21f8",
           "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=6a73487b0390d04990ae9879f1087a12&txTime=6afb21f8",
+          "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=548f38a06bc646a4d09b03e7930ada87&txTime=6afb1e74",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=1c2f658f1f111c88c5301ec8f2e7775d&txTime=6afb21f8",
           "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=29f935a9684069da0b472b3ea738b750&txTime=6afb1e74",
-          "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
+          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=31912a0271ec5b7f8c949e1236d07da8&txTime=6afb21f8",
+          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ad11ad3bc074d81fb4d62b7dd5fdef8b&txTime=6afb1e74",
-          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
+          "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a94cd299c2fe1b35634a35d1e4d0bceb&txTime=6afb21f8",
+          "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
