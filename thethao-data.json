@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 21:23:25",
+  "updated_at": "2026-11-16 21:38:40",
   "live_events": [
     {
       "key": "16/11_19:45_olympiakospiraeusb_panioniosgss",
@@ -20,7 +20,7 @@
       "sources": [
         {
           "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=09432bcc3fd58c26bf7ed1eece908152&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=a7d61cc177bd85bacf8657a2eccd72e9&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -2641,22 +2641,22 @@
           "ref": "https://xoiche.live/"
         },
         {
-          "name": "⚽ [22:00 16/11] Somalia vs Ghana (BLV Khô Mật) - Xôi Chè",
-          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
-          "logo": "https://apiv3.apifootball.com/badges/630_somalia.jpg",
-          "home_logo": "https://apiv3.apifootball.com/badges/630_somalia.jpg",
-          "away_logo": "https://apiv3.apifootball.com/badges/725_ghana.jpg",
-          "competition": "Africa Cup of Nations Qualification",
-          "group": "🍵 Xôi Chè TV",
-          "ref": "https://xoiche.live/"
-        },
-        {
           "name": "⚽ [22:00 16/11] Faroe Islands vs Moldova (BLV Xôi Xoài) - Xôi Chè",
           "url": "https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615",
           "logo": "https://apiv3.apifootball.com/badges/691_faroe-islands.jpg",
           "home_logo": "https://apiv3.apifootball.com/badges/691_faroe-islands.jpg",
           "away_logo": "https://apiv3.apifootball.com/badges/689_moldova.jpg",
           "competition": "UEFA Nations League",
+          "group": "🍵 Xôi Chè TV",
+          "ref": "https://xoiche.live/"
+        },
+        {
+          "name": "⚽ [22:00 16/11] Somalia vs Ghana (BLV Khô Mật) - Xôi Chè",
+          "url": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+          "logo": "https://apiv3.apifootball.com/badges/630_somalia.jpg",
+          "home_logo": "https://apiv3.apifootball.com/badges/630_somalia.jpg",
+          "away_logo": "https://apiv3.apifootball.com/badges/725_ghana.jpg",
+          "competition": "Africa Cup of Nations Qualification",
           "group": "🍵 Xôi Chè TV",
           "ref": "https://xoiche.live/"
         },
@@ -3515,8 +3515,24 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
+          "name": "⚽ [LIVE 16/11] Kazakhstan vs Slovakia (BLV HẢI THANH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794843428-0-0-8f1afbc5ef0b19693a83a99b914b1426",
+          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV MESSI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794843428-0-0-9f172f7029d451f7857dcfadffadd976",
+          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV A MÂN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794842528-0-0-bf8109d33c4aafc16fa2cec0e0b64553",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794843428-0-0-9c3ab3096db4dc9bedf287284dc1dada",
           "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3524,127 +3540,159 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV CÔNG CHẤT) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=3e7766fe7e6cc270c65fa2ccce2572fd&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=098425f3593121d081bad8ae94b872a2&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV Củ Cải) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794842528-0-0-4a70e6b64a35df684e3ab1db94c03c3e",
-          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV ALEX) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794842528-0-0-8b3c48f76753ee340ef260fc16f21209",
-          "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV THẠCH TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794842528-0-0-ef6d4a35a3b6d4069448311a7bacac67",
-          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV LOKA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794842528-0-0-3aa40e89d3bcd3f56080f748102955d9",
-          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV COCA) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794842528-0-0-762118acda95c2a280676b1d0321ce0d",
+          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1794843428-0-0-70c26970f5cb1c0313604b8a251460d8",
           "logo": "https://sta.vnres.co/file/common/20261115/e45f762d8a8d0177e1e33be6f3156b4a.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=09432bcc3fd58c26bf7ed1eece908152&txTime=6afb65f0",
-          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
-          "competition": "GRE D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TYPN) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794842528-0-0-9a818ef402f9d24a1acd7042a31179ca",
-          "logo": "https://sta.vnres.co/file/common/20261110/40827a4a943fa3e134a3f71d0052882a.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV MESSI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794842528-0-0-e3660972bdce20fea03250faa0e0076d",
-          "logo": "https://sta.vnres.co/file/common/20260921/32dab24969cdc56b5a89699f44afb3d6.jpg",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV CR Bưởi) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0e8623b1a77ceef220d1ecf4485a46c0&txTime=6afb65f0",
-          "logo": "https://sta.vnres.co/file/common/20261116/1bf5a3722202a81a78cbcac5025426ce.png",
-          "competition": "CAF NC",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TẠ BIÊN GIỚI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794842528-0-0-e84edb41658c895689776015253c2af9",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794843428-0-0-d3d296a60c34cbf1a25e8802dd43b55e",
           "logo": "https://sta.vnres.co/file/common/20261007/5168b7f7556098f553cae4e9d4ba2527.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV Củ Cải) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794843428-0-0-d5be5a2b69a364b3fb034584d557eb8f",
+          "logo": "https://sta.vnres.co/file/common/20261114/3fd8a9f38c0ee39434abcf867f913228.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Kazakhstan vs Slovakia (BLV RICKHANTER) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0f8717cef29d5ca8d782ae70cf0e6c58&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e6dec0a789872a1199791f74b473ec78&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20261116/1bf5a3722202a81a78cbcac5025426ce.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV THẠCH TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794843428-0-0-921dc0866658ea422c9aa882fe84a969",
+          "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Kazakhstan vs Slovakia (BLV TAP) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1794843428-0-0-e2c8127a6d9c10173a9cccd1fe6a6bc8",
+          "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV TYPN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794843428-0-0-ae8f294f6b75b34da0f49aa76ca856a5",
+          "logo": "https://sta.vnres.co/file/common/20261110/40827a4a943fa3e134a3f71d0052882a.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV XUÂN SON) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5da8df0ea9b8bf1b14817dfaef50c7e8&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=eaa59d2b4a934988ad2824b5b8aa93f9&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV ALEX) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794843428-0-0-ee34fcd51f55221fca487fecb89751f1",
+          "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV LOKA) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794843428-0-0-8b87f51b395fea058c0416cc63f22218",
+          "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Faroe Islands vs Moldova (BLV BÉO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1ea3844a64a4c0086e2960f4e2cff29d&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2d2390015e6ab7dcfda1eaf1849687f8&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Kazakhstan vs Slovakia (BLV HẢI THANH) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794842528-0-0-7585294b64cb0b390eaaaf9a9857f713",
-          "logo": "https://sta.vnres.co/file/common/20261113/20153db98a8e615115345693a06334a0.jpg",
+          "name": "⚽ [LIVE 16/11] Kazakhstan vs Slovakia (BLV PIRLO) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4a990d5ebcf27eb00f3d175d18dfb40b&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
           "competition": "UEFA NL",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Faroe Islands vs Moldova (BLV RÔSI) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e080156238a3f4e9cddbdee86ef2f343&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Faroe Islands vs Moldova (BLV A PÁO) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794843428-0-0-76576f70605caa26c9105815684bb12e",
+          "logo": "https://sta.vnres.co/file/common/20261107/5283b79a3e240c79610caa3f26ab0a86.jpg",
+          "competition": "UEFA NL",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Monterrey Women vs Pachuca Women (BLV CUỘI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1794843428-0-0-d6d4d7b02236c3a6b125b25ccc514840",
+          "logo": "https://sta.vnres.co/file/common/20261109/798ebb80bbfce13970979b67e095c8a1.jpg",
+          "competition": "MEX WD1",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV REDBULL) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794842528-0-0-08e3bf15bdfe28859b9fc6b572e77dc1",
+          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1794843428-0-0-2654417856679f7f3a149c52b94fce5b",
           "logo": "https://sta.vnres.co/file/common/20261031/6106c385532b3759581cc70e19003623.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=a7d61cc177bd85bacf8657a2eccd72e9&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
+          "competition": "GRE D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV ĐỖ TÚ TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794842528-0-0-d0c00651e0174ac410f03a0553201152",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1794843428-0-0-99708ac23c826b7d52d9686d45ebfb73",
           "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3652,7 +3700,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV TUẤN CÙI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794842528-0-0-84682039e5c5e172f0a6dd17b42b1c35",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794843428-0-0-71fbda86d0b12b9a7bb05d7478beebff",
           "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3660,7 +3708,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV XO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=fd9b8f3fc88b4b5c6de14c485b23c53e&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=b0e001aa7a9d8fafb594ea8d848c6b4e&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -3668,7 +3716,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV BÒ TƯƠI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794842528-0-0-78145b2fdfede2c32c42882cddf081e3",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794843428-0-0-11b94a5e157d3ef31b9852542f5af5f6",
           "logo": "https://sta.vnres.co/file/common/20261110/737feadacc3c7ef8abd61fe34f1a355c.png",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
@@ -3676,7 +3724,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794842528-0-0-21c7f6b5da1712cc782006548e445e79",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794843428-0-0-abd868ce08f33267c604cbfa8d071e6d",
           "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -3684,7 +3732,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV TRÀ ĐÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794842528-0-0-b32830899964dc9f2203c568689a505c",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794843428-0-0-a580d86cd3fac81743e905498d2ab82c",
           "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
@@ -3692,39 +3740,47 @@
         },
         {
           "name": "⚽ [LIVE 16/11] Somalia vs Ghana (BLV RAMBO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4407a0fc69cfc91f82e64b64e5e56753&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=490541e584cffcca2c868cc2842f4b68&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
           "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Felgueiras U23 vs Leixoes U23 (BLV GIÓ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=79a60cd26d7c87032041f146fc3f12f0&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+          "competition": "POR LRU23",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Felgueiras U23 vs Leixoes U23 (BLV QUỐC KHÁNH) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1794843428-0-0-21d787ec3271ec19d2a3fe164368eb43",
+          "logo": "https://sta.vnres.co/file/common/20261022/110d1ff464d53729fa1afc1904891a38.jpg",
+          "competition": "POR LRU23",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Somalia vs Ghana (BLV PEANUT) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794843428-0-0-acf5d389608f3ff6c620f7f41e6a6967",
+          "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ff368b88d1b65fdcc49efe6a3a34ab04&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=14477839cd73c43c5b89e61b6e70e363&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a8bbd9beee45ae7732438405d4c6bf4f&txTime=6afb65f0",
-          "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
-          "competition": "Tường thuật",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ad98d8abde63c7b4b0e49c1a39f753a2&txTime=6afb65f0",
-          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
-          "competition": "Tường thuật",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a86a7e877277858b1bb0542e1126cba7&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a98f1a1a56bb1153666fb9b7b4e7f340&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -3732,7 +3788,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7e76c34a8dd519e1f248c8e8470002c0&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e5bccdc08c29fe9c6a4e3084f01979d3&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -3740,8 +3796,24 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=ce7cebf7472de2c20179a81f45250282&txTime=6afb65f0",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=1d5d5f75b38ac93bf5109e3bfebef0f3&txTime=6afb6974",
           "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=926c28d51075919413a6a75d5afcd0fd&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=20b7950ac8c94f7d0f39a39079324195&txTime=6afb6974",
+          "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
