@@ -1,80 +1,6 @@
 {
-  "updated_at": "2026-11-16 19:06:27",
+  "updated_at": "2026-11-16 19:21:38",
   "live_events": [
-    {
-      "key": "16/11_17:00_mobisphoebus_seoulknights",
-      "c_home": "seoulknights",
-      "c_away": "mobisphoebus",
-      "homeTeam": "Seoul Knights",
-      "awayTeam": "Mobis Phoebus",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "17:00",
-      "date": "16/11",
-      "timestamp": 1794823200000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏀 [17:00 16/11] Seoul Knights vs Mobis Phoebus (blv-vit) [hls] - Giờ Vàng TV",
-          "url": "https://freem3u.xyz/static/no-signal/low.m3u8",
-          "logo": "https://static.flashscore.com/res/image/data/W2SxG2g5-rVVwDBZs.png",
-          "competition": "",
-          "group": "⚡ Giờ Vàng TV",
-          "ref": "https://tqm-mos.com/"
-        },
-        {
-          "name": "🏀 [17:00 16/11] Seoul Knights vs Mobis Phoebus (BLV POCARI) [hls] - Cola TV",
-          "url": "https://live05.wecile.app/live/19919577.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
-          "competition": "",
-          "group": "⚡ Cola TV",
-          "ref": "https://tqm-mos.com/"
-        },
-        {
-          "name": "🏀 [17:00 16/11] Seoul Knights vs Mobis Phoebus (BLV POCARI) [hls 2] - Cola TV",
-          "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-          "logo": "https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
-          "competition": "",
-          "group": "⚡ Cola TV",
-          "ref": "https://tqm-mos.com/"
-        }
-      ],
-      "displayTitle": "🏀 [17:00 16/11] Seoul Knights vs Mobis Phoebus",
-      "number": 1
-    },
-    {
-      "key": "16/11_17:00_seoulskknights_ulsanmobisphoebus24htv",
-      "c_home": "seoulskknights",
-      "c_away": "ulsanmobisphoebus24htv",
-      "homeTeam": "Seoul Sk Knights",
-      "awayTeam": "Ulsan Mobis Phoebus 24h Tv",
-      "homeLogo": "",
-      "awayLogo": "",
-      "time": "17:00",
-      "date": "16/11",
-      "timestamp": 1794823200000,
-      "league": "OTHER",
-      "leagueName": "Bóng đá Quốc tế",
-      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
-      "isOngoing": true,
-      "isCompleted": false,
-      "sources": [
-        {
-          "name": "🏀 [17:00 16/11] Seoul SK Knights vs Ulsan Mobis Phoebus (BLV Wem By) [hls] - Gà Vàng 24h TV",
-          "url": "https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8",
-          "logo": "https://static.sportsfeed.pro/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",
-          "competition": "",
-          "group": "⚡ Gà Vàng 24h TV",
-          "ref": "https://tqm-mos.com/"
-        }
-      ],
-      "displayTitle": "🏀 [17:00 16/11] Seoul Sk Knights vs Ulsan Mobis Phoebus 24h Tv",
-      "number": 2
-    },
     {
       "key": "16/11_17:25_southunited_unitedstars",
       "c_home": "unitedstars",
@@ -102,7 +28,7 @@
         }
       ],
       "displayTitle": "🔴 [17:25 16/11] United Stars vs South United",
-      "number": 3
+      "number": 1
     },
     {
       "key": "16/11_17:30_chernigiv_lokomotivkyiv",
@@ -131,7 +57,7 @@
         }
       ],
       "displayTitle": "🔴 [17:30 16/11] Chernigiv vs Lokomotiv Kyiv",
-      "number": 4
+      "number": 2
     },
     {
       "key": "16/11_18:00_uzbekistan_youth_venezuelau20_youth",
@@ -168,7 +94,7 @@
         }
       ],
       "displayTitle": "🔴 [18:00 16/11] Uzbekistan U20 vs Venezuela U23",
-      "number": 5
+      "number": 3
     },
     {
       "key": "16/11_18:00_bosnia_youth_montenegro_youth",
@@ -197,7 +123,7 @@
         }
       ],
       "displayTitle": "🔴 [18:00 16/11] Montenegro U21 vs Bosnia and Herzegovina U21",
-      "number": 6
+      "number": 4
     },
     {
       "key": "16/11_19:00_bor1919_semendrija1924",
@@ -234,7 +160,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Bor 1919 vs Semendrija 1924 33 Tv",
-      "number": 7
+      "number": 5
     },
     {
       "key": "16/11_19:00_graficarbeograd_vozdovacbeograd",
@@ -271,7 +197,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Graficar Beograd vs Vozdovac Beograd 33 Tv",
-      "number": 8
+      "number": 6
     },
     {
       "key": "16/11_19:00_apszakynthos_marko",
@@ -300,7 +226,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Marko vs A.p.s. Zakynthos",
-      "number": 9
+      "number": 7
     },
     {
       "key": "16/11_19:00_bor1919_semendria1924",
@@ -337,7 +263,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Bor 1919 vs Semendria 1924",
-      "number": 10
+      "number": 8
     },
     {
       "key": "16/11_19:00_caulacbobongdavozdovac_graficarbeograd",
@@ -374,7 +300,7 @@
         }
       ],
       "displayTitle": "🔴 [19:00 16/11] Graficar Beograd vs Cau Lac Bo Bong Da Vozdovac",
-      "number": 11
+      "number": 9
     },
     {
       "key": "16/11_22:00_faroe_moldova",
@@ -483,7 +409,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 12
+      "number": 10
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -618,7 +544,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 13
+      "number": 11
     },
     {
       "key": "16/11_22:00_kazakhstan_slovenia",
@@ -647,7 +573,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovenia",
-      "number": 14
+      "number": 12
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -734,7 +660,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 15
+      "number": 13
     },
     {
       "key": "17/11_00:00_bulgaria_estonia",
@@ -829,7 +755,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Estonia vs Bulgaria",
-      "number": 16
+      "number": 14
     },
     {
       "key": "17/11_00:00_liechtenstein_lithuania",
@@ -900,7 +826,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Lithuania vs Liechtenstein",
-      "number": 17
+      "number": 15
     },
     {
       "key": "17/11_02:45_gibraltar_malta",
@@ -953,7 +879,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Gibraltar vs Malta",
-      "number": 18
+      "number": 16
     },
     {
       "key": "17/11_02:45_germany_netherlands",
@@ -1077,7 +1003,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Germany vs Netherlands",
-      "number": 19
+      "number": 17
     },
     {
       "key": "17/11_02:45_greece_serbia",
@@ -1161,7 +1087,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Greece vs Serbia",
-      "number": 20
+      "number": 18
     },
     {
       "key": "17/11_02:45_scotland_switzerland",
@@ -1269,7 +1195,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Switzerland vs Scotland",
-      "number": 21
+      "number": 19
     },
     {
       "key": "17/11_02:45_macedonia_slovenia",
@@ -1340,7 +1266,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] North Macedonia vs Slovenia",
-      "number": 22
+      "number": 20
     },
     {
       "key": "17/11_19:30_tajikistan_thailand",
@@ -1369,7 +1295,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 17/11] Thailand vs Tajikistan",
-      "number": 23
+      "number": 21
     },
     {
       "key": "17/11_23:00_russia_venezuela",
@@ -1398,7 +1324,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 17/11] Russia vs Venezuela",
-      "number": 24
+      "number": 22
     },
     {
       "key": "18/11_02:45_denmark_norway",
@@ -1437,7 +1363,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Denmark vs Norway",
-      "number": 25
+      "number": 23
     },
     {
       "key": "18/11_02:45_portugal_wales",
@@ -1466,7 +1392,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Wales vs Portugal",
-      "number": 26
+      "number": 24
     },
     {
       "key": "18/11_02:45_georgia_ukraine",
@@ -1495,7 +1421,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ukraine vs Georgia",
-      "number": 27
+      "number": 25
     },
     {
       "key": "18/11_02:45_hungary_ireland",
@@ -1534,7 +1460,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Hungary vs Ireland",
-      "number": 28
+      "number": 26
     },
     {
       "key": "18/11_02:45_austria_israel",
@@ -1563,7 +1489,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Israel vs Austria",
-      "number": 29
+      "number": 27
     },
     {
       "key": "18/11_02:45_ireland_kosovo",
@@ -1592,7 +1518,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ireland vs Kosovo",
-      "number": 30
+      "number": 28
     },
     {
       "key": "18/11_02:45_poland_sweden",
@@ -1621,7 +1547,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Poland vs Sweden",
-      "number": 31
+      "number": 29
     },
     {
       "key": "18/11_02:45_bosnia_romania",
@@ -1652,7 +1578,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Bosnia and Herzegovina vs Romania",
-      "number": 32
+      "number": 30
     }
   ],
   "source_groups": [
@@ -3011,152 +2937,184 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 16/11] Shanxi Xing Rui W vs Hefei W (BLV HUNTER) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794834308-0-0-1efb25d8f2a5f0bb2e3b12893e2e6353",
-          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-          "competition": "WCBA",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV NGƯỜI CÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794834308-0-0-24405d6792eb7cbc516435ff097aaf26",
-          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV WUKONG) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794834308-0-0-fdd421aefe635a207694bfbc4b7ab0c0",
-          "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV KAN) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=36b0c833482654fd90f0ec7a28cb9856&txTime=6afb45d4",
-          "logo": "https://sta.vnres.co/file/common/20260930/a352002c4e633530ce9c667ce8bfef75.png",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV CÒ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794834308-0-0-f81ed277ecbc0368c4f949461a115505",
-          "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ASHAHI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794834308-0-0-aef42dab153388a1d834bcbe0dcef3e2",
-          "logo": "https://sta.vnres.co/file/common/20261004/9216daa6a451e0195c32ed32619ee7dc.jpg",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV A TÚ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794834308-0-0-868f8c638c57fa293f20a77d060bff82",
-          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
-          "competition": "GRE D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV TRÀ ĐÁ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794834308-0-0-b982508433a06342fd46b3ab26a2e45b",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794835208-0-0-69710ce713aead06c57412a679e77e76",
           "logo": "https://sta.vnres.co/file/common/20261106/09988a4c74a85b372772dfa26b5ac348.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] Hiroshima D. vs Altiri Chiba (BLV A CHÈ) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1794834308-0-0-ad3d8d4b4c7161b112547bbe6a738911",
-          "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-          "competition": "JB1",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ĐỐM) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794834308-0-0-c773650788db8b2a1d5f46ad91f1095e",
-          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
-          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ANH TÀI) - SocoLive",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794834308-0-0-e45d35faececa2f57258a59915853007",
-          "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
-          "competition": "SER D2",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV CHIVAS) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b1ed813c24b6ce61894c8943111b0f19&txTime=6afb45d4",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=374248974e709097399a33ee84bac5af&txTime=6afb4958",
           "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
           "competition": "SER D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV A MÂN) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794835208-0-0-6e33dde89d98dcd108455e09096e4750",
+          "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV XO) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=0075381d0250f088682a581c35f7b188&txTime=6afb45d4",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=11a25561f7811911bb509d7fb28750f1&txTime=6afb4958",
           "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
           "competition": "GRE D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=03735bafd9d63344c63d01ee4e8a14c2&txTime=6afb45d4",
-          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
-          "competition": "Tường thuật",
+          "name": "⚽ [19:45 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV LONG) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=69461301d54e0ea6d524217e55bc195c&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20261012/30e5b59bd6dc3e385012f73336e07bd5.jpg",
+          "competition": "GRE D2",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=15298b6cf9cf0b0ccea60d0afd6fad9a&txTime=6afb45d4",
-          "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
-          "competition": "Tường thuật",
+          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV KAN) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9c3abbc86e77a92cf4eab0a71187b022&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20260930/a352002c4e633530ce9c667ce8bfef75.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ANH TÀI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1794835208-0-0-49aa89d85ca5046aa8ff1edd60e39cef",
+          "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ĐỐM) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1794835208-0-0-c42aff997c7362a92c7d4f0ffc152b59",
+          "logo": "https://sta.vnres.co/file/common/20260920/a85d24f44ac3ce0cffc3c1c03a4d1947.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV CÒ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794835208-0-0-2ebd1aa7be938097d092d14f4f96f76d",
+          "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Bor 1919 vs Semendrija 1924 (BLV NGƯỜI CÁ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794835208-0-0-3e68641495c41d21d23df9f5fdce0e02",
+          "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Panionios G.S.S. vs Olympiakos Piraeus B (BLV A TÚ) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794835208-0-0-583abc7b4db8a4f1f63ce9c946325b30",
+          "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
+          "competition": "GRE D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Sudan vs Senegal (BLV CR Bưởi) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d3406961c0f8b90b0c40aac989cac738&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20261116/1bf5a3722202a81a78cbcac5025426ce.png",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Namibia vs Cameroon (BLV ALEX) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794835208-0-0-905c8a2c3c54e54cba28fa6bf618e98e",
+          "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
+          "competition": "CAF NC",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Shanxi Xing Rui W vs Hefei W (BLV HUNTER) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1794835208-0-0-63d27dedfe42fd27766ca9520a108f5f",
+          "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
+          "competition": "WCBA",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV WUKONG) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1794835208-0-0-ea6bf9183a2fd9d7b1b566e8d6ed72ae",
+          "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] FK Graficar Beograd vs FK Vozdovac Beograd (BLV ASHAHI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794835208-0-0-05ae966bdff37399ab283cab0817b180",
+          "logo": "https://sta.vnres.co/file/common/20261004/9216daa6a451e0195c32ed32619ee7dc.jpg",
+          "competition": "SER D2",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] Zimbabwe vs Equatorial Guinea (BLV TUẤN CÙI) - SocoLive",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1794835208-0-0-772fa5759ef4c8dd2091c87ce489c8ac",
+          "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+          "competition": "CAF NC",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ae0006cecc300e42bb5bfe9353663dbf&txTime=6afb45d4",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7a57c9923ad36157fc15954c03dff460&txTime=6afb4958",
           "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ea47ee9f1cb926bcec3465ff97c2e280&txTime=6afb45d4",
-          "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
+          "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=041b69459f79b8fa9cfc960747ed5cd0&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
+          "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ae9efe711e472a1344fb2024cd8bacd0&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b580de02d323dfdf19b0dabb6cab0eae&txTime=6afb45d4",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b5f1ebf65973deb7e2204e94faa68106&txTime=6afb4958",
           "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=80b321434d7d75a81fba9d7156ff8128&txTime=6afb4958",
+          "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=56967e5e432fc4dcfef65bae23d12abf&txTime=6afb45d4",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=11274753054da4b313291c04a762b4d9&txTime=6afb4958",
           "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
