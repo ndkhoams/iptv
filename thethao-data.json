@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-11-16 15:32:46",
+  "updated_at": "2026-11-16 15:47:53",
   "live_events": [
+    {
+      "key": "16/11_16:00_inhuletspetrove_probiyhorodenka",
+      "c_home": "inhuletspetrove",
+      "c_away": "probiyhorodenka",
+      "homeTeam": "Inhulets Petrove",
+      "awayTeam": "Probiy Horodenka",
+      "homeLogo": "",
+      "awayLogo": "",
+      "time": "16:00",
+      "date": "16/11",
+      "timestamp": 1794819600000,
+      "league": "OTHER",
+      "leagueName": "Bóng đá Quốc tế",
+      "logo": "android.resource://com.iptv.tvapp/drawable/ic_nav_sports",
+      "isOngoing": true,
+      "isCompleted": false,
+      "sources": [
+        {
+          "name": "⚽ [16:00 16/11] FC Inhulets Petrove vs Probiy Horodenka (BLV NGƯỜI BẠC) [hls] - S8 TV",
+          "url": "https://hls.lauthaitv.cc/live/inhu-probi-ukr1st/index.m3u8",
+          "logo": "https://s8tvkc.top/wp-json/s8-image/3853f04b-78d1-4f0c-b46c-c018939962ec",
+          "competition": "",
+          "group": "⚡ S8 TV",
+          "ref": "https://tqm-mos.com/"
+        }
+      ],
+      "displayTitle": "🔴 [16:00 16/11] Inhulets Petrove vs Probiy Horodenka",
+      "number": 1
+    },
     {
       "key": "16/11_22:00_faroe_moldova",
       "c_home": "faroe",
@@ -108,7 +137,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Faroe Islands vs Moldova",
-      "number": 1
+      "number": 2
     },
     {
       "key": "16/11_22:00_kazakhstan_slovakia",
@@ -243,7 +272,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovakia",
-      "number": 2
+      "number": 3
     },
     {
       "key": "16/11_22:00_kazakhstan_slovenia",
@@ -272,7 +301,7 @@
         }
       ],
       "displayTitle": "⚽ [22:00 16/11] Kazakhstan vs Slovenia",
-      "number": 3
+      "number": 4
     },
     {
       "key": "17/11_00:00_iceland_luxembourg",
@@ -359,7 +388,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Iceland vs Luxembourg",
-      "number": 4
+      "number": 5
     },
     {
       "key": "17/11_00:00_bulgaria_estonia",
@@ -454,7 +483,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Estonia vs Bulgaria",
-      "number": 5
+      "number": 6
     },
     {
       "key": "17/11_00:00_liechtenstein_lithuania",
@@ -525,7 +554,7 @@
         }
       ],
       "displayTitle": "⚽ [00:00 17/11] Lithuania vs Liechtenstein",
-      "number": 6
+      "number": 7
     },
     {
       "key": "17/11_02:45_gibraltar_malta",
@@ -578,7 +607,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Gibraltar vs Malta",
-      "number": 7
+      "number": 8
     },
     {
       "key": "17/11_02:45_germany_netherlands",
@@ -702,7 +731,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Germany vs Netherlands",
-      "number": 8
+      "number": 9
     },
     {
       "key": "17/11_02:45_greece_serbia",
@@ -786,7 +815,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Greece vs Serbia",
-      "number": 9
+      "number": 10
     },
     {
       "key": "17/11_02:45_scotland_switzerland",
@@ -894,7 +923,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] Switzerland vs Scotland",
-      "number": 10
+      "number": 11
     },
     {
       "key": "17/11_02:45_macedonia_slovenia",
@@ -965,7 +994,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 17/11] North Macedonia vs Slovenia",
-      "number": 11
+      "number": 12
     },
     {
       "key": "17/11_19:30_tajikistan_thailand",
@@ -994,7 +1023,7 @@
         }
       ],
       "displayTitle": "⚽ [19:30 17/11] Thailand vs Tajikistan",
-      "number": 12
+      "number": 13
     },
     {
       "key": "17/11_23:00_russia_venezuela",
@@ -1023,7 +1052,7 @@
         }
       ],
       "displayTitle": "⚽ [23:00 17/11] Russia vs Venezuela",
-      "number": 13
+      "number": 14
     },
     {
       "key": "18/11_02:45_denmark_norway",
@@ -1062,7 +1091,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Denmark vs Norway",
-      "number": 14
+      "number": 15
     },
     {
       "key": "18/11_02:45_portugal_wales",
@@ -1091,7 +1120,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Wales vs Portugal",
-      "number": 15
+      "number": 16
     },
     {
       "key": "18/11_02:45_georgia_ukraine",
@@ -1120,7 +1149,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ukraine vs Georgia",
-      "number": 16
+      "number": 17
     },
     {
       "key": "18/11_02:45_hungary_ireland",
@@ -1159,7 +1188,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Hungary vs Ireland",
-      "number": 17
+      "number": 18
     },
     {
       "key": "18/11_02:45_austria_israel",
@@ -1188,7 +1217,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Israel vs Austria",
-      "number": 18
+      "number": 19
     },
     {
       "key": "18/11_02:45_ireland_kosovo",
@@ -1217,7 +1246,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Ireland vs Kosovo",
-      "number": 19
+      "number": 20
     },
     {
       "key": "18/11_02:45_poland_sweden",
@@ -1246,7 +1275,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Poland vs Sweden",
-      "number": 20
+      "number": 21
     },
     {
       "key": "18/11_02:45_bosnia_romania",
@@ -1277,7 +1306,7 @@
         }
       ],
       "displayTitle": "⚽ [02:45 18/11] Bosnia and Herzegovina vs Romania",
-      "number": 21
+      "number": 22
     }
   ],
   "source_groups": [
@@ -1797,6 +1826,14 @@
           "ref": "https://gavangtvttbdo.tv/"
         },
         {
+          "name": "⚽ [06:00 18/11] Chile Vs Colombia (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "competition": "International Friendly",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
           "name": "⚽ [06:00 18/11] Argentina Vs Costa Rica (BLV Gà Siêu Phệ + Gà Siêu Quỷ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/304565.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
@@ -1823,6 +1860,14 @@
         {
           "name": "⚽ [07:00 18/11] Usa Vs Haiti (BLV Gà Siêu Tồ) - Gà Vàng",
           "url": "https://live2.zktsva.app/live/796315.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
+          "competition": "CONCACAF Nations League",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [09:30 18/11] Mexico Vs Jamaica (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png",
           "competition": "CONCACAF Nations League",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
@@ -1857,6 +1902,14 @@
           "url": "https://live2.zktsva.app/live/301238.m3u8|Referer=https://gavangtvttbdo.tv/",
           "logo": "https://img.cltvap.cc/football/competition/6576e6760af08813364f0ed07fdb8fe0.png",
           "competition": "Asean Club Championship Shopee Cup",
+          "group": "🐔 Gà Vàng / Tiếu Lâm",
+          "ref": "https://gavangtvttbdo.tv/"
+        },
+        {
+          "name": "⚽ [19:00 18/11] Tekstilac Vs Fk Zeleznicar Pancevo (BLV Gà Siêu Son) - Gà Vàng",
+          "url": "https://live2.zktsva.app/live/306290.m3u8|Referer=https://gavangtvttbdo.tv/",
+          "logo": "https://img.cltvap.cc/football/competition/7f82898811c3652f41dbb832d89c114a.png",
+          "competition": "Mozzart Serbian Cup",
           "group": "🐔 Gà Vàng / Tiếu Lâm",
           "ref": "https://gavangtvttbdo.tv/"
         },
@@ -2602,24 +2655,24 @@
       "name": "🐿️ SocoLive",
       "channels": [
         {
-          "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aa43f0621f8afa650fd8f4b5b8e21bec&txTime=6afb13ac",
-          "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
-          "competition": "Tường thuật",
-          "group": "🐿️ SocoLive",
-          "ref": "https://socolive.pro/"
-        },
-        {
           "name": "⚽ [LIVE 16/11] INTERF - Japan vs Brazil (BLV Thỏ giang hồ) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b184d8de18a19d54c0631a262ff86e66&txTime=6afb13ac",
+          "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=881b09d9560755b6bff9424d44622317&txTime=6afb1730",
           "logo": "https://sta.vnres.co/file/common/20261115/6ba3776ae12d26d553e61e3e07e01fb9.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
           "ref": "https://socolive.pro/"
         },
         {
+          "name": "⚽ [LIVE 16/11] UEFA NL - Austria vs Ireland (BLV Hươu đau cổ) - SocoLive",
+          "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=60467e1fadd712a34425685a8ee62219&txTime=6afb1730",
+          "logo": "https://sta.vnres.co/file/common/20261115/aa25c954e853fe0a8a98b98af190fecd.png",
+          "competition": "Tường thuật",
+          "group": "🐿️ SocoLive",
+          "ref": "https://socolive.pro/"
+        },
+        {
           "name": "⚽ [LIVE 16/11] UEFA NL - Norway vs Wales (BLV Gà xào sả ớt) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fe6c55a781772b503a44dc0a0beccb7e&txTime=6afb13ac",
+          "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fb06991f4cea0d5b2154e7b9e6c174ee&txTime=6afb1730",
           "logo": "https://sta.vnres.co/file/common/20261115/8c14c91584be238592e74d6387dab959.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2627,7 +2680,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Georgia vs Hungary (BLV Bò leo rào) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=a11b0915c26d0e5b12d07ce96c109c87&txTime=6afb13ac",
+          "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=9189fcec2bd2fd915be7192d8513e0c0&txTime=6afb1730",
           "logo": "https://sta.vnres.co/file/common/20261115/a8d28e77667866be611bdc90a2aae050.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2635,7 +2688,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Sweden vs Bosnia and Herzegovina (BLV Rắn ở đáy sông) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=eae45a2c42fb723730f2714a25bd68ae&txTime=6afb13ac",
+          "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f1302f8fb44f04ec1146fb2f68688de0&txTime=6afb1730",
           "logo": "https://sta.vnres.co/file/common/20261115/7e95b55d6c4573e217fc44650eb37c39.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
@@ -2643,7 +2696,7 @@
         },
         {
           "name": "⚽ [LIVE 16/11] UEFA NL - Portugal vs Denmark (BLV Mèo méo meo) - SocoLive",
-          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2f7e6236866b536919cfefec134d1201&txTime=6afb13ac",
+          "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=9da964438cd5d06c68f2a46afbf473ff&txTime=6afb1730",
           "logo": "https://sta.vnres.co/file/common/20261115/279d12b306b5f2759f2d8674ecebf4f8.png",
           "competition": "Tường thuật",
           "group": "🐿️ SocoLive",
